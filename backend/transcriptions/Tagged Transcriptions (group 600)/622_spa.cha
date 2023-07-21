@@ -1,0 +1,70 @@
+@UTF8
+@Window:	85_692_668_861_-1_-1_2086_0_2086_0
+@Begin
+@Languages:	spa,eng
+@Participants:	PAR 622 Speaker
+@ID:	spa|narratives|PAR||male|||Speaker|||
+@Media:	622_spa,audio
+*PAR:	<RES> [e]. 0_3859
+*PAR:	había una vez una niña que tenía una capa roja. 3859_10632
+%pos: había.VERB una.DET vez.NOUN una.DET niña.NOUN que.SCONJ tenía.VERB una.DET capa.NOUN roja.ADJ
+*PAR:	y le decían Caperucita Roja. 10632_13218
+%pos: y.CCONJ le.PRON decían.VERB Caperucita.PROPN Roja.PROPN
+*PAR:	y a ella le gustaba visitar a su abuelita para hacer pasteles. 13218_22845
+%pos: y.CCONJ a.ADP ella.PRON le.PRON gustaba.VERB visitar.VERB a.ADP su.DET abuelita.NOUN para.ADP hacer.VERB pasteles.NOUN
+*PAR:	un día, su mamá le dijo <que va(ya)> [//] que llevara una canasta llena de vino, uvas y galletas para que se la llevara a su abuela. 22845_36268
+%pos: un.DET día.NOUN ,.PUNCT su.DET mamá.NOUN le.PRON dijo.VERB que.SCONJ vaya.VERB que.SCONJ llevara.VERB una.DET canasta.NOUN llena.ADJ de.ADP vino.NOUN ,.PUNCT uvas.NOUN y.CCONJ galletas.NOUN para.ADP que.SCONJ se.PRON la.PRON llevara.VERB a.ADP su.DET abuela.NOUN
+*PAR:	pero el lobo vio que ella estaba solita. 36268_42164
+%pos: pero.CCONJ el.DET lobo.NOUN vio.VERB que.SCONJ ella.PRON estaba.VERB solita.ADJ
+*PAR:	y luego un leñador se dio cuenta. 42164_45862
+%pos: y.CCONJ luego.ADV un.DET leñador.NOUN se.PRON dio.VERB cuenta.NOUN
+*PAR:	pero Caperucita Roja se detuvo a recoger unas florecitas para su abuela. 45862_55698
+%pos: pero.CCONJ Caperucita.PROPN Roja.PROPN se.PRON detuvo.VERB a.ADP recoger.VERB unas.DET florecitas.NOUN para.ADP su.DET abuela.NOUN
+*PAR:	y el lobo se adelantó a la casa de su abuela. 55698_59062
+%pos: y.CCONJ el.DET lobo.NOUN se.PRON adelantó.VERB a.ADP la.DET casa.NOUN de.ADP su.DET abuela.NOUN
+*PAR:	y entonces el lobo entró. 59062_63893
+%pos: y.CCONJ entonces.ADV el.DET lobo.NOUN entró.VERB
+*PAR:	y se comió a la abuelita. 63893_66467
+%pos: y.CCONJ se.PRON comió.VERB a.ADP la.DET abuelita.NOUN
+*PAR:	entonces, Caperucita Roja llegó. 66467_71774
+%pos: entonces.ADV ,.PUNCT Caperucita.PROPN Roja.PROPN llegó.VERB
+*PAR:	<y le dio &-eh el> [///] puso las florecitas en una maceta. 71774_83276
+%pos: y.CCONJ le.PRON dio.VERB el.DET puso.VERB las.DET florecitas.NOUN en.ADP una.DET maceta.NOUN
+*PAR:	y puso la [//] el vino en una taza. 83276_87229
+%pos: y.CCONJ puso.VERB la.DET el.DET vino.NOUN en.ADP una.DET taza.NOUN
+*PAR:	&-eh y las galletas las puso en un plato. 87229_91941
+%pos: y.CCONJ las.DET galletas.NOUN las.PRON puso.VERB en.ADP un.DET plato.NOUN
+*PAR:	y el lobo la estaba mirando. 91941_95599
+%pos: y.CCONJ el.DET lobo.NOUN la.PRON estaba.AUX mirando.VERB
+*PAR:	y entonces, Caperucita Roja se [/] se dio cuenta. 95599_102496
+%pos: y.CCONJ entonces.ADV ,.PUNCT Caperucita.PROPN Roja.PROPN se.PRON se.PRON dio.VERB cuenta.NOUN
+*PAR:	y le preguntó +"/. 102496_104350
+%pos: y.CCONJ le.PRON preguntó.VERB +"/.SYM
+*PAR:	+" abuelita, abuelita, por qué tienes esas orejotas grandes? 104350_109148
+%pos: +".PUNCT abuelita.NOUN ,.PUNCT abuelita.NOUN ,.PUNCT por.ADP qué.PRON tienes.VERB esas.DET orejotas.NOUN grandes.ADJ
+*PAR:	y entonces, él saltó de la cama para comérsela. 109148_120224
+%pos: y.CCONJ entonces.ADV ,.PUNCT él.PRON saltó.VERB de.ADP la.DET cama.NOUN para.ADP comérsela.VERB
+*PAR:	y luego el cazador llegó a la casa de la abuelita. 120224_128242
+%pos: y.CCONJ luego.ADV el.DET cazador.NOUN llegó.VERB a.ADP la.DET casa.NOUN de.ADP la.DET abuelita.NOUN
+*PAR:	y vio al lobo. 128242_135209
+%pos: y.CCONJ vio.VERB al.DET lobo.NOUN
+*PAR:	y entonces, <el leña(dor)> [//] el cazador le abrió la panza. 135209_142413
+%pos: y.CCONJ entonces.ADV ,.PUNCT el.DET leñador.NOUN el.DET cazador.NOUN le.PRON abrió.VERB la.DET panza.NOUN
+*PAR:	y sacó a Caperucita Roja y a su abuela. 142413_145921
+%pos: y.CCONJ sacó.VERB a.ADP Caperucita.PROPN Roja.PROPN y.CCONJ a.ADP su.DET abuela.NOUN
+*PAR:	y entonces, le metieron piedras en la panza para que él creyera que se comió a la abuelita y a Caperucita. 145921_159671
+%pos: y.CCONJ entonces.ADV ,.PUNCT le.PRON metieron.VERB piedras.NOUN en.ADP la.DET panza.NOUN para.ADP que.SCONJ él.PRON creyera.VERB que.SCONJ se.PRON comió.VERB a.ADP la.DET abuelita.NOUN y.CCONJ a.ADP Caperucita.PROPN
+*PAR:	y luego se la cosieron. 159671_161318
+%pos: y.CCONJ luego.ADV se.PRON la.PRON cosieron.VERB
+*PAR:	entonces, el lobo fue a tomar agua al pozo. 161318_168892
+%pos: entonces.ADV ,.PUNCT el.DET lobo.NOUN fue.VERB a.ADP tomar.VERB agua.NOUN al.ADP pozo.NOUN
+*PAR:	y luego se cayó. 168892_170322
+%pos: y.CCONJ luego.ADV se.PRON cayó.VERB
+*PAR:	y entonces, Caperucita Roja se fue. 170322_176942
+%pos: y.CCONJ entonces.ADV ,.PUNCT Caperucita.PROPN Roja.PROPN se.PRON fue.AUX
+*PAR:	y la abuelita se despidió. 176942_180071
+%pos: y.CCONJ la.DET abuelita.NOUN se.PRON despidió.VERB
+*PAR:	fin. 180071_182043
+%pos: fin.NOUN
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:19:27.442481

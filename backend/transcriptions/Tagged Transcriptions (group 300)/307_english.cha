@@ -1,0 +1,81 @@
+@UTF8
+@Window:	0_0_0_0_0_0_95_1_106_0
+@Begin
+@Languages:	eng
+@Participants:	PAR 307 Speaker
+@ID:	eng|narratives|PAR||male|||Speaker|||
+@Media:	307_english,audio
+*PAR:	<RES>[e].
+ 0_16762
+*PAR:	the girl danced for the grandmother. 16762_19576
+%pos: the.DET girl.NOUN danced.VERB for.ADP the.DET grandmother.NOUN
+*PAR:	<RES>[e]. 19576_27577
+*PAR:	<ok next>[e]. 27577_28687
+*PAR:	the girl left the house. 28687_33232
+%pos: the.DET girl.NOUN left.ADP the.DET house.NOUN
+*PAR:	<next>[e]. 33232_37387
+*PAR:	the girl was attacked by a wolf in the woods. 37387_44778
+%pos: the.DET girl.NOUN was.AUX attacked.VERB by.ADP a.DET wolf.NOUN in.ADP the.DET woods.NOUN
+*PAR:	<next>[e]. 44778_48232
+*PAR:	the wolf went in the a house. 48232_53977
+%pos: the.DET wolf.NOUN went.VERB in.ADP the.DET a.DET house.NOUN
+*PAR:	<next>[e]. 53977_55307
+*PAR:	<RES>[e]. 55307_67292
+*PAR:	<yup>[e]. 67292_67712
+*PAR:	the wolf attacked the grandmother in her house. 67712_74036
+%pos: the.DET wolf.NOUN attacked.VERB the.DET grandmother.NOUN in.ADP her.PRON house.NOUN
+*PAR:	<next>[e]. 74036_75815
+*PAR:	the little girl returned to the grandmother's house. 75815_82736
+%pos: the.DET little.ADJ girl.NOUN returned.VERB to.ADP the.DET grandmother.NOUN 's.PART house.NOUN
+*PAR:	and the wolf was sitting in the grandmother's bed. 82736_86736
+%pos: and.CCONJ the.DET wolf.NOUN was.AUX sitting.VERB in.ADP the.DET grandmother.NOUN 's.PART bed.NOUN
+*PAR:	and the little girl did not know. 86736_89034
+%pos: and.CCONJ the.DET little.ADJ girl.NOUN did.AUX not.PART know.VERB
+*PAR:	<next>[e]. 89034_90662
+*PAR:	the little girl went over to the wolf thinking it was her
+	grandmother. 90662_99597
+%pos: the.DET little.ADJ girl.NOUN went.VERB over.ADV to.ADP the.DET wolf.NOUN thinking.VERB it.PRON was.AUX her.PRON grandmother.NOUN
+*PAR:	<&-uh next>[e]. 99597_102725
+*PAR:	the wolf jumped out of bed. 102725_106316
+%pos: the.DET wolf.NOUN jumped.VERB out.ADP of.ADP bed.NOUN
+*PAR:	and tried to attack the little girl knocking over the end
+	table.	106316_112330
+%pos: and.CCONJ tried.VERB to.PART attack.VERB the.DET little.ADJ girl.NOUN knocking.VERB over.ADP the.DET end.NOUN table.NOUN
+*PAR:	<next>[e]. 112330_114610
+*PAR:	after the wolf had eaten the little girl. 114610_120316
+%pos: after.SCONJ the.DET wolf.NOUN had.AUX eaten.VERB the.DET little.ADJ girl.NOUN
+*PAR:	he laid in bed asleep. 120316_122690
+%pos: he.PRON laid.VERB in.ADP bed.NOUN asleep.ADV
+*PAR:	&-um a hunter came to the house to see what was going on. 122690_128531
+%pos: a.DET hunter.NOUN came.VERB to.ADP the.DET house.NOUN to.PART see.VERB what.PRON was.AUX going.VERB on.ADV
+*PAR:	and saw the wolf sitting on the bed. 128531_131124
+%pos: and.CCONJ saw.VERB the.DET wolf.NOUN sitting.VERB on.ADP the.DET bed.NOUN
+*PAR:	<next>[e]. 131124_132816
+*PAR:	the hunter cut open the wolf. 132816_139234
+%pos: the.DET hunter.NOUN cut.VERB open.ADJ the.DET wolf.NOUN
+*PAR:	and out came the little girl. 139234_141590
+%pos: and.CCONJ out.ADV came.VERB the.DET little.ADJ girl.NOUN
+*PAR:	and grandmother &-uh alive. 141590_144966
+%pos: and.CCONJ grandmother.NOUN alive.ADJ
+*PAR:	<next>[e]. 144966_146625
+*PAR:	the little girl. 146625_152466
+%pos: the.DET little.ADJ girl.NOUN
+*PAR:	and the hunter put rocks inside the wolf's stomach. 152466_157059
+%pos: and.CCONJ the.DET hunter.NOUN put.VERB rocks.NOUN inside.ADP the.DET wolf.NOUN 's.PART stomach.NOUN
+*PAR:	and the grandmother sewed up the wolf. 157059_159764
+%pos: and.CCONJ the.DET grandmother.NOUN sewed.VERB up.ADP the.DET wolf.NOUN
+*PAR:	<next>[e]. 159764_163560
+*PAR:	the hunter, the grandmother. 163560_171340
+%pos: the.DET hunter.NOUN ,.PUNCT the.DET grandmother.NOUN
+*PAR:	and the little girl laughed as the wolf tried to walk away with a
+	stomach full of rocks. 171340_178590
+%pos: and.CCONJ the.DET little.ADJ girl.NOUN laughed.VERB as.SCONJ the.DET wolf.NOUN tried.VERB to.PART walk.VERB away.ADV with.ADP a.DET stomach.NOUN full.ADJ of.ADP rocks.NOUN
+*PAR:	<next>[e]. 178590_180090
+*PAR:	the grandmother said goodbye to the hunter. 180090_186499
+%pos: the.DET grandmother.NOUN said.VERB goodbye.NOUN to.ADP the.DET hunter.NOUN
+*PAR:	and the little girl as they went back into the woods. 186499_189890
+%pos: and.CCONJ the.DET little.ADJ girl.NOUN as.SCONJ they.PRON went.VERB back.ADV into.ADP the.DET woods.NOUN
+*PAR:	<next>[e]. 189890_190882
+*PAR:	<RES>[e]. 190882_195005
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:15:47.028137

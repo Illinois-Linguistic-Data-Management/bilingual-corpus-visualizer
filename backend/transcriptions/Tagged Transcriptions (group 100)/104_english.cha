@@ -1,0 +1,76 @@
+@UTF8
+@Window:	167_65_759_1384_-1_-1_151_0_151_0
+@Begin
+@Languages:	eng,spa
+@Participants:	PAR 104 Speaker
+@ID:	eng|narratives|PAR||male|||Speaker|||
+@Media:	104_english, audio
+*PAR:	&-um caperucita@s &-uh wait. 0_4720
+%pos: caperucita.NOUN wait.NOUN
+*PAR:	<RES> [e]. 4720_10170
+*PAR:	&-um (.) Little Red Riding Hood is <being told> [/] being told by her grandma to &-um like go bake her a cake (...). 10168_23224
+%pos: Little.ADJ Red.ADJ Riding.PROPN Hood.PROPN is.AUX being.AUX told.VERB being.AUX told.VERB by.ADP her.PRON grandma.NOUN to.PART like.SCONJ go.VERB bake.VERB her.PRON a.DET cake.NOUN
+*PAR:	and [/] and then but [/] but &-um (.) but [/] but little red riding hood &-um grabbed a basket full of food and some water. 23224_33856
+%pos: and.CCONJ and.CCONJ then.ADV but.CCONJ but.CCONJ but.CCONJ but.CCONJ little.ADJ red.ADJ riding.NOUN hood.NOUN grabbed.VERB a.DET basket.NOUN full.ADJ of.ADP food.NOUN and.CCONJ some.DET water.NOUN
+*PAR:	and said bye to her mom. 33856_36200
+%pos: and.CCONJ said.VERB bye.NOUN to.ADP her.PRON mom.NOUN
+*PAR:	and was off to her grandma's house (...). 36200_45352
+%pos: and.CCONJ was.AUX off.ADV to.ADP her.PRON grandma.NOUN 's.PART house.NOUN
+*PAR:	&-um &-uh &-um then [/] then when she was in the forest, &-um &-uh &-um a wolf came out to attack her. 45352_55544
+%pos: then.ADV then.ADV when.ADV she.PRON was.AUX in.ADP the.DET forest.NOUN ,.PUNCT a.DET wolf.NOUN came.VERB out.ADV to.PART attack.VERB her.PRON
+*PAR:	but then somebody with an ax behind the wolf is probably gonna [: going to] attack the wolf. 55544_64600
+%pos: but.CCONJ then.ADV somebody.PRON with.ADP an.DET ax.NOUN behind.ADP the.DET wolf.NOUN is.AUX probably.ADV gonna.VERB attack.VERB the.DET wolf.NOUN
+*PAR:	and [/] and &-um but instead of the wolf eating [/] eating &-um Little Red Riding Hood, Little Red Riding Hood stopped to pick up some flowers for her grandma. 64600_74480
+%pos: and.CCONJ and.CCONJ but.CCONJ instead.ADV of.ADP the.DET wolf.NOUN eating.VERB eating.VERB Little.ADJ Red.PROPN Riding.PROPN Hood.PROPN ,.PUNCT Little.ADJ Red.PROPN Riding.PROPN Hood.PROPN stopped.VERB to.PART pick.VERB up.ADP some.DET flowers.NOUN for.ADP her.PRON grandma.NOUN
+*PAR:	and then the wolf (.) went to grandma's house (...). 74480_81928
+%pos: and.CCONJ then.ADV the.DET wolf.NOUN went.VERB to.ADP grandma.NOUN 's.PART house.NOUN
+*PAR:	and [/] <and then> [/] and then the wolf ate grandma. 81928_92160
+%pos: and.CCONJ and.CCONJ then.ADV and.CCONJ then.ADV the.DET wolf.NOUN ate.VERB grandma.NOUN
+*PAR:	&-uh and then the wolf ate grandma's clothes to look like grandma. 92160_96512
+%pos: and.CCONJ then.ADV the.DET wolf.NOUN ate.VERB grandma.NOUN 's.PART clothes.NOUN to.PART look.VERB like.ADP grandma.NOUN
+*PAR:	and [/] and then &-um Little Red Riding Hood came in with [/] <with all> [/] with all the food. 96512_102032
+%pos: and.CCONJ and.CCONJ then.ADV Little.ADJ Red.PROPN Riding.PROPN Hood.PROPN came.VERB in.ADV with.ADP with.ADP all.DET with.ADP all.DET the.DET food.NOUN
+*PAR:	and [/] and [/] and put the flowers in the pot that grandma had. 102032_111064
+%pos: and.CCONJ and.CCONJ and.CCONJ put.VERB the.DET flowers.NOUN in.ADP the.DET pot.NOUN that.PRON grandma.PROPN had.VERB
+*PAR:	and [/] <and then> [/] and then &-um &-uh Little Red Riding Hood went up to the wolf and asked +"/. 111064_118928
+%pos: and.CCONJ and.CCONJ then.ADV and.CCONJ then.ADV Little.ADJ Red.ADJ Riding.PROPN Hood.PROPN went.VERB up.ADV to.ADP the.DET wolf.NOUN and.CCONJ asked.VERB +"/.SYM
+*PAR:	+" &-uh so [/] so big ears you have? 118928_122720
+%pos: +".PUNCT so.ADV so.ADV big.ADJ ears.NOUN you.PRON have.VERB
+*PAR:	and the wolf said +"/. 122720_124584
+%pos: and.CCONJ the.DET wolf.NOUN said.VERB +"/.SYM
+*PAR:	+" that's to hear you better. 124584_130904
+%pos: +".SYM that.DET 's.AUX to.PART hear.VERB you.PRON better.ADV
+*PAR:	and [/] and then the wolf jumped out of bed. 130904_135400
+%pos: and.CCONJ and.CCONJ then.ADV the.DET wolf.NOUN jumped.VERB out.ADP of.ADP bed.NOUN
+*PAR:	<and then> [/] and then Little Red Riding Hood realized that it was the wolf and not grandma. 135400_139488
+%pos: and.CCONJ then.ADV and.CCONJ then.ADV Little.ADJ Red.ADJ Riding.PROPN Hood.PROPN realized.VERB that.SCONJ it.PRON was.AUX the.DET wolf.NOUN and.CCONJ not.PART grandma.NOUN
+*PAR:	and then the wolf ate her (...). 139488_143264
+%pos: and.CCONJ then.ADV the.DET wolf.NOUN ate.VERB her.PRON
+*PAR:	<at least I think (...)> [e]. 143264_147776
+*PAR:	and then the hunter went in the house and found the wolf &-um that was just laying on the bed. 147776_156848
+%pos: and.CCONJ then.ADV the.DET hunter.NOUN went.VERB in.ADP the.DET house.NOUN and.CCONJ found.VERB the.DET wolf.NOUN that.PRON was.AUX just.ADV laying.VERB on.ADP the.DET bed.NOUN
+*PAR:	and his dog went there too (...). 156848_164088
+%pos: and.CCONJ his.PRON dog.NOUN went.VERB there.ADV too.ADV
+*PAR:	<and then> [/] and then the &-uh hunter used scissors to cut open the wolf's belly. 164088_170352
+%pos: and.CCONJ then.ADV and.CCONJ then.ADV the.DET hunter.NOUN used.VERB scissors.NOUN to.PART cut.VERB open.ADP the.DET wolf.NOUN 's.PART belly.NOUN
+*PAR:	and so grandma &-uh and Little Red Riding Hood could get out. 170352_181368
+%pos: and.CCONJ so.ADV grandma.NOUN and.CCONJ Little.ADJ Red.ADJ Riding.PROPN Hood.PROPN could.AUX get.VERB out.ADV
+*PAR:	and [/] and then they filled his belly up with stones. 181368_186823
+%pos: and.CCONJ and.CCONJ then.ADV they.PRON filled.VERB his.PRON belly.NOUN up.ADV with.ADP stones.NOUN
+*PAR:	so [/] so it looks like <he still> [/] he still ate grandma and &-uh Little Red Riding Hood (...). 186824_200224
+%pos: so.ADV so.ADV it.PRON looks.VERB like.SCONJ he.PRON still.ADV he.PRON still.ADV ate.VERB grandma.NOUN and.CCONJ Little.ADJ Red.PROPN Riding.PROPN Hood.PROPN
+*PAR:	and so [//] and then he couldn't walk. 200224_203784
+%pos: and.CCONJ so.ADV and.CCONJ then.ADV he.PRON could.AUX n't.PART walk.VERB
+*PAR:	so then he walked into the well (...). 203784_211872
+%pos: so.ADV then.ADV he.PRON walked.VERB into.ADP the.DET well.ADV
+*PAR:	so and then grandma said goodbye to Little Red Riding Hood, the hunter, and his dog. 211872_217984
+%pos: so.ADV and.CCONJ then.ADV grandma.NOUN said.VERB goodbye.NOUN to.ADP Little.ADJ Red.ADJ Riding.PROPN Hood.PROPN ,.PUNCT the.DET hunter.NOUN ,.PUNCT and.CCONJ his.PRON dog.NOUN
+*PAR:	and so did all the xxx. 217984_219672
+%pos: and.CCONJ so.ADV did.VERB all.DET the.DET xxx.NOUN
+*PAR:	the end. 219672_220880
+%pos: the.DET end.NOUN
+*PAR:	i think. 220880_222336
+%pos: i.PRON think.VERB
+*PAR:	<RES> [e]. 222336_224304
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:31:20.800479

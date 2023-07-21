@@ -1,0 +1,105 @@
+@UTF8
+@Window:	0_0_0_0_0_0_694_2_694_2
+@Begin
+@Languages:	spa,eng
+@Participants:	PAR 146 Speaker
+@ID:	spa|narratives|PAR||male|||Speaker|||
+@Media:	146_spanish,audio
+*PAR:	la niña es felíz . 0_3267
+%pos: la.DET niña.NOUN es.AUX felíz.PROPN
+*PAR:	porque (..) recibi(ó) [/] recibió un (..) &-um chaqueta roja . 3267_17464
+%pos: porque.SCONJ recibió.VERB recibió.VERB un.DET chaqueta.NOUN roja.ADJ
+*PAR:	<RES> [e] . 17464_19464
+*PAR:	<oh@s wait@s, I@s have@s to@s say@s siguiente> [e] . 19464_25315
+*PAR:	<RES> [e] . 25315_26491
+*PAR:	la niña está (..) &-um (...) saluda [//] saludan [: saludando][*] a
+	su mamá . 26491_53985
+%pos: la.DET niña.NOUN está.AUX saluda.ADJ saludan.VERB a.ADP su.DET mamá.NOUN
+*PAR:	<RES> [e] . 53985_55184
+*PAR:	<siguiente> [e] . 55184_56217
+*PAR:	<RES> [e] . 56217_60371
+*PAR:	la niña is@s blind@s . 60371_65688
+%pos: la.DET niña.NOUN is.AUX blind.ADJ
+*PAR:	la niña continua a camina(r) . 65688_74135
+%pos: la.DET niña.NOUN continua.ADJ a.ADP caminar.VERB
+*PAR:	<siguiente> [e] . 74135_77521
+*PAR:	<RES> [e] . 77521_82254
+*PAR:	<[- eng] &-um (..) I don't remember what they're called, oh wait>
+	[e] .  82254_92229
+*PAR:	la [//] el lobo . 92229_94059
+%pos: la.DET el.DET lobo.NOUN
+*PAR:	<RES> [e] . 94059_95038
+*PAR:	<está entre> [///] está entrada [: entrando][*] a el [: la][*] casa
+	. 95038_106364
+%pos: está.VERB entre.ADP está.VERB entrada.NOUN a.ADP el.DET casa.NOUN
+*PAR:	<siguiente> [e] . 106364_109117
+*PAR:	<RES> [e] . 109117_113934
+*PAR:	el lobo (..)&-um come la abuela . 113934_125622
+%pos: el.DET lobo.NOUN come.VERB la.DET abuela.NOUN
+*PAR:	<RES> [e] . 125622_131687
+*PAR:	la niña (.) pone flores ensima de la mesa . 131687_142109
+%pos: la.DET niña.NOUN pone.VERB flores.NOUN ensima.ADJ de.ADP la.DET mesa.NOUN
+*PAR:	<RES> [e] . 142109_143656
+*PAR:	<siguiente> [e] . 143656_146931
+*PAR:	la niña realiza (...) cosas que no están nurmal [: normales][*] para
+	humanos . 146931_167774
+%pos: la.DET niña.NOUN realiza.VERB cosas.NOUN que.SCONJ no.ADV están.AUX nurmal.ADJ para.ADP humanos.NOUN
+*PAR:	<siguiente> [e] . 167774_169899
+*PAR:	<RES> [e] . 169899_173371
+*PAR:	la niña es [: está][*] (.) surpresa [: sorprendida][*] pa(ra) ver un
+	lobo . 173371_184262
+%pos: la.DET niña.NOUN es.AUX surpresa.ADJ para.ADP ver.VERB un.DET lobo.NOUN
+*PAR:	<siguiente> [e] . 184262_187877
+*PAR:	<RES> [e] . 187877_189190
+*PAR:	un perro y humano está [: están][*] (.) caminando entra
+	[: dentro][*] el [: la][*] casa . 189190_206814
+%pos: un.DET perro.NOUN y.CCONJ humano.ADJ está.AUX caminando.VERB entra.VERB el.DET casa.NOUN
+*PAR:	<RES> [e] . 206814_210874
+*PAR:	<siguiente> [e] . 210874_212671
+*PAR:	<RES> [e] . 212671_214999
+*PAR:	el señor (..) lo (...) mudo a la lobo . 214999_227721
+%pos: el.DET señor.NOUN lo.PRON mudo.NOUN a.ADP la.DET lobo.NOUN
+*PAR:	y res(cata) [/] rescua [: rescata][*] (..) a los niños . 227721_240996
+%pos: y.CCONJ rescata.NOUN rescua.ADJ a.ADP los.DET niños.NOUN
+*PAR:	<RES> [e] . 240996_243712
+*PAR:	la niña (.) es [: está][*] ayudan [: ayudando][*] la señor &-uh <I@s
+	don't@s know@s I@s just@s> [e] . 243712_265171
+%pos: la.DET niña.NOUN es.AUX ayudan.VERB la.DET señor.NOUN <.PUNCT I.PRON do.AUX n't.PART know.VERB I.PRON just.ADV >.PUNCT
+*PAR:	está &-eh ayudan [: ayudando][*]  . 265171_269990
+%pos: está.AUX ayudan.VERB
+*PAR:	<RES> [e] . 269990_272990
+*PAR:	con las rocas . 272990_276316
+%pos: con.ADP las.DET rocas.NOUN
+*PAR:	<RES> [e] . 276316_281656
+*PAR:	la lobo (.) <I@s mean@s> [e] . 281656_286534
+%pos: la.DET lobo.NOUN I.PRON mean.VERB
+*PAR:	el lobo . 286534_287662
+%pos: el.DET lobo.NOUN
+*PAR:	<RES> [e] . 287662_289349
+*PAR:	<[- eng] &-um (.) &-ah (..) yeah [/] yeah <I can't> [///] <I don't
+	know> [/] I don't know which word I'm thinking of> [e] . 289349_306744
+%pos: yeah.ADV yeah.ADV <.PUNCT I.PRON ca.VERB n't.PART <.PUNCT I.PRON do.VERB n't.PART know.VERB >.PUNCT I.PRON do.VERB n't.PART know.VERB which.DET word.NOUN I.PRON 'm.AUX thinking.VERB of.ADP >.PUNCT
+*PAR:	<RES> [e] . 306744_308639
+*PAR:	<[- eng] like wake up> [e] . 308639_311119
+*PAR:	<RES> [e] . 311119_314782
+*PAR:	el lobo se despierta con un (...) &-uh . 314782_335299
+%pos: el.DET lobo.NOUN se.PRON despierta.VERB con.ADP un.DET
+*PAR:	<RES> [e] . 335299_343470
+*PAR:	<[- eng] I don't know> [e] . 343470_344901
+*PAR:	<RES> [e] . 344901_353108
+*PAR:	estómigo [: estómago][*] (.) con muchos [: muchas][*] rocas . 353108_359020
+%pos: estómigo.VERB con.ADP muchos.DET rocas.NOUN
+*PAR:	<RES> [e] . 359020_360809
+*PAR:	la niña y señor va [/] va a (.) um (...) . 360809_395742
+%pos: la.DET niña.NOUN y.CCONJ señor.NOUN va.VERB va.VERB a.ADP um.INTJ
+*PAR:	<RES> [e] . 395742_401891
+*PAR:	<[- eng] wait, hold on> [e] . 401891_403439
+*PAR:	<RES> [e] . 403439_404330
+*PAR:	va [///] entra a la (.) &-um (...) . 404330_414379
+%pos: va.VERB entra.VERB a.ADP la.DET
+*PAR:	<RES> [e] . 414379_417925
+*PAR:	bosque . 417925_419197
+%pos: bosque.NOUN
+*PAR:	<RES> [e] . 419197_422993
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:33:34.425673

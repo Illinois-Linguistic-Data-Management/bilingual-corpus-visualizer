@@ -1,0 +1,122 @@
+@UTF8
+@Window:	0_0_0_0_1343_0_1718_0_1718_0
+@Begin
+@Languages:	spa,eng
+@Participants:	PAR 510 Speaker
+@ID:	spa|narratives|PAR||male|||Speaker|||
+@Media:	510_spanish,audio
+*PAR:	un día, he [: había][*] una niña . 0_5171
+%pos: un.DET día.NOUN ,.PUNCT he.VERB una.DET niña.NOUN
+*PAR:	y tenía una [: un][*] abrigo muy, muy, muy rojo . 5171_12296
+%pos: y.CCONJ tenía.VERB una.DET abrigo.NOUN muy.ADV ,.PUNCT muy.ADV ,.PUNCT muy.ADV rojo.ADJ
+*PAR:	y (..) ella ten(ía) [/] tenía una [: un][*] vestido azul con flores
+	rosado [: rosadas][*] (.) y zapatos, el color mismo de su abrigo . 12296_33112
+%pos: y.CCONJ ella.PRON tenía.VERB tenía.VERB una.DET vestido.NOUN azul.ADJ con.ADP flores.NOUN rosado.ADJ y.CCONJ zapatos.NOUN ,.PUNCT el.DET color.NOUN mismo.ADJ de.ADP su.DET abrigo.NOUN
+*PAR:	<próximo> [e] . 33112_36236
+*PAR:	<RES> [e] . 36236_39096
+*PAR:	un día, fue (.) de su casa <al bos(que)> [/] al bosque traer
+	[: trayendo][*] unas pasteles a su abuela . 39096_54716
+%pos: un.DET día.NOUN ,.PUNCT fue.VERB de.ADP su.DET casa.NOUN al.ADP bosque.NOUN al.ADP bosque.NOUN traer.VERB unas.DET pasteles.NOUN a.ADP su.DET abuela.NOUN
+*PAR:	porque su abuela tenía [: estaba][*] muy enferma . 54716_58756
+%pos: porque.SCONJ su.DET abuela.NOUN tenía.VERB muy.ADV enferma.ADJ
+*PAR:	<RES> [e] . 58756_60601
+*PAR:	xxx cuando ella era [: estaba][*] caminando, con su abrigo rojo
+	and@s (.) su bolsa con (.) pasteles, un (.) animal le atacó . 60601_83241
+%pos: xxx.ADV cuando.SCONJ ella.PRON era.AUX caminando.VERB ,.PUNCT con.ADP su.DET abrigo.NOUN rojo.ADJ and.CCONJ su.DET bolsa.NOUN con.ADP pasteles.NOUN ,.PUNCT un.DET animal.NOUN le.PRON atacó.VERB
+*PAR:	<RES> [e] . 83241_84271
+*PAR:	o trató atacar . 84271_87175
+%pos: o.CCONJ trató.VERB atacar.VERB
+*PAR:	y ella no sabía . 87175_89581
+%pos: y.CCONJ ella.PRON no.ADV sabía.VERB
+*PAR:	<RES> [e] . 89581_90786
+*PAR:	y era [: había][*] un (.) hombre que vio . 90786_97136
+%pos: y.CCONJ era.AUX un.DET hombre.NOUN que.SCONJ vio.VERB
+*PAR:	y traí [: trajo][*] <su> [//] un palo . 97136_100430
+%pos: y.CCONJ traí.VERB su.DET un.DET palo.NOUN
+*PAR:	y le pegó . 100430_102665
+%pos: y.CCONJ le.PRON pegó.VERB
+*PAR:	y le sal(vó) [/] salvó a la niña . 102665_105748
+%pos: y.CCONJ le.PRON salvó.VERB salvó.VERB a.ADP la.DET niña.NOUN
+*PAR:	<próximo> [e] . 105748_106761
+*PAR:	<RES> [e] . 106761_109441
+*PAR:	&-um ella le [: se][*] quedó (.) &-um a (.) agarrar flores . 109441_122796
+%pos: ella.PRON le.PRON quedó.VERB a.ADP agarrar.VERB flores.NOUN
+*PAR:	y la [: el][*] animal le [: se][*] fue a [: para][*] la casa de su
+	abuelo [: abuela][*] . 122796_127251
+%pos: y.CCONJ la.DET animal.NOUN le.PRON fue.VERB a.ADP la.DET casa.NOUN de.ADP su.DET abuelo.NOUN
+*PAR:	<próximo> [e] . 127251_130421
+*PAR:	<RES> [e] . 130421_132220
+*PAR:	<y le atoca [: atacó][*]> [///] y le atacó a la abuela . 132220_137001
+%pos: y.CCONJ le.PRON atoca.VERB y.CCONJ le.PRON atacó.VERB a.ADP la.DET abuela.NOUN
+*PAR:	y la niña le [: se][*] entró a la casa . 137001_148624
+%pos: y.CCONJ la.DET niña.NOUN le.PRON entró.VERB a.ADP la.DET casa.NOUN
+*PAR:	y poní [: puso][*] las flores en un vaso . 148624_152539
+%pos: y.CCONJ poní.VERB las.DET flores.NOUN en.ADP un.DET vaso.NOUN
+*PAR:	y le poní [: puso][*] los pasteles y galletas en un plato . 152539_158384
+%pos: y.CCONJ le.PRON poní.VERB los.DET pasteles.NOUN y.CCONJ galletas.NOUN en.ADP un.DET plato.NOUN
+*PAR:	y la [: el][*] animal fue a la cama de su abuela . 158384_165570
+%pos: y.CCONJ la.DET animal.NOUN fue.VERB a.ADP la.DET cama.NOUN de.ADP su.DET abuela.NOUN
+*PAR:	y poní [: puso][*] la ropa de la abuela . 165570_168739
+%pos: y.CCONJ poní.VERB la.DET ropa.NOUN de.ADP la.DET abuela.NOUN
+*PAR:	<próximo> [e] . 168739_169613
+*PAR:	<RES> [e] . 169613_172864
+*PAR:	y la niña le vi a su abuela y dijo +"/. 172864_180561
+%pos: y.CCONJ la.DET niña.NOUN le.PRON vi.VERB a.ADP su.DET abuela.NOUN y.CCONJ dijo.VERB +"/.SYM
+*PAR:	+" cuales [: que][*] orejas tienes tan grandes, abuela . 180561_184541
+%pos: +".SYM cuales.DET orejas.NOUN tienes.VERB tan.ADV grandes.ADJ ,.PUNCT abuela.NOUN
+*PAR:	+" <y sus [: tus][*] osos> [///] y sus [: tus][*] ojos <son muy
+	largos> [///] son muy grandes y amarillo [: amarillos][*] . 184541_193446
+%pos: +".SYM y.CCONJ sus.DET osos.NOUN y.CCONJ sus.DET ojos.NOUN <.PUNCT son.AUX muy.ADV largos.ADJ >.PUNCT son.AUX muy.ADV grandes.ADJ y.CCONJ amarillo.ADJ
+*PAR:	<próximo> [e] . 193446_194866
+*PAR:	y la [: el][*] animal le atacó . 194866_201826
+%pos: y.CCONJ la.DET animal.NOUN le.PRON atacó.VERB
+*PAR:	<RES> [e] . 201826_203371
+*PAR:	y trató a [: de][*] comer . 203371_205901
+%pos: y.CCONJ trató.VERB a.ADP comer.VERB
+*PAR:	<próximo> [e] . 205901_207931
+*PAR:	<RES> [e] . 207931_210151
+*PAR:	y (..) el animal le comió . 210151_218556
+%pos: y.CCONJ el.DET animal.NOUN le.PRON comió.VERB
+*PAR:	y un hombre con un [: una][*] pistola le vení [: vino][*] . 218556_224681
+%pos: y.CCONJ un.DET hombre.NOUN con.ADP un.DET pistola.NOUN le.PRON vení.VERB
+*PAR:	y le atacó a la [: el][*] animal . 224681_231056
+%pos: y.CCONJ le.PRON atacó.VERB a.ADP la.DET animal.NOUN
+*PAR:	<próximo> [e] . 231056_238081
+*PAR:	<RES> [e] . 238081_240556
+*PAR:	y le corto a la [: el][*] estómigo [: estómago][*], el hombre, de la
+	[: el][*] animal . 240556_248996
+%pos: y.CCONJ le.PRON corto.VERB a.ADP la.DET estómigo.NOUN ,.PUNCT el.DET hombre.NOUN ,.PUNCT de.ADP la.DET animal.NOUN
+*PAR:	y le quitó &-um del estomigó [: estómago][*] de la [: el][*] animal
+	la abuela (.) y (.) la (.) niña con la [: el][*] abrigo roja
+	[: rojo][*] . 248996_263021
+%pos: y.CCONJ le.PRON quitó.VERB del.ADP estomigó.VERB de.ADP la.DET animal.NOUN la.DET abuela.NOUN y.CCONJ la.DET niña.NOUN con.ADP la.DET abrigo.NOUN roja.ADJ
+*PAR:	<próximo> [e] . 263021_264771
+*PAR:	y (.) le traí [: trajo][*] rocas . 264771_271092
+%pos: y.CCONJ le.PRON traí.VERB rocas.NOUN
+*PAR:	y le poní [: puso][*] rocas adentro para mirar como es [: son][*]
+	los [: las][*] personas . 271092_278686
+%pos: y.CCONJ le.PRON poní.VERB rocas.NOUN adentro.ADV para.SCONJ mirar.VERB como.ADV es.VERB los.DET personas.NOUN
+*PAR:	y le poní [: puso][*] junto el estómigo [: estómago][*] otra vez . 278686_283833
+%pos: y.CCONJ le.PRON poní.VERB junto.ADJ el.DET estómigo.NOUN otra.DET vez.NOUN
+*PAR:	<próximo> [e] . 283833_284896
+*PAR:	y (.) los [: las][*] rocas eran muy, muy, muy, muy, muy &-um secos
+	[: secas][*] . 284896_298871
+%pos: y.CCONJ los.DET rocas.NOUN eran.AUX muy.ADV ,.PUNCT muy.ADV ,.PUNCT muy.ADV ,.PUNCT muy.ADV ,.PUNCT muy.ADV secos.ADJ
+*PAR:	y él quería agua . 298871_301824
+%pos: y.CCONJ él.PRON quería.VERB agua.NOUN
+*PAR:	y fue a agarrar agua (.) <de> [///] &-um del río . 301824_308572
+%pos: y.CCONJ fue.VERB a.ADP agarrar.VERB agua.NOUN de.ADP del.ADP río.NOUN
+*PAR:	y cuando fue a tomar, él cayo adentro . 308572_313496
+%pos: y.CCONJ cuando.SCONJ fue.VERB a.ADP tomar.VERB ,.PUNCT él.PRON cayo.VERB adentro.ADV
+*PAR:	y nadie le vi otra vez . 313496_317766
+%pos: y.CCONJ nadie.PRON le.PRON vi.VERB otra.DET vez.NOUN
+*PAR:	<próximo> [e] . 317766_319666
+*PAR:	<RES> [e] . 319666_322075
+*PAR:	y la niña le [: se][*] regresó a la casa . 322075_327546
+%pos: y.CCONJ la.DET niña.NOUN le.PRON regresó.VERB a.ADP la.DET casa.NOUN
+*PAR:	y el animal (.) &-um (.) siempre no más le atacó a la niña . 327546_341966
+%pos: y.CCONJ el.DET animal.NOUN siempre.ADV no.ADV más.ADV le.PRON atacó.VERB a.ADP la.DET niña.NOUN
+*PAR:	y la niña no le vi a la [: el][*] animal no más . 341966_346236
+%pos: y.CCONJ la.DET niña.NOUN no.ADV le.PRON vi.VERB a.ADP la.DET animal.NOUN no.ADV más.ADV
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:30:24.302120

@@ -1,0 +1,59 @@
+@UTF8
+@Window:	116_211_668_1071_-1_-1_2016_0_2016_0
+@Begin
+@Languages:	spa,eng
+@Participants:	PAR 115 Speaker
+@ID:	spa|narratives|PAR||male|||Speaker|||
+@Media:	115_spanish,audio
+*PAR:	la Caperucita Roja, de Charles (...) Perrault [/] Perrault. 0_20100
+%pos: la.DET Caperucita.PROPN Roja.PROPN ,.PUNCT de.ADP Charles.PROPN Perrault.PROPN Perrault.PROPN
+*PAR:	la Caperucita Rosa estaba [/] es(taba) [//] estaba bailando. 20100_34798
+%pos: la.DET Caperucita.PROPN Rosa.PROPN estaba.VERB estaba.AUX estaba.AUX bailando.VERB
+*PAR:	la abuela le está [//] estaba diciendo xxx a la Caperucita. 34798_49638
+%pos: la.DET abuela.NOUN le.PRON está.AUX estaba.AUX diciendo.VERB xxx.NOUN a.ADP la.DET Caperucita.PROPN
+*PAR:	el lobo &-eh esta(ba) [//] estaba viendo a la Caperucita para comérsela. 49638_62712
+%pos: el.DET lobo.NOUN estaba.AUX estaba.AUX viendo.VERB a.ADP la.DET Caperucita.PROPN para.ADP comérsela.VERB
+*PAR:	el lobo quiere [//] estaba &-um siguiendo la Caperucita Ro(ja) [//] Rosa para comérsela. 62712_78712
+%pos: el.DET lobo.NOUN quiere.VERB estaba.AUX siguiendo.VERB la.DET Caperucita.NOUN Roja.ADJ Rosa.PROPN para.ADP comérsela.VERB
+*PAR:	y va ir [//] va y [//] y va ir a la casa. 78712_86059
+%pos: y.CCONJ va.VERB ir.VERB va.VERB y.CCONJ y.CCONJ va.VERB ir.VERB a.ADP la.DET casa.NOUN
+*PAR:	&-um el lobo es [//] estaba [/] estaba viendo a la abuelita para comérsela. 86059_106064
+%pos: el.DET lobo.NOUN es.AUX estaba.AUX estaba.AUX viendo.VERB a.ADP la.DET abuelita.NOUN para.ADP comérsela.VERB
+*PAR:	el lobo está [//] estaba en la cama. 106064_113724
+%pos: el.DET lobo.NOUN está.VERB estaba.VERB en.ADP la.DET cama.NOUN
+*PAR:	estaba pla(neando) [//] planeando comerse la Caperucita Roja. 113724_118593
+%pos: estaba.AUX planeando.VERB planeando.VERB comerse.VERB la.DET Caperucita.NOUN Roja.ADJ
+*PAR:	el lobo estaba en la cama. 118593_127593
+%pos: el.DET lobo.NOUN estaba.VERB en.ADP la.DET cama.NOUN
+*PAR:	y se hace como si fuera la abuelita. 127593_131838
+%pos: y.CCONJ se.PRON hace.VERB como.ADV si.CCONJ fuera.VERB la.DET abuelita.NOUN
+*PAR:	Caperucita Roja quiere ver a su abuelita que se xxx. 131838_141109
+%pos: Caperucita.PROPN Roja.PROPN quiere.VERB ver.VERB a.ADP su.DET abuelita.NOUN que.SCONJ se.PRON xxx.VERB
+*PAR:	el lobo <la mira> [//] estaba mirando a la Caperucita Roja para comérsela. 141109_156143
+%pos: el.DET lobo.NOUN la.PRON mira.VERB estaba.AUX mirando.VERB a.ADP la.DET Caperucita.NOUN Roja.ADJ para.ADP comérsela.VERB
+*PAR:	y al final &-um estaba el lobo bien lleno de comerse a la abuelita y la niña, Caperucita Roja. 156143_171843
+%pos: y.CCONJ al.ADP final.NOUN estaba.VERB el.DET lobo.NOUN bien.ADV lleno.ADJ de.ADP comerse.VERB a.ADP la.DET abuelita.NOUN y.CCONJ la.DET niña.NOUN ,.PUNCT Caperucita.PROPN Roja.PROPN
+*PAR:	y luego <el este> [//] el hunter@s viene. 171843_177436
+%pos: y.CCONJ luego.ADV el.DET este.PRON el.DET hunter.NOUN viene.VERB
+*PAR:	y va hacer algo. 177436_179803
+%pos: y.CCONJ va.VERB hacer.VERB algo.PRON
+*PAR:	luego, acá el [/] &-um el hunter@s le corta la panza. 179803_188546
+%pos: luego.ADV ,.PUNCT acá.ADV el.DET el.DET hunter.NOUN le.PRON corta.VERB la.DET panza.NOUN
+*PAR:	y saca la Caperucita Roja [/] Roja y la abuelita. 188546_194117
+%pos: y.CCONJ saca.VERB la.DET Caperucita.NOUN Roja.ADJ Roja.ADJ y.CCONJ la.DET abuelita.NOUN
+*PAR:	luego, acá, Caperucita Roja y el hunter@s y la abuelita son [//] están felices. 194117_206696
+%pos: luego.ADV ,.PUNCT acá.ADV ,.PUNCT Caperucita.PROPN Roja.PROPN y.CCONJ el.DET hunter.NOUN y.CCONJ la.DET abuelita.NOUN son.AUX están.AUX felices.ADJ
+*PAR:	xxx poquito. 206696_220228
+%pos: xxx.NOUN poquito.ADJ
+*PAR:	&-um <están poniendo rocas> [//] estaban poniendo rocas en la panza del lobo. 220228_231964
+%pos: están.AUX poniendo.VERB rocas.NOUN estaban.AUX poniendo.VERB rocas.NOUN en.ADP la.DET panza.NOUN del.ADP lobo.NOUN
+*PAR:	acá, estaban poniendo rocas en el lobo. 231964_247964
+%pos: acá.ADV ,.PUNCT estaban.AUX poniendo.VERB rocas.NOUN en.ADP el.DET lobo.NOUN
+*PAR:	y se despertó. 247964_248517
+%pos: y.CCONJ se.PRON despertó.VERB
+*PAR:	y él piensa que se comió a la abuelita y a Caperucita. 248517_254506
+%pos: y.CCONJ él.PRON piensa.VERB que.SCONJ se.PRON comió.VERB a.ADP la.DET abuelita.NOUN y.CCONJ a.ADP Caperucita.PROPN
+*PAR:	y acá es el hunter@s o la Caperucita Roja estaba diciéndole adiós a la abuelita. 254506_268910
+%pos: y.CCONJ acá.ADV es.AUX el.DET hunter.NOUN o.CCONJ la.DET Caperucita.NOUN Roja.ADJ estaba.AUX diciéndole.VERB adiós.ADV a.ADP la.DET abuelita.NOUN
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:38:14.572357

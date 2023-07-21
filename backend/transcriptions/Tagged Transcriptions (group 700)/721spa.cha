@@ -1,0 +1,64 @@
+@UTF8
+@Window:	124_657_668_783_-1_-1_79_0_79_0
+@Begin
+@Languages:	spa
+@Participants:	PAR 721 Speaker
+@ID:	spa|narratives|PAR||male|||Speaker|||
+@Media:	721spa,audio
+*PAR:	<RES> [e]. 0_4314
+*PAR:	Caperucita Roja era una niña muy feliz a la que le gustaba siempre cargar su caperucita de color rojo. 4314_13982
+%pos: Caperucita.PROPN Roja.PROPN era.AUX una.DET niña.NOUN muy.ADV feliz.ADJ a.ADP la.DET que.SCONJ le.PRON gustaba.VERB siempre.ADV cargar.VERB su.DET caperucita.NOUN de.ADP color.NOUN rojo.ADJ
+*PAR:	a Caperucita Roja le gustaba visitar a su abuela que le gustaban mucho los pasteles. 13982_22282
+%pos: a.ADP Caperucita.PROPN Roja.PROPN le.PRON gustaba.VERB visitar.VERB a.ADP su.DET abuela.NOUN que.SCONJ le.PRON gustaban.VERB mucho.ADV los.DET pasteles.NOUN
+*PAR:	la mamá un día le dijo que le podría llevar un poco de comida a su abuela que sería bueno que ella fuera a visitarla. 22282_32907
+%pos: la.DET mamá.NOUN un.DET día.NOUN le.PRON dijo.VERB que.SCONJ le.PRON podría.AUX llevar.VERB un.DET poco.PRON de.ADP comida.NOUN a.ADP su.DET abuela.NOUN que.SCONJ sería.AUX bueno.ADJ que.SCONJ ella.PRON fuera.VERB a.ADP visitarla.VERB
+*PAR:	el lobo se deleitó con la canasta y más con la niña que paseaba por el bosque. 32907_41155
+%pos: el.DET lobo.NOUN se.PRON deleitó.VERB con.ADP la.DET canasta.NOUN y.CCONJ más.ADV con.ADP la.DET niña.NOUN que.SCONJ paseaba.VERB por.ADP el.DET bosque.NOUN
+*PAR:	un cazador que estaba en el área quiso ahuyentar al lobo. 41155_47135
+%pos: un.DET cazador.NOUN que.SCONJ estaba.VERB en.ADP el.DET área.NOUN quiso.VERB ahuyentar.VERB al.ADP lobo.NOUN
+*PAR:	pero el lobo no le hizo caso. 47135_48815
+%pos: pero.CCONJ el.DET lobo.NOUN no.ADV le.PRON hizo.VERB caso.NOUN
+*PAR:	Caperucita Roja se &-eh cortó mucho [//] muchas florecitas en el camino para su abuela. 48815_59893
+%pos: Caperucita.PROPN Roja.PROPN se.PRON cortó.VERB mucho.DET muchas.DET florecitas.NOUN en.ADP el.DET camino.NOUN para.ADP su.DET abuela.NOUN
+*PAR:	el lobo, en cambio, llegó directo a la casa de la abuela. 59893_63402
+%pos: el.DET lobo.NOUN ,.PUNCT en.ADP cambio.NOUN ,.PUNCT llegó.VERB directo.ADJ a.ADP la.DET casa.NOUN de.ADP la.DET abuela.NOUN
+*PAR:	el lobo estaba muy feliz. 63402_68416
+%pos: el.DET lobo.NOUN estaba.AUX muy.ADV feliz.ADJ
+*PAR:	y al entrar, se abalanzó contra la abuelita. 68416_72532
+%pos: y.CCONJ al.ADP entrar.VERB ,.PUNCT se.PRON abalanzó.VERB contra.ADP la.DET abuelita.NOUN
+*PAR:	y se la comió. 72532_73693
+%pos: y.CCONJ se.PRON la.PRON comió.VERB
+*PAR:	Caperucita Roja puso las flores que había recogido para su abuelita en un macetero. 73693_82702
+%pos: Caperucita.PROPN Roja.PROPN puso.VERB las.DET flores.NOUN que.SCONJ había.AUX recogido.VERB para.ADP su.DET abuelita.NOUN en.ADP un.DET macetero.NOUN
+*PAR:	y puso todas las cosas que trajo desde su casa en la mesa de su abuelita. 82702_87368
+%pos: y.CCONJ puso.VERB todas.DET las.DET cosas.NOUN que.SCONJ trajo.VERB desde.ADP su.DET casa.NOUN en.ADP la.DET mesa.NOUN de.ADP su.DET abuelita.NOUN
+*PAR:	el lobo estaba feliz pues ya tenía a Caperucita Roja más cerca. 87368_94169
+%pos: el.DET lobo.NOUN estaba.AUX feliz.ADJ pues.SCONJ ya.ADV tenía.VERB a.ADP Caperucita.PROPN Roja.PROPN más.ADV cerca.ADV
+*PAR:	Caperucita Roja estaba sorprendida pues nunca había visto a su abuela tan extraña pues cargaba con unas garras y ojos grandotes. 94169_108423
+%pos: Caperucita.PROPN Roja.PROPN estaba.AUX sorprendida.ADJ pues.SCONJ nunca.ADV había.AUX visto.VERB a.ADP su.DET abuela.NOUN tan.ADV extraña.ADJ pues.CCONJ cargaba.VERB con.ADP unas.DET garras.NOUN y.CCONJ ojos.NOUN grandotes.ADJ
+*PAR:	el lobo no esperó más. 108423_111702
+%pos: el.DET lobo.NOUN no.ADV esperó.VERB más.ADV
+*PAR:	y se abalanzó contra Caperucita Roja, tirando todo. 111702_115422
+%pos: y.CCONJ se.PRON abalanzó.VERB contra.ADP Caperucita.PROPN Roja.PROPN ,.PUNCT tirando.VERB todo.PRON
+*PAR:	y Caperucita salió huyendo. 115422_117829
+%pos: y.CCONJ Caperucita.PROPN salió.VERB huyendo.VERB
+*PAR:	un cazador pudo ver cómo el lobo se había comido a Caperucita Roja y a su abuela. 117829_127621
+%pos: un.DET cazador.NOUN pudo.AUX ver.VERB cómo.ADV el.DET lobo.NOUN se.PRON había.AUX comido.VERB a.ADP Caperucita.PROPN Roja.PROPN y.CCONJ a.ADP su.DET abuela.NOUN
+*PAR:	y tenía una gran barriga de [/] de que se las había comido. 127621_133132
+%pos: y.CCONJ tenía.VERB una.DET gran.ADJ barriga.NOUN de.ADP de.ADP que.SCONJ se.PRON las.PRON había.AUX comido.VERB
+*PAR:	el cazador sacó unas tijeras. 133132_138169
+%pos: el.DET cazador.NOUN sacó.VERB unas.DET tijeras.NOUN
+*PAR:	y cortó el estómago del [/] del lobo, sacando así a la Caperucita Roja y a la abuela. 138169_143415
+%pos: y.CCONJ cortó.VERB el.DET estómago.NOUN del.ADP del.ADP lobo.NOUN ,.PUNCT sacando.VERB así.ADV a.ADP la.DET Caperucita.NOUN Roja.ADJ y.CCONJ a.ADP la.DET abuela.NOUN
+*PAR:	<el lo(bo)> [//] el cazador llenó de piedras al lobo para que ya no hiciera daño a nadie más. 143415_152365
+%pos: el.DET lobo.NOUN el.DET cazador.NOUN llenó.VERB de.ADP piedras.NOUN al.ADP lobo.NOUN para.ADP que.SCONJ ya.ADV no.ADV hiciera.VERB daño.NOUN a.ADP nadie.PRON más.ADV
+*PAR:	el lobo, cargando esa gran cantidad de piedras, no pudo. 152365_157603
+%pos: el.DET lobo.NOUN ,.PUNCT cargando.VERB esa.DET gran.ADJ cantidad.NOUN de.ADP piedras.NOUN ,.PUNCT no.ADV pudo.AUX
+*PAR:	y cayó en el pozo. 157603_159367
+%pos: y.CCONJ cayó.VERB en.ADP el.DET pozo.NOUN
+*PAR:	el cazador se rió junto a Caperucita Roja y la abuela. 159367_163259
+%pos: el.DET cazador.NOUN se.PRON rió.VERB junto.ADV a.ADP Caperucita.PROPN Roja.PROPN y.CCONJ la.DET abuela.NOUN
+*PAR:	así, Caperucita Roja se despidió de su abuelita junto con el cazador. 163259_169339
+%pos: así.ADV ,.PUNCT Caperucita.PROPN Roja.PROPN se.PRON despidió.VERB de.ADP su.DET abuelita.NOUN junto.ADJ con.ADP el.DET cazador.NOUN
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:17:44.766660

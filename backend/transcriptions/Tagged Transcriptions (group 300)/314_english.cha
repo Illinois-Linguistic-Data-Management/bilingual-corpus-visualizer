@@ -1,0 +1,67 @@
+@UTF8
+@Window:	0_0_0_0_0_0_218_1_218_1
+@Begin
+@Languages:	eng
+@Participants:	PAR 314 Speaker
+@ID:	eng|narratives|PAR||female|||Speaker|||
+@Media:	314_english, audio
+*PAR:	the girl is showing her new red cape and hood. 0_10190
+%pos: the.DET girl.NOUN is.AUX showing.VERB her.PRON new.ADJ red.ADJ cape.NOUN and.CCONJ hood.NOUN
+*PAR:	to her grandmother and three birds. 10190_14600
+%pos: to.ADP her.PRON grandmother.NOUN and.CCONJ three.NUM birds.NOUN
+*PAR:	<RES> [e]. 14600_25050
+*PAR:	the girl left her mother's house <and yeah okay> [///] with a
+	basket. 25050_45820
+%pos: the.DET girl.NOUN left.ADP her.PRON mother.NOUN 's.PART house.NOUN and.CCONJ yeah.ADV okay.ADJ with.ADP a.DET basket.NOUN
+*PAR:	<RES> [e]. 45820_48111
+*PAR:	the girl walked through the forest. 48111_55241
+%pos: the.DET girl.NOUN walked.VERB through.ADP the.DET forest.NOUN
+*PAR:	where she passed a lumberjack and a wolf. 55241_59992
+%pos: where.ADV she.PRON passed.VERB a.DET lumberjack.NOUN and.CCONJ a.DET wolf.NOUN
+*PAR:	the girl stopped <to pick> [//] and picked &uh flowers. 59992_75782
+%pos: the.DET girl.NOUN stopped.VERB to.PART pick.VERB and.CCONJ picked.VERB &.CCONJ uh.INTJ flowers.NOUN
+*PAR:	<and the> [/] &=coughs and the wolf  walked further to the house. 75782_86828
+%pos: and.CCONJ the.DET and.CCONJ the.DET wolf.NOUN walked.VERB further.ADV to.ADP the.DET house.NOUN
+*PAR:	the wolf scared the girl's grandmother at her house. 86828_103703
+%pos: the.DET wolf.NOUN scared.VERB the.DET girl.NOUN 's.PART grandmother.NOUN at.ADP her.PRON house.NOUN
+*PAR:	the girl put flowers in a vase next to a plate of cookies. 103703_118123
+%pos: the.DET girl.NOUN put.VERB flowers.NOUN in.ADP a.DET vase.NOUN next.ADJ to.ADP a.DET plate.NOUN of.ADP cookies.NOUN
+*PAR:	while the wolf laid hidden in the grandmother's bed. 118123_124922
+%pos: while.SCONJ the.DET wolf.NOUN laid.VERB hidden.ADJ in.ADP the.DET grandmother.NOUN 's.PART bed.NOUN
+*PAR:	the girl saw the wolf in her grandmother's bed. 124922_140497
+%pos: the.DET girl.NOUN saw.VERB the.DET wolf.NOUN in.ADP her.PRON grandmother.NOUN 's.PART bed.NOUN
+*PAR:	the wolf scared the girl. 140497_153948
+%pos: the.DET wolf.NOUN scared.VERB the.DET girl.NOUN
+*PAR:	and the girl started to run away. 153948_156528
+%pos: and.CCONJ the.DET girl.NOUN started.VERB to.PART run.VERB away.ADV
+*PAR:	and the wolf tipped over the nightstand. 156528_159403
+%pos: and.CCONJ the.DET wolf.NOUN tipped.VERB over.ADP the.DET nightstand.NOUN
+*PAR:	&-uhm a [//] the wolf was found by a hunter. 159403_180078
+%pos: a.DET the.DET wolf.NOUN was.AUX found.VERB by.ADP a.DET hunter.NOUN
+*PAR:	who saw the wolf laying in the bed. 180078_187778
+%pos: who.PRON saw.VERB the.DET wolf.NOUN laying.VERB in.ADP the.DET bed.NOUN
+*PAR:	looking full. 187778_191698
+%pos: looking.VERB full.ADJ
+*PAR:	the hunter cut open the wolf. 191698_204659
+%pos: the.DET hunter.NOUN cut.VERB open.ADJ the.DET wolf.NOUN
+*PAR:	and rescued the girl and her grandmother. 204659_209073
+%pos: and.CCONJ rescued.VERB the.DET girl.NOUN and.CCONJ her.PRON grandmother.NOUN
+*PAR:	the hunter was brought rocks by his dog and the girl. 209073_228323
+%pos: the.DET hunter.NOUN was.AUX brought.VERB rocks.NOUN by.ADP his.PRON dog.NOUN and.CCONJ the.DET girl.NOUN
+*PAR:	and the hunter filled the wolf with rocks. 228323_234028
+%pos: and.CCONJ the.DET hunter.NOUN filled.VERB the.DET wolf.NOUN with.ADP rocks.NOUN
+*PAR:	while the grandmother ha(d) [//] was going to sew him up. 234028_242698
+%pos: while.SCONJ the.DET grandmother.NOUN had.AUX was.AUX going.VERB to.PART sew.VERB him.PRON up.ADP
+*PAR:	the wolf was filled with rocks. 242698_261063
+%pos: the.DET wolf.NOUN was.AUX filled.VERB with.ADP rocks.NOUN
+*PAR:	and left the house. 261063_263859
+%pos: and.CCONJ left.VERB the.DET house.NOUN
+*PAR:	while the family watched. 263859_269988
+%pos: while.SCONJ the.DET family.NOUN watched.VERB
+*PAR:	the girl and the hunter said goodbye to the grandmother. 269988_283018
+%pos: the.DET girl.NOUN and.CCONJ the.DET hunter.NOUN said.VERB goodbye.NOUN to.ADP the.DET grandmother.NOUN
+*PAR:	<and started> [//] and walked to the forest. 283018_288518
+%pos: and.CCONJ started.VERB and.CCONJ walked.VERB to.ADP the.DET forest.NOUN
+*PAR:	<RES> [e]. 288518_288520
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:16:20.591116

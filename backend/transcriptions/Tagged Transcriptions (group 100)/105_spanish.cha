@@ -1,0 +1,63 @@
+@UTF8
+@Window:	175_272_618_1034_-1_-1_2118_0_2118_0
+@Begin
+@Languages:	spa
+@Participants:	PAR 105 Speaker
+@ID:	spa|narratives|PAR||female|||Speaker|||
+@Media:	105_spanish, audio
+*PAR:	<RES> [e]. 0_70508
+*PAR:	&-um Caperucita Roja está en su casa. 70508_79106
+%pos: Caperucita.PROPN Roja.PROPN está.VERB en.ADP su.DET casa.NOUN
+*PAR:	y se ve que está lista para irse a [/] a algún sitio. 79106_84139
+%pos: y.CCONJ se.PRON ve.VERB que.SCONJ está.VERB lista.NOUN para.ADP irse.VERB a.ADP a.ADP algún.DET sitio.NOUN
+*PAR:	&-hm Caperucita Roja &-um (.) fue a darle (.) pastel a su abuela. 84139_105062
+%pos: Caperucita.PROPN Roja.PROPN fue.VERB a.ADP darle.VERB pastel.NOUN a.ADP su.DET abuela.NOUN
+*PAR:	&-um Caperucita se ve que se está yendo de casa para darse la comida a su abuela? 105062_133279
+%pos: Caperucita.PROPN se.PRON ve.VERB que.SCONJ se.PRON está.AUX yendo.VERB de.ADP casa.NOUN para.ADP darse.VERB la.DET comida.NOUN a.ADP su.DET abuela.NOUN
+*PAR:	<RES> [e]. 133279_140149
+*PAR:	y un lobo se ve que quiere la comida. 140149_152613
+%pos: y.CCONJ un.DET lobo.NOUN se.PRON ve.VERB que.SCONJ quiere.VERB la.DET comida.NOUN
+*PAR:	pero otro hombre le intenta pagar &=laughs. 152613_156547
+%pos: pero.CCONJ otro.DET hombre.NOUN le.PRON intenta.VERB pagar.VERB
+*PAR:	cuando Caperucita se paró para coger flores para su abuela, <el lobo entró> [//] el lobo fue a la casa de su abuela. 156547_177398
+%pos: cuando.SCONJ Caperucita.PROPN se.PRON paró.VERB para.ADP coger.VERB flores.NOUN para.ADP su.DET abuela.NOUN ,.PUNCT el.DET lobo.NOUN entró.VERB el.DET lobo.NOUN fue.VERB a.ADP la.DET casa.NOUN de.ADP su.DET abuela.NOUN
+*PAR:	el lobo se comió la abuela. 177398_189162
+%pos: el.DET lobo.NOUN se.PRON comió.VERB la.DET abuela.NOUN
+*PAR:	<RES> [e]. 189162_194578
+*PAR:	gracias. 194578_196613
+%pos: gracias.NOUN
+*PAR:	y Caperucita Roja no le dio cuenta, así que ha dejado la comida y flores en una mesa. 196613_208511
+%pos: y.CCONJ Caperucita.PROPN Roja.PROPN no.ADV le.PRON dio.VERB cuenta.NOUN ,.PUNCT así.ADV que.CCONJ ha.AUX dejado.VERB la.DET comida.NOUN y.CCONJ flores.NOUN en.ADP una.DET mesa.NOUN
+*PAR:	mientras que el lobo estaba como la abuela. 208511_216605
+%pos: mientras.ADV que.SCONJ el.DET lobo.NOUN estaba.VERB como.ADP la.DET abuela.NOUN
+*PAR:	cuando [/] cuando Caperucita se vio al lobo a más cerca, ella sospechó que algo estaba mal. 216605_233517
+%pos: cuando.SCONJ cuando.SCONJ Caperucita.PROPN se.PRON vio.VERB al.DET lobo.NOUN a.ADP más.ADV cerca.ADV ,.PUNCT ella.PRON sospechó.VERB que.SCONJ algo.PRON estaba.AUX mal.ADJ
+*PAR:	cuando se acercó, el lobo se sentó de la cama. 233517_244370
+%pos: cuando.SCONJ se.PRON acercó.VERB ,.PUNCT el.DET lobo.NOUN se.PRON sentó.VERB de.ADP la.DET cama.NOUN
+*PAR:	y intentó a comerse <a Caperu(cita)> [//] a Caperucita Roja. 244370_251870
+%pos: y.CCONJ intentó.VERB a.ADP comerse.VERB a.ADP Caperucita.PROPN a.ADP Caperucita.PROPN Roja.PROPN
+*PAR:	luego, entró un hombre con un [/] una arma, mientras que el lobo se estaba durmiendo. 251870_271328
+%pos: luego.ADV ,.PUNCT entró.VERB un.DET hombre.NOUN con.ADP un.DET una.DET arma.NOUN ,.PUNCT mientras.CCONJ que.CCONJ el.DET lobo.NOUN se.PRON estaba.AUX durmiendo.VERB
+*PAR:	luego, se cortó la barriga del [/] del lobo. 271328_284353
+%pos: luego.ADV ,.PUNCT se.PRON cortó.VERB la.DET barriga.NOUN del.ADP del.ADP lobo.NOUN
+*PAR:	y sacó a Caperucita Roja <y su> [/] y su abuela. 284353_288662
+%pos: y.CCONJ sacó.VERB a.ADP Caperucita.PROPN Roja.PROPN y.CCONJ su.DET y.CCONJ su.DET abuela.NOUN
+*PAR:	y luego, han traído rocas de afuera. 288662_301091
+%pos: y.CCONJ luego.ADV ,.PUNCT han.AUX traído.VERB rocas.NOUN de.ADP afuera.ADV
+*PAR:	y las han puesto adentro del estómago del lobo. 301091_309091
+%pos: y.CCONJ las.PRON han.AUX puesto.VERB adentro.ADV del.ADP estómago.NOUN del.ADP lobo.NOUN
+*PAR:	y luego la abuela iba a coserlo. 309091_313272
+%pos: y.CCONJ luego.ADV la.DET abuela.NOUN iba.VERB a.ADP coserlo.VERB
+*PAR:	&=laughs y luego las rocas estaban calientes, así que le hacen daño a la barriga. 313272_332964
+%pos: y.CCONJ luego.ADV las.DET rocas.NOUN estaban.AUX calientes.ADJ ,.PUNCT así.ADV que.CCONJ le.PRON hacen.VERB daño.NOUN a.ADP la.DET barriga.NOUN
+*PAR:	y se echa al agua. 332964_333848
+%pos: y.CCONJ se.PRON echa.VERB al.ADP agua.NOUN
+*PAR:	pero no se podía salir. 333848_335848
+%pos: pero.CCONJ no.ADV se.PRON podía.AUX salir.VERB
+*PAR:	y luego la abuela se queda en la casa. 335848_346384
+%pos: y.CCONJ luego.ADV la.DET abuela.NOUN se.PRON queda.VERB en.ADP la.DET casa.NOUN
+*PAR:	y le ha dicho adiós al hombre y a la Caperucita Roja. 346384_352078
+%pos: y.CCONJ le.PRON ha.AUX dicho.VERB adiós.ADV al.ADP hombre.NOUN y.CCONJ a.ADP la.DET Caperucita.NOUN Roja.ADJ
+*PAR:	<RES> [e]. 352078_356051
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:36:57.599648

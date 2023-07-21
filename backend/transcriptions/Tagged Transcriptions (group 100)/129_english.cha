@@ -1,0 +1,74 @@
+@UTF8
+@Window:	0_0_0_0_0_0_1589_0_1589_0
+@Begin
+@Languages:	eng
+@Participants:	PAR 129 Speaker
+@ID:	eng|narratives|PAR| |male| | |Speaker| | |
+@Media:	129_english, audio
+*PAR:	the girl got xxx grandma's house and wanted some cake. 0_5599
+%pos: the.DET girl.NOUN got.VERB xxx.PROPN grandma.NOUN 's.PART house.NOUN and.CCONJ wanted.VERB some.DET cake.NOUN
+*PAR:	so she asked her grandma for cake. 5599_7726
+%pos: so.ADV she.PRON asked.VERB her.PRON grandma.NOUN for.ADP cake.NOUN
+*PAR:	<RES>[e]. 7726_15727
+*PAR:	the girl left (..) with some snacks. 18397_25632
+%pos: the.DET girl.NOUN left.ADJ with.ADP some.DET snacks.NOUN
+*PAR:	&-eh and she went through the woods. 27650_34177
+%pos: and.CCONJ she.PRON went.VERB through.ADP the.DET woods.NOUN
+*PAR:	but a wolf was looking at her, about to eat her. 34177_38679
+%pos: but.CCONJ a.DET wolf.NOUN was.AUX looking.VERB at.ADP her.PRON ,.PUNCT about.ADV to.PART eat.VERB her.PRON
+*PAR:	when there was a hunter right behind the wolf about to attack them. 38679_43179
+%pos: when.ADV there.PRON was.VERB a.DET hunter.NOUN right.ADV behind.ADP the.DET wolf.NOUN about.ADV to.PART attack.VERB them.PRON
+*PAR:	and then the girl picked up some flowers. 45054_52399
+%pos: and.CCONJ then.ADV the.DET girl.NOUN picked.VERB up.ADP some.DET flowers.NOUN
+*PAR:	and went inside the house. 52399_54499
+%pos: and.CCONJ went.VERB inside.ADP the.DET house.NOUN
+*PAR:	and the wolf looked back. 54499_56974
+%pos: and.CCONJ the.DET wolf.NOUN looked.VERB back.ADV
+*PAR:	<but she> [//] but he didn't even realize that he was right in
+	front of the house. 56974_61678
+%pos: but.CCONJ she.PRON but.CCONJ he.PRON did.AUX n't.PART even.ADV realize.VERB that.SCONJ he.PRON was.AUX right.ADV in.ADP front.NOUN of.ADP the.DET house.NOUN
+*PAR:	and then, the wolf opened the door. 63932_70630
+%pos: and.CCONJ then.ADV ,.PUNCT the.DET wolf.NOUN opened.VERB the.DET door.NOUN
+*PAR:	and scared the grandma. 70630_72509
+%pos: and.CCONJ scared.VERB the.DET grandma.NOUN
+*PAR:	then the wolf acted as the grandma, went to xxx. 72509_83183
+%pos: then.ADV the.DET wolf.NOUN acted.VERB as.ADP the.DET grandma.NOUN ,.PUNCT went.VERB to.ADP xxx.PROPN
+*PAR:	the little girl came back with some flowers. 83183_85477
+%pos: the.DET little.ADJ girl.NOUN came.VERB back.ADV with.ADP some.DET flowers.NOUN
+*PAR:	and the girl was like what happened grandma +". 85477_94896
+%pos: and.CCONJ the.DET girl.NOUN was.VERB like.SCONJ what.PRON happened.VERB grandma.NOUN +".PUNCT
+*PAR:	and the wolf is acting as a weird grandma. 94896_100147
+%pos: and.CCONJ the.DET wolf.NOUN is.AUX acting.VERB as.ADP a.DET weird.ADJ grandma.NOUN
+*PAR:	(be)cause the girl knew it was not her grandma. 100147_103647
+%pos: because.SCONJ the.DET girl.NOUN knew.VERB it.PRON was.AUX not.PART her.PRON grandma.NOUN
+*PAR:	and then the girl got surprised. 103647_112022
+%pos: and.CCONJ then.ADV the.DET girl.NOUN got.VERB surprised.VERB
+*PAR:	and the wolf scared. 112022_116022
+%pos: and.CCONJ the.DET wolf.NOUN scared.VERB
+*PAR:	<then, the wolf heard all>[///] I mean, the hunter heard all that
+	noise. 116022_127128
+%pos: then.ADV ,.PUNCT the.DET wolf.NOUN heard.VERB allI.DET mean.NOUN ,.PUNCT the.DET hunter.NOUN heard.VERB all.DET that.DET noise.NOUN
+*PAR:	the hunter came in, saw the wolf became fat. 127128_131728
+%pos: the.DET hunter.NOUN came.VERB in.ADV ,.PUNCT saw.VERB the.DET wolf.NOUN became.VERB fat.ADJ
+*PAR:	&=inhales. 131728_138726
+*PAR:	then, the wolf was just relaxing. 138726_144010
+%pos: then.ADV ,.PUNCT the.DET wolf.NOUN was.AUX just.ADV relaxing.VERB
+*PAR:	and the grandma and the girl were safe. 144010_148928
+%pos: and.CCONJ the.DET grandma.NOUN and.CCONJ the.DET girl.NOUN were.AUX safe.ADJ
+*PAR:	and then the girl kept bringing rocks for no reason <(be)cause I
+	don't know why> [e]. 148928_161772
+%pos: and.CCONJ then.ADV the.DET girl.NOUN kept.VERB bringing.VERB rocks.NOUN for.ADP no.DET reason.NOUN <.PUNCT because.SCONJ I.PRON do.AUX n't.PART know.VERB why.ADV >.PUNCT
+*PAR:	<RES> [e]. 161772_168887
+*PAR:	and the wolf thinks it's food. 168887_174978
+%pos: and.CCONJ the.DET wolf.NOUN thinks.VERB it.PRON 's.AUX food.NOUN
+*PAR:	<RES> [e]. 174978_185384
+*PAR:	and the wolf ate all those rocks. 185384_187384
+%pos: and.CCONJ the.DET wolf.NOUN ate.VERB all.DET those.DET rocks.NOUN
+*PAR:	xxx and the girl , the grandma and the hunter were laughing at him. 187384_195320
+%pos: xxx.PROPN and.CCONJ the.DET girl.NOUN ,.PUNCT the.DET grandma.NOUN and.CCONJ the.DET hunter.NOUN were.AUX laughing.VERB at.ADP him.PRON
+*PAR:	(be)cause the wolf didn't realize it was rocks. 195320_200056
+%pos: because.SCONJ the.DET wolf.NOUN did.AUX n't.PART realize.VERB it.PRON was.AUX rocks.NOUN
+*PAR:	and the grandma said goodbye to the hunter and the girl. 200056_209383
+%pos: and.CCONJ the.DET grandma.NOUN said.VERB goodbye.NOUN to.ADP the.DET hunter.NOUN and.CCONJ the.DET girl.NOUN
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:33:48.670232

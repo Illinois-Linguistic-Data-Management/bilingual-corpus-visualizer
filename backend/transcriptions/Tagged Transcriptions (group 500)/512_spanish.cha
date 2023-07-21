@@ -1,0 +1,109 @@
+@UTF8
+@Window:	0_0_0_0_993_1_1646_0_1646_0
+@Begin
+@Languages:	spa,eng
+@Participants:	PAR 512 Speaker
+@ID:	spa|narratives|PAR||female|||Speaker|||
+@Media:	512_spanish,audio
+*PAR:	había una vez una niña . 0_2495
+%pos: había.VERB una.DET vez.NOUN una.DET niña.NOUN
+*PAR:	&-uh (.) tiene una &-uh <ros(ada) (.) no> [///] rojo [: roja][*]
+	(.) chamara [: chámara][*] . 2495_17001
+%pos: tiene.VERB una.DET rosada.NOUN no.ADV rojo.ADJ chamara.NOUN
+*PAR:	y su mamá dice +"/. 17001_22502
+%pos: y.CCONJ su.DET mamá.NOUN dice.VERB +"/.SYM
+*PAR:	+" puedo (..) hacer un pastel para tu abuelita ?  22502_38626
+%pos: +".SYM puedo.AUX hacer.VERB un.DET pastel.NOUN para.ADP tu.DET abuelita.NOUN
+*PAR:	<RES> [e] . 38626_54517
+*PAR:	&-um (.) la niña va a su abuelita's@s con la comida . 54517_70335
+%pos: la.DET niña.NOUN va.VERB a.ADP su.DET abuelita.NOUN 's.X con.ADP la.DET comida.NOUN
+*PAR:	<RES> [e] . 70335_80799
+*PAR:	y con su &-uh roja chamara [: chámara][*] . 80799_85730
+%pos: y.CCONJ con.ADP su.DET roja.ADJ chamara.NOUN
+*PAR:	<RES> [e] . 85730_86986
+*PAR:	<I@s don't@s know@s how@s to@s say@s cloak@s> [e] . 86986_88782
+*PAR:	<RES> [e] . 88782_92986
+*PAR:	<okay@s, próxima> [e] . 92986_95408
+*PAR:	<RES> [e] . 95408_98423
+*PAR:	&-uh (.) la niña están [: está][*] caminando . 98423_108298
+%pos: la.DET niña.NOUN están.AUX caminando.VERB
+*PAR:	y un (.) gigante &-uh xxx . 108298_118362
+%pos: y.CCONJ un.DET gigante.NOUN xxx.PROPN
+*PAR:	<RES> [e] . 118362_119817
+*PAR:	está in@s su path@s . 119817_127926
+%pos: está.VERB in.ADP su.DET path.NOUN
+*PAR:	<RES> [e] . 127926_130210
+*PAR:	caminar . 130210_131538
+%pos: caminar.VERB
+*PAR:	<RES> [e] . 131538_134816
+*PAR:	<próxima> [e] . 134816_136362
+*PAR:	<RES> [e] . 136362_138784
+*PAR:	&-uh <un> [///] la [: el][*] (.) lobo (.) está &-uh (.) va a su
+	abuelita's@s casa . 138784_160019
+%pos: un.DET la.DET lobo.NOUN está.VERB va.VERB a.ADP su.DET abuelita.NOUN 's.PART casa.NOUN
+*PAR:	<próximo> [e] . 160019_162769
+*PAR:	<RES> [e] . 162769_165144
+*PAR:	y comió la abuelita . 165144_169419
+%pos: y.CCONJ comió.VERB la.DET abuelita.NOUN
+*PAR:	<RES> [e] . 169419_170499
+*PAR:	<&-uh (.) &-uh próxima [: próximo][*]> [e] . 170499_176862
+*PAR:	<RES> [e] . 176862_184247
+*PAR:	<la [/] (.) la [: el][*] lobo está (.) &-um no> [///] la [/] la
+	[: el][*] zorro pon [: pone][*] <su> [///] la abuelita's@s (.)
+	sombrera [: sombrero][*] . 184247_207323
+%pos: la.DET la.DET lobo.NOUN está.VERB no.ADV la.DET la.DET zorro.NOUN pon.VERB su.DET la.DET abuelita.NOUN 's.PART sombrera.NOUN
+*PAR:	y la niña hace [: está][*] poniendo flores <en una> [/] (.) en una
+	[: un][*] vaso . 207323_223172
+%pos: y.CCONJ la.DET niña.NOUN hace.VERB poniendo.VERB flores.NOUN en.ADP una.PRON en.ADP una.DET vaso.NOUN
+*PAR:	<RES> [e] . 223172_223523
+*PAR:	<próxima [: próximo][*]> [e] . 223523_224631
+*PAR:	<RES> [e] . 224631_227701
+*PAR:	y la niña dice +"/. 227701_233156
+%pos: y.CCONJ la.DET niña.NOUN dice.VERB +"/.SYM
+*PAR:	+" mira, tu tiene [: tienes][*] <grande> [///] grandes ojos . 233156_236909
+%pos: +".PUNCT mira.VERB ,.PUNCT tu.PRON tiene.VERB grande.ADJ grandes.ADJ ojos.NOUN
+*PAR:	<próximo> [e] . 236909_238326
+*PAR:	<RES> [e] . 238326_240901
+*PAR:	<&-um> [e] . 240901_241286
+*PAR:	<RES> [e] . 241286_248106
+*PAR:	y la [: el][*] zorro &-um <comiendo> [///] están [: está][*]
+	comiendo la niña (.) también . 248106_259587
+%pos: y.CCONJ la.DET zorro.NOUN comiendo.VERB están.AUX comiendo.VERB la.DET niña.NOUN también.ADV
+*PAR:	<RES> [e] . 259587_260683
+*PAR:	<próximo> [e] . 260683_262016
+*PAR:	<y una> [/] (.) <&-um y una [: un][*] (.) niño no> [///] (.) una
+	[: un][*] niño están [: está][*] en la casa . 262016_280891
+%pos: y.CCONJ una.DET y.CCONJ una.DET niño.NOUN no.ADV una.DET niño.NOUN están.VERB en.ADP la.DET casa.NOUN
+*PAR:	y (.) la [: el][*] zorro <están [: está][*] (.) muy &-um muy (.)
+	&-uh (.) xxx> [///] no están [: tiene][*] hambre . 280891_299682
+%pos: y.CCONJ la.DET zorro.NOUN <.PUNCT están.VERB muy.ADV muy.ADV xxx.X >.PUNCT no.ADV están.VERB hambre.NOUN
+*PAR:	<RES> [e] . 299682_301070
+*PAR:	<próximo> [e] . 301070_302463
+*PAR:	<RES> [e] . 302463_306757
+*PAR:	y xxx con [/] <con tijeras> [/] con tijeras, &-uh la [: el][*] niño
+	hunter@s &-uh están [: está][*] (.) cortando la [: el][*] zorro (.)
+	para la niña y la abuela están (.) free@s . 306757_333112
+%pos: y.CCONJ xxx.NOUN con.ADP con.ADP tijeras.NOUN con.ADP tijeras.NOUN ,.PUNCT la.DET niño.NOUN hunter.NOUN están.AUX cortando.VERB la.DET zorro.NOUN para.ADP la.DET niña.NOUN y.CCONJ la.DET abuela.NOUN están.AUX free.ADJ
+*PAR:	<RES> [e] . 333112_334088
+*PAR:	<próximo> [e] . 334088_335507
+*PAR:	<RES> [e] . 335507_340662
+*PAR:	&-uh (.) y la [: el][*] (.) niño y la niña pon [: ponen][*] &-uh
+	roc(as) [/] rocas en la [: el][*] zorro's@s (.) panza con la
+	[: el][*] perrito . 340662_361471
+%pos: y.CCONJ la.DET niño.NOUN y.CCONJ la.DET niña.NOUN pon.VERB rocas.NOUN rocas.ADJ en.ADP la.DET zorro.NOUN 's.PART panza.NOUN con.ADP la.DET perrito.NOUN
+*PAR:	<&-uh okay@s continua> [e] . 361471_366376
+*PAR:	<RES> [e] . 366376_369796
+*PAR:	<y la [: el][*] niño y la niña y la> [///] la [: el][*] niño, la
+	niña, y la abuelita están [/] (..) están [/] (..) están [/] &-uh (.)
+	están &-uh muy feliz [: felices][*] . 369796_405000
+%pos: y.CCONJ la.DET niño.NOUN y.CCONJ la.DET niña.NOUN y.CCONJ la.DET la.DET niño.NOUN ,.PUNCT la.DET niña.NOUN ,.PUNCT y.CCONJ la.DET abuelita.NOUN están.VERB están.VERB están.AUX están.AUX muy.ADV feliz.ADJ
+*PAR:	<RES> [e] . 405000_405106
+*PAR:	porque la [: el][*] zorro no comió la abuelita y la niña . 405106_410741
+%pos: porque.SCONJ la.DET zorro.NOUN no.ADV comió.VERB la.DET abuelita.NOUN y.CCONJ la.DET niña.NOUN
+*PAR:	<RES> [e] . 410741_416251
+*PAR:	y la [: el][*] niño y la niña va [: van][*] a sus casas . 416251_426376
+%pos: y.CCONJ la.DET niño.NOUN y.CCONJ la.DET niña.NOUN va.VERB a.ADP sus.DET casas.NOUN
+*PAR:	y la abuela dice adiós . 426376_429957
+%pos: y.CCONJ la.DET abuela.NOUN dice.VERB adiós.ADV
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:21:49.735135

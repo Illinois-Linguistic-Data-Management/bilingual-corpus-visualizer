@@ -1,0 +1,173 @@
+@UTF8
+@Window:	0_0_0_0_888_1_4340_0_4340_0
+@Begin
+@Languages:	spa,eng
+@Participants:	PAR 131 Speaker
+@ID:	spa|narratives|PAR||female|||Speaker|||
+@Media:	131_spanish,audio
+*PAR:	[- eng] once upon a time &-um . 0_2826
+%pos: once.ADV upon.ADP a.DET time.NOUN
+*PAR:	<RES> [e] . 2826_7373
+*PAR:	&-um una xxx una &-um mamá tiene una niña [/] (.) niña que tiene una
+	capete [: capucha][*] roja . 7373_22545
+%pos: una.DET xxx.X una.DET mamá.NOUN tiene.VERB una.DET niña.NOUN niña.NOUN que.SCONJ tiene.VERB una.DET capete.NOUN roja.ADJ
+*PAR:	los niños y las niñas &-um llama la niña &-um capetera
+	[: caperucita][*] roja . 22545_32869
+%pos: los.DET niños.NOUN y.CCONJ las.DET niñas.NOUN llama.VERB la.DET niña.NOUN capetera.NOUN roja.ADJ
+*PAR:	<RES> [e] . 32869_37541
+*PAR:	un día, &-um la mamá dice [/] dice +"/. 37541_51544
+%pos: un.DET día.NOUN ,.PUNCT la.DET mamá.NOUN dice.VERB dice.VERB +"/.SYM
+*PAR:	+" este es &-um por tu abuela xxx . 51544_60653
+%pos: +".PUNCT este.PRON es.VERB por.ADP tu.DET abuela.NOUN xxx.X
+*PAR:	+" ve a tu abuela porque tu [/] tu abuela es &-um (..) is@s sick@s
+	. 60653_70587
+%pos: +".PUNCT ve.VERB a.ADP tu.DET abuela.NOUN porque.SCONJ tu.DET tu.DET abuela.NOUN es.AUX is.AUX sick.ADJ
+*PAR:	+" so@s [/] so@s ve a tu abuela por favor . 70587_76218
+%pos: +".SYM so.ADV so.ADV ve.VERB a.ADP tu.DET abuela.NOUN por.ADP favor.NOUN
+*PAR:	dije [: dijo][*] la mam(á) [/] mamá +". 76218_78430
+%pos: dije.VERB la.DET mamá.NOUN mamá.NOUN +".PUNCT
+*PAR:	<RES> [e] . 78430_81320
+*PAR:	después, la [/] la [: el][*] lobo [/] lobo [/] lobo piensa <la niña
+	quiere &-uh> [///] comía la niña . 81320_99629
+%pos: después.ADV ,.PUNCT la.DET la.DET lobo.NOUN lobo.NOUN lobo.NOUN piensa.VERB <.PUNCT la.DET niña.NOUN quiere.VERB >.PUNCT comía.VERB la.DET niña.NOUN
+*PAR:	so@s la [: el][*] lobo xxx . 99629_105324
+%pos: so.ADV la.DET lobo.NOUN xxx.X
+*PAR:	y la [/] la persona se +"/. 105324_110083
+%pos: y.CCONJ la.DET la.DET persona.NOUN se.PRON +"/.SYM
+*PAR:	+" hey no . 110083_113348
+%pos: +".SYM hey.INTJ no.ADV
+*PAR:	y &-um la [: el][*] lobo se &-um &-uh &-um (..) run@s [/] run@s
+	away@s . 113348_128707
+%pos: y.CCONJ la.DET lobo.NOUN se.PRON run.VERB run.VERB away.ADV
+*PAR:	<RES> [e] . 128707_134437
+*PAR:	después, <la> [//] el lobo tie(ne) [/] tiene una idea . 134437_142196
+%pos: después.ADV ,.PUNCT la.PRON el.DET lobo.NOUN tiene.VERB tiene.VERB una.DET idea.NOUN
+*PAR:	<la ni(ña)> [///] (.) la lobo dice to@s la niña +"/. 142196_146642
+%pos: la.DET niña.NOUN la.DET lobo.NOUN dice.VERB to.ADP la.DET niña.NOUN +"/.SYM
+*PAR:	+" hola niña . 146642_148799
+%pos: +".PUNCT hola.NOUN niña.NOUN
+*PAR:	+" tú [/] tú quieres xxx ? 148799_151543
+%pos: +".PUNCT tú.PRON tú.PRON quieres.VERB xxx.X
+*PAR:	+" yo tengo un [: una][*] choca . 151543_154465
+%pos: +".PUNCT yo.PRON tengo.VERB un.DET choca.NOUN
+*PAR:	so@s, <la niña> [/] &-eh la niña &-um camina xxx con el lobo y
+	picking@s las flores para [/] para <la mamá> [///] (.) la abuela . 154465_172168
+%pos: so.ADV ,.PUNCT la.DET niña.NOUN la.DET niña.NOUN camina.VERB xxx.X con.ADP el.DET lobo.NOUN y.CCONJ picking.VERB las.DET flores.NOUN para.ADP para.ADP la.DET mamá.NOUN la.DET abuela.NOUN
+*PAR:	<RES> [e] . 172168_174564
+*PAR:	<y la [: el][*] lobo> [/] (.) y la [: el][*] lobo caminó hasta la
+	casa por la abuela . 174564_186761
+%pos: y.CCONJ la.DET lobo.NOUN y.CCONJ la.DET lobo.NOUN caminó.VERB hasta.ADP la.DET casa.NOUN por.ADP la.DET abuela.NOUN
+*PAR:	<RES> [e] . 186761_191049
+*PAR:	después [/] (des)pués, la lobo dice +"/. 191049_198015
+%pos: después.ADV después.ADV ,.PUNCT la.DET lobo.NOUN dice.VERB +"/.SYM
+*PAR:	+" abuela [/] (ab)uela es tu [/] tu niña . 198015_206403
+%pos: +".PUNCT abuela.NOUN abuela.NOUN es.AUX tu.DET tu.DET niña.NOUN
+*PAR:	+" xxx . 206403_210445
+%pos: +".PUNCT xxx.NOUN
+*PAR:	y la abuela abrí [: abrió][*] la puerta . 210445_213871
+%pos: y.CCONJ la.DET abuela.NOUN abrí.VERB la.DET puerta.NOUN
+*PAR:	y la [: el][*] lobo se come la abuela y poner la
+	[/] la [/] &-um la ropa de la abuela . 213871_224596
+%pos: y.CCONJ la.DET lobo.NOUN se.PRON come.VERB la.DET abuela.NOUN y.CCONJ poner.VERB la.DET la.DET la.DET ropa.NOUN de.ADP la.DET abuela.NOUN
+*PAR:	<RES> [e] . 224596_229636
+*PAR:	después, la niña se visit@s a la abuela's@s casa . 229636_236981
+%pos: después.ADV ,.PUNCT la.DET niña.NOUN se.PRON visit.VERB a.ADP la.DET abuela.NOUN 's.PART casa.NOUN
+*PAR:	y, triste, dice a su abuela +"/. 236981_242543
+%pos: y.CCONJ ,.PUNCT triste.ADJ ,.PUNCT dice.VERB a.ADP su.DET abuela.NOUN +"/.PUNCT
+*PAR:	+" abuela, por qué xxx tu nariz ? 242543_248899
+%pos: +".PUNCT abuela.NOUN ,.PUNCT por.ADP qué.PRON xxx.VERB tu.DET nariz.NOUN
+*PAR:	la [: el][*] lobo dice +"/. 248899_250457
+%pos: la.DET lobo.NOUN dice.VERB +"/.SYM
+*PAR:	+" <con> [///] así &-uh puedo smell@s you@s <bie(n)> [//] mu(y) [/]
+	muy bien . 250457_260450
+%pos: +".SYM con.ADP así.ADV puedo.AUX smell.VERB you.PRON bien.ADV muy.ADV muy.ADV bien.ADV
+*PAR:	+" xxx quiere ser tu [: tus][*] ojos ? 260450_265981
+%pos: +".SYM xxx.X quiere.VERB ser.AUX tu.DET ojos.NOUN
+*PAR:	+" por [: para][*] ver a tú [/] tú muy bien . 265981_269912
+%pos: +".SYM por.ADP ver.VERB a.ADP tú.PRON tú.PRON muy.ADV bien.ADV
+*PAR:	+" y xxx ? 269912_272518
+%pos: +".SYM y.CCONJ xxx.X
+*PAR:	+" para comer . 272518_273782
+%pos: +".SYM para.ADP comer.VERB
+*PAR:	dice la [: el][*] lobo +". 273782_275499
+%pos: dice.VERB la.DET lobo.NOUN +".PUNCT
+*PAR:	<RES> [e] . 275499_276912
+*PAR:	y la niña, <oh@s I@s told@s that@s part@s already@s> [e] . 276912_282342
+%pos: y.CCONJ la.DET niña.NOUN ,.PUNCT
+*PAR:	<RES> [e] . 282342_286948
+*PAR:	y e [: y][*] la [: el][*] lobo [/] lobo &-uh quiere comer a la niña
+	. 286948_293760
+%pos: y.CCONJ e.CCONJ la.DET lobo.NOUN lobo.NOUN quiere.VERB comer.VERB a.ADP la.DET niña.NOUN
+*PAR:	la niña correr [: corrió][*] muy rápido . 293760_298238
+%pos: la.DET niña.NOUN correr.VERB muy.ADV rápido.ADV
+*PAR:	y la [: el][*] lobo quiere xxx muy rápido <para la niña que> [///]
+	para la [: el][*] lobo comer a la niña . 298238_316714
+%pos: y.CCONJ la.DET lobo.NOUN quiere.VERB xxx.X muy.ADV rápido.ADJ para.ADP la.DET niña.NOUN que.SCONJ para.ADP la.DET lobo.NOUN comer.VERB a.ADP la.DET niña.NOUN
+*PAR:	<RES> [e] . 316714_320135
+*PAR:	después, un(a) [/] (u)na niña es (.) &-um en la [/] la [: el][*]
+	lobo's@s panza . 320135_335414
+%pos: después.ADV ,.PUNCT una.DET una.DET niña.NOUN es.VERB en.ADP la.DET la.DET lobo.NOUN 's.PART panza.NOUN
+*PAR:	&-uh la hunter@s &-um caminó a la [/] la casa de abuela . 335414_345983
+%pos: la.DET hunter.NOUN caminó.VERB a.ADP la.DET la.DET casa.NOUN de.ADP abuela.NOUN
+*PAR:	xxx y la [: el][*] lobo está en la cama . 345983_355101
+%pos: xxx.INTJ y.CCONJ la.DET lobo.NOUN está.VERB en.ADP la.DET cama.NOUN
+*PAR:	la [/] la [/] la hunter@s and@s xxx la [: el][*] lobo . 355101_364578
+%pos: la.DET la.DET la.DET hunter.NOUN and.CCONJ xxx.X la.DET lobo.NOUN
+*PAR:	<RES> [e] . 364578_370354
+*PAR:	per(o) [/] pero <la &-um> [/] la [/] &-um la [/] &-uh <la ni(ña)>
+	[/] la niña y la abuela is@s [: are@s][*] free@s . 370354_383357
+%pos: pero.CCONJ pero.CCONJ la.DET la.DET la.DET la.DET niña.NOUN la.DET niña.NOUN y.CCONJ la.DET abuela.NOUN is.AUX free.ADJ
+*PAR:	<y la> [/] (.) y la [: el][*] lobo is@s dead@s . 383357_388989
+%pos: y.CCONJ la.DET y.CCONJ la.DET lobo.NOUN is.AUX dead.ADJ
+*PAR:	+" hurray@s hurray@s . 388989_393811
+%pos: +".SYM hurray.NOUN hurray.NOUN
+*PAR:	dice la niña +". 393811_396225
+%pos: dice.VERB la.DET niña.NOUN +".PUNCT
+*PAR:	+" la [: el][*] lobo is@s dead@s . 396225_398350
+%pos: +".SYM la.DET lobo.NOUN is.AUX dead.ADJ
+*PAR:	dice la abuela +". 398350_401049
+%pos: dice.VERB la.DET abuela.NOUN +".PUNCT
+*PAR:	<RES> [e] . 401079_405646
+*PAR:	después, la hunter@s xxx tira rocos [: rocas][*] <de> [///] &-um <en
+	la> [/] en la panza . 405646_416746
+%pos: después.ADV ,.PUNCT la.DET hunter.NOUN xxx.X tira.VERB rocos.NOUN de.ADP <.PUNCT en.ADP la.DET >.PUNCT en.ADP la.DET panza.NOUN
+*PAR:	<por> [///] (.) y [/] &-um y <la abuel(a)> [/] la abuela mira xxx
+	the@s [/] the@s &-uh <la panza> [/] la panza . 416746_431259
+%pos: por.ADP y.CCONJ y.CCONJ la.DET abuela.NOUN la.DET abuela.NOUN mira.VERB xxx.X the.DET the.DET la.DET panza.NOUN la.DET panza.NOUN
+*PAR:	después . 431259_433427
+%pos: después.ADV
+*PAR:	<RES> [e] . 433427_435887
+*PAR:	la [: el][*] lobo (.) <is@s> [///] &-eh quiere a tomar . 435887_445450
+%pos: la.DET lobo.NOUN is.AUX quiere.VERB a.ADP tomar.VERB
+*PAR:	so@s, ello [: ella][*] &-eh la [: el][*] lobo xxx caminó de la
+	&-um xxx . 445450_456547
+%pos: so.ADV ,.PUNCT ello.PRON la.DET lobo.NOUN xxx.X caminó.VERB de.ADP la.DET xxx.X
+*PAR:	y dice &-uh &-um +"/. 456547_460185
+%pos: y.CCONJ dice.VERB +"/.SYM
+*PAR:	+" <la> [///] mi panza es muy heavy@s . 460185_464269
+%pos: +".SYM la.DET mi.DET panza.NOUN es.AUX muy.ADV heavy.ADJ
+*PAR:	y después, la [: el][*] lobo quiera [: quiere][*] po(ner) (.) poner
+	la [/] la [: el][*] agua . 464269_470871
+%pos: y.CCONJ después.ADV ,.PUNCT la.DET lobo.NOUN quiera.VERB poner.VERB poner.VERB la.DET la.DET agua.NOUN
+*PAR:	<y te> [///] (.) y splash@s . 470871_474212
+%pos: y.CCONJ te.PRON y.CCONJ splash.VERB
+*PAR:	la [: el][*] lobo la [: el][*] agua &-um is@s in@s the@s well@s . 474212_479988
+%pos: la.DET lobo.NOUN la.DET agua.NOUN is.AUX in.ADP the.DET well.ADV
+*PAR:	<RES> [e] . 479988_485879
+*PAR:	la [/] la [/] &-um la abuela y la niña is@s safe@s con la hunter . 485879_493258
+%pos: la.DET la.DET la.DET abuela.NOUN y.CCONJ la.DET niña.NOUN is.AUX safe.ADJ con.ADP la.DET hunter.NOUN
+*PAR:	la hunter &-um xxx &-uh caminó con la niña para [/] para el
+	[: la][*] &-um casa . 493258_504144
+%pos: la.DET hunter.NOUN xxx.PROPN caminó.VERB con.ADP la.DET niña.NOUN para.ADP para.ADP el.DET casa.NOUN
+*PAR:	y la mamá xxx +"/. 504144_506373
+%pos: y.CCONJ la.DET mamá.NOUN xxx.X +"/.PUNCT
+*PAR:	+" xxx . 506373_512335
+%pos: +".PUNCT xxx.NOUN
+*PAR:	<no wait> [e] &-um (.) quiere xxx la abuela . 512335_518933
+%pos: no.ADV wait.VERB quiere.VERB xxx.X la.DET abuela.NOUN
+*PAR:	la niña dice +"/. 518933_522373
+%pos: la.DET niña.NOUN dice.VERB +"/.SYM
+*PAR:	+" xxx . 522373_524844
+%pos: +".PUNCT xxx.NOUN
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:34:47.395587

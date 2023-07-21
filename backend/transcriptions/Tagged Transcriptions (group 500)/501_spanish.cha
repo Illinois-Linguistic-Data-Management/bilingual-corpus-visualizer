@@ -1,0 +1,47 @@
+@UTF8
+@Window:	0_0_0_0_0_0_901_0_901_0
+@Begin
+@Languages:	spa
+@Participants:	PAR 501 Speaker
+@ID:	spa|narratives|PAR||male|||Speaker|||
+@Media:	501_spanish,audio
+*PAR:	c√≥mo empieza el cuento, bueno. 0_5616
+%pos: c√.NOUN ≥.SYM mo.X empieza.VERB el.DET cuento.NOUN ,.PUNCT bueno.INTJ
+*PAR:	bueno (..) el cuento empieza con, cuando su madre le, la madre le
+	dice a la caperucita roja que le lleve &-ah un poco de comida a la
+	abuela porque estaba enferma. 5616_27796
+%pos: bueno.INTJ el.DET cuento.NOUN empieza.VERB con.ADP ,.PUNCT cuando.SCONJ su.DET madre.NOUN le.PRON ,.PUNCT la.DET madre.NOUN le.PRON dice.VERB a.ADP la.DET caperucita.NOUN roja.ADJ que.SCONJ le.PRON lleve.VERB un.DET poco.PRON de.ADP comida.NOUN a.ADP la.DET abuela.NOUN porque.SCONJ estaba.AUX enferma.ADJ
+*PAR:	la caperucita va en (..) va en un camino para (..) traerle a la
+	comida su abuela. 27796_46008
+%pos: la.DET caperucita.NOUN va.VERB en.ADP va.VERB en.ADP un.DET camino.NOUN para.ADP traerle.VERB a.ADP la.DET comida.NOUN su.DET abuela.NOUN
+*PAR:	luego, ella conoce al lobo y le dice que va a ir a la casa de su
+	abuela solo al fin del camino. 46008_63731
+%pos: luego.ADV ,.PUNCT ella.PRON conoce.VERB al.DET lobo.NOUN y.CCONJ le.PRON dice.VERB que.SCONJ va.VERB a.ADP ir.VERB a.ADP la.DET casa.NOUN de.ADP su.DET abuela.NOUN solo.ADV al.ADP fin.NOUN del.ADP camino.NOUN
+*PAR:	mientras la ni√±a est√° cogiendo flores para su abuela, el lobo va a
+	la casa de (.) de la abuela y se come la abuela. 63731_82189
+%pos: mientras.SCONJ la.DET ni√.X ±.SYM a.SYM est√.X °.SYM cogiendo.VERB flores.NOUN para.ADP su.DET abuela.NOUN ,.PUNCT el.DET lobo.NOUN va.VERB a.ADP la.DET casa.NOUN de.ADP de.ADP la.DET abuela.NOUN y.CCONJ se.PRON come.VERB la.DET abuela.NOUN
+*PAR:	s√≠ se se come la abuela. 82189_89785
+%pos: s√.VERB ≠.ADP se.PRON se.PRON come.VERB la.DET abuela.NOUN
+*PAR:	mientras la ni√±a est√° all√≠, creyendo que el lobo es su abuela,
+	poniendo todo la comida all√≠, &-um ella (...) el lobo parece
+	bastante hambriento. 89785_115481
+%pos: mientras.SCONJ la.PRON ni√.X ±.SYM a.SYM est√.X °.PUNCT all√.X ≠.NOUN ,.PUNCT creyendo.VERB que.SCONJ el.DET lobo.NOUN es.AUX su.DET abuela.NOUN ,.PUNCT poniendo.VERB todo.DET la.DET comida.NOUN all√.ADV ≠.PROPN ,.PUNCT ella.PRON el.DET lobo.NOUN parece.VERB bastante.PRON hambriento.ADJ
+*PAR:	la chica est√° pregunta, abuela por qu√© (.) por por qu√© (..) por qu√©
+	tienes los, las u√±as tan largas. 115479_133248
+%pos: la.DET chica.NOUN est√.AUX °.SYM pregunta.VERB ,.PUNCT abuela.VERB por.ADP qu√.X ©.SYM por.ADP por.ADP qu√.X ©.SYM por.ADP qu√.DET ©.SYM tienes.VERB los.DET ,.PUNCT las.DET u√.NOUN ±.X as.ADV tan.ADV largas.ADJ
+*PAR:	la, el lobo responde, para abrazate cari√±o. 133248_140620
+%pos: la.PRON ,.PUNCT el.DET lobo.NOUN responde.VERB ,.PUNCT para.SCONJ abrazate.VERB cari√.X ±.SYM o.CCONJ
+*PAR:	&-uh (..) y por qu√© tienes una boca tan grande, para comerte. 140620_149100
+%pos: y.CCONJ por.ADP qu√.NOUN ©.SYM tienes.VERB una.DET boca.NOUN tan.ADV grande.ADJ ,.PUNCT para.ADP comerte.VERB
+*PAR:	mientras el lobo quiere (.) persigue a la ni√±a por la, por toda la
+	casa de la abuela un xxx el le√±ador oye a la ni√±a gritar.
+	149100_170301
+%pos: mientras.SCONJ el.DET lobo.NOUN quiere.VERB persigue.VERB a.ADP la.DET ni√.NOUN ±.CCONJ a.ADP por.ADP la.DET ,.PUNCT por.ADP toda.ADJ la.DET casa.NOUN de.ADP la.DET abuela.NOUN un.DET xxx.X el.DET le√.NOUN ±.CCONJ ador.VERB oye.VERB a.ADP la.DET ni√.NOUN ±.CCONJ a.ADP gritar.VERB
+*PAR:	√©l viene adentro del xxx y mata al lobo. 170301_177534
+%pos: √.DET ©.NOUN l.PRON viene.VERB adentro.ADV del.ADP xxx.X y.CCONJ mata.VERB al.DET lobo.NOUN
+*PAR:	encontr√≥ el xxx. 177534_193041
+%pos: encontr√.VERB ≥.X el.DET xxx.NOUN
+*PAR:	y vivieron felices para siempre. 193041_197399
+%pos: y.CCONJ vivieron.VERB felices.NOUN para.ADP siempre.ADV
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-07-19 13:52:53.662573

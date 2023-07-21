@@ -1,0 +1,125 @@
+@UTF8
+@Window:	128_197_668_1071_-1_-1_525_0_525_0
+@Begin
+@Languages:	spa,eng
+@Participants:	PAR 212 Speaker
+@ID:	spa|narratives|PAR||male|||Speaker|||
+@Media:	212_spanish,audio
+*PAR:	Caperucita Roja de Charles Perrault. 0_9000
+%pos: Caperucita.NOUN Roja.ADJ de.ADP Charles.PROPN Perrault.PROPN
+*PAR:	una niña, Caperucita Roja, estaba muy contenta. 9000_15691
+%pos: una.DET niña.NOUN ,.PUNCT Caperucita.PROPN Roja.PROPN ,.PUNCT estaba.AUX muy.ADV contenta.ADJ
+*PAR:	estaba bailando en su casa. 15691_17386
+%pos: estaba.AUX bailando.VERB en.ADP su.DET casa.NOUN
+*PAR:	porque tenía una capa nueva color &-um roja. 17386_22255
+%pos: porque.SCONJ tenía.VERB una.DET capa.NOUN nueva.ADJ color.NOUN roja.ADJ
+*PAR:	y la abuelita la estaba mirando también muy contenta y aplaudiendo mientras Caperucita Roja bailaba en su casa. 22255_36512
+%pos: y.CCONJ la.DET abuelita.NOUN la.PRON estaba.AUX mirando.VERB también.ADV muy.ADV contenta.ADJ y.CCONJ aplaudiendo.VERB mientras.SCONJ Caperucita.PROPN Roja.PROPN bailaba.VERB en.ADP su.DET casa.NOUN
+*PAR:	los pajaritos cantaban también. 36512_39313
+%pos: los.DET pajaritos.NOUN cantaban.VERB también.ADV
+*PAR:	la Caperucita Roja se fue de su casa. 39313_50112
+%pos: la.DET Caperucita.PROPN Roja.PROPN se.PRON fue.VERB de.ADP su.DET casa.NOUN
+*PAR:	y le dijo adiós a su mamá. 50212_51916
+%pos: y.CCONJ le.PRON dijo.VERB adiós.ADV a.ADP su.DET mamá.NOUN
+*PAR:	y en su brazo llevaba una canasta con bebidas y comida. 52916_57389
+%pos: y.CCONJ en.ADP su.DET brazo.NOUN llevaba.VERB una.DET canasta.NOUN con.ADP bebidas.NOUN y.CCONJ comida.NOUN
+*PAR:	de repente, del bosque salió un lobo. 57389_66278
+%pos: de.ADP repente.ADV ,.PUNCT del.ADP bosque.NOUN salió.VERB un.DET lobo.NOUN
+*PAR:	y ib(a) [//] que iba a atacar a Caperucita Roja. 66278_70696
+%pos: y.CCONJ iba.VERB que.CCONJ iba.VERB a.ADP atacar.VERB a.ADP Caperucita.PROPN Roja.PROPN
+*PAR:	y detrás del lobo venía un cazador con una hacha <que parece> [//] que parecía estaba molesto con el lobo. 70696_82201
+%pos: y.CCONJ detrás.ADV del.ADP lobo.NOUN venía.VERB un.DET cazador.NOUN con.ADP una.DET hacha.NOUN que.SCONJ parece.VERB que.SCONJ parecía.VERB estaba.AUX molesto.ADJ con.ADP el.DET lobo.NOUN
+*PAR:	el lobo decidió entrar a una casa en el bosque. 82201_94658
+%pos: el.DET lobo.NOUN decidió.VERB entrar.VERB a.ADP una.DET casa.NOUN en.ADP el.DET bosque.NOUN
+*PAR:	(..) la Caperucita Roja estaba (.) recogiendo flores en el bosque mientras que el lobo, sin ella darse cuenta, estaba entrando <a la> [//] a una casa en el bosque. 94658_126362
+%pos: la.DET Caperucita.NOUN Roja.ADJ estaba.AUX recogiendo.VERB flores.NOUN en.ADP el.DET bosque.NOUN mientras.ADV que.SCONJ el.DET lobo.NOUN ,.PUNCT sin.ADP ella.PRON darse.VERB cuenta.NOUN ,.PUNCT estaba.AUX entrando.VERB a.ADP la.DET a.ADP una.DET casa.NOUN en.ADP el.DET bosque.NOUN
+*PAR:	el lobo pensó. 126362_133227
+%pos: el.DET lobo.NOUN pensó.VERB
+*PAR:	se le ocurrió un plan al lobo. 133227_136846
+%pos: se.PRON le.PRON ocurrió.VERB un.DET plan.NOUN al.DET lobo.NOUN
+*PAR:	y lo que hizo fue atacar a la abuelita en su casa. 136846_141958
+%pos: y.CCONJ lo.PRON que.SCONJ hizo.VERB fue.AUX atacar.VERB a.ADP la.DET abuelita.NOUN en.ADP su.DET casa.NOUN
+*PAR:	&-hm el lobo, después de atacar a la abuelita, no sabemos si se la comió. 141958_153754
+%pos: el.DET lobo.NOUN ,.PUNCT después.ADV de.ADP atacar.VERB a.ADP la.DET abuelita.NOUN ,.PUNCT no.ADV sabemos.VERB si.SCONJ se.PRON la.PRON comió.VERB
+*PAR:	&-um decidió vestirse de la abuelita y hacerse pasar por la abuelita cuan(do) [//] para cuando llegara Caperucita Roja, Caperucita Roja se creyera <que e(lla)> [//] que el lobo era su abuelita. 153754_171004
+%pos: decidió.VERB vestirse.VERB de.ADP la.DET abuelita.NOUN y.CCONJ hacerse.VERB pasar.VERB por.ADP la.DET abuelita.NOUN cuando.SCONJ para.ADP cuando.SCONJ llegara.VERB Caperucita.PROPN Roja.PROPN ,.PUNCT Caperucita.PROPN Roja.PROPN se.PRON creyera.VERB que.SCONJ ella.PRON que.SCONJ el.DET lobo.NOUN era.AUX su.DET abuelita.NOUN
+*PAR:	y Caperucita Roja entró. 171004_173284
+%pos: y.CCONJ Caperucita.PROPN Roja.PROPN entró.VERB
+*PAR:	y no se dio cuenta que la persona que estaba en la cama no era su abuelita, sino el lobo. 173284_179742
+%pos: y.CCONJ no.ADV se.PRON dio.VERB cuenta.NOUN que.SCONJ la.DET persona.NOUN que.SCONJ estaba.VERB en.ADP la.DET cama.NOUN no.ADV era.AUX su.DET abuelita.NOUN ,.PUNCT sino.CCONJ el.DET lobo.NOUN
+*PAR:	y puso unas florecitas <en un> [//] en la mesa con unas galletas que ella había traído. 179742_188559
+%pos: y.CCONJ puso.VERB unas.DET florecitas.NOUN en.ADP un.DET en.ADP la.DET mesa.NOUN con.ADP unas.DET galletas.NOUN que.SCONJ ella.PRON había.AUX traído.VERB
+*PAR:	de repente, cuando la Caperucita Roja fue a verificar cómo se sentía su abuelita, que estaba en la cama, o la persona que ella creía que era su abuelita estaba en la cama, se sorprendió. 188559_209039
+%pos: de.ADP repente.ADV ,.PUNCT cuando.SCONJ la.DET Caperucita.PROPN Roja.PROPN fue.VERB a.ADP verificar.VERB cómo.ADV se.PRON sentía.VERB su.DET abuelita.NOUN ,.PUNCT que.SCONJ estaba.VERB en.ADP la.DET cama.NOUN ,.PUNCT o.CCONJ la.DET persona.NOUN que.SCONJ ella.PRON creía.VERB que.SCONJ era.AUX su.DET abuelita.NOUN estaba.VERB en.ADP la.DET cama.NOUN ,.PUNCT se.PRON sorprendió.VERB
+*PAR:	porque vio que tenía [//] la abuelita tenía unos (.) orejas [//] unas orejas muy grandes, más grandes de lo que ella se acordaba. 209039_218201
+%pos: porque.SCONJ vio.VERB que.SCONJ tenía.VERB la.DET abuelita.NOUN tenía.VERB unos.DET orejas.NOUN unas.DET orejas.NOUN muy.ADV grandes.ADJ ,.PUNCT más.ADV grandes.ADJ de.ADP lo.PRON que.PRON ella.PRON se.PRON acordaba.VERB
+*PAR:	y le dijo +"/. 218201_219440
+%pos: y.CCONJ le.PRON dijo.VERB +"/.SYM
+*PAR:	+" abuelita, por qué tienes esas orejas tan grandes? 219440_223070
+%pos: +".SYM abuelita.NOUN ,.PUNCT por.ADP qué.PRON tienes.VERB esas.DET orejas.NOUN tan.ADV grandes.ADJ
+*PAR:	&-um y de repente, salió de la cama corriendo el lobo vestido de la abuelita. 223070_234686
+%pos: y.CCONJ de.ADP repente.ADV ,.PUNCT salió.VERB de.ADP la.DET cama.NOUN corriendo.VERB el.DET lobo.NOUN vestido.ADJ de.ADP la.DET abuelita.NOUN
+*PAR:	y la Caperucita Roja se asustó. 234686_239297
+%pos: y.CCONJ la.DET Caperucita.NOUN Roja.ADJ se.PRON asustó.VERB
+*PAR:	y salió corriendo para que el lobo no se la comiera. 239297_242936
+%pos: y.CCONJ salió.VERB corriendo.VERB para.ADP que.SCONJ el.DET lobo.NOUN no.ADV se.PRON la.PRON comiera.VERB
+*PAR:	a todo esto, el lobo se tropezó con la mesa de noche. 242936_247806
+%pos: a.ADP todo.DET esto.PRON ,.PUNCT el.DET lobo.NOUN se.PRON tropezó.VERB con.ADP la.DET mesa.NOUN de.ADP noche.NOUN
+*PAR:	y tumbó las flores y la vela que habían encima de la mesa de noche. 247806_254575
+%pos: y.CCONJ tumbó.VERB las.DET flores.NOUN y.CCONJ la.DET vela.NOUN que.SCONJ habían.VERB encima.ADV de.ADP la.DET mesa.NOUN de.ADP noche.NOUN
+*PAR:	al parecer, el lobo se comió a la Caperucita Roja además de a la abuelita, parece. 254575_270637
+%pos: al.ADP parecer.NOUN ,.PUNCT el.DET lobo.NOUN se.PRON comió.VERB a.ADP la.DET Caperucita.NOUN Roja.ADJ además.ADV de.ADP a.ADP la.DET abuelita.NOUN ,.PUNCT parece.VERB
+*PAR:	porque estaba tan y tan lleno que se cansó. 270637_275218
+%pos: porque.SCONJ estaba.VERB tan.ADV y.CCONJ tan.ADV lleno.ADJ que.SCONJ se.PRON cansó.VERB
+*PAR:	y no pudo caminar más. 275218_276338
+%pos: y.CCONJ no.ADV pudo.AUX caminar.VERB más.ADV
+*PAR:	y se puso a descansar en la cama de la abuelita. 276338_282081
+%pos: y.CCONJ se.PRON puso.VERB a.ADP descansar.VERB en.ADP la.DET cama.NOUN de.ADP la.DET abuelita.NOUN
+*PAR:	a todo esto, un cazador <se dio cuenta de> [///] escuchó [/] &-um escuchó &-um lo que estaba pasando. 282081_296138
+%pos: a.ADP todo.DET esto.PRON ,.PUNCT un.DET cazador.NOUN se.PRON dio.VERB cuenta.NOUN de.ADP escuchó.VERB escuchó.VERB lo.PRON que.SCONJ estaba.AUX pasando.VERB
+*PAR:	y decidió entrar a la casa de la abuelita para ver qué es lo que estaba pasando. 296138_298601
+%pos: y.CCONJ decidió.VERB entrar.VERB a.ADP la.DET casa.NOUN de.ADP la.DET abuelita.NOUN para.ADP ver.VERB qué.PRON es.AUX lo.PRON que.SCONJ estaba.AUX pasando.VERB
+*PAR:	y entró sigilosamente para hacerle algo al lobo. 298601_307432
+%pos: y.CCONJ entró.VERB sigilosamente.ADV para.SCONJ hacerle.VERB algo.PRON al.ADP lobo.NOUN
+*PAR:	oh y el cazador lo que hizo fue, mientras el lobo dormía, cortó [//] &=laughs le cortó, no [///] abrió la barriga del lobo. 307432_324822
+%pos: oh.INTJ y.CCONJ el.DET cazador.NOUN lo.PRON que.SCONJ hizo.VERB fue.AUX ,.PUNCT mientras.SCONJ el.DET lobo.NOUN dormía.VERB ,.PUNCT cortó.VERB le.PRON cortó.VERB ,.PUNCT no.ADV abrió.VERB la.DET barriga.NOUN del.ADP lobo.NOUN
+*PAR:	y de la barriga del lobo salieron Caperucita Roja y su abuelita intactas sin haberles pasado nada. 324822_332688
+%pos: y.CCONJ de.ADP la.DET barriga.NOUN del.ADP lobo.NOUN salieron.VERB Caperucita.PROPN Roja.PROPN y.CCONJ su.DET abuelita.NOUN intactas.ADJ sin.ADP haberles.AUX pasado.VERB nada.PRON
+*PAR:	y todos celebraron juntos. 332688_335324
+%pos: y.CCONJ todos.PRON celebraron.VERB juntos.ADJ
+*PAR:	entonces, mientras el lobo seguía durmiendo y no se daba cuenta de nada de esto, le pusieron piedras adentro del [//] la barriga del [/] del lobo. 335324_354961
+%pos: entonces.ADV ,.PUNCT mientras.SCONJ el.DET lobo.NOUN seguía.VERB durmiendo.VERB y.CCONJ no.ADV se.PRON daba.VERB cuenta.NOUN de.ADP nada.PRON de.ADP esto.PRON ,.PUNCT le.PRON pusieron.VERB piedras.NOUN adentro.ADV del.ADP la.DET barriga.NOUN del.ADP del.ADP lobo.NOUN
+*PAR:	piedras que Caperucita Roja y su perro, o el perro del cazador, &-um trajeron de afuera [///] ayudaron al cazador a hacer todo esto. 354961_366321
+%pos: piedras.NOUN que.SCONJ Caperucita.PROPN Roja.PROPN y.CCONJ su.DET perro.NOUN ,.PUNCT o.CCONJ el.DET perro.NOUN del.ADP cazador.NOUN ,.PUNCT trajeron.VERB de.ADP afuera.ADV ayudaron.VERB al.ADP cazador.NOUN a.ADP hacer.VERB todo.DET esto.PRON
+*PAR:	y la abuelita le cosió la barriga al lobo con las piedras adentro. 366321_374610
+%pos: y.CCONJ la.DET abuelita.NOUN le.PRON cosió.VERB la.DET barriga.NOUN al.ADP lobo.NOUN con.ADP las.DET piedras.NOUN adentro.ADV
+*PAR:	&=laughs entonces, el lobo se despertó de repente. 374610_386353
+%pos: entonces.ADV ,.PUNCT el.DET lobo.NOUN se.PRON despertó.VERB de.ADP repente.ADV
+*PAR:	se despertó. 386353_387592
+%pos: se.PRON despertó.VERB
+*PAR:	y se sentía lleno todavía. 387592_389086
+%pos: y.CCONJ se.PRON sentía.VERB lleno.ADJ todavía.ADV
+*PAR:	y se creía que toda esa llenura era porque se había comido a la abuelita y a la Caperucita Roja. 389086_395190
+%pos: y.CCONJ se.PRON creía.VERB que.SCONJ toda.DET esa.DET llenura.NOUN era.VERB porque.SCONJ se.PRON había.AUX comido.VERB a.ADP la.DET abuelita.NOUN y.CCONJ a.ADP la.DET Caperucita.NOUN Roja.ADJ
+*PAR:	pero en realidad eran las piedras que le habían puesto dentro. 395190_399613
+%pos: pero.CCONJ en.ADP realidad.NOUN eran.AUX las.DET piedras.NOUN que.SCONJ le.PRON habían.AUX puesto.VERB dentro.ADV
+*PAR:	y a todo esto, la abuelita, Caperucita Roja y el cazador veían cómo el lobo caminaba lentamente. 399613_407947
+%pos: y.CCONJ a.ADP todo.DET esto.PRON ,.PUNCT la.DET abuelita.NOUN ,.PUNCT Caperucita.PROPN Roja.PROPN y.CCONJ el.DET cazador.NOUN veían.VERB cómo.ADV el.DET lobo.NOUN caminaba.VERB lentamente.ADV
+*PAR:	y se reían de él, como no podía casi caminar. 407947_413039
+%pos: y.CCONJ se.PRON reían.VERB de.ADP él.PRON ,.PUNCT como.SCONJ no.ADV podía.AUX casi.ADV caminar.VERB
+*PAR:	y parece que cuando [///] al lobo le dio sed, trató de tomar agua. 413039_419939
+%pos: y.CCONJ parece.VERB que.SCONJ cuando.SCONJ al.ADP lobo.NOUN le.PRON dio.VERB sed.NOUN ,.PUNCT trató.VERB de.ADP tomar.VERB agua.NOUN
+*PAR:	y se cayó en el pozo. 419939_422205
+%pos: y.CCONJ se.PRON cayó.VERB en.ADP el.DET pozo.NOUN
+*PAR:	&-um pues la abuelita le dio las gracias al cazador y a su nieta, la Caperucita Roja. 422205_435357
+%pos: pues.SCONJ la.DET abuelita.NOUN le.PRON dio.VERB las.DET gracias.NOUN al.ADP cazador.NOUN y.CCONJ a.ADP su.DET nieta.NOUN ,.PUNCT la.DET Caperucita.NOUN Roja.ADJ
+*PAR:	y el cazador decidió pues &-um acompañó a Caperucita Roja de vuelta a su casa. 435357_443897
+%pos: y.CCONJ el.DET cazador.NOUN decidió.VERB pues.SCONJ acompañó.VERB a.ADP Caperucita.PROPN Roja.PROPN de.ADP vuelta.NOUN a.ADP su.DET casa.NOUN
+*PAR:	y todos se dijeron adiós. 443897_449913
+%pos: y.CCONJ todos.PRON se.PRON dijeron.VERB adiós.ADV
+*PAR:	y vivieron felices. 449913_453383
+%pos: y.CCONJ vivieron.VERB felices.NOUN
+*PAR:	y colorín colorado, este cuento se ha acabado. 453383_455696
+%pos: y.CCONJ colorín.NOUN colorado.ADJ ,.PUNCT este.DET cuento.NOUN se.PRON ha.AUX acabado.VERB
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:20:32.780354

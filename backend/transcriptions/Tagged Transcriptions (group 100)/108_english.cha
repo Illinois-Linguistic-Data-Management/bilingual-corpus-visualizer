@@ -1,0 +1,54 @@
+@UTF8
+@Window:	114_663_668_685_-1_-1_577_0_577_0
+@Begin
+@Languages:	eng
+@Participants:	PAR 108 Speaker
+@ID:	eng|narratives|PAR||male|||Speaker|||
+@Media:	108_english, audio
+*PAR:	the girl was with her grandmother (...). 0_9695
+%pos: the.DET girl.NOUN was.VERB with.ADP her.PRON grandmother.NOUN
+*PAR:	the girl said (.) bye to her mom, or grandmother. 9695_20864
+%pos: the.DET girl.NOUN said.VERB bye.NOUN to.ADP her.PRON mom.NOUN ,.PUNCT or.CCONJ grandmother.NOUN
+*PAR:	the wolf followed (.) the girl (...) while a man was hunting him (...). 20864_36049
+%pos: the.DET wolf.NOUN followed.VERB the.DET girl.NOUN while.SCONJ a.DET man.NOUN was.AUX hunting.VERB him.PRON
+*PAR:	the wolf made it to the house (...). 36049_42695
+%pos: the.DET wolf.NOUN made.VERB it.PRON to.ADP the.DET house.NOUN
+*PAR:	no (..), <the wo(lf)> [/] the wolf. 42695_45788
+%pos: no.INTJ ,.PUNCT the.DET wolf.NOUN the.DET wolf.NOUN
+*PAR:	<RES> [e]. 45788_46631
+*PAR:	<no you [//] you're [/] you're good> [e]. 46631_48165
+*PAR:	<RES> [e]. 48165_49267
+*PAR:	the wolf ate the grandma (...). 49267_58833
+%pos: the.DET wolf.NOUN ate.VERB the.DET grandma.NOUN
+*PAR:	the girl got (.) <to the grandma's> [//] to grandma's house. 58833_63872
+%pos: the.DET girl.NOUN got.VERB to.ADP the.DET grandma.NOUN 's.PART to.ADP grandma.NOUN 's.PART house.NOUN
+*PAR:	and put the flowers in the pot (...). 63872_72975
+%pos: and.CCONJ put.VERB the.DET flowers.NOUN in.ADP the.DET pot.NOUN
+*PAR:	the girl tried to see her grandma. 72975_75487
+%pos: the.DET girl.NOUN tried.VERB to.PART see.VERB her.PRON grandma.NOUN
+*PAR:	but <the gran(dma)> [//] the wolf (..) covered itself (...). 75487_87570
+%pos: but.CCONJ the.DET grandma.NOUN the.DET wolf.NOUN covered.VERB itself.PRON
+*PAR:	then the wolf (.) tried to eat (.) her. 87570_91557
+%pos: then.ADV the.DET wolf.NOUN tried.VERB to.PART eat.VERB her.PRON
+*PAR:	and she ran (...). 91557_101354
+%pos: and.CCONJ she.PRON ran.VERB
+*PAR:	after the wolf ate the girl (..), the hunter went. 101354_105363
+%pos: after.SCONJ the.DET wolf.NOUN ate.VERB the.DET girl.NOUN ,.PUNCT the.DET hunter.NOUN went.VERB
+*PAR:	and shot the wolf (...). 105363_113870
+%pos: and.CCONJ shot.VERB the.DET wolf.NOUN
+*PAR:	he cut the wolf open. 113870_115696
+%pos: he.PRON cut.VERB the.DET wolf.NOUN open.ADJ
+*PAR:	and took the girl and the grandma out (...). 115696_126079
+%pos: and.CCONJ took.VERB the.DET girl.NOUN and.CCONJ the.DET grandma.NOUN out.ADV
+*PAR:	then they put rocks inside of the wolf. 126079_129224
+%pos: then.ADV they.PRON put.VERB rocks.NOUN inside.ADV of.ADP the.DET wolf.NOUN
+*PAR:	and sewed him back (...). 129224_138675
+%pos: and.CCONJ sewed.VERB him.PRON back.ADV
+*PAR:	then the wolf got up. 138675_140496
+%pos: then.ADV the.DET wolf.NOUN got.VERB up.ADV
+*PAR:	and left thinking that he still (..) ate them (...). 140496_150608
+%pos: and.CCONJ left.ADJ thinking.VERB that.SCONJ he.PRON still.ADV ate.VERB them.PRON
+*PAR:	then the girl and the hunter said goodbye to the grandma (..). 150608_158000
+%pos: then.ADV the.DET girl.NOUN and.CCONJ the.DET hunter.NOUN said.VERB goodbye.NOUN to.ADP the.DET grandma.NOUN
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:32:08.381141

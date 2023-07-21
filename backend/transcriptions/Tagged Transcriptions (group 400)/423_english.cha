@@ -1,0 +1,79 @@
+@UTF8
+@Window:	0_0_0_0_1127_1_2037_0_2037_0
+@Begin
+@Languages:	eng
+@Participants:	PAR 423 Speaker
+@ID:	eng|narratives|PAR||female|||Speaker|||
+@Media:	423_english, audio
+*PAR:	Little Red Riding Hood said goodbye to mom. 0_3598
+%pos: Little.ADJ Red.ADJ Riding.PROPN Hood.PROPN said.VERB goodbye.NOUN to.ADP mom.NOUN
+*PAR:	carrying a basket of goodies. 3598_6850
+%pos: carrying.VERB a.DET basket.NOUN of.ADP goodies.NOUN
+*PAR:	she was carrying grapes, a bottles of wine, cheese, and crackers. 6850_13502
+%pos: she.PRON was.AUX carrying.VERB grapes.NOUN ,.PUNCT a.DET bottles.NOUN of.ADP wine.NOUN ,.PUNCT cheese.NOUN ,.PUNCT and.CCONJ crackers.NOUN
+*PAR:	<RES> [e]. 13502_16610
+*PAR:	as she walked through the woods. 16610_24202
+%pos: as.SCONJ she.PRON walked.VERB through.ADP the.DET woods.NOUN
+*PAR:	Little Red Riding Hood was followed by a big bad wolf. 24202_31018
+%pos: Little.ADJ Red.ADJ Riding.PROPN Hood.PROPN was.AUX followed.VERB by.ADP a.DET big.ADJ bad.ADJ wolf.NOUN
+*PAR:	Little Red Riding Hood stopped along the path. 31018_43390
+%pos: Little.ADJ Red.ADJ Riding.PROPN Hood.PROPN stopped.VERB along.ADP the.DET path.NOUN
+*PAR:	and picked some flowers to bring to grandma. 43390_46142
+%pos: and.CCONJ picked.VERB some.DET flowers.NOUN to.PART bring.VERB to.ADP grandma.PROPN
+*PAR:	the wolf quickly went ahead of Little Red Riding Hood. 46142_53062
+%pos: the.DET wolf.NOUN quickly.ADV went.VERB ahead.ADV of.ADP Little.ADJ Red.ADJ Riding.PROPN Hood.PROPN
+*PAR:	to arrive at the cottage before she did. 53062_55938
+%pos: to.PART arrive.VERB at.ADP the.DET cottage.NOUN before.SCONJ she.PRON did.VERB
+*PAR:	in the cottage the big bad wolf scared grandma. 55938_70392
+%pos: in.ADP the.DET cottage.NOUN the.DET big.ADJ bad.ADJ wolf.NOUN scared.VERB grandma.NOUN
+*PAR:	when Little Red Riding Hood arrived at the cottage. 70392_88900
+%pos: when.ADV Little.ADJ Red.ADJ Riding.PROPN Hood.PROPN arrived.VERB at.ADP the.DET cottage.NOUN
+*PAR:	she arranged the flowers in a pretty vase. 88900_91025
+%pos: she.PRON arranged.VERB the.DET flowers.NOUN in.ADP a.DET pretty.ADJ vase.NOUN
+*PAR:	and put the cookies and wine out for grandma. 91025_95073
+%pos: and.CCONJ put.VERB the.DET cookies.NOUN and.CCONJ wine.NOUN out.ADP for.ADP grandma.PROPN
+*PAR:	who was in bed. 95073_96571
+%pos: who.PRON was.AUX in.ADP bed.NOUN
+*PAR:	when Little Red Riding Hood said hello to grandma. 96571_112853
+%pos: when.ADV Little.ADJ Red.ADJ Riding.PROPN Hood.PROPN said.VERB hello.NOUN to.ADP grandma.PROPN
+*PAR:	she was surprised at what big eats she had. 112853_115788
+%pos: she.PRON was.AUX surprised.VERB at.ADP what.DET big.ADJ eats.NOUN she.PRON had.VERB
+*PAR:	+" grandma what big ears you have. 115788_121617
+%pos: +".PUNCT grandma.NOUN what.DET big.ADJ ears.NOUN you.PRON have.VERB
+*PAR:	just then the big bad wolf jumped out in grandma's nightgown. 121617_134821
+%pos: just.ADV then.ADV the.DET big.ADJ bad.ADJ wolf.NOUN jumped.VERB out.ADV in.ADP grandma.PROPN 's.PART nightgown.NOUN
+*PAR:	and proceeded to chase Little Red Riding Hood. 134821_138572
+%pos: and.CCONJ proceeded.VERB to.PART chase.VERB Little.ADJ Red.PROPN Riding.PROPN Hood.PROPN
+*PAR:	<RES> [e]. 138572_216164
+*PAR:	after chasing Little Red Riding Hood around the cottage. 216164_219399
+%pos: after.SCONJ chasing.VERB Little.ADJ Red.ADJ Riding.PROPN Hood.PROPN around.ADP the.DET cottage.NOUN
+*PAR:	the big bad wolf ate Little Red Riding Hood. 219399_221648
+%pos: the.DET big.ADJ bad.ADJ wolf.NOUN ate.VERB Little.ADJ Red.PROPN Riding.PROPN Hood.PROPN
+*PAR:	and was resting on the bed with a full tummy. 221648_224820
+%pos: and.CCONJ was.AUX resting.VERB on.ADP the.DET bed.NOUN with.ADP a.DET full.ADJ tummy.NOUN
+*PAR:	just then the hunter and his basset hound came in. 224820_230603
+%pos: just.ADV then.ADV the.DET hunter.NOUN and.CCONJ his.PRON basset.NOUN hound.NOUN came.VERB in.ADV
+*PAR:	ready to get the big bad wolf. 230603_233853
+%pos: ready.ADJ to.PART get.VERB the.DET big.ADJ bad.ADJ wolf.NOUN
+*PAR:	the big bad wolf took a pair of scissors. 233853_250644
+%pos: the.DET big.ADJ bad.ADJ wolf.NOUN took.VERB a.DET pair.NOUN of.ADP scissors.NOUN
+*PAR:	and cut open the belly of the wolf. 250644_253262
+%pos: and.CCONJ cut.VERB open.ADP the.DET belly.NOUN of.ADP the.DET wolf.NOUN
+*PAR:	and out came grandma and Little Red Riding Hood. 253262_256074
+%pos: and.CCONJ out.ADV came.VERB grandma.NOUN and.CCONJ Little.ADJ Red.ADJ Riding.PROPN Hood.PROPN
+*PAR:	before sewing the wolf back up. 256074_282934
+%pos: before.SCONJ sewing.VERB the.DET wolf.NOUN back.ADV up.ADV
+*PAR:	the hunter put rocks inside his belly. 282934_288699
+%pos: the.DET hunter.NOUN put.VERB rocks.NOUN inside.ADP his.PRON belly.NOUN
+*PAR:	with all the rocks in his belly. 288699_309310
+%pos: with.ADP all.DET the.DET rocks.NOUN in.ADP his.PRON belly.NOUN
+*PAR:	the big bad wolf could no longer run fast. 309310_314868
+%pos: the.DET big.ADJ bad.ADJ wolf.NOUN could.AUX no.ADV longer.ADV run.VERB fast.ADV
+*PAR:	and had trouble seeing where he was going. 314868_318059
+%pos: and.CCONJ had.VERB trouble.NOUN seeing.VERB where.ADV he.PRON was.AUX going.VERB
+*PAR:	after a full day Little Red Riding Hood said goodbye to grandma. 318059_335977
+%pos: after.ADP a.DET full.ADJ day.NOUN Little.ADJ Red.ADJ Riding.PROPN Hood.PROPN said.VERB goodbye.NOUN to.ADP grandma.PROPN
+*PAR:	and the hunter walked her back home. 335977_339102
+%pos: and.CCONJ the.DET hunter.NOUN walked.VERB her.PRON back.ADV home.ADV
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:39:45.325771

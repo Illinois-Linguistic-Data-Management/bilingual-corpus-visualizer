@@ -1,0 +1,28 @@
+@UTF8
+@Window:	60_0_815_1440_-1_-1_1605_0_1605_0
+@Begin
+@Languages:	spa
+@Participants: PAR 505 Speaker
+@ID: spa|narratives|PAR||male|||Speaker|||
+@Media: 606,audio
+*PAR: <RES> [e].	0_3924	
+*PAR: caperucita era una niña que vivía en el bosque. 3924_9859	
+*PAR: su abuela cumplía años. 9859_16298	
+*PAR: un día su mama le dijo que le llevar a comer a su abuelita pero en el camino un lobo, un lobo, un lobo estaba destrás de ella y había cazado. 16300_34511		
+*PAR: entonces caperucita roja se xxx a cortar flores para su abuelita pero el lobo se adelantó. 34511_43267	
+*PAR: el lobo se iba a comer la abuelita. 43265_48292	
+*PAR: luego caperucita llegó y les puso las flores en agua. 48292_54399	
+*PAR: el lobo estaba en la cama, vestida como la abuelite. 54399_58859	
+*PAR: entonces la caperucita vio que tenía unos grandes ojos, unas grandes orejas y grandes manos. 58859_68775	
+*PAR: luego vio que era el lobo y se asustó. 68775_75146	
+*PAR: luego llegó alguien, un cazador con un perro para matar al lobo y sacarle lo comida.	75146_88503	
+*PAR: luego le sacó a la abuelita de la panza con unas tijeras.	 88503_97454	
+*PAR: luego el lobo le metieron piedras en la panza mientras que estaba durmiendo. 97454_103929	
+*PAR: entonces el lobo, la abuelita, caperucita y el perro y el cazador se escondieron. 103927_114654	
+*PAR: y vieron la lobo salir con las piedras 114654_119438	
+*PAR: y le dolía la panza. 119438_121289	
+*PAR: y luego se fue dentro del xxx. 121289_126142	
+*PAR: luego el cazador el perrito y la caperucita roja se fueron. 126142_134136	
+*PAR: y la abuelita se queda en su casa. 134136_136603	
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:19:07.047759

@@ -1,0 +1,120 @@
+@UTF8
+@Window:	0_0_0_0_0_0_224_0_224_0
+@Begin
+@Languages:	spa,eng
+@Participants:	PAR 516 Speaker
+@ID:	spa|narratives|PAR||female|||Speaker|||
+@Media:	516_spanish,audio
+*PAR:	<es cuando> [///] o la [/] la . 0_4391
+%pos: es.VERB cuando.SCONJ o.CCONJ la.DET la.DET
+*PAR:	<how@s do@s you@s say@s wolf@s> [e] . 4391_5797
+*PAR:	<la> [///] (.) es la . 5797_10917
+%pos: la.DET es.VERB la.DET
+*PAR:	<RES> [e] . 10917_14166
+*PAR:	&-uh la [/] la boba [: abuela][*] slash@s grandma@s . 14166_18763
+%pos: la.DET la.DET boba.NOUN slash.ADJ grandma.NOUN
+*PAR:	<RES> [e] . 18763_20133
+*PAR:	la abuela . 20133_20977
+%pos: la.DET abuela.NOUN
+*PAR:	<RES> [e] . 20977_25056
+*PAR:	<&-um este> [///] están feliz [: felices][*] . 25056_31786
+%pos: este.PRON están.AUX feliz.ADJ
+*PAR:	<RES> [e] . 31786_32646
+*PAR:	de caperucita roja . 32646_34876
+%pos: de.ADP caperucita.NOUN roja.ADJ
+*PAR:	<RES> [e] . 34876_40633
+*PAR:	&-uh caperucita roja y su mamá . 40633_44466
+%pos: caperucita.NOUN roja.ADJ y.CCONJ su.DET mamá.NOUN
+*PAR:	<RES> [e] . 44466_45247
+*PAR:	y están embarking@s en su journey@s de [/] &-um de ir a su
+	abuela's@s casa . 45247_55472
+%pos: y.CCONJ están.AUX embarking.VERB en.ADP su.DET journey.NOUN de.ADP de.ADP ir.VERB a.ADP su.DET abuela.NOUN 's.PART casa.NOUN
+*PAR:	<RES> [e] . 55472_58167
+*PAR:	xxx comida . 58167_61382
+%pos: xxx.X comida.NOUN
+*PAR:	aquí, la [: el][*] lobo . 61382_64317
+%pos: aquí.ADV ,.PUNCT la.DET lobo.NOUN
+*PAR:	<RES> [e] . 64317_64910
+*PAR:	es [: está][*] tratando de comer a caperucita roja . 64910_68863
+%pos: es.AUX tratando.VERB de.ADP comer.VERB a.ADP caperucita.NOUN roja.ADJ
+*PAR:	<RES> [e] . 68863_69342
+*PAR:	y la persona que es . 69342_72175
+%pos: y.CCONJ la.DET persona.NOUN que.SCONJ es.VERB
+*PAR:	<RES> [e] . 72175_73195
+*PAR:	&-uh la (.) madera . 73195_75685
+%pos: la.DET madera.NOUN
+*PAR:	<RES> [e] . 75685_76435
+*PAR:	<está> [//] estás [: está][*] &-um enojado . 76435_80998
+%pos: está.AUX estás.AUX enojado.ADJ
+*PAR:	<RES> [e] . 80998_84029
+*PAR:	&-um (.) la [: el][*] lobo <está> [//] estás [: está][*] en la casa
+	. 84029_94248
+%pos: la.DET lobo.NOUN está.VERB estás.VERB en.ADP la.DET casa.NOUN
+*PAR:	&-um in@s front@s de la casa de [/] de la abuela . 94248_102056
+%pos: in.ADP front.NOUN de.ADP la.DET casa.NOUN de.ADP de.ADP la.DET abuela.NOUN
+*PAR:	<RES> [e] . 102056_102806
+*PAR:	cuando caperucita roja está &-um picking@s las flores . 102806_108690
+%pos: cuando.SCONJ caperucita.NOUN roja.ADJ está.AUX picking.VERB las.DET flores.NOUN
+*PAR:	<RES> [e] . 108690_113267
+*PAR:	la [/] la [: el][*] lobo come a abuelita . 113267_117267
+%pos: la.DET la.DET lobo.NOUN come.VERB a.ADP abuelita.NOUN
+*PAR:	<RES> [e] . 117267_120383
+*PAR:	caperucita roja pone flores en la vasa . 120383_129437
+%pos: caperucita.NOUN roja.ADJ pone.VERB flores.NOUN en.ADP la.DET vasa.NOUN
+*PAR:	<y la> [/] y la lobo quiere comer a ella . 129437_134399
+%pos: y.CCONJ la.DET y.CCONJ la.DET lobo.NOUN quiere.VERB comer.VERB a.ADP ella.PRON
+*PAR:	<RES> [e] . 134399_139274
+*PAR:	caperucita roja xxx &-um tu [/] <tu abuela> [/] tu [: su][*] abuela
+	que es el [/] el lobo . 139274_148259
+%pos: caperucita.NOUN roja.ADJ xxx.X tu.ADJ tu.DET abuela.NOUN tu.ADJ abuela.NOUN que.SCONJ es.VERB el.DET el.DET lobo.NOUN
+*PAR:	<RES> [e] . 148259_151321
+*PAR:	<where do those stories come out of> [e] . 151321_153414
+*PAR:	y la [: el][*] &-um lobo trató de comer caperucita roja . 153414_161481
+%pos: y.CCONJ la.DET lobo.NOUN trató.VERB de.ADP comer.VERB caperucita.NOUN roja.ADJ
+*PAR:	<RES> [e] . 161481_162996
+*PAR:	la [: el][*] woodchopper@s viene y &-um &-ah &-uh lobo que come a su
+	abuelita y caperucita roja . 162996_181052
+%pos: la.DET woodchopper.NOUN viene.VERB y.CCONJ lobo.NOUN que.SCONJ come.VERB a.ADP su.DET abuelita.NOUN y.CCONJ caperucita.NOUN roja.ADJ
+*PAR:	<RES> [e] . 181052_182005
+*PAR:	y [/] y va &-um destruye [: destruyendo][*] . 182005_186052
+%pos: y.CCONJ y.CCONJ va.VERB destruye.VERB
+*PAR:	<RES> [e] . 186052_191612
+*PAR:	pero (.) la [/] <la pers(ona)> [///] la [: el][*] woodcutter@s . 191612_200528
+%pos: pero.CCONJ la.DET la.DET persona.NOUN la.DET woodcutter.NOUN
+*PAR:	<RES> [e] . 200528_200937
+*PAR:	se [/] &-um se hace xxx . 200937_204969
+%pos: se.PRON se.PRON hace.VERB xxx.PROPN
+*PAR:	<RES> [e] . 204969_205633
+*PAR:	&-um que destruió a [/] a ello [: él][*] . 205633_209076
+%pos: que.SCONJ destruió.VERB a.ADP a.ADP ello.PRON
+*PAR:	y caperucita roja y su abuelita son [: están][*] bien . 209076_213998
+%pos: y.CCONJ caperucita.NOUN roja.ADJ y.CCONJ su.DET abuelita.NOUN son.VERB bien.ADV
+*PAR:	<RES> [e] . 213998_219088
+*PAR:	y (.) poner rocas . 219088_222861
+%pos: y.CCONJ poner.VERB rocas.NOUN
+*PAR:	<RES> [e] . 222861_223580
+*PAR:	<en ello [: el][*]> [//] &-uh en el lobo . 223580_228401
+%pos: en.ADP ello.PRON en.ADP el.DET lobo.NOUN
+*PAR:	<RES> [e] . 228401_229261
+*PAR:	<y la> [/] y la abuela estecha [: cose][*] . 229261_232374
+%pos: y.CCONJ la.DET y.CCONJ la.DET abuela.ADJ estecha.NOUN
+*PAR:	<RES> [e] . 232374_237958
+*PAR:	y la [: el][*] lobo &-um va a hacer woof@s woof@s . 237958_251030
+%pos: y.CCONJ la.DET lobo.NOUN va.VERB a.ADP hacer.VERB woof.PROPN woof.PROPN
+*PAR:	<RES> [e] . 251030_251726
+*PAR:	<he@s wouldn't@s have@s survived@s from@s that@s> [e] . 251726_253601
+*PAR:	<RES> [e] . 253601_254408
+*PAR:	<<if@s it@s wasn't@s fic(tional)@s> [//] if@s it@s wasn't@s this@s
+	fictional@s> [e] . 254408_257127
+%pos: <.PUNCT if.SCONJ it.PRON was.AUX n't.PART fictional.ADJ if.SCONJ it.PRON was.AUX n't.PART this.DET fictional.ADJ >.PUNCT
+*PAR:	<RES> [e] . 257127_260526
+*PAR:	y . 260526_262073
+%pos: y.CCONJ
+*PAR:	<RES> [e] . 262073_262997
+*PAR:	y caperucita roja dice adiós a su abuela . 262997_268077
+%pos: y.CCONJ caperucita.NOUN roja.ADJ dice.VERB adiós.ADV a.ADP su.DET abuela.NOUN
+*PAR:	y la [: el][*] &-um woodchopper@s se ayudó <cap(erucita)> [//] a
+	caperucita roja a casa . 268077_276022
+%pos: y.CCONJ la.DET woodchopper.NOUN se.PRON ayudó.VERB caperucita.NOUN a.ADP caperucita.NOUN roja.ADJ a.ADP casa.NOUN
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:29:41.732730

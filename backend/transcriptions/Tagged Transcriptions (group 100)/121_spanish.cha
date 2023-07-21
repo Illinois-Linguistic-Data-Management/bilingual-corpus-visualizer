@@ -1,0 +1,95 @@
+@UTF8
+@Window:	116_211_668_1071_-1_-1_530_0_530_0
+@Begin
+@Languages:	spa,eng
+@Participants:	PAR 121 Speaker
+@ID:	spa|narratives|PAR||female|||Speaker|||
+@Media:	121_spanish,audio
+*PAR:	Caperucita Roja, de Charles Perrault. 0_2572
+%pos: Caperucita.PROPN Roja.PROPN ,.PUNCT de.ADP Charles.PROPN Perrault.PROPN
+*PAR:	voy a como a decir qué está en la foto. 2572_6730
+%pos: voy.VERB a.ADP como.ADV a.ADP decir.VERB qué.PRON está.VERB en.ADP la.DET foto.NOUN
+*PAR:	okay@s. 6730_7819
+%pos: okay.INTJ
+*PAR:	así que hay una niña chiquita <con pelo> [/] &=laughs con pelo amarillo. 7819_14684
+%pos: así.ADV que.CCONJ hay.VERB una.DET niña.NOUN chiquita.ADJ con.ADP pelo.VERB con.ADP pelo.VERB amarillo.ADJ
+*PAR:	y está con su abuela. 14684_16984
+%pos: y.CCONJ está.VERB con.ADP su.DET abuela.NOUN
+*PAR:	y era su cumpleaños. 16984_18684
+%pos: y.CCONJ era.AUX su.DET cumpleaños.NOUN
+*PAR:	así que su abuela le dio una caperucita roja. 18684_23048
+%pos: así.ADV que.CCONJ su.DET abuela.NOUN le.PRON dio.VERB una.DET caperucita.NOUN roja.ADJ
+*PAR:	la niña <con su> [//] &-um perdón, su nueva caperucita roja fue <con una> [//] con un almuerzo. 23048_41304
+%pos: la.DET niña.NOUN con.ADP su.DET perdón.NOUN ,.PUNCT su.DET nueva.ADJ caperucita.NOUN roja.ADJ fue.VERB con.ADP una.PRON con.ADP un.DET almuerzo.NOUN
+*PAR:	y dijo adiós a su mamá. 41304_43521
+%pos: y.CCONJ dijo.VERB adiós.ADV a.ADP su.DET mamá.NOUN
+*PAR:	<la ni(ña)> [///] en su camino, <la niña> [//] digo, un lobo fue [//] quería comer a la niña. 43521_56223
+%pos: la.DET niña.NOUN en.ADP su.DET camino.NOUN ,.PUNCT la.DET niña.NOUN digo.VERB ,.PUNCT un.DET lobo.NOUN fue.AUX quería.VERB comer.VERB a.ADP la.DET niña.NOUN
+*PAR:	pero había un señor &-um que paró al lobo. 56223_59879
+%pos: pero.CCONJ había.VERB un.DET señor.NOUN que.SCONJ paró.VERB al.ADP lobo.NOUN
+*PAR:	mientras la niña estaba buscando flores, creo que va a traer el almuerzo a su abuela, el lobo fue a la casa de su abuela. 59879_76488
+%pos: mientras.SCONJ la.DET niña.NOUN estaba.AUX buscando.VERB flores.NOUN ,.PUNCT creo.VERB que.SCONJ va.VERB a.ADP traer.VERB el.DET almuerzo.NOUN a.ADP su.DET abuela.NOUN ,.PUNCT el.DET lobo.NOUN fue.VERB a.ADP la.DET casa.NOUN de.ADP su.DET abuela.NOUN
+*PAR:	entonces, la [//] el lobo comió a su abuela. 76488_85018
+%pos: entonces.ADV ,.PUNCT la.DET el.DET lobo.NOUN comió.VERB a.ADP su.DET abuela.NOUN
+*PAR:	y también, ay perdón que no lo vi. 85018_89000
+%pos: y.CCONJ también.ADV ,.PUNCT ay.X perdón.NOUN que.SCONJ no.ADV lo.PRON vi.VERB
+*PAR:	pero también está pensando como de un xxx. 89000_93922
+%pos: pero.CCONJ también.ADV está.AUX pensando.VERB como.ADP de.ADP un.DET xxx.X
+*PAR:	xxx. 93922_96551
+%pos: xxx.PROPN
+*PAR:	entonces [/] entonces el lobo estaba usando la ropa de la abuela de la niña para parecer la [/] la abuela. 96551_107301
+%pos: entonces.ADV entonces.ADV el.DET lobo.NOUN estaba.AUX usando.VERB la.DET ropa.NOUN de.ADP la.DET abuela.NOUN de.ADP la.DET niña.NOUN para.ADP parecer.VERB la.DET la.DET abuela.NOUN
+*PAR:	y miró a la niña mientras la niña puso flores y el almuercito en una mesita. 107301_114247
+%pos: y.CCONJ miró.VERB a.ADP la.DET niña.NOUN mientras.SCONJ la.DET niña.NOUN puso.VERB flores.NOUN y.CCONJ el.DET almuercito.NOUN en.ADP una.DET mesita.NOUN
+*PAR:	la niña fue a su [//] lo que pensaba era su abuela. 114247_122647
+%pos: la.DET niña.NOUN fue.VERB a.ADP su.DET lo.PRON que.SCONJ pensaba.VERB era.AUX su.DET abuela.NOUN
+*PAR:	y pensaba que la abuela pareció diferente mientras el lobo trató a no enseñar su cara. 122647_131665
+%pos: y.CCONJ pensaba.VERB que.SCONJ la.DET abuela.NOUN pareció.VERB diferente.ADJ mientras.SCONJ el.DET lobo.NOUN trató.VERB a.ADP no.ADV enseñar.VERB su.DET cara.NOUN
+*PAR:	porque era el lobo. 131665_133184
+%pos: porque.SCONJ era.AUX el.DET lobo.NOUN
+*PAR:	&-um el lobo fue a comer la niñita. 133184_142448
+%pos: el.DET lobo.NOUN fue.VERB a.ADP comer.VERB la.DET niñita.NOUN
+*PAR:	o la atacó. 142448_144681
+%pos: o.CCONJ la.PRON atacó.VERB
+*PAR:	no sé. 144681_145681
+%pos: no.ADV sé.VERB
+*PAR:	después de comiendo la abuela y la niñita, el lobo fue a dormir. 145681_152681
+%pos: después.ADV de.ADP comiendo.VERB la.DET abuela.NOUN y.CCONJ la.DET niñita.NOUN ,.PUNCT el.DET lobo.NOUN fue.AUX a.ADP dormir.VERB
+*PAR:	y me olvidé de la palabra para hunter@s. 152681_157749
+%pos: y.CCONJ me.PRON olvidé.VERB de.ADP la.DET palabra.NOUN para.ADP hunter.VERB
+*PAR:	pero encontró el lobo durmiendo. 157749_159768
+%pos: pero.CCONJ encontró.VERB el.DET lobo.NOUN durmiendo.VERB
+*PAR:	y tenía su (...). 159768_164752
+%pos: y.CCONJ tenía.VERB su.ADJ
+*PAR:	el [/] el señor mató el lobo. 164752_171752
+%pos: el.DET el.DET señor.NOUN mató.VERB el.DET lobo.NOUN
+*PAR:	y abrió el estómago del lobo. 171752_174976
+%pos: y.CCONJ abrió.VERB el.DET estómago.NOUN del.ADP lobo.NOUN
+*PAR:	entonces, la niñita y la abuela están vivas. 174976_180252
+%pos: entonces.ADV ,.PUNCT la.DET niñita.NOUN y.CCONJ la.DET abuela.NOUN están.AUX vivas.ADJ
+*PAR:	<xxx la niña> [///] ay, pues no la mató. 180252_190252
+%pos: xxx.VERB la.DET niña.NOUN ay.INTJ ,.PUNCT pues.CCONJ no.ADV la.PRON mató.VERB
+*PAR:	la niña y el señor ponió [: puso] unas rocas en el estómago del lobo. 190252_195504
+%pos: la.DET niña.NOUN y.CCONJ el.DET señor.NOUN ponió.VERB unas.DET rocas.NOUN en.ADP el.DET estómago.NOUN del.ADP lobo.NOUN
+*PAR:	y la abuela lo iba a cerrar el estómago. 195504_199025
+%pos: y.CCONJ la.DET abuela.NOUN lo.PRON iba.VERB a.ADP cerrar.VERB el.DET estómago.NOUN
+*PAR:	no sé qué está haciendo. 199025_201573
+%pos: no.ADV sé.VERB qué.PRON está.AUX haciendo.VERB
+*PAR:	después de cerrando la [//] el estómago del lobo, el lobo pensó que todavía era la abuela y la niña en su estómago y no unas rocas. 201573_217619
+%pos: después.ADV de.ADP cerrando.VERB la.DET el.DET estómago.NOUN del.ADP lobo.NOUN ,.PUNCT el.DET lobo.NOUN pensó.VERB que.SCONJ todavía.ADV era.AUX la.DET abuela.NOUN y.CCONJ la.DET niña.NOUN en.ADP su.DET estómago.NOUN y.CCONJ no.ADV unas.DET rocas.NOUN
+*PAR:	fue a buscar agua. 217619_218619
+%pos: fue.VERB a.ADP buscar.VERB agua.NOUN
+*PAR:	y se cayó en el (.). 218619_220619
+%pos: y.CCONJ se.PRON cayó.VERB en.ADP el.DET
+*PAR:	ay, cómo se dice well@s. 220619_222282
+%pos: ay.INTJ ,.PUNCT cómo.INTJ se.PRON dice.VERB well.ADV
+*PAR:	y se cayó en el agua. 222282_224032
+%pos: y.CCONJ se.PRON cayó.VERB en.ADP el.DET agua.NOUN
+*PAR:	después, la abuela dijo adiós a la niñita y el señor. 224032_234439
+%pos: después.ADV ,.PUNCT la.DET abuela.NOUN dijo.VERB adiós.ADV a.ADP la.DET niñita.NOUN y.CCONJ el.DET señor.NOUN
+*PAR:	y la niña tiene un perro xxx. 234439_237936
+%pos: y.CCONJ la.DET niña.NOUN tiene.VERB un.DET perro.NOUN xxx.X
+*PAR:	sí, tiene un perro. 237936_239406
+%pos: sí.INTJ ,.PUNCT tiene.VERB un.DET perro.NOUN
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:36:21.761127

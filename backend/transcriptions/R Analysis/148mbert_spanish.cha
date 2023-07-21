@@ -1,0 +1,111 @@
+@UTF8
+@Window:	0_0_0_0_1405_1_2928_0_2928_0
+@Begin
+@Languages:	spa
+@Participants:	PAR 148 Speaker
+@ID:	spa|narratives|PAR||female|||Speaker|||
+@Media:	148_spanish,audio
+*PAR:	&-um un día, fue (.) el cumpleaños de una niña . 0_8867
+%pos: un.DET día.NOUN ,.PUNCT fue.AUX el.DET cumpleaños.NOUN de.ADP una.DET niña.NOUN
+*PAR:	y tenía una abuelita que [/] &-um (..) que (.) estaba bailando . 8867_28211
+%pos: y.CCONJ tenía.VERB una.DET abuelita.NOUN que.SCONJ que.SCONJ estaba.AUX bailando.VERB
+*PAR:	<RES> [e] . 28211_32270
+*PAR:	<&-eh (.) listo> [e] . 32270_37492
+*PAR:	<RES> [e] . 37492_38992
+*PAR:	ella se fue de su casa . 38992_47039
+%pos: ella.PRON se.PRON fue.VERB de.ADP su.DET casa.NOUN
+*PAR:	estaba diciendo adiós a su mamá . 47039_50867
+%pos: estaba.AUX diciendo.VERB adiós.ADV a.ADP su.DET mamá.NOUN
+*PAR:	y había un pajarito (.) &-uh rosado . 50867_60332
+%pos: y.CCONJ había.VERB un.DET pajarito.NOUN rosado.ADJ
+*PAR:	<RES> [e] . 60332_65313
+*PAR:	<listo> [e] . 65313_67516
+*PAR:	<RES> [e] . 67516_69797
+*PAR:	y, en el bosque, había un animal y un cazador . 69797_77844
+%pos: y.CCONJ ,.PUNCT en.ADP el.DET bosque.NOUN ,.PUNCT había.VERB un.DET animal.NOUN y.CCONJ un.DET cazador.NOUN
+*PAR:	y [/] y el animal estaba tratando de comer a la niña . 77844_85767
+%pos: y.CCONJ y.CCONJ el.DET animal.NOUN estaba.AUX tratando.VERB de.ADP comer.VERB a.ADP la.DET niña.NOUN
+*PAR:	<RES> [e] . 85767_87047
+*PAR:	<listo> [e] . 87047_89142
+*PAR:	<RES> [e] . 89142_91048
+*PAR:	<la cap(erucita)> [//] la niña estaba [/] (.) <estaba (.) recogiendo
+	flores> [//] (.) recogió flores . 91048_110188
+%pos: la.DET caperucita.NOUN la.DET niña.NOUN estaba.VERB <.PUNCT estaba.AUX recogiendo.VERB flores.NOUN >.PUNCT recogió.VERB flores.NOUN
+*PAR:	<y el> [/] <y el lobo estaba> [//] (.) y el lobo se fue <a la> [//]
+	<a una> [/] a una casa . 110188_127754
+%pos: y.CCONJ el.DET y.CCONJ el.DET lobo.NOUN estaba.VERB y.CCONJ el.DET lobo.NOUN se.PRON fue.VERB a.ADP la.DET a.ADP una.DET a.ADP una.DET casa.NOUN
+*PAR:	<listo> [e] . 127754_134619
+*PAR:	y en la casa estaba una fue una abuelita . 134619_145121
+%pos: y.CCONJ en.ADP la.DET casa.NOUN estaba.VERB una.DET fue.VERB una.DET abuelita.NOUN
+*PAR:	y el lobo se lo comió . 145121_148698
+%pos: y.CCONJ el.DET lobo.NOUN se.PRON lo.PRON comió.VERB
+*PAR:	<listo> [e] . 148698_151463
+*PAR:	y luego, cuando la niña se fue <para la> [//] a la casa que el lobo
+	<se fue en> [//] estaba en, <el lo(bo)> [/] el lobo se estaba
+	pretendiendo como si era la abuela . 151463_174947
+%pos: y.CCONJ luego.ADV ,.PUNCT cuando.SCONJ la.DET niña.NOUN se.PRON fue.VERB para.ADP la.DET a.ADP la.DET casa.NOUN que.SCONJ el.DET lobo.NOUN se.PRON fue.VERB en.ADP estaba.VERB en.ADP ,.PUNCT el.DET lobo.NOUN el.DET lobo.NOUN se.PRON estaba.AUX pretendiendo.VERB como.ADV si.CCONJ era.VERB la.DET abuela.NOUN
+*PAR:	y [/] y luego la niña ponió [: puso][*] las flores . 174947_181338
+%pos: y.CCONJ y.CCONJ luego.ADV la.DET niña.NOUN ponió.VERB las.DET flores.NOUN
+*PAR:	<listo> [e] . 181338_183448
+*PAR:	y había dos ratones debajo de la cama . 183448_186916
+%pos: y.CCONJ había.VERB dos.NUM ratones.NOUN debajo.ADV de.ADP la.DET cama.NOUN
+*PAR:	<listo> [e] . 186916_187786
+*PAR:	<RES> [e] . 187786_190622
+*PAR:	y la niña estaba muy <sorprendien(do)> [//] sorprendido
+	[: sorprendida][*] cuando vi [: vio][*] <a la pers(ona)> [///] a el
+	lobo en la cama . 190622_203435
+%pos: y.CCONJ la.DET niña.NOUN estaba.AUX muy.ADV sorprendiendo.VERB sorprendido.VERB cuando.SCONJ vi.VERB a.ADP la.DET persona.NOUN a.ADP el.DET lobo.NOUN en.ADP la.DET cama.NOUN
+*PAR:	<listo> [e] . 203435_206684
+*PAR:	y el lobo saltó de la cama . 206684_212403
+%pos: y.CCONJ el.DET lobo.NOUN saltó.VERB de.ADP la.DET cama.NOUN
+*PAR:	y fue . 212403_213205
+%pos: y.CCONJ fue.VERB
+*PAR:	y atacó a la niña . 213205_215695
+%pos: y.CCONJ atacó.VERB a.ADP la.DET niña.NOUN
+*PAR:	y trataba de comer a ella . 215695_218278
+%pos: y.CCONJ trataba.VERB de.ADP comer.VERB a.ADP ella.PRON
+*PAR:	<listo> [e] . 218278_220982
+*PAR:	y luego, el cazador entró a la casa con un perro . 220982_230233
+%pos: y.CCONJ luego.ADV ,.PUNCT el.DET cazador.NOUN entró.VERB a.ADP la.DET casa.NOUN con.ADP un.DET perro.NOUN
+*PAR:	<listo> [e] . 230233_232732
+*PAR:	<RES> [e] . 232732_238972
+*PAR:	&-ah y el lobo tenía un estómago muy grande . 238972_245566
+%pos: y.CCONJ el.DET lobo.NOUN tenía.VERB un.DET estómago.NOUN muy.ADV grande.ADJ
+*PAR:	<RES> [e] . 245566_250410
+*PAR:	&-um y luego, el cazador tenía tijeras . 250410_255926
+%pos: y.CCONJ luego.ADV ,.PUNCT el.DET cazador.NOUN tenía.VERB tijeras.NOUN
+*PAR:	y rompió &-eh la el estomago de el lobo . 255926_264192
+%pos: y.CCONJ rompió.VERB la.DET el.DET estomago.NOUN de.ADP el.DET lobo.NOUN
+*PAR:	y luego, la niña y la abuela estaban [///] (.) &-um no estaban en el
+	estómago del lobo no xxx . 264192_274550
+%pos: y.CCONJ luego.ADV ,.PUNCT la.DET niña.NOUN y.CCONJ la.DET abuela.NOUN estaban.VERB no.ADV estaban.VERB en.ADP el.DET estómago.NOUN del.ADP lobo.NOUN no.ADV xxx.X
+*PAR:	<RES> [e] . 274550_277098
+*PAR:	en el estómago de el lobo . 277098_281379
+%pos: en.ADP el.DET estómago.NOUN de.ADP el.DET lobo.NOUN
+*PAR:	<RES> [e] . 281379_287379
+*PAR:	<luego, la niña ten(ía)> [///] y luego, iban a (.) poner rocas en el
+	estómago del lobo . 287379_302833
+%pos: luego.ADV ,.PUNCT la.DET niña.NOUN tenía.VERB y.CCONJ luego.ADV ,.PUNCT iban.VERB a.ADP poner.VERB rocas.NOUN en.ADP el.DET estómago.NOUN del.ADP lobo.NOUN
+*PAR:	y [/] y <lo van> [//] lo iban a cortar para que él ten(ía) [///]
+	creía que todavía estaban adentro xxx . 302833_316146
+%pos: y.CCONJ y.CCONJ lo.PRON van.VERB lo.PRON iban.VERB a.ADP cortar.VERB para.ADP que.SCONJ él.PRON tenía.VERB creía.VERB que.SCONJ todavía.ADV estaban.VERB adentro.ADV xxx.PROPN
+*PAR:	pero, de verdad, solo son las rocas . 316146_319086
+%pos: pero.CCONJ ,.PUNCT de.ADP verdad.NOUN ,.PUNCT solo.ADV son.AUX las.DET rocas.NOUN
+*PAR:	<RES> [e] . 319086_323283
+*PAR:	<listo> [e] . 323283_324467
+*PAR:	<RES> [e] . 324467_326123
+*PAR:	y luego, el lobo &-um (.) <tenía> [///] (.) quería ir a tomar agua
+	<y> [///] cuando se despertió . 326123_342796
+%pos: y.CCONJ luego.ADV ,.PUNCT el.DET lobo.NOUN tenía.VERB quería.VERB ir.VERB a.ADP tomar.VERB agua.NOUN y.CCONJ cuando.SCONJ se.PRON despertió.VERB
+*PAR:	y luego, se fue a tomar agua . 342796_347100
+%pos: y.CCONJ luego.ADV ,.PUNCT se.PRON fue.VERB a.ADP tomar.VERB agua.NOUN
+*PAR:	pero [/] pero, cuando se xxx, las rocas estaban muy pesadas que se
+	cayó adentro . 347100_358345
+%pos: pero.CCONJ pero.CCONJ ,.PUNCT cuando.SCONJ se.PRON xxx.X ,.PUNCT las.DET rocas.NOUN estaban.AUX muy.ADV pesadas.ADJ que.SCONJ se.PRON cayó.VERB adentro.ADV
+*PAR:	<lis(to)> [e] . 358345_362773
+*PAR:	y luego, todos celebraron . 362773_367918
+%pos: y.CCONJ luego.ADV ,.PUNCT todos.PRON celebraron.VERB
+*PAR:	y (.) la niña (.) se despidió . 367918_374287
+%pos: y.CCONJ la.DET niña.NOUN se.PRON despidió.VERB
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-24 20:18:22.980219

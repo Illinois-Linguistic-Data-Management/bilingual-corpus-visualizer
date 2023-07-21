@@ -1,0 +1,99 @@
+@UTF8
+@Window:	0_0_0_0_0_0_2351_1_2351_1
+@Begin
+@Languages:	eng
+@Participants:	PAR 217 Speaker
+@ID:	eng|narratives|PAR||female|||Speaker|||
+@Media:	217_english, audio
+*PAR:	<RES> [e]. 0_25501
+*PAR:	Little Red Riding Hood lived in the forest with her mom. 25501_31128
+%pos: Little.ADJ Red.ADJ Riding.PROPN Hood.PROPN lived.VERB in.ADP the.DET forest.NOUN with.ADP her.PRON mom.NOUN
+*PAR:	she also liked to visit her grandmother. 31128_36429
+%pos: she.PRON also.ADV liked.VERB to.PART visit.VERB her.PRON grandmother.NOUN
+*PAR:	who gave her a little red hood. 36429_39279
+%pos: who.PRON gave.VERB her.PRON a.DET little.ADJ red.ADJ hood.NOUN
+*PAR:	and that's how she got her name. 39279_40309
+%pos: and.CCONJ that.DET 's.PART how.ADV she.PRON got.VERB her.ADJ name.NOUN
+*PAR:	one day she decided to go visit her grandmother. 40309_46331
+%pos: one.NUM day.NOUN she.PRON decided.VERB to.PART go.VERB visit.VERB her.PRON grandmother.NOUN
+*PAR:	who was sick. 46331_47234
+%pos: who.PRON was.AUX sick.ADJ
+*PAR:	she waved goodbye to her mom. 47234_49079
+%pos: she.PRON waved.VERB goodbye.NOUN to.ADP her.PRON mom.NOUN
+*PAR:	and took a basket with some food and drink. 49079_51703
+%pos: and.CCONJ took.VERB a.DET basket.NOUN with.ADP some.DET food.NOUN and.CCONJ drink.NOUN
+*PAR:	along the way she passed a (.) mean wolf. 51703_60044
+%pos: along.ADP the.DET way.NOUN she.PRON passed.VERB a.DET mean.NOUN wolf.NOUN
+*PAR:	who was being chased by a very angry woodsman. 60044_63629
+%pos: who.PRON was.AUX being.AUX chased.VERB by.ADP a.DET very.ADV angry.ADJ woodsman.NOUN
+*PAR:	the wolf decided. 63629_68400
+%pos: the.DET wolf.NOUN decided.VERB
+*PAR:	he would like to eat her. 68400_70163
+%pos: he.PRON would.AUX like.VERB to.PART eat.VERB her.PRON
+*PAR:	so he, while she was busy picking flowers, went to her grandmother's
+	house. 70163_77635
+%pos: so.ADV he.PRON ,.PUNCT while.SCONJ she.PRON was.AUX busy.ADJ picking.VERB flowers.NOUN ,.PUNCT went.VERB to.ADP her.PRON grandmother.NOUN 's.PART house.NOUN
+*PAR:	there he ate the grandmother. 77635_82676
+%pos: there.ADV he.PRON ate.VERB the.DET grandmother.NOUN
+*PAR:	the wolf <put on> [///] had dressed in the grandmother's clothes. 82676_90761
+%pos: the.DET wolf.NOUN put.VERB on.ADV had.AUX dressed.VERB in.ADP the.DET grandmother.NOUN 's.PART clothes.NOUN
+*PAR:	and hidded [: hidden][*] in the bed. 90761_91790
+%pos: and.CCONJ hidded.VERB in.ADP the.DET bed.NOUN
+*PAR:	Little Red Riding Hood arrived. 91790_93771
+%pos: Little.ADJ Red.ADJ Riding.PROPN Hood.PROPN arrived.VERB
+*PAR:	and put out the flowers and the food for her grandmother. 93771_97967
+%pos: and.CCONJ put.VERB out.ADP the.DET flowers.NOUN and.CCONJ the.DET food.NOUN for.ADP her.PRON grandmother.NOUN
+*PAR:	Little Red Riding Hood started to notice. 97967_102938
+%pos: Little.ADJ Red.ADJ Riding.PROPN Hood.PROPN started.VERB to.PART notice.VERB
+*PAR:	that something was different about her grandmother. 102938_105169
+%pos: that.SCONJ something.PRON was.AUX different.ADJ about.ADP her.PRON grandmother.NOUN
+*PAR:	she got closer grandmother. 105169_107690
+%pos: she.PRON got.VERB closer.ADJ grandmother.NOUN
+*PAR:	and started pointing out these differences. 107690_109940
+%pos: and.CCONJ started.VERB pointing.VERB out.ADP these.DET differences.NOUN
+*PAR:	&=gasps the wolf jumped out of bed dressed in grandmother's pyjamas.
+	109940_117764
+%pos: the.DET wolf.NOUN jumped.VERB out.ADP of.ADP bed.NOUN dressed.VERB in.ADP grandmother.NOUN 's.PART pyjamas.NOUN
+*PAR:	and tried to eat Little Red Riding Hood. 117764_120482
+%pos: and.CCONJ tried.VERB to.PART eat.VERB Little.ADJ Red.ADJ Riding.PROPN Hood.PROPN
+*PAR:	hearing her screams. 120482_124363
+%pos: hearing.VERB her.PRON screams.NOUN
+*PAR:	the woodsman appeared in the house. 124363_126143
+%pos: the.DET woodsman.NOUN appeared.VERB in.ADP the.DET house.NOUN
+*PAR:	where he found the wolf passed out.  126143_129944
+%pos: where.ADV he.PRON found.VERB the.DET wolf.NOUN passed.VERB out.ADV
+*PAR:	and with a big belly. 129944_131534
+%pos: and.CCONJ with.ADP a.DET big.ADJ belly.NOUN
+*PAR:	he used scissors to cut open the wolf's belly. 131534_137796
+%pos: he.PRON used.VERB scissors.NOUN to.PART cut.VERB open.ADJ the.DET wolf.NOUN 's.PART belly.NOUN
+*PAR:	and rescue <the> [//] Little Red Riding Hood and her grandma. 137796_141567
+%pos: and.CCONJ rescue.VERB the.DET Little.ADJ Red.PROPN Riding.PROPN Hood.PROPN and.CCONJ her.PRON grandma.NOUN
+*PAR:	he then filled the wolf's stomache with rocks. 141567_149056
+%pos: he.PRON then.ADV filled.VERB the.DET wolf.NOUN 's.PART stomache.NOUN with.ADP rocks.NOUN
+*PAR:	which the grandmother helped. 149056_151497
+%pos: which.DET the.DET grandmother.NOUN helped.VERB
+*PAR:	then sew the stomache. 151497_153743
+%pos: then.ADV sew.VERB the.DET stomache.NOUN
+*PAR:	the wolf woke up. 153743_158224
+%pos: the.DET wolf.NOUN woke.NOUN up.ADV
+*PAR:	and felt very thirsty. 158224_160550
+%pos: and.CCONJ felt.VERB very.ADV thirsty.ADJ
+*PAR:	so he ran towards the well. 160550_163132
+%pos: so.ADV he.PRON ran.VERB towards.ADP the.DET well.ADV
+*PAR:	while the woodsman, the grandmother, and Little Red Riding Hood
+	watched. 163132_166213
+%pos: while.SCONJ the.DET woodsman.NOUN ,.PUNCT the.DET grandmother.NOUN ,.PUNCT and.CCONJ Little.ADJ Red.ADJ Riding.PROPN Hood.PROPN watched.VERB
+*PAR:	he jumped into the well. 166213_167174
+%pos: he.PRON jumped.VERB into.ADP the.DET well.ADV
+*PAR:	where the weight of the rocks would drown him. 167174_169605
+%pos: where.ADV the.DET weight.NOUN of.ADP the.DET rocks.NOUN would.AUX drown.VERB him.PRON
+*PAR:	the grandmother said goodbye to Little Red Riding Hood. 169605_175221
+%pos: the.DET grandmother.NOUN said.VERB goodbye.NOUN to.ADP Little.ADJ Red.PROPN Riding.PROPN Hood.PROPN
+*PAR:	who went out to the woods. 175221_176291
+%pos: who.PRON went.VERB out.ADV to.ADP the.DET woods.NOUN
+*PAR:	and promised never ever to talk to (.) wolves again. 176291_180352
+%pos: and.CCONJ promised.VERB never.ADV ever.ADV to.PART talk.VERB to.ADP wolves.NOUN again.ADV
+*PAR:	the end. 180352_183683
+%pos: the.DET end.NOUN
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:20:57.002834

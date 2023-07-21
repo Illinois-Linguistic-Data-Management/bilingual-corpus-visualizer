@@ -1,0 +1,68 @@
+@UTF8
+@Window:	0_0_0_0_610_1_1499_0_1493_1
+@Begin
+@Languages:	eng
+@Participants:	PAR 122 Speaker
+@ID:	eng|narratives|PAR||female|||Speaker|||
+@Media:	122_english,audio
+*PAR:	it's &-uh Red Riding Hood, by Charles Perrault. 0_9856
+%pos: it.PRON 's.AUX Red.ADJ Riding.PROPN Hood.PROPN ,.PUNCT by.ADP Charles.PROPN Perrault.PROPN
+*PAR:	&-uhm &-uhm Little Red Riding Hood is at her grandma's house. 9856_27197
+%pos: Little.ADJ Red.ADJ Riding.PROPN Hood.PROPN is.AUX at.ADP her.PRON grandma.NOUN 's.PART house.NOUN
+*PAR:	or like they're celebrating or something. 27197_31918
+%pos: or.CCONJ like.SCONJ they.PRON 're.AUX celebrating.VERB or.CCONJ something.PRON
+*PAR:	the cake. 31918_33712
+%pos: the.DET cake.NOUN
+*PAR:	&-uhm Little Red Riding Hood went to her grandma's house. 33712_48658
+%pos: Little.ADJ Red.ADJ Riding.PROPN Hood.PROPN went.VERB to.ADP her.PRON grandma.NOUN 's.PART house.NOUN
+*PAR:	&-uhm Little Red Riding Hood &-uhm left <her mo(ther)> [/] her
+	mother with like &-uh a basket of &-uhm food and drink(s). 48658_69089
+%pos: Little.ADJ Red.ADJ Riding.PROPN Hood.PROPN left.VERB her.PRON mother.NOUN her.PRON mother.NOUN with.ADP like.DET a.DET basket.NOUN of.ADP food.NOUN and.CCONJ drinks.NOUN
+*PAR:	the wolf <wants to (.) eat Li(ttle) [//] Little Red Riding Hood>
+	[///] (..) wanted to eat Little Red Riding Hood. 69089_86361
+%pos: the.DET wolf.NOUN wants.VERB to.PART eat.VERB Little.ADJ Little.ADJ Red.PROPN Riding.PROPN Hood.PROPN wanted.VERB to.PART eat.VERB Little.ADJ Red.PROPN Riding.PROPN Hood.PROPN
+*PAR:	<&-uhm the wolf got to> [/] &-uhm the wolf &-uhm got to Little Red
+	Riding Hood's grandma's house before she did. 86361_101111
+%pos: the.DET wolf.NOUN got.VERB to.ADP the.DET wolf.NOUN got.VERB to.ADP Little.ADJ Red.ADJ Riding.PROPN Hood.PROPN 's.PART grandma.NOUN 's.PART house.NOUN before.SCONJ she.PRON did.VERB
+*PAR:	&-uhm the wolf had [/] had eaten Little Red Riding Hood's grandma. 101111_110885
+%pos: the.DET wolf.NOUN had.AUX had.AUX eaten.VERB Little.ADJ Red.PROPN Riding.PROPN Hood.PROPN 's.PART grandma.NOUN
+*PAR:	Little Red Riding Hood had made like put out her grandma's (.) like
+	food and flowers. 110885_125155
+%pos: Little.ADJ Red.ADJ Riding.PROPN Hood.PROPN had.AUX made.VERB like.CCONJ put.VERB out.ADP her.PRON grandma.NOUN 's.PART like.ADP food.NOUN and.CCONJ flowers.NOUN
+*PAR:	Little Red Riding Hood looked at the wolf. 125155_132696
+%pos: Little.ADJ Red.ADJ Riding.PROPN Hood.PROPN looked.VERB at.ADP the.DET wolf.NOUN
+*PAR:	and realized it wasn't her grandma. 132696_134899
+%pos: and.CCONJ realized.VERB it.PRON was.AUX n't.PART her.PRON grandma.NOUN
+*PAR:	the wolf &-uhm tr(y) <is it> [/] is it tried? 134899_145890
+%pos: the.DET wolf.NOUN try.NOUN is.AUX it.PRON is.AUX it.PRON tried.VERB
+*PAR:	i think <he ate> [/] he ate her. 145890_150780
+%pos: i.PRON think.VERB he.PRON ate.VERB he.PRON ate.VERB her.PRON
+*PAR:	wait wait no wait, she [//] he tried to eat her. 150780_155110
+%pos: wait.VERB wait.VERB no.DET wait.NOUN ,.PUNCT she.PRON he.PRON tried.VERB to.PART eat.VERB her.PRON
+*PAR:	oh wait, no wait nevermind. 155110_161110
+%pos: oh.INTJ wait.VERB ,.PUNCT no.DET wait.NOUN nevermind.ADV
+*PAR:	he did eat her. 161110_162979
+%pos: he.PRON did.AUX eat.VERB her.PRON
+*PAR:	&-uhm the hunter and his dog found the wolf. 162979_171969
+%pos: the.DET hunter.NOUN and.CCONJ his.PRON dog.NOUN found.VERB the.DET wolf.NOUN
+*PAR:	like that he ate Little Red Riding Hood. 171969_175578
+%pos: like.ADP that.DET he.PRON ate.VERB Little.ADJ Red.PROPN Riding.PROPN Hood.PROPN
+*PAR:	&-uhm the hunter cut open the wolf's belly. 175578_181802
+%pos: the.DET hunter.NOUN cut.NOUN open.ADJ the.DET wolf.NOUN 's.PART belly.NOUN
+*PAR:	and let Little Red Riding Hood and her grandma out. 181802_186367
+%pos: and.CCONJ let.VERB Little.ADJ Red.ADJ Riding.PROPN Hood.PROPN and.CCONJ her.PRON grandma.NOUN out.ADV
+*PAR:	&-uhm &-uhm the hunter &-uhm and Little Red Riding Hood and the dog
+	&-uhm put stones into the wolf's belly. 186367_205321
+%pos: the.DET hunter.NOUN and.CCONJ Little.ADJ Red.ADJ Riding.PROPN Hood.PROPN and.CCONJ the.DET dog.NOUN put.VERB stones.NOUN into.ADP the.DET wolf.NOUN 's.PART belly.NOUN
+*PAR:	and then &-uhm the grandma sewed it up. 205321_207719
+%pos: and.CCONJ then.ADV the.DET grandma.NOUN sewed.VERB it.PRON up.ADV
+*PAR:	and now the wolf thought that <he st(ill)> [//] he still thought he
+	ate Little Red Riding Hood and her grandma.  207719_220469
+%pos: and.CCONJ now.ADV the.DET wolf.NOUN thought.VERB that.SCONJ he.PRON still.ADV he.PRON still.ADV thought.VERB he.PRON ate.VERB Little.ADJ Red.PROPN Riding.PROPN Hood.PROPN and.CCONJ her.PRON grandma.NOUN
+*PAR:	but he really didn't xxx laughing at him. 220469_224344
+%pos: but.CCONJ he.PRON really.ADV did.AUX n't.PART xxx.VERB laughing.VERB at.ADP him.PRON
+*PAR:	the [/] the hunter and his dog and Little Red Riding Hood like went
+	home xxx saying bye. 224344_236268
+%pos: the.DET the.DET hunter.NOUN and.CCONJ his.PRON dog.NOUN and.CCONJ Little.ADJ Red.PROPN Riding.PROPN Hood.PROPN like.ADV went.VERB home.ADV xxx.NOUN saying.VERB bye.NOUN
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:35:23.733680

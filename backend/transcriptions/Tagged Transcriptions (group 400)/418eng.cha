@@ -1,0 +1,77 @@
+@UTF8
+@Window:	0_0_0_0_0_0_1441_0_1441_0
+@Begin
+@Languages:	eng
+@Participants:	PAR 418 Speaker
+@ID:	eng|narratives|PAR| |female| | |Speaker| | |
+@Media:	418eng, audio
+*PAR:	&-uhm <so a long time ago grandma and Little Red Riding Hood
+	&-um met  together> [///] well Little Red Riding Hood <was
+	visiting> [//] visited her grandmother.  1606_12731
+%pos: <.PUNCT so.ADV a.DET long.ADJ time.NOUN ago.ADV grandma.NOUN and.CCONJ Little.ADJ Red.ADJ Riding.PROPN Hood.PROPN met.VERB together.ADV >.PUNCT well.ADV Little.ADJ Red.ADJ Riding.PROPN Hood.PROPN <.PUNCT was.AUX visiting.VERB >.PUNCT visited.VERB her.PRON grandmother.NOUN
+*PAR:	&-um and they were planning their day. 12731_15109
+%pos: and.CCONJ they.PRON were.AUX planning.VERB their.PRON day.NOUN
+*PAR:	and having fun and singing, having a good ol(d) time. 15110_18475
+%pos: and.CCONJ having.VERB fun.NOUN and.CCONJ singing.VERB ,.PUNCT having.VERB a.DET good.ADJ old.ADJ time.NOUN
+*PAR:	&-uh Little Red <Ri> [/] Riding Hood went on her way &-uhm from
+	the village, &-uhm with her basket in hand, with goodies to share. 22475_32120
+%pos: Little.ADJ Red.ADJ Ri.PROPN Riding.PROPN Hood.PROPN went.VERB on.ADP her.PRON way.NOUN from.ADP the.DET village.NOUN ,.PUNCT with.SCONJ her.PRON basket.NOUN in.ADP hand.NOUN ,.PUNCT with.ADP goodies.NOUN to.PART share.VERB
+*PAR:	<while she was walking in the forest>[//] as she walked in the
+	forest, &-um big bad wolf popped out. 38475_47402
+%pos: while.SCONJ she.PRON was.AUX walking.VERB in.ADP the.DET forestas.NOUN she.PRON walked.VERB in.ADP the.DET forest.NOUN ,.PUNCT big.ADJ bad.ADJ wolf.NOUN popped.VERB out.ADP
+*PAR:	she had no idea it was right behind her. 47402_49846
+%pos: she.PRON had.VERB no.DET idea.NOUN it.PRON was.AUX right.ADV behind.ADP her.PRON
+*PAR:	there was also the woodsman in the forest as well as other animals. 49846_53731
+%pos: there.PRON was.VERB also.ADV the.DET woodsman.NOUN in.ADP the.DET forest.NOUN as.ADV well.ADV as.ADP other.ADJ animals.NOUN
+*PAR:	the big bad wolf made it to &-uh <Red>[//] Little Red Riding Hood's
+	destination before she had. 58731_68451
+%pos: the.DET big.ADJ bad.ADJ wolf.NOUN made.VERB it.PRON to.ADP RedLittle.PROPN Red.PROPN Riding.PROPN Hood.PROPN 's.PART destination.NOUN before.SCONJ she.PRON had.VERB
+*PAR:	oh, and Little Red Riding Hood stopped to pick some flowers. 68455_72351
+%pos: oh.INTJ ,.PUNCT and.CCONJ Little.ADJ Red.ADJ Riding.PROPN Hood.PROPN stopped.VERB to.PART pick.VERB some.DET flowers.NOUN
+*PAR:	big bad wolf entered grandma's house. 74351_80232
+%pos: big.ADJ bad.ADJ wolf.NOUN entered.VERB grandma.NOUN 's.PART house.NOUN
+*PAR:	and ate her. 81232_84475
+%pos: and.CCONJ ate.VERB her.PRON
+*PAR:	by the time Little Red Riding Hood entered her grandma's house &-uh
+	she had put her food away. 90475_98822
+%pos: by.ADP the.DET time.NOUN Little.ADJ Red.PROPN Riding.PROPN Hood.PROPN entered.VERB her.PRON grandma.NOUN 's.PART house.NOUN she.PRON had.AUX put.VERB her.PRON food.NOUN away.ADV
+*PAR:	she had put the flowers and the vase. 98823_101322
+%pos: she.PRON had.AUX put.VERB the.DET flowers.NOUN and.CCONJ the.DET vase.NOUN
+*PAR:	and was just xxx around the house. 101323_104770
+%pos: and.CCONJ was.AUX just.ADV xxx.NOUN around.ADP the.DET house.NOUN
+*PAR:	when she went over to the bed to check on her grandmother, she
+	wondered about grandmother's &-uhm big eyes and the big teeth. 107770_121523
+%pos: when.ADV she.PRON went.VERB over.ADV to.ADP the.DET bed.NOUN to.PART check.VERB on.ADP her.PRON grandmother.NOUN ,.PUNCT she.PRON wondered.VERB about.ADP grandmother.NOUN 's.PART big.ADJ eyes.NOUN and.CCONJ the.DET big.ADJ teeth.NOUN
+*PAR:	she became frightened as the big bad wolf jumped from the bed. 127923_132475
+%pos: she.PRON became.VERB frightened.ADJ as.SCONJ the.DET big.ADJ bad.ADJ wolf.NOUN jumped.VERB from.ADP the.DET bed.NOUN
+*PAR:	and tried to attack her. 132475_133975
+%pos: and.CCONJ tried.VERB to.PART attack.VERB her.PRON
+*PAR:	and eat her. 134100_135911
+%pos: and.CCONJ eat.VERB her.PRON
+*PAR:	the wolf was succesful. 139911_141645
+%pos: the.DET wolf.NOUN was.AUX succesful.ADJ
+*PAR:	&-uhm until, <as he lays>[//] as he lay there on the bed, the
+	woodsman <entered the door>[//] entered the house. 141645_153074
+%pos: until.ADV ,.PUNCT as.SCONJ he.PRON laysas.VERB he.PRON lay.VERB there.ADV on.ADP the.DET bed.NOUN ,.PUNCT the.DET woodsman.NOUN entered.VERB the.DET doorentered.VERB the.DET house.NOUN
+*PAR:	the woodsman saved the day by cutting the wolf's stomach. 157074_161702
+%pos: the.DET woodsman.NOUN saved.VERB the.DET day.NOUN by.SCONJ cutting.VERB the.DET wolf.NOUN 's.PART stomach.NOUN
+*PAR:	and letting grandma and Little Red Riding Hood out. 161704_164902
+%pos: and.CCONJ letting.VERB grandma.NOUN and.CCONJ Little.ADJ Red.ADJ Riding.PROPN Hood.PROPN out.ADV
+*PAR:	and to fool the wolf so he wouldn't know what happened. 170902_174730
+%pos: and.CCONJ to.PART fool.VERB the.DET wolf.NOUN so.ADV he.PRON would.AUX n't.PART know.VERB what.PRON happened.VERB
+*PAR:	they went out and collected rocks. 174730_176545
+%pos: they.PRON went.VERB out.ADV and.CCONJ collected.VERB rocks.NOUN
+*PAR:	and put them in his stomach. 176545_178045
+%pos: and.CCONJ put.VERB them.PRON in.ADP his.PRON stomach.NOUN
+*PAR:	and sewed it tight. 178045_179445
+%pos: and.CCONJ sewed.VERB it.PRON tight.ADV
+*PAR:	as the wolf left, everyone just was happy and excited and kinda
+	laughing at the wolf. 184445_192020
+%pos: as.SCONJ the.DET wolf.NOUN left.VERB ,.PUNCT everyone.PRON just.ADV was.AUX happy.ADJ and.CCONJ excited.ADJ and.CCONJ kinda.ADJ laughing.VERB at.ADP the.DET wolf.NOUN
+*PAR:	&-uh Little Red Riding Hood, woodsmen &-uhm said goodbye to
+	grandma. 197020_202621
+%pos: Little.ADJ Red.ADJ Riding.PROPN Hood.PROPN ,.PUNCT woodsmen.NOUN said.VERB goodbye.NOUN to.ADP grandma.PROPN
+*PAR:	and they went on their way. 202621_205771
+%pos: and.CCONJ they.PRON went.VERB on.ADP their.PRON way.NOUN
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:38:59.630989

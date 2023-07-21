@@ -1,0 +1,35 @@
+@UTF8
+@Window:	0_0_0_0_0_0_655_0_655_0
+@Begin
+@Languages:	eng
+@Participants:	PAR 213 Speaker
+@ID:	eng|narratives|PAR||female|||Speaker|||
+@Media:	213_english, audio
+*PAR:	the girl danced. 0_14267
+%pos: the.DET girl.NOUN danced.VERB
+*PAR:	the girl went to see her grandmother. 14267_23552
+%pos: the.DET girl.NOUN went.VERB to.PART see.VERB her.PRON grandmother.NOUN
+*PAR:	the girl did not notice. 23552_29158
+%pos: the.DET girl.NOUN did.AUX not.PART notice.VERB
+*PAR:	the wolf was behind her. 29158_32063
+%pos: the.DET wolf.NOUN was.AUX behind.ADP her.PRON
+*PAR:	the wolf knocked on the door. 32063_41114
+%pos: the.DET wolf.NOUN knocked.VERB on.ADP the.DET door.NOUN
+*PAR:	the wolf &-uh scared the grandmother. 41114_49331
+%pos: the.DET wolf.NOUN scared.VERB the.DET grandmother.NOUN
+*PAR:	the girl placed some flowers in the vase. 49331_56991
+%pos: the.DET girl.NOUN placed.VERB some.DET flowers.NOUN in.ADP the.DET vase.NOUN
+*PAR:	the girl saw <the big> [//] the wolf's big ears. 56991_67543
+%pos: the.DET girl.NOUN saw.VERB the.DET big.ADJ the.DET wolf.NOUN 's.PART big.ADJ ears.NOUN
+*PAR:	the wolf scared the girl. 67543_74530
+%pos: the.DET wolf.NOUN scared.VERB the.DET girl.NOUN
+*PAR:	<the man wanted> [//] the wolf.  74530_84891
+%pos: the.DET man.NOUN wanted.VERB the.DET wolf.NOUN
+*PAR:	the grandmother touched the wolf's belly. 84891_100436
+%pos: the.DET grandmother.NOUN touched.VERB the.DET wolf.NOUN 's.PART belly.NOUN
+*PAR:	the girl brought some stones. 100436_109278
+%pos: the.DET girl.NOUN brought.VERB some.DET stones.NOUN
+*PAR:	everybody laugh (.) at. 109278_118799
+%pos: everybody.PRON laugh.VERB at.ADP
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:21:23.176965

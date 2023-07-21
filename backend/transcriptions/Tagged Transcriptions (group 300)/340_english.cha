@@ -1,0 +1,70 @@
+@Begin
+@Languages:	eng
+@Participants:	PAR 340 Speaker
+@ID:	eng|narratives|PAR||female|||Speaker|||
+@Media:	340_english, audio
+*PAR:	&-mm (...) xxx (...). 0_9339
+%pos: xxx.PROPN
+*PAR:	Lucy (...) danced (...) a (...) marvelous (..) dance (..) for her (..) grandmother (..) and three (..) birds (...). 9339_31246
+%pos: Lucy.PROPN danced.VERB a.DET marvelous.ADJ dance.NOUN for.ADP her.PRON grandmother.NOUN and.CCONJ three.NUM birds.NOUN
+*PAR:	<RES> [e]? 31246_37887
+*PAR:	<yeah> [e]. 37887_38560
+*PAR:	<RES> [e]. 38560_50935
+*PAR:	Lucy (..) waved (..) goodbye to her mother (...) when she set off to her (..) grandmother's house (...). 50935_61537
+%pos: Lucy.PROPN waved.VERB goodbye.NOUN to.ADP her.PRON mother.NOUN when.ADV she.PRON set.VERB off.ADV to.ADP her.PRON grandmother.NOUN 's.PART house.NOUN
+*PAR:	<RES> [e]. 61537_71928
+*PAR:	Lucy (.) didn't seem to see (...) the (...) great big wolf right behind her (...) <when she was delivering (.) the biscuits to her grandmother> [//] (...) when she delivered the biscuits to her grand(mother) (..). 71928_97592
+%pos: Lucy.PROPN did.AUX n't.PART seem.VERB to.PART see.VERB the.DET great.ADJ big.ADJ wolf.NOUN right.ADV behind.ADP her.PRON when.ADV she.PRON was.AUX delivering.VERB the.DET biscuits.NOUN to.ADP her.PRON grandmother.NOUN when.ADV she.PRON delivered.VERB the.DET biscuits.NOUN to.ADP her.PRON grandmother.NOUN
+*PAR:	<RES> [e]? 97592_100883
+*PAR:	<yeah (...)> [e]. 100883_107801
+*PAR:	when Lucy was picking flowers for her grandmother, the (.) great big wolf (.) went straight to Lucy's grandmother's house (...). 107801_124755
+%pos: when.ADV Lucy.PROPN was.AUX picking.VERB flowers.NOUN for.ADP her.PRON grandmother.NOUN ,.PUNCT the.DET great.ADJ big.ADJ wolf.NOUN went.VERB straight.ADV to.ADP Lucy.PROPN 's.PART grandmother.NOUN 's.PART house.NOUN
+*PAR:	the grandmother was so scared (..) when the great big wolf came into her house (...). 124755_134881
+%pos: the.DET grandmother.NOUN was.AUX so.ADV scared.VERB when.ADV the.DET great.ADJ big.ADJ wolf.NOUN came.VERB into.ADP her.PRON house.NOUN
+*PAR:	or very scared, that's the case (...). 134881_138909
+%pos: or.CCONJ very.ADV scared.ADJ ,.PUNCT that.PRON 's.AUX the.DET case.NOUN
+*PAR:	<yeah &-mm (...) &-mm yeah xxx> [e]. 138909_145611
+*PAR:	<RES> [e]. 145611_150656
+*PAR:	&-um Lucy was placing (...) the flowers (..) in a vase (...). 150656_158613
+%pos: Lucy.PROPN was.AUX placing.VERB the.DET flowers.NOUN in.ADP a.DET vase.NOUN
+*PAR:	<the bi(g)> [/] the big bad wolf (.) licked his lips (..). 158613_163032
+%pos: the.DET big.ADJ the.DET big.ADJ bad.ADJ wolf.NOUN licked.VERB his.PRON lips.NOUN
+*PAR:	<RES> [e]? 163032_167750
+*PAR:	<yeah> [e]. 167750_168272
+*PAR:	<RES> [e]. 168272_175173
+*PAR:	he (...) +... 175173_182925
+%pos: he.PRON +.SYM
+*PAR:	i guess she was little (.) suspicious about (..) when (..) she saw how (..) her grandmother's (.) face looked. 182925_193258
+%pos: i.PRON guess.VERB she.PRON was.AUX little.ADJ suspicious.ADJ about.SCONJ when.ADV she.PRON saw.VERB how.ADV her.PRON grandmother.NOUN 's.PART face.NOUN looked.VERB
+*PAR:	<RES> [e]. 193258_198906
+*PAR:	<next> [e]. 198906_199597
+*PAR:	<RES> [e]. 199597_208713
+*PAR:	and [///] but when she finally realized (.) it was a wolf, the wolf jumped up (.). 208713_213734
+%pos: and.CCONJ but.CCONJ when.ADV she.PRON finally.ADV realized.VERB it.PRON was.AUX a.DET wolf.NOUN ,.PUNCT the.DET wolf.NOUN jumped.VERB up.ADV
+*PAR:	and was ready to eat her (..). 213734_216252
+%pos: and.CCONJ was.AUX ready.ADJ to.PART eat.VERB her.PRON
+*PAR:	<RES> [e]. 216252_225366
+*PAR:	when (..) when the wolf ate her though (..) a hunter <came in> [/] (...) came in the door (..). 225366_235762
+%pos: when.ADV when.ADV the.DET wolf.NOUN ate.VERB her.PRON though.SCONJ a.DET hunter.NOUN came.VERB in.ADV came.VERB in.ADP the.DET door.NOUN
+*PAR:	<RES> [e]. 235762_249633
+*PAR:	&-hm (..) and in the end (..) the hunter <cut (..) open the wolf> [//] (..) cut the wolf. 249633_258807
+%pos: and.CCONJ in.ADP the.DET end.NOUN the.DET hunter.NOUN cut.NOUN open.ADJ the.DET wolf.NOUN cut.VERB the.DET wolf.NOUN
+*PAR:	and (.) saved the (..) Lucy and her grandmother (..). 258807_263276
+%pos: and.CCONJ saved.VERB the.DET Lucy.PROPN and.CCONJ her.PRON grandmother.NOUN
+*PAR:	<RES> [e]. 263276_274293
+*PAR:	<Lucy brought in> [/] (..) Lucy brought in (.) some (..) heavy rocks (..). 274293_280679
+%pos: Lucy.PROPN brought.VERB in.ADP Lucy.PROPN brought.VERB in.ADP some.DET heavy.ADJ rocks.NOUN
+*PAR:	and the hunter put the rocks into (..) the hole that (...) the hunter (.) cut in the (..) wolf's belly (..). 280679_289673
+%pos: and.CCONJ the.DET hunter.NOUN put.VERB the.DET rocks.NOUN into.ADP the.DET hole.NOUN that.PRON the.DET hunter.NOUN cut.VERB in.ADP the.DET wolf.NOUN 's.PART belly.NOUN
+*PAR:	<RES> [e]. 289673_297999
+*PAR:	so <when the> [///] (..) and the grandma (.) sewed the belly up. 297999_303069
+%pos: so.ADV when.ADV the.DET and.CCONJ the.DET grandma.NOUN sewed.VERB the.DET belly.NOUN up.ADV
+*PAR:	<and what> [///] so when the (.) big bad wolf (.) would woke up, his belly was full of (.) stones (..). 303069_309936
+%pos: and.CCONJ what.PRON so.ADV when.ADV the.DET big.ADJ bad.ADJ wolf.NOUN would.AUX woke.VERB up.ADV ,.PUNCT his.PRON belly.NOUN was.AUX full.ADJ of.ADP stones.NOUN
+*PAR:	and he could barely walk (..). 309936_311977
+%pos: and.CCONJ he.PRON could.AUX barely.ADV walk.VERB
+*PAR:	<RES> [e]. 311977_319005
+*PAR:	and (...) after delivering the biscuits to (..) Lucy's grandmother (...), <they wa(ved)> [//] the hunter (.), the hunter's dog, Lucy (..), and the (..) animals (..) and (..) the grandmother (.) waved goodbye (..). 319005_342000
+%pos: and.CCONJ after.SCONJ delivering.VERB the.DET biscuits.NOUN to.ADP Lucy.PROPN 's.PART grandmother.NOUN ,.PUNCT they.PRON waved.VERB the.DET hunter.NOUN ,.PUNCT the.DET hunter.NOUN 's.PART dog.NOUN ,.PUNCT Lucy.PROPN ,.PUNCT and.CCONJ the.DET animals.NOUN and.CCONJ the.DET grandmother.NOUN waved.VERB goodbye.NOUN
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:15:27.046604

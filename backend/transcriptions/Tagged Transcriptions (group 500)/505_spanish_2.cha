@@ -1,0 +1,72 @@
+@UTF8
+@Window:	0_0_0_0_0_0_1131_0_1131_0
+@Begin
+@Languages:	spa, eng
+@Participants:	PAR 505 Speaker
+@ID:	spa|narratives|PAR||male|||Speaker|||
+@Media:	505_spanish_2,audio
+*PAR:	la ni√±a estaba caminando en la casa con su abuela. 0_6438
+%pos: la.DET ni√.NOUN ±.SYM a.SYM estaba.VERB caminando.VERB en.ADP la.DET casa.NOUN con.ADP su.DET abuela.NOUN
+*PAR:	<RES> [e]. 6438_8516
+*PAR:	con p√°jaros. 8516_9497
+%pos: con.ADP p√.X °.PUNCT jaros.X
+*PAR:	<RES> [e]. 9497_16117
+*PAR:	la ni√±a se fue de la casa. 16115_20277
+%pos: la.DET ni√.NOUN ±.SYM a.DET se.PRON fue.VERB de.ADP la.DET casa.NOUN
+*PAR:	<RES> [e]. 20277_24009
+*PAR:	xxx el lobo lo, lo asust√≥ la ni√±a. 24009_33373
+%pos: xxx.X el.DET lobo.NOUN lo.PRON ,.PUNCT lo.PRON asust√.VERB ≥.X la.DET ni√.NOUN ±.CCONJ a.SYM
+*PAR:	la lobo se fue en la casa caminando con su &-uh caso en su hip. 33373_46585
+%pos: la.DET lobo.NOUN se.PRON fue.VERB en.ADP la.DET casa.NOUN caminando.VERB con.ADP su.DET caso.NOUN en.ADP su.DET hip.NOUN
+*PAR:	<RES> [e]. 46585_51066
+*PAR:	el lobo lo asusta la abuela. 51066_55000
+%pos: el.DET lobo.NOUN lo.PRON asusta.VERB la.DET abuela.NOUN
+*PAR:	la ni√±a se estaba cambiando las flores. 55002_65027
+%pos: la.DET ni√.NOUN ±.SYM a.DET se.PRON estaba.VERB cambiando.VERB las.DET flores.NOUN
+*PAR:	<RES> [e]. 65027_70444
+*PAR:	y el lobo estaba feliz. 71361_75320
+%pos: y.CCONJ el.DET lobo.NOUN estaba.VERB feliz.ADJ
+*PAR:	<RES> [e]. 75320_80509
+*PAR:	el ni√±a estaba muy confundido porque su abuela se estaba un lobo.
+	80509_94101
+%pos: el.DET ni√.CCONJ ±.SYM a.SYM estaba.VERB muy.ADV confundido.ADJ porque.SCONJ su.DET abuela.NOUN se.PRON estaba.VERB un.DET lobo.NOUN
+*PAR:	la ni√±a, el lobo lo asusta la ni√±a en el casa. 94101_103668
+%pos: la.DET ni√.NOUN ±.CCONJ a.SYM ,.PUNCT el.DET lobo.NOUN lo.PRON asusta.VERB la.DET ni√.NOUN ±.CCONJ a.SYM en.ADP el.DET casa.NOUN
+*PAR:	what's that. 103665_111026
+%pos: what.PRON 's.AUX that.PRON
+*PAR:	la lobo com√≠a el, la ni√±a. 111026_117359
+%pos: la.DET lobo.NOUN com√≠a.ADP el.DET ,.PUNCT la.PRON ni√.X ±.X a.SYM
+*PAR:	<RES> [e]. 117359_119693
+*PAR:	y el dude. 119693_124627
+%pos: y.CCONJ el.DET dude.NOUN
+*PAR:	what did he do. 124627_129829
+%pos: what.PRON did.AUX he.PRON do.VERB
+*PAR:	are those scissors. 129829_131500
+%pos: are.AUX those.DET scissors.NOUN
+*PAR:	<RES> [e]. 131500_138757
+*PAR:	xxx. 138757_139913
+%pos: xxx.INTJ
+*PAR:	<RES> [e]. 139912_146727
+*PAR:	el lobo, el dude se corta el lobo. 146727_151295
+%pos: el.DET lobo.NOUN ,.PUNCT el.DET dude.NOUN se.PRON corta.VERB el.DET lobo.NOUN
+*PAR:	<RES> [e]. 151295_154738
+*PAR:	tummy. 154738_155957
+%pos: tummy.PROPN
+*PAR:	<RES> [e]. 155957_159898
+*PAR:	what's that. 159898_162974
+%pos: what.PRON 's.AUX that.PRON
+*PAR:	<RES> [e]. 162974_164624
+*PAR:	el guy se pone rocas en el tummy. 164624_171683
+%pos: el.DET guy.NOUN se.PRON pone.VERB rocas.NOUN en.ADP el.DET tummy.NOUN
+*PAR:	what the. 171683_179200
+%pos: what.PRON the.DET
+*PAR:	<RES> [e]. 179200_181145
+*PAR:	el lobo se viene muchas rocas en el tummy.  181145_187646
+%pos: el.DET lobo.NOUN se.PRON viene.VERB muchas.ADJ rocas.NOUN en.ADP el.DET tummy.NOUN
+*PAR:	y los (.) el abuelo y el guy y el ni√±o estaba xxx.  187646_197798
+%pos: y.CCONJ los.DET el.DET abuelo.NOUN y.CCONJ el.DET guy.NOUN y.CCONJ el.DET ni√.NOUN ±.CCONJ o.CCONJ estaba.VERB xxx.INTJ
+*PAR:	el ni√±o y el guy se despidi√≥ la abuela. 197798_209177
+%pos: el.DET ni√.NOUN ±.CCONJ o.CCONJ y.CCONJ el.DET guy.NOUN se.PRON despidi√.VERB ≥.PRON la.DET abuela.NOUN
+*PAR:	<RES> [e]. 209177_214692
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-07-19 14:32:51.198775

@@ -1,0 +1,61 @@
+@UTF8
+@Window:	116_211_668_1071_-1_-1_2229_0_2229_0
+@Begin
+@Languages:	spa,eng
+@Participants:	PAR 122 Speaker
+@ID:	spa|narratives|PAR||female|||Speaker|||
+@Media:	122_spanish,audio
+*PAR:	Caperucita Roja era bailando. 0_9763
+%pos: Caperucita.PROPN Roja.PROPN era.AUX bailando.VERB
+*PAR:	&-um Cape(rucita) [/] Caperucita Roja era bailando para su &-um (..) yeah@s abuela. 9763_32477
+%pos: Caperucita.PROPN Caperucita.PROPN Roja.PROPN era.AUX bailando.VERB para.ADP su.DET yeah.ADV abuela.NOUN
+*PAR:	&-um Ca(perucita) [/] Caperucita Roja era &-um bringing@s &-hm un &-hm [//] era Caperu(cita) [/] Caperu(cita) [/] Caperucita Roja era [/] era &-um like@s bringing@s pan para su abuela que es enferma. 32477_89137
+%pos: Caperucita.PROPN Caperucita.PROPN Roja.PROPN era.AUX bringing.VERB un.DET era.NOUN Caperucita.PROPN Caperucita.PROPN Caperucita.PROPN Roja.PROPN era.AUX era.VERB like.SCONJ bringing.VERB pan.NOUN para.ADP su.DET abuela.NOUN que.SCONJ es.AUX enferma.ADJ
+*PAR:	pero el wol(f)@s [/] wolf@s [//] lobo era &-um hambre. 89137_103937
+%pos: pero.CCONJ el.DET wolf.NOUN wolf.NOUN lobo.NOUN era.AUX hambre.NOUN
+*PAR:	y quiero &-um (...) &-um like@s wanting@s to@s eat@s Cape(rucita) [/] Caperu(cita) [/] Caperucita Roja. 103937_132475
+%pos: y.CCONJ quiero.VERB like.SCONJ wanting.VERB to.PART eat.VERB Caperucita.PROPN Caperucita.PROPN Caperucita.PROPN Roja.PROPN
+*PAR:	Caperucita Rojo &-um es [//] era en su abuelo casa. 132475_151838
+%pos: Caperucita.PROPN Rojo.PROPN es.AUX era.VERB en.ADP su.DET abuelo.NOUN casa.NOUN
+*PAR:	pero el lobo era like@s there@s primero. 151838_158258
+%pos: pero.CCONJ el.DET lobo.NOUN era.VERB like.CCONJ there.ADV primero.ADV
+*PAR:	el lobo comió Caperucita's@s [//] Caperucita Roja's@s abuela. 158258_174387
+%pos: el.DET lobo.NOUN comió.VERB Caperucita.PROPN 's.X Caperucita.PROPN Roja.PROPN 's.X abuela.PROPN
+*PAR:	<el lobo> [///] Caperucita Roja [/] Roja &-hm put@s out@s like@s el pan y agua para su abuela. 174387_192511
+%pos: el.DET lobo.NOUN Caperucita.PROPN Roja.PROPN Roja.PROPN put.VERB out.ADP like.ADP el.DET pan.NOUN y.CCONJ agua.NOUN para.ADP su.DET abuela.NOUN
+*PAR:	pero el [/] el lobo es [//] comió Caperucita's abuela. 192511_203341
+%pos: pero.CCONJ el.DET el.DET lobo.NOUN es.VERB comió.VERB Caperucita.PROPN 's.PART abuela.NOUN
+*PAR:	y looks@s like@s he's@s wearing@s her@s clothes@s. 203341_207389
+%pos: y.CCONJ looks.VERB like.SCONJ he.PRON 's.AUX wearing.VERB her.PRON clothes.NOUN
+*PAR:	Caperucita Roja <es mirando el> [//] era mirando el lobo. 207389_222503
+%pos: Caperucita.PROPN Roja.PROPN es.AUX mirando.VERB el.DET era.NOUN mirando.VERB el.DET lobo.NOUN
+*PAR:	y que tiene like@s xxx. 222503_233172
+%pos: y.CCONJ que.SCONJ tiene.VERB like.CCONJ xxx.PROPN
+*PAR:	&-um el lobo comió Caperucita Roja. 233172_240994
+%pos: el.DET lobo.NOUN comió.VERB Caperucita.PROPN Roja.PROPN
+*PAR:	el hunter@s saw@s el lobo. 240994_253504
+%pos: el.DET hunter.NOUN saw.VERB el.DET lobo.NOUN
+*PAR:	y es like@s trying@s to@s get@s like@s them@s back@s. 253504_258714
+%pos: y.CCONJ es.VERB like.SCONJ trying.VERB to.PART get.VERB like.ADP them.PRON back.ADV
+*PAR:	&-um el hunter@s like@s cut@s open@s the@s wolf's@s stomach@s. 258714_269598
+%pos: el.DET hunter.NOUN like.ADP cut.NOUN open.ADJ the.DET wolf.NOUN 's.PART stomach.NOUN
+*PAR:	y la Caperucita Roja y su abuela out@s. 269598_276623
+%pos: y.CCONJ la.DET Caperucita.PROPN Roja.PROPN y.CCONJ su.DET abuela.NOUN out.ADV
+*PAR:	el hunter@s is@s y [//] Caperucita Roja is@s like@s putting@s rocks@s inside@s of@s the@s belly@s. 276623_296255
+%pos: el.DET hunter.NOUN is.AUX y.CCONJ Caperucita.PROPN Roja.PROPN is.VERB like.SCONJ putting.VERB rocks.NOUN inside.ADV of.ADP the.DET belly.NOUN
+*PAR:	está xxx [//] &-um puso &-um pie(dras) [//] no, I@s don't@s know@s. 296255_318102
+%pos: está.VERB xxx.ADV puso.VERB piedras.NOUN no.ADV ,.PUNCT I.PRON do.AUX n't.PART know.VERB
+*PAR:	pie(dras) [//] pier(nas) [//] piernas [//] piedras. 318102_323645
+%pos: piedras.NOUN piernas.ADJ piernas.NOUN piedras.NOUN
+*PAR:	<y el> [/] y el abuelo like@s is@s gonna@s like@s sew@s it@s. 323645_334791
+%pos: y.CCONJ el.DET y.CCONJ el.DET abuelo.NOUN like.CCONJ is.AUX gonna.VERB like.CCONJ sew.VERB it.PRON
+*PAR:	el lobo pienso que comió Caperucita Rojo y su abuela. 334791_353729
+%pos: el.DET lobo.NOUN pienso.VERB que.SCONJ comió.VERB Caperucita.PROPN Rojo.PROPN y.CCONJ su.DET abuela.NOUN
+*PAR:	pero no. 353729_355754
+%pos: pero.CCONJ no.ADV
+*PAR:	y el hunter@s y Caperucita Roja like@s leaving@s saying@s goodbye@s. 355754_369473
+%pos: y.CCONJ el.DET hunter.NOUN y.CCONJ Caperucita.PROPN Roja.PROPN like.SCONJ leaving.VERB saying.VERB goodbye.ADV
+*PAR:	(...) adiós. 369473_375265
+%pos: adiós.INTJ
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:36:26.653799

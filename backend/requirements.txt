@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+torch==2.0.1
+transformers==4.30.2
+flair==0.12.2
+pytest
+httpx
+matplotlib
+lexical-diversity

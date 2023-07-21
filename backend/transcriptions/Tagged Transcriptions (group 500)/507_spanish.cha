@@ -1,0 +1,154 @@
+@UTF8
+@Window:	0_0_0_0_2787_0_4037_0_4037_0
+@Begin
+@Languages:	spa,eng
+@Participants:	PAR 507 Speaker
+@ID:	spa|narratives|PAR||female|||Speaker|||
+@Media:	507_spanish,audio
+*PAR:	una vez, &-um &-ah (.) hay un [: una][*] niña . 0_6364
+%pos: una.DET vez.NOUN ,.PUNCT hay.VERB un.DET niña.NOUN
+*PAR:	y su abuelita &-uh se vieron [: vi][*] un vestido roja [: rojo][*] .
+	6364_15255
+%pos: y.CCONJ su.DET abuelita.NOUN se.PRON vieron.VERB un.DET vestido.NOUN roja.ADJ
+*PAR:	<next@s page@s> [e] . 15255_18544
+*PAR:	<RES> [e] . 18544_21966
+*PAR:	una [: un][*] día, la mamá de ella (.) dicieron [: dijo][*] que su
+	abuela era enferma . 21966_36013
+%pos: una.DET día.NOUN ,.PUNCT la.DET mamá.NOUN de.ADP ella.PRON dicieron.VERB que.SCONJ su.DET abuela.NOUN era.AUX enferma.ADJ
+*PAR:	y se dieron [: dio][*] algunas comidas diferentes <para su abuela>
+	[/] para su abuela . 36013_47159
+%pos: y.CCONJ se.PRON dieron.VERB algunas.DET comidas.NOUN diferentes.ADJ para.ADP su.DET abuela.NOUN para.ADP su.DET abuela.NOUN
+*PAR:	<listo> [e] . 47159_48283
+*PAR:	<RES> [e] . 48283_50498
+*PAR:	pero, &-um <la niña no> [///] (.) like@s <la niña> [///] la [/] la
+	mamá de la niña no se olvidaron [: olvidó][*] a decir a la niña que
+	hay un lobo en el bosque que quería comer todos . 50498_79684
+%pos: pero.CCONJ ,.PUNCT la.DET niña.NOUN no.ADV like.VERB la.DET niña.NOUN la.DET la.DET mamá.NOUN de.ADP la.DET niña.NOUN no.ADV se.PRON olvidaron.VERB a.ADP decir.VERB a.ADP la.DET niña.NOUN que.SCONJ hay.VERB un.DET lobo.NOUN en.ADP el.DET bosque.NOUN que.SCONJ quería.VERB comer.VERB todos.PRON
+*PAR:	<listo> [e] . 79684_82136
+*PAR:	<RES> [e] . 82136_86089
+*PAR:	la [/] (.) <la niña> [/] (.) <la niña (.) el> [///] la niña se (.)
+	vio el lobo y dijo +"/. 86089_101418
+%pos: la.DET la.DET niña.NOUN la.DET niña.NOUN el.DET la.DET niña.NOUN se.PRON vio.VERB el.DET lobo.NOUN y.CCONJ dijo.VERB +"/.SYM
+*PAR:	+" hola, señor lobo . 101418_103511
+%pos: +".PUNCT hola.NOUN ,.PUNCT señor.NOUN lobo.NOUN
+*PAR:	+" es un buen día . 103511_105964
+%pos: +".SYM es.AUX un.DET buen.ADJ día.NOUN
+*PAR:	y el lobo dijo +"/. 105964_110011
+%pos: y.CCONJ el.DET lobo.NOUN dijo.VERB +"/.SYM
+*PAR:	+" <sí, hay un buen> [///] sí, es un buen día . 110011_114089
+%pos: +".SYM sí.INTJ ,.PUNCT hay.VERB un.DET buen.ADJ sí.INTJ ,.PUNCT es.AUX un.DET buen.ADJ día.NOUN
+*PAR:	+" qué [/] (.) <qué estás> [///] &-uh (.) <qué lugar estás in@s>
+	[///] like@s what@s place@s are@s you@s going@s to@s ? 114089_127820
+%pos: +".SYM qué.INTJ qué.PRON estás.VERB qué.DET lugar.NOUN estás.VERB in.ADP like.ADP what.DET place.NOUN are.AUX you.PRON going.VERB to.ADP
+*PAR:	<RES> [e] . 127820_128234
+*PAR:	<y la niña> [/] y la niña dijo +"/. 128234_131531
+%pos: y.CCONJ la.DET niña.NOUN y.CCONJ la.DET niña.NOUN dijo.VERB +"/.SYM
+*PAR:	+" &-ah yo soy xxx y caminando a la casa de mi abuela . 131531_138083
+%pos: +".PUNCT yo.PRON soy.AUX xxx.X y.CCONJ caminando.VERB a.ADP la.DET casa.NOUN de.ADP mi.DET abuela.NOUN
+*PAR:	+" porque mi abuela está muy enferma . 138083_143458
+%pos: +".SYM porque.SCONJ mi.DET abuela.NOUN está.AUX muy.ADV enferma.ADJ
+*PAR:	y el lobo dijo +"/. 143458_145868
+%pos: y.CCONJ el.DET lobo.NOUN dijo.VERB +"/.SYM
+*PAR:	+" &-ah, dónde está la casa de su abuela ? 145868_150088
+%pos: +".SYM ,.PUNCT dónde.ADV está.VERB la.DET casa.NOUN de.ADP su.DET abuela.NOUN
+*PAR:	&-uh la niña dijo +"/. 150088_153274
+%pos: la.DET niña.NOUN dijo.VERB +"/.SYM
+*PAR:	+" &-ah, sólo es &-um (.) &-eh derecha y luego izquierda <y debajo
+	de esta> [/] y debajo de esta montoña [: montaña][*] . 153274_170188
+%pos: +".SYM ,.PUNCT sólo.ADV es.AUX derecha.ADJ y.CCONJ luego.ADV izquierda.ADJ <.PUNCT y.CCONJ debajo.ADV de.ADP esta.PRON >.PUNCT y.CCONJ debajo.ADV de.ADP esta.DET montoña.NOUN
+*PAR:	<y el> [/] y el lobo (.) dijo +"/. 170188_176328
+%pos: y.CCONJ el.DET y.CCONJ el.DET lobo.NOUN dijo.VERB +"/.SYM
+*PAR:	+" &-ah, hay algunas flores que puedes dar a su abuelita . 176328_183579
+%pos: +".SYM ,.PUNCT hay.VERB algunas.DET flores.NOUN que.SCONJ puedes.AUX dar.VERB a.ADP su.DET abuelita.NOUN
+*PAR:	y la niña dijo +"/. 183579_186110
+%pos: y.CCONJ la.DET niña.NOUN dijo.VERB +"/.SYM
+*PAR:	+" gracias, señor lobo . 186110_187937
+%pos: +".SYM gracias.NOUN ,.PUNCT señor.NOUN lobo.NOUN
+*PAR:	<y ya, luego> [e] . 187937_191041
+*PAR:	<RES> [e] . 191041_194917
+*PAR:	cuando el lobo llegó a la casa de la abue(lita) [/] abuelita, se
+	comió <el abueli(ta)> [///] or@s la abuelita . 194917_207338
+%pos: cuando.SCONJ el.DET lobo.NOUN llegó.VERB a.ADP la.DET casa.NOUN de.ADP la.DET abuelita.NOUN abuelita.ADJ ,.PUNCT se.PRON comió.VERB el.DET abuelita.NOUN or.CCONJ la.DET abuelita.NOUN
+*PAR:	<RES> [e] . 207338_208917
+*PAR:	la niña llegó a la casa y dijo +"/. 208917_218713
+%pos: la.DET niña.NOUN llegó.VERB a.ADP la.DET casa.NOUN y.CCONJ dijo.VERB +"/.SYM
+*PAR:	+" abuela, dónde estás ? 218713_222807
+%pos: +".SYM abuela.NOUN ,.PUNCT dónde.ADV estás.VERB
+*PAR:	y el lobo dijo, en un (.) como en un voz de una abuela +"/. 222807_236542
+%pos: y.CCONJ el.DET lobo.NOUN dijo.VERB ,.PUNCT en.ADP un.DET como.NOUN en.ADP un.DET voz.NOUN de.ADP una.DET abuela.NOUN +"/.PUNCT
+*PAR:	+" yo estoy aquí, en [/] en [/] en la cama . 236542_241232
+%pos: +".PUNCT yo.PRON estoy.VERB aquí.ADV ,.PUNCT en.ADP en.ADP en.ADP la.DET cama.NOUN
+*PAR:	y la niña (.) poní [: puso][*] los [: las][*] flores en un vaso . 241232_248619
+%pos: y.CCONJ la.DET niña.NOUN poní.VERB los.DET flores.NOUN en.ADP un.DET vaso.NOUN
+*PAR:	<next@s> [e] . 248619_250244
+*PAR:	<RES> [e] . 250244_252400
+*PAR:	la niña dijo +"/. 252400_255698
+%pos: la.DET niña.NOUN dijo.VERB +"/.SYM
+*PAR:	+" ay abuela, que tan grandes ojos tiene . 255698_263401
+%pos: +".SYM ay.INTJ abuela.NOUN ,.PUNCT que.SCONJ tan.ADV grandes.ADJ ojos.NOUN tiene.VERB
+*PAR:	y el lobo dijo +"/. 263401_264775
+%pos: y.CCONJ el.DET lobo.NOUN dijo.VERB +"/.SYM
+*PAR:	+" sólo para ver tú más bien . 264775_271621
+%pos: +".SYM sólo.ADV para.SCONJ ver.VERB tú.PRON más.ADV bien.ADV
+*PAR:	y la niña dijo +"/. 271621_273651
+%pos: y.CCONJ la.DET niña.NOUN dijo.VERB +"/.SYM
+*PAR:	+" ay, que [/] (.) que grande [: grandes][*] orejas tiene . 273651_279323
+%pos: +".SYM ay.INTJ ,.PUNCT que.SCONJ que.ADV grande.ADJ orejas.NOUN tiene.VERB
+*PAR:	y el lobo dijo +"/. 279323_280776
+%pos: y.CCONJ el.DET lobo.NOUN dijo.VERB +"/.SYM
+*PAR:	+" &-ah (.) só(lo) [/] (.) sólo so@s yo puedo oir (.) tú (.) más
+	mejor . 280776_293457
+%pos: +".SYM sólo.ADV sólo.ADV so.ADV yo.PRON puedo.AUX oir.VERB tú.PRON más.ADV mejor.ADV
+*PAR:	y la niña dijo +"/. 293457_296083
+%pos: y.CCONJ la.DET niña.NOUN dijo.VERB +"/.SYM
+*PAR:	+" ay abuela, que tan gran boca tiene . 296083_301889
+%pos: +".SYM ay.INTJ abuela.NOUN ,.PUNCT que.SCONJ tan.ADV gran.ADJ boca.NOUN tiene.VERB
+*PAR:	y el lobo dijo +"/. 301889_303153
+%pos: y.CCONJ el.DET lobo.NOUN dijo.VERB +"/.SYM
+*PAR:	+" par(a) [/] (.) <para comerselo> [//] (.) para comerse tú . 303153_309777
+%pos: +".SYM para.ADP para.ADP comerselo.VERB para.ADP comerse.VERB tú.PRON
+*PAR:	<RES> [e] . 309777_313309
+*PAR:	el lobo comí [: comio][*] la niña . 313309_319840
+%pos: el.DET lobo.NOUN comí.VERB la.DET niña.NOUN
+*PAR:	<RES> [e] . 319840_321277
+*PAR:	y luego, un bosquedor (.) I@s think@s (.) &-um . 321277_331960
+%pos: y.CCONJ luego.ADV ,.PUNCT un.DET bosquedor.NOUN I.PRON think.VERB
+*PAR:	<RES> [e] . 331960_332819
+*PAR:	venía a la casa . 332819_334856
+%pos: venía.VERB a.ADP la.DET casa.NOUN
+*PAR:	<y dijo> [///] y (.) ve que había un lobo que tiene un estómago muy
+	grande . 334856_345573
+%pos: y.CCONJ dijo.VERB y.CCONJ ve.VERB que.SCONJ había.VERB un.DET lobo.NOUN que.SCONJ tiene.VERB un.DET estómago.NOUN muy.ADV grande.ADJ
+*PAR:	<next@s page@s> [e] . 345573_348652
+*PAR:	<RES> [e] . 348652_350730
+*PAR:	y (.) luego, (.) &-um la abuela y la niña era [: eran][*] en el
+	estómago del lobo . 350730_368107
+%pos: y.CCONJ luego.ADV ,.PUNCT la.DET abuela.NOUN y.CCONJ la.DET niña.NOUN era.VERB en.ADP el.DET estómago.NOUN del.ADP lobo.NOUN
+*PAR:	y (.) el &-um hombre que era el rescater [: salvador][*] (..) yeah@s,
+	rescue@s them@s . 368107_381446
+%pos: y.CCONJ el.DET hombre.NOUN que.SCONJ era.AUX el.DET rescater.NOUN yeah.ADV ,.PUNCT rescue.VERB them.PRON
+*PAR:	<RES> [e] . 381436_385475
+*PAR:	<yeah@s> [e] . 385475_385881
+*PAR:	<RES> [e] . 385881_387881
+*PAR:	y luego, &-um le [: él][*] poní [: puso][*] las rocas en el estómago
+	del lobo . 387881_401347
+%pos: y.CCONJ luego.ADV ,.PUNCT le.PRON poní.VERB las.DET rocas.NOUN en.ADP el.DET estómago.NOUN del.ADP lobo.NOUN
+*PAR:	y la abuela tiene un (.) &-um like@s a@s sewing@s needle@s and@s
+	thread@s . 401347_410582
+%pos: y.CCONJ la.DET abuela.NOUN tiene.VERB un.DET like.CCONJ a.DET sewing.NOUN needle.NOUN and.CCONJ thread.NOUN
+*PAR:	<RES> [e] . 410582_411373
+*PAR:	<next@s page@s> [e] . 411373_412446
+*PAR:	<RES> [e] . 412446_414653
+*PAR:	y luego el lobo (.) &-um (.) estaba como like@s he@s woke@s up@s . 414653_428778
+%pos: y.CCONJ luego.ADV el.DET lobo.NOUN estaba.VERB como.CCONJ like.CCONJ he.PRON woke.VERB up.ADV
+*PAR:	y luego &-um él no relació [: realizó][*] que hay <los> [///] las
+	roc(as) [/] rocas en su estómago y yeah@s . 428778_442455
+%pos: y.CCONJ luego.ADV él.PRON no.ADV relació.NOUN que.SCONJ hay.VERB los.DET las.DET rocas.NOUN rocas.NOUN en.ADP su.DET estómago.NOUN y.CCONJ yeah.ADV
+*PAR:	<RES> [e] .  442455_445440
+*PAR:	y la niña <y el (.) &-um> [/] y el &-um hombre (.) &-um dijo
+	[: dijeron][*] adiós a la abuela . 445440_464659
+%pos: y.CCONJ la.DET niña.NOUN y.CCONJ el.DET y.CCONJ el.DET hombre.NOUN dijo.VERB adiós.VERB a.ADP la.DET abuela.NOUN
+*PAR:	y all@s lived@s happily@s ever@s after@s again@s . 464659_467746
+%pos: y.CCONJ all.DET lived.VERB happily.ADV ever.ADV after.ADV again.ADV
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:22:03.929263

@@ -1,0 +1,76 @@
+@UTF8
+@Window:	0_0_0_0_0_0_1705_1_1705_1
+@Begin
+@Languages:	spa,eng
+@Participants:	PAR 135 Speaker
+@ID:	spa|narratives|PAR||female|||Speaker|||
+@Media:	135_spanish,audio
+*PAR:	<RES>[e]. 0_70750
+*PAR:	la niña estaba jugando en la casa de su abuelita. 70750_74715
+%pos: la.DET niña.NOUN estaba.AUX jugando.VERB en.ADP la.DET casa.NOUN de.ADP su.DET abuelita.NOUN
+*PAR:	la niña salió de la casa de su madre con una canasta de frutas. 74715_82401
+%pos: la.DET niña.NOUN salió.VERB de.ADP la.DET casa.NOUN de.ADP su.DET madre.NOUN con.ADP una.DET canasta.NOUN de.ADP frutas.NOUN
+*PAR:	<hay va>[e]. 82401_83402
+*PAR:	o de comida. 83402_83991
+%pos: o.CCONJ de.ADP comida.NOUN
+*PAR:	la niña fue perseguida por un lobo. 83991_88771
+%pos: la.DET niña.NOUN fue.AUX perseguida.VERB por.ADP un.DET lobo.NOUN
+*PAR:	<o ahí acá>[e]. 88771_92990
+*PAR:	<RES>[e]. 92990_94197
+*PAR:	y atrás del lobo estaba un leñador. 94197_98211
+%pos: y.CCONJ atrás.ADV del.ADP lobo.NOUN estaba.VERB un.DET leñador.NOUN
+*PAR:	el lobo estaba por entrar a la casa de su abuelita. 98211_105697
+%pos: el.DET lobo.NOUN estaba.VERB por.ADP entrar.VERB a.ADP la.DET casa.NOUN de.ADP su.DET abuelita.NOUN
+*PAR:	el lobo se intentó comer la abuela. 105697_112115
+%pos: el.DET lobo.NOUN se.PRON intentó.VERB comer.VERB la.DET abuela.NOUN
+*PAR:	el lobo se hizo pasar por la abuela. 112115_117371
+%pos: el.DET lobo.NOUN se.PRON hizo.VERB pasar.VERB por.ADP la.DET abuela.NOUN
+*PAR:	y caperucita entró a la casa. 117371_121447
+%pos: y.CCONJ caperucita.PROPN entró.VERB a.ADP la.DET casa.NOUN
+*PAR:	caperucita revsió en el lobo. 121447_129291
+%pos: caperucita.NOUN revsió.NOUN en.ADP el.DET lobo.NOUN
+*PAR:	<si verdad>[e]. 129291_131149
+*PAR:	o el lobo se escondió abajo de la manta. 131149_134522
+%pos: o.CCONJ el.DET lobo.NOUN se.PRON escondió.VERB abajo.ADV de.ADP la.DET manta.NOUN
+*PAR:	el lobo saltó de la cama. 134522_139122
+%pos: el.DET lobo.NOUN saltó.VERB de.ADP la.DET cama.NOUN
+*PAR:	y asustó a la niña. 139121_140286
+%pos: y.CCONJ asustó.VERB a.ADP la.DET niña.NOUN
+*PAR:	<si eso>[e]. 140286_144990
+*PAR:	cuando el cazador llego. 144990_148242
+%pos: cuando.SCONJ el.DET cazador.NOUN llego.VERB
+*PAR:	el lobo ya se las habido comido. 148242_151792
+%pos: el.DET lobo.NOUN ya.ADV se.PRON las.PRON habido.AUX comido.VERB
+*PAR:	(..) mientras el lobo dormía. 151792_157147
+%pos: mientras.SCONJ el.DET lobo.NOUN dormía.VERB
+*PAR:	el cazador le cortó el estomago. 157147_159542
+%pos: el.DET cazador.NOUN le.PRON cortó.VERB el.DET estomago.NOUN
+*PAR:	y la abuela. 159447_160790
+%pos: y.CCONJ la.DET abuela.NOUN
+*PAR:	y la niña salieron. 160790_162012
+%pos: y.CCONJ la.DET niña.NOUN salieron.VERB
+*PAR:	la abuela. 162012_166277
+%pos: la.DET abuela.NOUN
+*PAR:	la niña. 166277_167137
+%pos: la.DET niña.NOUN
+*PAR:	y el cazador hicieron un plan para que el lobo so se diera cuenta
+	que las habían saco. 167137_175305
+%pos: y.CCONJ el.DET cazador.NOUN hicieron.VERB un.DET plan.NOUN para.ADP que.SCONJ el.DET lobo.NOUN so.ADV se.PRON diera.VERB cuenta.NOUN que.SCONJ las.PRON habían.AUX saco.VERB
+*PAR:	y le pusieron rocas. 175305_176977
+%pos: y.CCONJ le.PRON pusieron.VERB rocas.NOUN
+*PAR:	&-uhm (..) el cazador salió corriendo de la casa. 176977_184477
+%pos: el.DET cazador.NOUN salió.VERB corriendo.VERB de.ADP la.DET casa.NOUN
+*PAR:	<y se lo>[///] o y cayó en el rio. 184477_186897
+%pos: y.CCONJ se.PRON loo.VERB y.CCONJ cayó.VERB en.ADP el.DET rio.NOUN
+*PAR:	o en el estanque de allá. 186896_188477
+%pos: o.CCONJ en.ADP el.DET estanque.NOUN de.ADP allá.ADV
+*PAR:	porque ahí &=laughs. 188477_189896
+%pos: porque.CCONJ ahí.ADV
+*PAR:	<RES>[e]. 189896_191732
+*PAR:	la niña. 191732_193637
+%pos: la.DET niña.NOUN
+*PAR:	y el cazador se despidieron <de su abuelita> [//] de la abuelita. 193637_198462
+%pos: y.CCONJ el.DET cazador.NOUN se.PRON despidieron.VERB de.ADP su.DET abuelita.NOUN de.ADP la.DET abuelita.NOUN
+*PAR:	<al fin yay@s &=laughs>[e]. 198462_200212
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:31:42.488573

@@ -1,0 +1,56 @@
+@UTF8
+@Window:	113_243_668_1071_-1_-1_1701_0_1701_0
+@Begin
+@Languages:	spa,eng
+@Participants:	PAR 106 Speaker
+@ID:	spa|narratives|PAR||male|||Speaker|||
+@Media:	106_spanish,audio
+*PAR:	(...) okay@s, qué hacemos ahora? 0_13033
+%pos: okay.INTJ ,.PUNCT qué.PRON hacemos.VERB ahora.ADV
+*PAR:	<RES> [e]. 13033_20971
+*PAR:	okay@s. 20971_22343
+%pos: okay.INTJ
+*PAR:	ahora [/] ahora, el final te cuento la historia? 22343_27478
+%pos: ahora.ADV ahora.ADV ,.PUNCT el.DET final.NOUN te.PRON cuento.VERB la.DET historia.NOUN
+*PAR:	<RES> [e]. 27478_40128
+*PAR:	la niña <está con la> [//] estaba con la abuela. 40128_46047
+%pos: la.DET niña.NOUN está.VERB con.ADP la.DET estaba.VERB con.ADP la.DET abuela.NOUN
+*PAR:	<RES> [e]. 46047_46872
+*PAR:	&-eh tam(bién) [//] &-eh okay@s, a la próxima. 46872_52731
+%pos: también.ADV okay.PROPN ,.PUNCT a.ADP la.DET próxima.NOUN
+*PAR:	la niña [/] &-eh &-um la niña &-um estaba saludando a su mamá. 52731_78060
+%pos: la.DET niña.NOUN la.DET niña.NOUN estaba.AUX saludando.VERB a.ADP su.DET mamá.NOUN
+*PAR:	okay@s &=laughs, la niña estaba siendo comida por el lobo. 78060_95629
+%pos: okay.INTJ ,.PUNCT la.DET niña.NOUN estaba.AUX siendo.AUX comida.NOUN por.ADP el.DET lobo.NOUN
+*PAR:	okay@s (...) &-eh <acá no está> [///] ah, okay@s el lobo llegó a la casa? 95629_120001
+%pos: okay.INTJ acá.ADV no.ADV está.VERB ah.INTJ ,.PUNCT okay.INTJ el.DET lobo.NOUN llegó.VERB a.ADP la.DET casa.NOUN
+*PAR:	es que no sé cómo decirlo. 120001_123943
+%pos: es.VERB que.SCONJ no.ADV sé.VERB cómo.ADV decirlo.VERB
+*PAR:	porque no hay mucho más pasando. 123943_126743
+%pos: porque.SCONJ no.ADV hay.VERB mucho.PRON más.ADV pasando.VERB
+*PAR:	y el lobo (.) estaba caminando. 126743_132145
+%pos: y.CCONJ el.DET lobo.NOUN estaba.AUX caminando.VERB
+*PAR:	el lobo <se estaba co(miendo)> [//] se comió a la abuela. 132145_141562
+%pos: el.DET lobo.NOUN se.PRON estaba.AUX comiendo.VERB se.PRON comió.VERB a.ADP la.DET abuela.NOUN
+*PAR:	okay@s, &-hm la niña llegó a la casa. 141562_163006
+%pos: okay.INTJ ,.PUNCT la.DET niña.NOUN llegó.VERB a.ADP la.DET casa.NOUN
+*PAR:	&-um sí, okay@s (...) la niña estaba hablando con el lobo. 163006_180110
+%pos: sí.INTJ ,.PUNCT okay.ADV la.DET niña.NOUN estaba.AUX hablando.VERB con.ADP el.DET lobo.NOUN
+*PAR:	okay@s &-hm <el lobo se comió a> [///] persiguió <a la Ca(perucita)> [//] a la niña. 180110_205049
+%pos: okay.INTJ el.DET lobo.NOUN se.PRON comió.VERB a.ADP persiguió.VERB a.ADP la.DET Caperucita.NOUN a.ADP la.DET niña.NOUN
+*PAR:	okay@s <se comió así> [///] <llegó él> [//] llegó el cazador. 205049_221058
+%pos: okay.INTJ se.PRON comió.VERB así.ADV llegó.VERB él.PRON llegó.VERB el.DET cazador.NOUN
+*PAR:	<RES> [e]. 221058_223664
+*PAR:	okay@s <y mató> [//] y sacó a la abuelita y a la niña. 223664_240250
+%pos: okay.INTJ y.CCONJ mató.VERB y.CCONJ sacó.VERB a.ADP la.DET abuelita.NOUN y.CCONJ a.ADP la.DET niña.NOUN
+*PAR:	<RES> [e]. 240250_241551
+*PAR:	&-um le pusieron piedras adentro de [/] de la xxx. 241551_259366
+%pos: le.PRON pusieron.VERB piedras.NOUN adentro.ADV de.ADP de.ADP la.DET xxx.X
+*PAR:	&=laughs se despertó. 259366_273462
+%pos: se.PRON despertó.VERB
+*PAR:	y se dio cuenta que estaba con piedras en la xxx. 273462_282583
+%pos: y.CCONJ se.PRON dio.VERB cuenta.NOUN que.SCONJ estaba.VERB con.ADP piedras.NOUN en.ADP la.DET xxx.PROPN
+*PAR:	la niña se despidió de la abuela. 282583_295343
+%pos: la.DET niña.NOUN se.PRON despidió.VERB de.ADP la.DET abuela.NOUN
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:35:28.035283

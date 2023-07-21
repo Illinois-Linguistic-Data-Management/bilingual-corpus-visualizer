@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- (c) http://www.rrz.uni-hamburg.de/exmaralda -->
+<basic-transcription>
+	<head>
+		<meta-information>
+			<project-name/>
+			<transcription-name/>
+			<referenced-file url="113_english.m4a"/>
+			<ud-meta-information>
+				<ud-information attribute-name="CHAT:@Window">0_0_0_0_0_0_1169_0_1169_0</ud-information>
+				<ud-information attribute-name="CHAT:@Languages">eng</ud-information>
+				<ud-information attribute-name="CHAT:@Media">113_english,audio</ud-information>
+			</ud-meta-information>
+			<comment/>
+			<transcription-convention/>
+		</meta-information>
+		<speakertable>
+			<speaker id="PAR">
+				<abbreviation>PAR</abbreviation>
+				<sex value="f"/>
+				<languages-used/>
+				<l1/>
+				<l2/>
+				<ud-speaker-information>
+					<ud-information attribute-name="CHAT:Name">PAR</ud-information>
+					<ud-information attribute-name="CHAT:Full Name">113</ud-information>
+					<ud-information attribute-name="CHAT:Role">Speaker</ud-information>
+					<ud-information attribute-name="CHAT:ID">eng|narratives|PAR||female|||Speaker|||</ud-information>
+				</ud-speaker-information>
+				<comment/>
+			</speaker>
+		</speakertable>
+	</head>
+	<basic-body>
+		<common-timeline>
+			<tli id="T0" time="0.0"/>
+			<tli id="T1" time="25.781"/>
+			<tli id="T2" time="39.034"/>
+			<tli id="T3" time="54.776"/>
+			<tli id="T4" time="71.438"/>
+			<tli id="T5" time="84.798"/>
+			<tli id="T6" time="103.702"/>
+			<tli id="T7" time="114.283"/>
+			<tli id="T8" time="122.066"/>
+			<tli id="T9" time="136.16"/>
+			<tli id="T10" time="143.082"/>
+			<tli id="T11" time="157.697"/>
+			<tli id="T12" time="170.761"/>
+			<tli id="T13" time="191.061"/>
+			<tli id="T14" time="209.473"/>
+			<tli id="T15" time="243.058"/>
+			<tli id="T16" time="256.309"/>
+			<tli id="T17" time="262.789"/>
+			<tli id="T18" time="280.2"/>
+			<tli id="T19" time="287.37"/>
+			<tli id="T20" time="297.441"/>
+		</common-timeline>
+		<tier id="TIE2" speaker="PAR" category="main" type="t" display-name="PAR [main]">
+			<event start="T0" end="T1">Little Red Riding Hood (.) &amp;-uhm by Charles &lt;Pers&gt; [//] Perrault.</event>
+			<event start="T1" end="T2">&amp;-uhm Little Red Riding Hood danced for her grandma</event>
+			<event start="T2" end="T3">the (.) little girl waved bye to her mother.</event>
+			<event start="T3" end="T4">&amp;-uhm (.) the wolf tried to scare Little Red Riding Hood.</event>
+			<event start="T4" end="T5">the wolf walked up to the door.</event>
+			<event start="T5" end="T6">the wolf attacked &amp;-uhm her grandmother.</event>
+			<event start="T6" end="T7">Little Red Riding Hood was not aware.</event>
+			<event start="T7" end="T8">&lt;of&gt; [//] that the wolf was not her grandmother.</event>
+			<event start="T8" end="T9">Little Red Riding Hood was curious.</event>
+			<event start="T9" end="T10">&amp;-uhm i think that.</event>
+			<event start="T10" end="T11">the wolf had jumped at Little Red Riding Hood.</event>
+			<event start="T11" end="T12">the wolf was full.</event>
+			<event start="T12" end="T13">&lt;the hunter&gt; [/] the hunter went to go see what was happening.</event>
+			<event start="T13" end="T14">&amp;-uhm &amp;-uh the hunter helped the grandmother and a little girl.</event>
+			<event start="T14" end="T15">&amp;-uhm the &amp;-uhm &amp;-uh i&apos;m not sure how to explain this picture.</event>
+			<event start="T15" end="T16">&lt;&lt;that they&apos;re&gt; [/] that they&apos;re feeding xxx&gt; [///] or they fed.</event>
+			<event start="T16" end="T17">they look like rocks.</event>
+			<event start="T17" end="T18">&amp;-uhm at the end the wolf walked.</event>
+			<event start="T18" end="T19">&amp;-uh &amp;-uhm he was full.</event>
+			<event start="T19" end="T20">Little Red Riding Hood waived goodbye to her grandmother.</event>
+		</tier>
+	</basic-body>
+</basic-transcription>

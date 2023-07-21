@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- (c) http://www.rrz.uni-hamburg.de/exmaralda -->
+<basic-transcription>
+	<head>
+		<meta-information>
+			<project-name/>
+			<transcription-name/>
+			<referenced-file url="106_spanish.m4a"/>
+			<ud-meta-information>
+				<ud-information attribute-name="CHAT:@Window">113_243_668_1071_-1_-1_1701_0_1701_0</ud-information>
+				<ud-information attribute-name="CHAT:@Languages">spa,eng</ud-information>
+				<ud-information attribute-name="CHAT:@Media">106_spanish,audio</ud-information>
+			</ud-meta-information>
+			<comment/>
+			<transcription-convention/>
+		</meta-information>
+		<speakertable>
+			<speaker id="PAR">
+				<abbreviation>PAR</abbreviation>
+				<sex value="m"/>
+				<languages-used/>
+				<l1/>
+				<l2/>
+				<ud-speaker-information>
+					<ud-information attribute-name="CHAT:Name">PAR</ud-information>
+					<ud-information attribute-name="CHAT:Full Name">106</ud-information>
+					<ud-information attribute-name="CHAT:Role">Speaker</ud-information>
+					<ud-information attribute-name="CHAT:ID">spa|narratives|PAR||male|||Speaker|||</ud-information>
+				</ud-speaker-information>
+				<comment/>
+			</speaker>
+		</speakertable>
+	</head>
+	<basic-body>
+		<common-timeline>
+			<tli id="T0" time="0.0"/>
+			<tli id="T1" time="13.033"/>
+			<tli id="T2" time="20.971"/>
+			<tli id="T3" time="22.343"/>
+			<tli id="T4" time="27.478"/>
+			<tli id="T5" time="40.128"/>
+			<tli id="T6" time="46.047"/>
+			<tli id="T7" time="46.872"/>
+			<tli id="T8" time="52.731"/>
+			<tli id="T9" time="78.06"/>
+			<tli id="T10" time="95.629"/>
+			<tli id="T11" time="120.001"/>
+			<tli id="T12" time="123.943"/>
+			<tli id="T13" time="126.743"/>
+			<tli id="T14" time="132.145"/>
+			<tli id="T15" time="141.562"/>
+			<tli id="T16" time="163.006"/>
+			<tli id="T17" time="180.11"/>
+			<tli id="T18" time="205.049"/>
+			<tli id="T19" time="221.058"/>
+			<tli id="T20" time="223.664"/>
+			<tli id="T21" time="240.25"/>
+			<tli id="T22" time="241.551"/>
+			<tli id="T23" time="259.366"/>
+			<tli id="T24" time="273.462"/>
+			<tli id="T25" time="282.583"/>
+			<tli id="T26" time="295.343"/>
+		</common-timeline>
+		<tier id="TIE2" speaker="PAR" category="main" type="t" display-name="PAR [main]">
+			<event start="T0" end="T1">(...) okay@s, qué hacemos ahora?</event>
+			<event start="T1" end="T2">&lt;RES&gt; [e].</event>
+			<event start="T2" end="T3">okay@s.</event>
+			<event start="T3" end="T4">ahora [/] ahora, el final te cuento la historia?</event>
+			<event start="T4" end="T5">&lt;RES&gt; [e].</event>
+			<event start="T5" end="T6">la niña &lt;está con la&gt; [//] estaba con la abuela.</event>
+			<event start="T6" end="T7">&lt;RES&gt; [e].</event>
+			<event start="T7" end="T8">&amp;-eh tam(bién) [//] &amp;-eh okay@s, a la próxima.</event>
+			<event start="T8" end="T9">la niña [/] &amp;-eh &amp;-um la niña &amp;-um estaba saludando a su mamá.</event>
+			<event start="T9" end="T10">okay@s &amp;=laughs, la niña estaba siendo comida por el lobo.</event>
+			<event start="T10" end="T11">okay@s (...) &amp;-eh &lt;acá no está&gt; [///] ah, okay@s el lobo llegó a la casa?</event>
+			<event start="T11" end="T12">es que no sé cómo decirlo.</event>
+			<event start="T12" end="T13">porque no hay mucho más pasando.</event>
+			<event start="T13" end="T14">y el lobo (.) estaba caminando.</event>
+			<event start="T14" end="T15">el lobo &lt;se estaba co(miendo)&gt; [//] se comió a la abuela.</event>
+			<event start="T15" end="T16">okay@s, &amp;-hm la niña llegó a la casa.</event>
+			<event start="T16" end="T17">&amp;-um sí, okay@s (...) la niña estaba hablando con el lobo.</event>
+			<event start="T17" end="T18">okay@s &amp;-hm &lt;el lobo se comió a&gt; [///] persiguió &lt;a la Ca(perucita)&gt; [//] a la niña.</event>
+			<event start="T18" end="T19">okay@s &lt;se comió así&gt; [///] &lt;llegó él&gt; [//] llegó el cazador.</event>
+			<event start="T19" end="T20">&lt;RES&gt; [e].</event>
+			<event start="T20" end="T21">okay@s &lt;y mató&gt; [//] y sacó a la abuelita y a la niña.</event>
+			<event start="T21" end="T22">&lt;RES&gt; [e].</event>
+			<event start="T22" end="T23">&amp;-um le pusieron piedras adentro de [/] de la xxx.</event>
+			<event start="T23" end="T24">&amp;=laughs se despertó.</event>
+			<event start="T24" end="T25">y se dio cuenta que estaba con piedras en la xxx.</event>
+			<event start="T25" end="T26">la niña se despidió de la abuela.</event>
+		</tier>
+	</basic-body>
+</basic-transcription>

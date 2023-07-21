@@ -1,0 +1,124 @@
+@UTF8
+@Window:	0_0_0_0_0_0_3258_0_3258_0
+@Begin
+@Languages:	spa,eng
+@Participants:	PAR 511 Speaker
+@ID:	spa|narratives|PAR||male|||Speaker|||
+@Media:	511_spanish,audio
+*PAR:	una niña está visitando su abuela . 0_6320
+%pos: una.DET niña.NOUN está.AUX visitando.VERB su.DET abuela.NOUN
+*PAR:	y [/] (.) &-uh y la abuela está &-um . 6320_18196
+%pos: y.CCONJ y.CCONJ la.DET abuela.NOUN está.VERB
+*PAR:	<what's@s the@s word@s for@s happy@s> [e] . 18196_20165
+*PAR:	<RES> [e] . 20165_22321
+*PAR:	&-uh feliz . 22321_24654
+%pos: feliz.ADJ
+*PAR:	<RES> [e] . 24654_31015
+*PAR:	<&-uh listo> [e] . 31015_33030
+*PAR:	<RES> [e] . 33030_34813
+*PAR:	&-uh (...) la niña &-uh let@s &-uh &-uh . 34813_55765
+%pos: la.DET niña.NOUN let.X
+*PAR:	<RES> [e] . 55765_68751
+*PAR:	&-uh . 68751_70819
+*PAR:	<RES> [e] . 70819_75099
+*PAR:	adiós . 75099_78319
+%pos: adiós.INTJ
+*PAR:	<RES> [e] . 78319_82438
+*PAR:	&-uh la niña está listo para &-uh empezar &-uh (.) &-uh caminar a
+	otro lugar . 82438_102308
+%pos: la.DET niña.NOUN está.AUX listo.ADJ para.ADP empezar.VERB caminar.VERB a.ADP otro.DET lugar.NOUN
+*PAR:	<RES> [e] . 102308_111589
+*PAR:	&-uh el [: la][*] niña está caminando en el bosque . 111589_119543
+%pos: el.DET niña.NOUN está.AUX caminando.VERB en.ADP el.DET bosque.NOUN
+*PAR:	&-uh cuando &-um un lobo &-uh (.) &-uh . 119543_130022
+%pos: cuando.CCONJ un.DET lobo.NOUN
+*PAR:	<RES> [e] . 130022_142650
+*PAR:	&-uh (.) &-uh comer ella . 142650_148447
+%pos: comer.VERB ella.PRON
+*PAR:	<RES> [e] . 148447_151212
+*PAR:	cuando el lobo quiere comer ella . 151212_156947
+%pos: cuando.SCONJ el.DET lobo.NOUN quiere.VERB comer.VERB ella.PRON
+*PAR:	<RES> [e] . 156947_163538
+*PAR:	<listo> [e] . 163538_164397
+*PAR:	<RES> [e] . 164397_166491
+*PAR:	&-uh el lobo se encuentra el [: la][*] casa de &-uh (..) de &-um . 166491_187272
+%pos: el.DET lobo.NOUN se.PRON encuentra.VERB el.DET casa.NOUN de.ADP de.ADP
+*PAR:	<RES> [e] . 187272_200955
+*PAR:	de &-uh la niña's@s abuela . 200955_205167
+%pos: de.ADP la.DET niña.NOUN 's.PART abuela.NOUN
+*PAR:	<RES> [e] . 205167_207026
+*PAR:	&-um (.) &-uh y (.) están listo de [: para][*] comer . 207026_219855
+%pos: y.CCONJ están.AUX listo.ADJ de.ADP comer.VERB
+*PAR:	<RES> [e] . 219855_223730
+*PAR:	y (.) &-uh la [: el][*] lobo entre [: entra][*] la casa . 223730_234605
+%pos: y.CCONJ la.DET lobo.NOUN entre.ADP la.DET casa.NOUN
+*PAR:	y &-uh empieza de [: a][*] comer la abuela . 234605_242581
+%pos: y.CCONJ empieza.VERB de.ADP comer.VERB la.DET abuela.NOUN
+*PAR:	<RES> [e] . 242581_247800
+*PAR:	&-um (.) la niña está &-uh (.) en la casa de su abuela . 247800_268723
+%pos: la.DET niña.NOUN está.VERB en.ADP la.DET casa.NOUN de.ADP su.DET abuela.NOUN
+*PAR:	y &-uh (..) &-uh está . 268723_277395
+%pos: y.CCONJ está.VERB
+*PAR:	<RES> [e] . 277395_287067
+*PAR:	&-uh el lobo está &-um en la (.) cama de la abuela . 287067_301096
+%pos: el.DET lobo.NOUN está.VERB en.ADP la.DET cama.NOUN de.ADP la.DET abuela.NOUN
+*PAR:	<RES> [e] . 301096_304593
+*PAR:	&-uh (.) el [: la][*] niña (.) &-uh fue a el lobo . 304593_319687
+%pos: el.DET niña.NOUN fue.VERB a.ADP el.DET lobo.NOUN
+*PAR:	&-uh y ella piensa que el lobo es su abuela . 319687_326265
+%pos: y.CCONJ ella.PRON piensa.VERB que.SCONJ el.DET lobo.NOUN es.AUX su.DET abuela.NOUN
+*PAR:	<y piensa> [///] &-uh y empieza (.) a hablar con ella . 326265_339187
+%pos: y.CCONJ piensa.VERB y.CCONJ empieza.VERB a.ADP hablar.VERB con.ADP ella.PRON
+*PAR:	<RES> [e] . 339187_343788
+*PAR:	<&-uh el> [/] &-uh el lobo &-uh (.) empieza a atacar la niña . 343788_360847
+%pos: el.DET el.DET lobo.NOUN empieza.VERB a.ADP atacar.VERB la.DET niña.NOUN
+*PAR:	&-uh <y ella> [/] &-uh &-um (..) &-uh (.) y ella empieza a correr . 360847_385821
+%pos: y.CCONJ ella.PRON y.CCONJ ella.PRON empieza.VERB a.ADP correr.VERB
+*PAR:	<RES> [e] . 385821_391618
+*PAR:	&-um (.) &-uh (.) un señor &-uh entre [: entra][*] la casa . 391618_412165
+%pos: un.DET señor.NOUN entre.ADP la.DET casa.NOUN
+*PAR:	y &-uh ve que hay un lobo en la cama . 412165_424206
+%pos: y.CCONJ ve.VERB que.SCONJ hay.VERB un.DET lobo.NOUN en.ADP la.DET cama.NOUN
+*PAR:	<RES> [e] . 424206_425391
+*PAR:	<&-um (..) &-uh ya> [e] . 425391_438860
+*PAR:	<RES> [e] . 438860_445234
+*PAR:	&-uh la [: el][*] señor &-um mata &-uh &-um el lobo . 445234_456813
+%pos: la.DET señor.NOUN mata.VERB el.DET lobo.NOUN
+*PAR:	y la abuela y la niña &-uh son [: están][*] viva [: vivas][*] . 456813_464797
+%pos: y.CCONJ la.DET abuela.NOUN y.CCONJ la.DET niña.NOUN son.AUX viva.ADJ
+*PAR:	<RES> [e] . 464797_465511
+*PAR:	&-uh (.) &-uh (.) y (.) todos están feliz [: felices][*] . 465511_476870
+%pos: y.CCONJ todos.PRON están.AUX feliz.ADJ
+*PAR:	<RES> [e] . 476870_488956
+*PAR:	<okay@s> [e] . 488956_490650
+*PAR:	&-um (..) el [: la][*] niña y el señor son (.) &-uh (.) &-uh . 490650_511651
+%pos: el.DET niña.NOUN y.CCONJ el.DET señor.NOUN son.VERB
+*PAR:	<RES> [e] . 511651_527103
+*PAR:	&-uh . 527103_528365
+*PAR:	<RES> [e] . 528365_529364
+*PAR:	rocas . 529364_530495
+%pos: rocas.NOUN
+*PAR:	<RES> [e] . 530495_533932
+*PAR:	<&-uh y haber> [///] &-uh (.) &-uh (.) y el [: la][*] niña y el
+	señor ponen las rocas en el lobo . 533932_556932
+%pos: y.CCONJ haber.VERB y.CCONJ el.DET niña.NOUN y.CCONJ el.DET señor.NOUN ponen.VERB las.DET rocas.NOUN en.ADP el.DET lobo.NOUN
+*PAR:	<RES> [e] . 556932_563637
+*PAR:	&-um (.) el [: la][*] niña y el señor ponen las rocas en el lobo . 563637_575919
+%pos: el.DET niña.NOUN y.CCONJ el.DET señor.NOUN ponen.VERB las.DET rocas.NOUN en.ADP el.DET lobo.NOUN
+*PAR:	y &-uh ahora el lobo &-um (.) &-uh . 575919_586763
+%pos: y.CCONJ ahora.ADV el.DET lobo.NOUN
+*PAR:	<RES> [e] . 586763_597925
+*PAR:	<&-um (..) fat@s> [e] . 597925_604715
+*PAR:	<RES> [e] . 604715_607919
+*PAR:	<yeah@s, gordo> [e] . 607919_610403
+*PAR:	<RES> [e] . 610403_619685
+*PAR:	<yes@s> [e] . 619685_620981
+*PAR:	<RES> [e] . 620981_622544
+*PAR:	&-uh el [: la][*] niña y el señor &-uh (.) va (.) &-uh a sus casas .
+	622544_641025
+%pos: el.DET niña.NOUN y.CCONJ el.DET señor.NOUN va.VERB a.ADP sus.DET casas.NOUN
+*PAR:	<RES> [e] . 641025_641599
+*PAR:	y (.) todos son [: están][*] feliz [: felices][*] . 641599_646333
+%pos: y.CCONJ todos.PRON son.AUX feliz.ADJ
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:23:12.160907

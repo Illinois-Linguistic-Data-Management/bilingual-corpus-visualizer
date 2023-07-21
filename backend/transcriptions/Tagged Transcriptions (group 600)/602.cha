@@ -1,0 +1,44 @@
+@UTF8
+@Window:	131_721_668_719_-1_-1_62_0_62_0
+@Begin
+@Languages:	spa
+@Participants:	PAR 602 Speaker
+@ID:	spa|narratives|PAR||female|||Speaker|||
+@Media:	602,audio	
+*PAR:	<RES> [e]. 0_3465
+*PAR:	Caperu(cita) [//] Caperucita Roja estaba en su casa (.) en el bosque. 3465_11677
+%pos: Caperucita.PROPN Caperucita.PROPN Roja.PROPN estaba.VERB en.ADP su.DET casa.NOUN en.ADP el.DET bosque.NOUN
+*PAR:	a Caperucita Roja le gustaba mucho el pastel. 11677_17315
+%pos: a.ADP Caperucita.PROPN Roja.PROPN le.PRON gustaba.VERB mucho.PRON el.DET pastel.NOUN
+*PAR:	a Caperucita Roja su mamá le mandó a que le llevara frutas y un poco de agua a su abuelita. 17315_28944
+%pos: a.ADP Caperucita.PROPN Roja.PROPN su.DET mamá.NOUN le.PRON mandó.VERB a.ADP que.SCONJ le.PRON llevara.VERB frutas.NOUN y.CCONJ un.DET poco.PRON de.ADP agua.NOUN a.ADP su.DET abuelita.NOUN
+*PAR:	Caperucita iba rumbo a la casa de la abuelita cuando se encontró con el lobo feroz. 28944_39643
+%pos: Caperucita.PROPN iba.VERB rumbo.ADV a.ADP la.DET casa.NOUN de.ADP la.DET abuelita.NOUN cuando.SCONJ se.PRON encontró.VERB con.ADP el.DET lobo.NOUN feroz.ADJ
+*PAR:	Caperucita Roja se entretuvo con flores para [/] para su abuelita mientras el lobo iba a la casa de su abuelita. 39643_53438
+%pos: Caperucita.PROPN Roja.PROPN se.PRON entretuvo.VERB con.ADP flores.NOUN para.ADP para.ADP su.DET abuelita.NOUN mientras.SCONJ el.DET lobo.NOUN iba.VERB a.ADP la.DET casa.NOUN de.ADP su.DET abuelita.NOUN
+*PAR:	el lobo malo, este, fue a por la abuelita. 53438_60823
+%pos: el.DET lobo.NOUN malo.ADJ ,.PUNCT este.PRON ,.PUNCT fue.VERB a.ADP por.ADP la.DET abuelita.NOUN
+*PAR:	Caperucita Roja llegó. 60823_67364
+%pos: Caperucita.PROPN Roja.PROPN llegó.VERB
+*PAR:	le puso sus galletas a su abuelita, su agüita y las flores, mientras el [//] Caperucita Roja estaba viendo cómo estaba su abuelita. 67364_82774
+%pos: le.PRON puso.VERB sus.DET galletas.NOUN a.ADP su.DET abuelita.NOUN ,.PUNCT su.DET agüita.NOUN y.CCONJ las.DET flores.NOUN ,.PUNCT mientras.SCONJ el.DET Caperucita.PROPN Roja.PROPN estaba.AUX viendo.VERB cómo.ADV estaba.VERB su.DET abuelita.NOUN
+*PAR:	pero se estaba dando cuenta de muchas cosas. 82774_85813
+%pos: pero.CCONJ se.PRON estaba.AUX dando.VERB cuenta.NOUN de.ADP muchas.DET cosas.NOUN
+*PAR:	y se dio cuenta de que era el robo [: lobo] [//] [*] lobo. 85813_93020
+%pos: y.CCONJ se.PRON dio.VERB cuenta.NOUN de.ADP que.SCONJ era.AUX el.DET robo.NOUN lobo.ADJ
+*PAR:	salió corriendo. 93020_94586
+%pos: salió.VERB corriendo.VERB
+*PAR:	y llegó su papá, que se había comido a Caperucita Roja. 94586_102771
+%pos: y.CCONJ llegó.VERB su.DET papá.NOUN ,.PUNCT que.SCONJ se.PRON había.AUX comido.VERB a.ADP Caperucita.NOUN Roja.ADJ
+*PAR:	se [///] Caperucita Roja salió de la panza y también la abuelita. 102771_112621
+%pos: se.PRON Caperucita.PROPN Roja.PROPN salió.VERB de.ADP la.DET panza.NOUN y.CCONJ también.ADV la.DET abuelita.NOUN
+*PAR:	y le llenaron la panza con rocas. 112621_119378
+%pos: y.CCONJ le.PRON llenaron.VERB la.DET panza.NOUN con.ADP rocas.NOUN
+*PAR:	y el lobo quería mucha agua. 119378_125379
+%pos: y.CCONJ el.DET lobo.NOUN quería.VERB mucha.DET agua.NOUN
+*PAR:	pero, como estaba muy gordo, se cayó. 125379_128617
+%pos: pero.CCONJ ,.PUNCT como.SCONJ estaba.AUX muy.ADV gordo.ADJ ,.PUNCT se.PRON cayó.VERB
+*PAR:	y la abuelita le agradeció al papá y Caperucita Roja. 128617_135502
+%pos: y.CCONJ la.DET abuelita.NOUN le.PRON agradeció.VERB al.ADP papá.NOUN y.CCONJ Caperucita.PROPN Roja.PROPN
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:18:35.144563

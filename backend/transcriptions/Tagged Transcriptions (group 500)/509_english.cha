@@ -1,0 +1,64 @@
+@UTF8
+@Window:	14_663_768_685_-1_-1_2494_0_2494_0
+@Begin
+@Languages:	eng
+@Participants:	PAR 509 Speaker
+@ID:	eng|narratives|PAR||female|||Speaker|||
+@Media:	509_english, audio
+*PAR:	&-uh the girl (...) in the red hood (..) in the blue (.) dress (...) was walking away (...) to leave (..) her grandma's house (.). 0_15582
+%pos: the.DET girl.NOUN in.ADP the.DET red.ADJ hood.NOUN in.ADP the.DET blue.ADJ dress.NOUN was.AUX walking.VERB away.ADV to.PART leave.VERB her.PRON grandma.NOUN 's.PART house.NOUN
+*PAR:	<RES> [e]. 15582_16089
+*PAR:	<&-uh next (...)> [e]. 16089_21582
+*PAR:	&-um (..) the girl (...) in the (.) red (..) &-um (...) cape (..) waved goodbye (.) to her mom (...) &-um that she was walking away (.). 21582_39663
+%pos: the.DET girl.NOUN in.ADP the.DET red.ADJ cape.NOUN waved.VERB goodbye.NOUN to.ADP her.PRON mom.NOUN that.PRON she.PRON was.AUX walking.VERB away.ADV
+*PAR:	<&-uh next (...)> [e]. 39663_48418
+*PAR:	&-uh as the girl was walking, a wolf (..) tried (..) to attack her (.) from behind (...). 48418_57780
+%pos: as.SCONJ the.DET girl.NOUN was.AUX walking.VERB ,.PUNCT a.DET wolf.NOUN tried.VERB to.PART attack.VERB her.PRON from.ADP behind.ADV
+*PAR:	<&-uh next (...)> [e]. 57780_64598
+*PAR:	the wolf (..) &-um (...) followed the girl to her house (...). 64598_72850
+%pos: the.DET wolf.NOUN followed.VERB the.DET girl.NOUN to.ADP her.PRON house.NOUN
+*PAR:	and tried to come inside (...). 72850_75498
+%pos: and.CCONJ tried.VERB to.PART come.VERB inside.ADV
+*PAR:	<&-uh next (...)> [e]. 75498_80188
+*PAR:	the wolf (..) &-uh (..) ate (...) &-uh (...) her (...) &-uh grandma (...). 80188_92639
+%pos: the.DET wolf.NOUN ate.VERB her.PRON grandma.NOUN
+*PAR:	<next (...)> [e]. 92639_98396
+*PAR:	the wolf pretended to be (..) the girl's grandma as she hid into the house (.). 98396_105979
+%pos: the.DET wolf.NOUN pretended.VERB to.PART be.AUX the.DET girl.NOUN 's.PART grandma.NOUN as.SCONJ she.PRON hid.VERB into.ADP the.DET house.NOUN
+*PAR:	and prepared flowers (.) for her (...). 105979_111535
+%pos: and.CCONJ prepared.VERB flowers.NOUN for.ADP her.PRON
+*PAR:	<&-uh next (...)> [e]. 111535_116596
+*PAR:	the girl seems a little bit confused (..). 116596_120799
+%pos: the.DET girl.NOUN seems.VERB a.DET little.ADJ bit.NOUN confused.VERB
+*PAR:	&-uh (...) she went to ask (...) what (...) happened (..). 120799_132239
+%pos: she.PRON went.VERB to.PART ask.VERB what.PRON happened.VERB
+*PAR:	<&-um next (...)> [e]. 132239_138626
+*PAR:	sprung up to attack (..) the girl (..). 138626_143213
+%pos: sprung.VERB up.ADP to.PART attack.VERB the.DET girl.NOUN
+*PAR:	<&-uh next (...)> [e]. 143213_148855
+*PAR:	<the hunt(er)> [/] the hunter and his dog (.) came into the house. 148855_153510
+%pos: the.DET hunter.NOUN the.DET hunter.NOUN and.CCONJ his.PRON dog.NOUN came.VERB into.ADP the.DET house.NOUN
+*PAR:	the wolf (..) was (.) &-um (.) sound asleep after eating both the girl and (.) her grandma (..). 153510_161716
+%pos: the.DET wolf.NOUN was.AUX sound.VERB asleep.ADV after.SCONJ eating.VERB both.CCONJ the.DET girl.NOUN and.CCONJ her.PRON grandma.NOUN
+*PAR:	<&-uh next (...)> [e]. 161716_168168
+*PAR:	the hunter cut open the wolf's stomach. 168168_170458
+%pos: the.DET hunter.NOUN cut.NOUN open.ADJ the.DET wolf.NOUN 's.PART stomach.NOUN
+*PAR:	and both (..) the grandma (.) and the little girl (.) came out (..) while the wolf was still sleeping (..). 170458_178640
+%pos: and.CCONJ both.CCONJ the.DET grandma.NOUN and.CCONJ the.DET little.ADJ girl.NOUN came.VERB out.ADV while.SCONJ the.DET wolf.NOUN was.AUX still.ADV sleeping.VERB
+*PAR:	<&-um next (...)> [e]. 178640_183866
+*PAR:	&-uh (..) the little girl and the dog (.) went out to xxx rocks (...) to put in the wolf's stomach (..). 183866_193342
+%pos: the.DET little.ADJ girl.NOUN and.CCONJ the.DET dog.NOUN went.VERB out.ADV to.ADP xxx.NOUN rocks.NOUN to.PART put.VERB in.ADP the.DET wolf.NOUN 's.PART stomach.NOUN
+*PAR:	<and her> [//] (...) and xxx (.) them [//] (.) the rocks in the stomach (..). 193342_200872
+%pos: and.CCONJ her.PRON and.NOUN xxx.X them.PRON the.DET rocks.NOUN in.ADP the.DET stomach.NOUN
+*PAR:	and the grandmother (.) sewed up his stomach (..). 200872_205086
+%pos: and.CCONJ the.DET grandmother.NOUN sewed.VERB up.ADP his.ADJ stomach.NOUN
+*PAR:	<next (...)> [e]. 205086_210843
+*PAR:	the hunter, the little girl, the grandma, and the dog (.) are all watching and laughing as the wolf (..) &-um (.) has difficulty walking (.). 210843_221636
+%pos: the.DET hunter.NOUN ,.PUNCT the.DET little.ADJ girl.NOUN ,.PUNCT the.DET grandma.NOUN ,.PUNCT and.CCONJ the.DET dog.NOUN are.AUX all.ADV watching.VERB and.CCONJ laughing.VERB as.SCONJ the.DET wolf.NOUN has.VERB difficulty.NOUN walking.VERB
+*PAR:	because the rocks (.) were in his stomach (...). 221636_224648
+%pos: because.SCONJ the.DET rocks.NOUN were.AUX in.ADP his.PRON stomach.NOUN
+*PAR:	<&-uh (.) next (...)> [e]. 224648_230267
+*PAR:	&-um (...) as the little girl and the hunter (.) and the dog are leaving, the grandmother (..) &-um waves goodbye (..). 230267_240000
+%pos: as.SCONJ the.DET little.ADJ girl.NOUN and.CCONJ the.DET hunter.NOUN and.CCONJ the.DET dog.NOUN are.AUX leaving.VERB ,.PUNCT the.DET grandmother.NOUN waves.VERB goodbye.NOUN
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:30:01.010445

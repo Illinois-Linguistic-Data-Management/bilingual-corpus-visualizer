@@ -1,0 +1,62 @@
+@UTF8
+@Window:	105_778_668_708_-1_-1_1954_0_1954_0
+@Begin
+@Languages:	spa,eng
+@Participants:	PAR 611 Speaker
+@ID:	spa|narratives|PAR||female|||Speaker|||
+@Media:	611_spa,audio
+*PAR:	<RES> [e]. 0_3246
+*PAR:	era una vez Caperucita Roja. 3246_8962
+%pos: era.AUX una.DET vez.NOUN Caperucita.PROPN Roja.PROPN
+*PAR:	a su abuelita y a Caperucita le gustaba hacer pasteles para que coman en su familia. 8962_16613
+%pos: a.ADP su.DET abuelita.NOUN y.CCONJ a.ADP Caperucita.PROPN le.PRON gustaba.VERB hacer.VERB pasteles.NOUN para.ADP que.SCONJ coman.VERB en.ADP su.DET familia.NOUN
+*PAR:	un día, Caperucita Roja iba a ir a visitar a su abue(la). 16613_20339
+%pos: un.DET día.NOUN ,.PUNCT Caperucita.PROPN Roja.PROPN iba.VERB a.ADP ir.VERB a.ADP visitar.VERB a.ADP su.DET abuela.NOUN
+*PAR:	y le llevaba una canasta de pan, vino y uvas. 20339_24210
+%pos: y.CCONJ le.PRON llevaba.VERB una.DET canasta.NOUN de.ADP pan.NOUN ,.PUNCT vino.NOUN y.CCONJ uvas.NOUN
+*PAR:	el lobo [//] un lobo vio que Caperucita Roja iba por el bosque y un leñador. 24210_31695
+%pos: el.DET lobo.NOUN un.DET lobo.NOUN vio.VERB que.SCONJ Caperucita.PROPN Roja.PROPN iba.VERB por.ADP el.DET bosque.NOUN y.CCONJ un.DET leñador.NOUN
+*PAR:	<pero el leñado(r)> [///] Caperucita Roja se detenió [: detuvo] a recoger unas flores, mientras <el lobo> [/] el lobo aprovechó a ir a su casa de su abuela para que fingiera que era la abuelita. 31695_46914
+%pos: pero.CCONJ el.DET leñador.NOUN Caperucita.PROPN Roja.PROPN se.PRON detenió.VERB a.ADP recoger.VERB unas.DET flores.NOUN ,.PUNCT mientras.SCONJ el.DET lobo.NOUN el.DET lobo.NOUN aprovechó.VERB a.ADP ir.VERB a.ADP su.DET casa.NOUN de.ADP su.DET abuela.NOUN para.ADP que.SCONJ fingiera.VERB que.SCONJ era.AUX la.DET abuelita.NOUN
+*PAR:	el lobo espantó a la abuelita. 46914_50490
+%pos: el.DET lobo.NOUN espantó.VERB a.ADP la.DET abuelita.NOUN
+*PAR:	y la encerró en su closet@s. 50490_52372
+%pos: y.CCONJ la.PRON encerró.VERB en.ADP su.DET closet.NOUN
+*PAR:	mientras Caperucita Roja hacía [//] ponía las flores, el lobo estaba ahí acostado en la cama de su abuelita fingiendo que era la abuelita. 52372_62358
+%pos: mientras.SCONJ Caperucita.PROPN Roja.PROPN hacía.VERB ponía.VERB las.DET flores.NOUN ,.PUNCT el.DET lobo.NOUN estaba.AUX ahí.ADV acostado.VERB en.ADP la.DET cama.NOUN de.ADP su.DET abuelita.NOUN fingiendo.VERB que.SCONJ era.AUX la.DET abuelita.NOUN
+*PAR:	Caperucita se arroja. 62358_64550
+%pos: Caperucita.PROPN se.PRON arroja.VERB
+*PAR:	y dice +"/. 64550_65161
+%pos: y.CCONJ dice.VERB +"/.SYM
+*PAR:	+" oh, qué ojos grandes tienes, abuelita. 65161_68599
+%pos: +".SYM oh.INTJ ,.PUNCT qué.DET ojos.NOUN grandes.ADJ tienes.VERB ,.PUNCT abuelita.NOUN
+*PAR:	y el lobo espantó a Caperucita. 68599_72605
+%pos: y.CCONJ el.DET lobo.NOUN espantó.VERB a.ADP Caperucita.PROPN
+*PAR:	se levantó. 72605_73822
+%pos: se.PRON levantó.VERB
+*PAR:	y Caperucita Roja empezó a correr. 73822_77684
+%pos: y.CCONJ Caperucita.PROPN Roja.PROPN empezó.VERB a.ADP correr.VERB
+*PAR:	<un leñador> [/] un leñador llegó con su perro a la casa de la abuelita viendo que había mucho escándalo. 77684_87858
+%pos: un.DET leñador.NOUN un.DET leñador.NOUN llegó.VERB con.ADP su.DET perro.NOUN a.ADP la.DET casa.NOUN de.ADP la.DET abuelita.NOUN viendo.VERB que.SCONJ había.VERB mucho.DET escándalo.NOUN
+*PAR:	a ver qué era. 87858_89016
+%pos: a.ADP ver.VERB qué.PRON era.VERB
+*PAR:	<y el> [//] y era el lobo que se las había comido. 89016_94178
+%pos: y.CCONJ el.DET y.CCONJ era.AUX el.DET lobo.NOUN que.SCONJ se.PRON las.PRON había.AUX comido.VERB
+*PAR:	y el leñador cortó al lobo por la mitad. 94178_96672
+%pos: y.CCONJ el.DET leñador.NOUN cortó.VERB al.ADP lobo.NOUN por.ADP la.DET mitad.NOUN
+*PAR:	y las sacó. 96672_98586
+%pos: y.CCONJ las.PRON sacó.VERB
+*PAR:	ellas dijeron gracias. 98586_101576
+%pos: ellas.PRON dijeron.VERB gracias.NOUN
+*PAR:	y fueron a buscar piedras para rellenarlo y botarlo al agua. 101576_109213
+%pos: y.CCONJ fueron.VERB a.ADP buscar.VERB piedras.NOUN para.ADP rellenarlo.VERB y.CCONJ botarlo.VERB al.ADP agua.NOUN
+*PAR:	y el lobo se lo fueron a botar al agua. 109213_115719
+%pos: y.CCONJ el.DET lobo.NOUN se.PRON lo.PRON fueron.VERB a.ADP botar.VERB al.ADP agua.NOUN
+*PAR:	el leñador llevó a Caperucita Roja a su ca(sa). 115719_121842
+%pos: el.DET leñador.NOUN llevó.VERB a.ADP Caperucita.PROPN Roja.PROPN a.ADP su.DET casa.NOUN
+*PAR:	y se despidió de su abuelita. 121842_123507
+%pos: y.CCONJ se.PRON despidió.VERB de.ADP su.DET abuelita.NOUN
+*PAR:	fin. 123507_126399
+%pos: fin.NOUN
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:18:58.204873

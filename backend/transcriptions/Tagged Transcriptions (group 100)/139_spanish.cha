@@ -1,0 +1,101 @@
+@UTF8
+@Window:	0_0_0_0_1436_0_2604_0_2604_0
+@Begin
+@Languages:	spa,eng
+@Participants:	PAR 139 Speaker
+@ID:	spa|narratives|PAR||male|||Speaker|||
+@Media:	139_spanish,audio
+*PAR:	<ella fue> [//] (.) ella se va . 0_4238
+%pos: ella.PRON fue.VERB ella.PRON se.PRON va.VERB
+*PAR:	y tiene un pastel . 4238_8048
+%pos: y.CCONJ tiene.VERB un.DET pastel.NOUN
+*PAR:	<RES> [e] . 8048_12888
+*PAR:	se va . 12888_14412
+%pos: se.PRON va.VERB
+*PAR:	porque tiene que traerlo (.) a la casa de (.) otra persona . 14412_23344
+%pos: porque.SCONJ tiene.VERB que.CCONJ traerlo.VERB a.ADP la.DET casa.NOUN de.ADP otra.DET persona.NOUN
+*PAR:	<RES> [e] . 23344_30213
+*PAR:	<sí> [e] . 30213_31008
+*PAR:	<RES> [e] . 31008_34814
+*PAR:	agaró las cosas . 34814_36748
+%pos: agaró.VERB las.DET cosas.NOUN
+*PAR:	y le dijo adiós a su mamá . 36748_39777
+%pos: y.CCONJ le.PRON dijo.VERB adiós.ADV a.ADP su.DET mamá.NOUN
+*PAR:	<RES> [e] . 39777_41253
+*PAR:	<listo> [e] . 41253_47306
+*PAR:	y después, el (.) &-um lobo estaba tratando <de comer> [//] de
+	comerla . 47306_57842
+%pos: y.CCONJ después.ADV ,.PUNCT el.DET lobo.NOUN estaba.AUX tratando.VERB de.ADP comer.VERB de.ADP comerla.VERB
+*PAR:	mientras había (.) otra persona tratando de matar el lobo . 57842_65146
+%pos: mientras.SCONJ había.VERB otra.DET persona.NOUN tratando.VERB de.ADP matar.VERB el.DET lobo.NOUN
+*PAR:	<RES> [e] . 65146_68688
+*PAR:	<listo> [e] . 68688_75667
+*PAR:	después, le dijo &-uh que puede &-ah traer unas flores <para su>
+	[//] para la persona que va traer &-ah las cosas . 75667_90509
+%pos: después.ADV ,.PUNCT le.PRON dijo.VERB que.SCONJ puede.AUX traer.VERB unas.DET flores.NOUN para.ADP su.DET para.ADP la.DET persona.NOUN que.SCONJ va.VERB traer.VERB las.DET cosas.NOUN
+*PAR:	despiés [: después][*] [/] después, mientras ella estaba haciendo
+	eso, el lobo fue a la casa . 90509_97576
+%pos: despiés.NOUN después.ADV ,.PUNCT mientras.SCONJ ella.PRON estaba.AUX haciendo.VERB eso.PRON ,.PUNCT el.DET lobo.NOUN fue.VERB a.ADP la.DET casa.NOUN
+*PAR:	<RES> [e] . 97576_98447
+*PAR:	fue a la casa de él, donde ella iba . 98447_100921
+%pos: fue.VERB a.ADP la.DET casa.NOUN de.ADP él.PRON ,.PUNCT donde.ADV ella.PRON iba.VERB
+*PAR:	<RES> [e] . 100921_105733
+*PAR:	<listo> [e] . 105733_107451
+*PAR:	<RES> [e] . 107451_110974
+*PAR:	después, estaba pensando . 110974_114785
+%pos: después.ADV ,.PUNCT estaba.AUX pensando.VERB
+*PAR:	y <se comió la> [/] (.) se comió li [: la][*] [/] la abuelita . 114785_121034
+%pos: y.CCONJ se.PRON comió.VERB la.DET se.PRON comió.VERB li.PRON la.DET abuelita.NOUN
+*PAR:	<RES> [e] . 121034_125833
+*PAR:	<listo> [e] . 125833_132441
+*PAR:	después, caperucita roja puso las flores (.) al lado con la comida
+	que le trajo . 132441_142192
+%pos: después.ADV ,.PUNCT caperucita.NOUN roja.ADJ puso.VERB las.DET flores.NOUN al.ADP lado.NOUN con.ADP la.DET comida.NOUN que.SCONJ le.PRON trajo.VERB
+*PAR:	<listo> [e] . 142192_144115
+*PAR:	<RES> [e] . 144115_147044
+*PAR:	después, la [: lo][*] vio . 147044_150231
+%pos: después.ADV ,.PUNCT la.PRON vio.VERB
+*PAR:	y le estaba preguntando (.) cosas . 150231_155639
+%pos: y.CCONJ le.PRON estaba.AUX preguntando.VERB cosas.NOUN
+*PAR:	<listo> [e] . 155639_161282
+*PAR:	<RES> [e] . 161282_165421
+*PAR:	después, el lobo quería comerla [: comersela][*] . 165421_169808
+%pos: después.ADV ,.PUNCT el.DET lobo.NOUN quería.VERB comerla.VERB
+*PAR:	<listo> [e] . 169808_175607
+*PAR:	<RES> [e] . 175607_177498
+*PAR:	después, el cazador vino . 177498_181261
+%pos: después.ADV ,.PUNCT el.DET cazador.NOUN vino.NOUN
+*PAR:	y cuando vino, <se comió> [///] <bueno> [e] el lobo comió (.) la
+	caperucita roja y <la ma(má)> [///] y la [/] (...) la persona que
+	estaba allí antes . 181261_203847
+%pos: y.CCONJ cuando.SCONJ vino.NOUN ,.PUNCT se.PRON comió.VERB bueno.ADJ el.DET lobo.NOUN comió.VERB la.DET caperucita.NOUN roja.ADJ y.CCONJ la.DET mamá.NOUN y.CCONJ la.DET la.DET persona.NOUN que.SCONJ estaba.VERB allí.ADV antes.ADV
+*PAR:	<RES> [e] . 203847_205696
+*PAR:	<listo> [e] . 205696_207478
+*PAR:	<RES> [e] . 207478_210798
+*PAR:	y después, le dio cirugía . 210798_216316
+%pos: y.CCONJ después.ADV ,.PUNCT le.PRON dio.VERB cirugía.NOUN
+*PAR:	<RES> [e] . 216316_217440
+*PAR:	y después, salieron los dos feliz [: felices][*] . 217440_220690
+%pos: y.CCONJ después.ADV ,.PUNCT salieron.VERB los.DET dos.NUM feliz.ADJ
+*PAR:	<RES> [e] . 220690_221988
+*PAR:	<listo> [e] . 221988_223237
+*PAR:	<RES> [e] . 223237_225412
+*PAR:	y después, (.) trajeron comida o algo . 225412_236733
+%pos: y.CCONJ después.ADV ,.PUNCT trajeron.VERB comida.NOUN o.CCONJ algo.PRON
+*PAR:	y se lo dieron al lobo . 236733_242593
+%pos: y.CCONJ se.PRON lo.PRON dieron.VERB al.ADP lobo.NOUN
+*PAR:	<RES> [e] . 242593_243116
+*PAR:	<listo> [e] . 243116_249444
+*PAR:	después, le tiraron por la chimenea . 249444_256959
+%pos: después.ADV ,.PUNCT le.PRON tiraron.VERB por.ADP la.DET chimenea.NOUN
+*PAR:	y después, se empe(zaron) [/] empezaron a reirse . 256959_263460
+%pos: y.CCONJ después.ADV ,.PUNCT se.PRON empezaron.VERB empezaron.VERB a.ADP reirse.VERB
+*PAR:	<listo> [e] . 263460_265737
+*PAR:	y después, todos dijieron [: dijeron][*] +"/. 265737_272470
+%pos: y.CCONJ después.ADV ,.PUNCT todos.PRON dijieron.VERB +"/.SYM
+*PAR:	+" bye@s . 272470_274098
+%pos: +".SYM bye.NOUN
+*PAR:	<listo> [e] . 274098_275737
+*PAR:	<RES> [e] . 275737_287941
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:32:40.530337

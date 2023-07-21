@@ -1,0 +1,105 @@
+@UTF8
+@Window:	0_0_0_0_0_0_2631_1_2631_1
+@Begin
+@Languages:	spa,eng
+@Participants:	PAR 128 Speaker
+@ID:	spa|narratives|PAR||female|||Speaker|||
+@Media:	128_spanish,audio
+*PAR:	<RES>[e]. 0_15178
+*PAR:	xxx &-um la niña se fue de la casa. 15178_26088
+%pos: xxx.INTJ la.DET niña.NOUN se.PRON fue.VERB de.ADP la.DET casa.NOUN
+*PAR:	<RES>[e]. 26088_40008
+*PAR:	<ok>[e]. 40008_41214
+*PAR:	<RES>[e]. 41214_79381
+*PAR:	(...) &-um la niña se fue de la casa. 79381_87038
+%pos: la.DET niña.NOUN se.PRON fue.VERB de.ADP la.DET casa.NOUN
+*PAR:	<que esta haciendo>[e]. 87038_98500
+*PAR:	esta [/] esta despidiendose. 98500_102000
+%pos: esta.PRON esta.AUX despidiendose.VERB
+*PAR:	<RES>[e]. 102000_106000
+*PAR:	<si>[e]. 106000_107000
+*PAR:	<RES>[e]. 107000_123928
+*PAR:	&-um <el lobo la persigue>[//] el lobo la persiguió. 123928_135008
+%pos: el.DET lobo.NOUN la.DET persigueel.NOUN lobo.NOUN la.PRON persiguió.VERB
+*PAR:	y hay alguien persiguiendo el lobo. 135008_138838
+%pos: y.CCONJ hay.VERB alguien.PRON persiguiendo.VERB el.DET lobo.NOUN
+*PAR:	<RES>[e]. 138838_140259
+*PAR:	&-um el lobo llega a la (.) casa. 140259_155215
+%pos: el.DET lobo.NOUN llega.VERB a.ADP la.DET casa.NOUN
+*PAR:	&-um y esta mirando algo que no se ve. 155215_159506
+%pos: y.CCONJ esta.AUX mirando.VERB algo.PRON que.SCONJ no.ADV se.PRON ve.VERB
+*PAR:	<xxx en pasado no>[e]. 159506_162008
+*PAR:	&-um <el lobo miró>[///] el lobo entró a la casa. 162008_169038
+%pos: el.DET lobo.NOUN miróel.ADJ lobo.NOUN entró.VERB a.ADP la.DET casa.NOUN
+*PAR:	y miró algo que no se ve (..) en la imagen. 169038_172633
+%pos: y.CCONJ miró.VERB algo.PRON que.SCONJ no.ADV se.PRON ve.VERB en.ADP la.DET imagen.NOUN
+*PAR:	<RES>[e]. 172633_174553
+*PAR:	&-um el lobo se la trató de comer (..) en la cama. 174553_186963
+%pos: el.DET lobo.NOUN se.PRON la.PRON trató.VERB de.ADP comer.VERB en.ADP la.DET cama.NOUN
+*PAR:	<en la cama>[e]. 186963_189088
+*PAR:	&-um ella pusó unas flores en la mesa. 189088_197414
+%pos: ella.PRON pusó.VERB unas.DET flores.NOUN en.ADP la.DET mesa.NOUN
+*PAR:	y el lobo esta disfrazado (..) en la cama. 197414_202087
+%pos: y.CCONJ el.DET lobo.NOUN esta.AUX disfrazado.VERB en.ADP la.DET cama.NOUN
+*PAR:	y hay un raton abajo de la cama. 202087_204228
+%pos: y.CCONJ hay.VERB un.DET raton.NOUN abajo.ADV de.ADP la.DET cama.NOUN
+*PAR:	<RES>[e]. 204228_208008
+*PAR:	<ella esta no>[///] ella vió al lobo pensando que era la persona que
+	estaba esperando. 208008_221479
+%pos: ella.PRON esta.DET noella.NOUN vió.VERB al.ADP lobo.NOUN pensando.VERB que.SCONJ era.AUX la.DET persona.NOUN que.SCONJ estaba.AUX esperando.VERB
+*PAR:	<siguiente>[e]. 221479_228288
+*PAR:	<RES>[e]. 228288_231601
+*PAR:	&-um el lobo se la trata de comer. 231601_238539
+%pos: el.DET lobo.NOUN se.PRON la.PRON trata.VERB de.ADP comer.VERB
+*PAR:	y tumbó la mesa. _
+*PAR:	<RES>[e]. 238539_240000
+%pos: y.CCONJ tumbó.VERB la.DET mesa.NOUN
+*PAR:	<RES>[e]. 238539_240000
+*PAR:	&-um el lobo se la comió. 240000_250413
+%pos: el.DET lobo.NOUN se.PRON la.PRON comió.VERB
+*PAR:	y viene alguien en la casa. 250413_253228
+%pos: y.CCONJ viene.VERB alguien.PRON en.ADP la.DET casa.NOUN
+*PAR:	<RES>[e]. 253228_255000
+*PAR:	(...) <esa &-um &-uh> [///] cortan el lobo. 255000_266300
+%pos: esa.PRON cortan.VERB el.DET lobo.NOUN
+*PAR:	y salen los que [/] lose que fueron comidos. 266300_271913
+%pos: y.CCONJ salen.VERB los.PRON que.SCONJ lose.VERB que.SCONJ fueron.AUX comidos.VERB
+*PAR:	<RES>[e]. 271913_280883
+*PAR:	<xxx esa ya no me la se esque fue asi>[e].
+*PAR:	<es que el cuento original fue asi>[e].
+*PAR:	<el casador la saca del estomago a la abuela>[e]. 280883_285000
+*PAR:	<el casador la saca del estomago a la abuela>[e]. 280883_285000
+*PAR:	<y a la caperusita>[e]. 285000_287163
+*PAR:	<RES>[e]. 287163_292389
+*PAR:	&-um el casador. 292389_300428
+%pos: el.DET casador.NOUN
+*PAR:	y el perro. 300428_302788
+%pos: y.CCONJ el.DET perro.NOUN
+*PAR:	y la niña <
+agarran> [//] agarraron piedras. 302788_306678
+%pos: y.CCONJ la.DET niña.NOUN <.PUNCT agarran.VERB >.PUNCT agarraron.VERB piedras.NOUN
+*PAR:	y se la pusieron ensima del lobo. 306678_311463
+%pos: y.CCONJ se.PRON la.PRON pusieron.VERB ensima.NOUN del.ADP lobo.NOUN
+*PAR:	<RES>[e]. 311463_314960
+*PAR:	<el lobo piensa que se los comió aunque> [//] el lobo pensó que se
+	las comió aunque tenia piedras. 314960_327008
+%pos: el.DET lobo.NOUN piensa.VERB que.SCONJ se.PRON los.PRON comió.VERB aunque.SCONJ el.DET lobo.NOUN pensó.VERB que.SCONJ se.PRON las.PRON comió.VERB aunque.SCONJ tenia.VERB piedras.NOUN
+*PAR:	<RES>[e]. 327008_334800
+*PAR:	&-um y el casador. 334800_336800
+%pos: y.CCONJ el.DET casador.NOUN
+*PAR:	y la niña. 336800_338200
+%pos: y.CCONJ la.DET niña.NOUN
+*PAR:	y la abuela lo esta [/] lo esta viendo. 338200_341758
+%pos: y.CCONJ la.DET abuela.NOUN lo.PRON esta.PRON lo.PRON esta.AUX viendo.VERB
+*PAR:	<RES>[e]. 341758_345000
+*PAR:	&-um la abuela se despide de la niña, el casador. 345000_355000
+%pos: la.DET abuela.NOUN se.PRON despide.VERB de.ADP la.DET niña.NOUN ,.PUNCT el.DET casador.NOUN
+*PAR:	y el perro. 355000_356213
+%pos: y.CCONJ el.DET perro.NOUN
+*PAR:	<RES>[e]. 356213_362288
+*PAR:	<lo unico que tuve un poquito problema fue dicir como en el
+	pasado>[e]. 362288_369038
+%pos: <.PUNCT lo.PRON unico.NOUN que.SCONJ tuve.VERB un.DET poquito.ADJ problema.NOUN fue.AUX dicir.VERB como.SCONJ en.ADP el.DET pasado.NOUN >.PUNCT
+*PAR:	<que raro no cuentar un cuento que estas viendolo en el pasado>[e]. 369038_375428
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:35:33.420623

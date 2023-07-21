@@ -1,0 +1,60 @@
+@UTF8
+@Window:	94_750_668_643_-1_-1_1705_0_1705_0
+@Begin
+@Languages:	spa,eng
+@Participants:	PAR 708 Speaker
+@ID:	spa|narratives|PAR||female|||Speaker|||
+@Media:	708,audio
+*PAR:	<RES> [e]. 0_3956
+*PAR:	Caperucita Roja era una niña alegre. 3956_12534
+%pos: Caperucita.PROPN Roja.PROPN era.AUX una.DET niña.NOUN alegre.ADJ
+*PAR:	y tenía una capa roja. 12534_15472
+%pos: y.CCONJ tenía.VERB una.DET capa.NOUN roja.ADJ
+*PAR:	iba a visitar a su abuela en el bosque. 15472_20738
+%pos: iba.VERB a.ADP visitar.VERB a.ADP su.DET abuela.NOUN en.ADP el.DET bosque.NOUN
+*PAR:	y le llevaba pastel. 20738_25876
+%pos: y.CCONJ le.PRON llevaba.VERB pastel.NOUN
+*PAR:	también tenía una canasta, en donde llevaba pan, uva y agua. 25876_36869
+%pos: también.ADV tenía.VERB una.DET canasta.NOUN ,.PUNCT en.ADP donde.ADV llevaba.VERB pan.NOUN ,.PUNCT uva.NOUN y.CCONJ agua.NOUN
+*PAR:	mientras caminaba por el bosque, se encontró con un lobo. 36869_47911
+%pos: mientras.SCONJ caminaba.VERB por.ADP el.DET bosque.NOUN ,.PUNCT se.PRON encontró.VERB con.ADP un.DET lobo.NOUN
+*PAR:	ella le ignoró. 47911_50457
+%pos: ella.PRON le.PRON ignoró.VERB
+*PAR:	porque era amiga de los animales. 50457_52331
+%pos: porque.SCONJ era.AUX amiga.ADJ de.ADP los.DET animales.NOUN
+*PAR:	en su camino por el bosque, ella recogió unas flores. 52331_59068
+%pos: en.ADP su.DET camino.NOUN por.ADP el.DET bosque.NOUN ,.PUNCT ella.PRON recogió.VERB unas.DET flores.NOUN
+*PAR:	y el lobo aprovechó ese momento para ir a la casa de la abuela. 59068_67893
+%pos: y.CCONJ el.DET lobo.NOUN aprovechó.VERB ese.DET momento.NOUN para.ADP ir.VERB a.ADP la.DET casa.NOUN de.ADP la.DET abuela.NOUN
+*PAR:	el lobo pensó <que se podrí(a)> [//] que se comería a la abuela. 67893_78609
+%pos: el.DET lobo.NOUN pensó.VERB que.SCONJ se.PRON podría.AUX que.CCONJ se.PRON comería.VERB a.ADP la.DET abuela.NOUN
+*PAR:	Caperucita Roja llegó a la casa de la abuela. 78609_85580
+%pos: Caperucita.PROPN Roja.PROPN llegó.VERB a.ADP la.DET casa.NOUN de.ADP la.DET abuela.NOUN
+*PAR:	y sirvió lo que tenía en su canasta: galletas, agua, y las flores que recogió en su camino. 85580_95266
+%pos: y.CCONJ sirvió.VERB lo.PRON que.SCONJ tenía.VERB en.ADP su.DET canasta.NOUN :.PUNCT galletas.NOUN ,.PUNCT agua.NOUN ,.PUNCT y.CCONJ las.DET flores.NOUN que.SCONJ recogió.VERB en.ADP su.DET camino.NOUN
+*PAR:	el lobo estaba acostado sobre la cama. 95266_102314
+%pos: el.DET lobo.NOUN estaba.AUX acostado.VERB sobre.ADP la.DET cama.NOUN
+*PAR:	y fingió ser la abuela. 102314_106863
+%pos: y.CCONJ fingió.VERB ser.AUX la.DET abuela.NOUN
+*PAR:	el lobo atacó a Caperucita Roja. 106863_114753
+%pos: el.DET lobo.NOUN atacó.VERB a.ADP Caperucita.PROPN Roja.PROPN
+*PAR:	Caperucita Roja escapó. 114753_120324
+%pos: Caperucita.PROPN Roja.PROPN escapó.VERB
+*PAR:	y después llegó un cazador. 120324_123606
+%pos: y.CCONJ después.ADV llegó.VERB un.DET cazador.NOUN
+*PAR:	y se encontró con el lobo acostado sobre la cama. 123606_131596
+%pos: y.CCONJ se.PRON encontró.VERB con.ADP el.DET lobo.NOUN acostado.VERB sobre.ADP la.DET cama.NOUN
+*PAR:	el cazador mató al lobo. 131596_139096
+%pos: el.DET cazador.NOUN mató.VERB al.DET lobo.NOUN
+*PAR:	y Caperucita y la abuela vivieron. 139096_142808
+%pos: y.CCONJ Caperucita.PROPN y.CCONJ la.DET abuela.NOUN vivieron.VERB
+*PAR:	Caperucita Roja fue al bosque a por rocas. 142808_151776
+%pos: Caperucita.PROPN Roja.PROPN fue.VERB al.DET bosque.NOUN a.ADP por.ADP rocas.NOUN
+*PAR:	y se las entregó al cazador. 151776_156535
+%pos: y.CCONJ se.PRON las.PRON entregó.VERB al.ADP cazador.NOUN
+*PAR:	después, llevaron al [/] al lobo a un pozo, donde lo tiraron. 156535_174652
+%pos: después.ADV ,.PUNCT llevaron.VERB al.ADP al.DET lobo.NOUN a.ADP un.DET pozo.NOUN ,.PUNCT donde.ADV lo.PRON tiraron.VERB
+*PAR:	Caperucita Roja volvió con el cazador a su casa. 174652_180228
+%pos: Caperucita.PROPN Roja.PROPN volvió.VERB con.ADP el.DET cazador.NOUN a.ADP su.DET casa.NOUN
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:17:55.468379

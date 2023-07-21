@@ -1,0 +1,80 @@
+@UTF8
+@Window:	130_747_642_589_-1_-1_2393_0_2393_0
+@Begin
+@Languages:	spa,eng
+@Participants:	PAR 206 Speaker
+@ID:	spa|narratives|PAR||female|||Speaker|||
+@Media:	206_spanish,audio
+*PAR:	okay@s. 0_7128
+%pos: okay.INTJ
+*PAR:	<RES> [e]. 7128_16309
+*PAR:	okay@s. 16309_17898
+%pos: okay.INTJ
+*PAR:	<RES> [e]. 17898_26767
+*PAR:	okay@s. 26767_27605
+%pos: okay.INTJ
+*PAR:	<RES> [e]. 27605_31281
+*PAR:	&-hm la Caperucita Roja fue a ver a su abuelita. 31281_36639
+%pos: la.DET Caperucita.PROPN Roja.PROPN fue.VERB a.ADP ver.VERB a.ADP su.DET abuelita.NOUN
+*PAR:	y le [/] le enseñó su capa de color rojo. 36639_41185
+%pos: y.CCONJ le.PRON le.PRON enseñó.VERB su.DET capa.NOUN de.ADP color.NOUN rojo.ADJ
+*PAR:	&-eh Caperucita &-hm fue a recoger comida para llevarle a su abuelita. 41185_57832
+%pos: Caperucita.PROPN fue.AUX a.ADP recoger.VERB comida.NOUN para.ADP llevarle.VERB a.ADP su.DET abuelita.NOUN
+*PAR:	y se está despidiendo de las personas. 57832_60934
+%pos: y.CCONJ se.PRON está.AUX despidiendo.VERB de.ADP las.DET personas.NOUN
+*PAR:	Caperucita estaba caminando por el bosque. 60934_71590
+%pos: Caperucita.PROPN estaba.AUX caminando.VERB por.ADP el.DET bosque.NOUN
+*PAR:	y el lobo estaba que la perseguía. 71590_73897
+%pos: y.CCONJ el.DET lobo.NOUN estaba.VERB que.SCONJ la.PRON perseguía.VERB
+*PAR:	porque miró su comida. 73897_76714
+%pos: porque.SCONJ miró.VERB su.DET comida.NOUN
+*PAR:	&-hm el lobo fue a seguir a Caperucita. 76714_89647
+%pos: el.DET lobo.NOUN fue.VERB a.ADP seguir.VERB a.ADP Caperucita.PROPN
+*PAR:	y &-eh miró dónde entró a la casa. 89647_93319
+%pos: y.CCONJ miró.VERB dónde.ADV entró.VERB a.ADP la.DET casa.NOUN
+*PAR:	y él iba a entrar. 93319_94653
+%pos: y.CCONJ él.PRON iba.VERB a.ADP entrar.VERB
+*PAR:	el lobo &-eh intentó comerse a la abuelita. 94653_108060
+%pos: el.DET lobo.NOUN intentó.VERB comerse.VERB a.ADP la.DET abuelita.NOUN
+*PAR:	o está intentando comerse a la abuelita. 108060_110136
+%pos: o.CCONJ está.AUX intentando.VERB comerse.VERB a.ADP la.DET abuelita.NOUN
+*PAR:	la abuelita se asustó. 110136_114332
+%pos: la.DET abuelita.NOUN se.PRON asustó.VERB
+*PAR:	el lobo se disfrazó como la abuelita. 114332_121065
+%pos: el.DET lobo.NOUN se.PRON disfrazó.VERB como.ADP la.DET abuelita.NOUN
+*PAR:	y Caperucita &-eh le estaba <tra(yendo)> [//] &-eh preparando su comida. 121065_126129
+%pos: y.CCONJ Caperucita.PROPN le.PRON estaba.AUX trayendo.VERB preparando.VERB su.DET comida.NOUN
+*PAR:	el lobo &-eh se disfrazó de la abuelita. 126129_140488
+%pos: el.DET lobo.NOUN se.PRON disfrazó.VERB de.ADP la.DET abuelita.NOUN
+*PAR:	y se estaba tapando la cara para que Caperucita no lo reconociera. 140488_144019
+%pos: y.CCONJ se.PRON estaba.AUX tapando.VERB la.DET cara.NOUN para.ADP que.SCONJ Caperucita.PROPN no.ADV lo.PRON reconociera.VERB
+*PAR:	Caperucita comenzó a hablar con el lobo. 144019_146908
+%pos: Caperucita.PROPN comenzó.VERB a.ADP hablar.VERB con.ADP el.DET lobo.NOUN
+*PAR:	&-eh Caperucita comenzó a correr cuando el lobo saltó de la cama. 146908_159053
+%pos: Caperucita.PROPN comenzó.VERB a.ADP correr.VERB cuando.SCONJ el.DET lobo.NOUN saltó.VERB de.ADP la.DET cama.NOUN
+*PAR:	y se la quería comer. 159053_160086
+%pos: y.CCONJ se.PRON la.PRON quería.VERB comer.VERB
+*PAR:	el [/] el lobo se comió a Caperucita. 160086_171440
+%pos: el.DET el.DET lobo.NOUN se.PRON comió.VERB a.ADP Caperucita.PROPN
+*PAR:	&-eh y estaba bien panzón echado en la cama. 171440_175553
+%pos: y.CCONJ estaba.VERB bien.ADV panzón.NOUN echado.VERB en.ADP la.DET cama.NOUN
+*PAR:	y vino el [/] el cazador con su perro. 175553_178317
+%pos: y.CCONJ vino.VERB el.DET el.DET cazador.NOUN con.ADP su.DET perro.NOUN
+*PAR:	el cazador le cortó la barriga al lobo. 178317_187977
+%pos: el.DET cazador.NOUN le.PRON cortó.VERB la.DET barriga.NOUN al.ADP lobo.NOUN
+*PAR:	y Caperucita y la abuelita salieron de la barriga. 187977_191109
+%pos: y.CCONJ Caperucita.PROPN y.CCONJ la.DET abuelita.NOUN salieron.VERB de.ADP la.DET barriga.NOUN
+*PAR:	&-eh Caperucita ayudó al cazador para poner piedras adentro de la barriga del lobo. 191109_204289
+%pos: Caperucita.PROPN ayudó.VERB al.DET cazador.NOUN para.ADP poner.VERB piedras.NOUN adentro.ADV de.ADP la.DET barriga.NOUN del.ADP lobo.NOUN
+*PAR:	y la abuelita ayudó para coser. 204289_207457
+%pos: y.CCONJ la.DET abuelita.NOUN ayudó.VERB para.ADP coser.VERB
+*PAR:	el lobo es(taba) [//] se fue bien lleno y con la barriga que le pesaba mucho llena de piedras. 207457_220785
+%pos: el.DET lobo.NOUN estaba.AUX se.PRON fue.AUX bien.ADV lleno.ADJ y.CCONJ con.ADP la.DET barriga.NOUN que.SCONJ le.PRON pesaba.VERB mucho.PRON llena.ADJ de.ADP piedras.NOUN
+*PAR:	&-eh la abuelita, Caperucita y el cazador estaban espiando y riéndose desde una esquina. 220785_228237
+%pos: la.DET abuelita.NOUN ,.PUNCT Caperucita.PROPN y.CCONJ el.DET cazador.NOUN estaban.AUX espiando.VERB y.CCONJ riéndose.VERB desde.ADP una.DET esquina.NOUN
+*PAR:	el cazador y &-eh Caperucita se iban. 228237_238386
+%pos: el.DET cazador.NOUN y.CCONJ Caperucita.PROPN se.PRON iban.VERB
+*PAR:	y la abuelita les dijo adiós. 238386_240049	
+%pos: y.CCONJ la.DET abuelita.NOUN les.PRON dijo.VERB adiós.ADV
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:21:13.238628

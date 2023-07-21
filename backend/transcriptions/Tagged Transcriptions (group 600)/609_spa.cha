@@ -1,0 +1,42 @@
+@UTF8
+@Window:	111_750_668_670_-1_-1_1368_0_1368_0
+@Begin
+@Languages:	spa
+@Participants:	PAR 609 Speaker
+@ID:	spa|BILinMID|PAR||female|||Speaker|||
+@Media:	609_spa,audio
+*PAR:	<RES> [e]. 0_5243
+*PAR:	Capeci [//] Caperucita Roja era una niña que vivía en el bosque. 5243_12621
+%pos: Capeci.PROPN Caperucita.PROPN Roja.PROPN era.AUX una.DET niña.NOUN que.SCONJ vivía.VERB en.ADP el.DET bosque.NOUN
+*PAR:	a ella y a su abuelita le gustaba preparar pastel. 12621_19913
+%pos: a.ADP ella.PRON y.CCONJ a.ADP su.DET abuelita.NOUN le.PRON gustaba.VERB preparar.VERB pastel.NOUN
+*PAR:	un día, Caperucita Roja le llevó una canasta de comida a su abuelita. 19913_28948
+%pos: un.DET día.NOUN ,.PUNCT Caperucita.PROPN Roja.PROPN le.PRON llevó.VERB una.DET canasta.NOUN de.ADP comida.NOUN a.ADP su.DET abuelita.NOUN
+*PAR:	un [/] un lobo vio <a la> [//] a Caperucita Roja. 28948_37354
+%pos: un.DET un.DET lobo.NOUN vio.VERB a.ADP la.PRON a.ADP Caperucita.PROPN Roja.PROPN
+*PAR:	y le empezó a seguir. 37354_39088
+%pos: y.CCONJ le.PRON empezó.VERB a.ADP seguir.VERB
+*PAR:	Caperucita Roja se detuvo <para cortar flo(res)> [//] para cortar flores para su abuelita. 39088_53524
+%pos: Caperucita.PROPN Roja.PROPN se.PRON detuvo.VERB para.ADP cortar.VERB flores.NOUN para.ADP cortar.VERB flores.NOUN para.ADP su.DET abuelita.NOUN
+*PAR:	el lobo atacó a la abuelita. 53524_61857
+%pos: el.DET lobo.NOUN atacó.VERB a.ADP la.DET abuelita.NOUN
+*PAR:	Caperucita Roja le puso las flores en el tazón a la abuelita (..) <que era> [/] que era <el su> [//] el lobo. 61857_77320
+%pos: Caperucita.PROPN Roja.PROPN le.PRON puso.VERB las.DET flores.NOUN en.ADP el.DET tazón.NOUN a.ADP la.DET abuelita.NOUN que.SCONJ era.VERB que.SCONJ era.AUX el.DET su.DET el.DET lobo.NOUN
+*PAR:	Caperucita Roja fue a ver a [/] al lobo haciéndose pasar por la abuelita. 77320_86473
+%pos: Caperucita.PROPN Roja.PROPN fue.VERB a.ADP ver.VERB a.ADP al.DET lobo.NOUN haciéndose.VERB pasar.VERB por.ADP la.DET abuelita.NOUN
+*PAR:	el lobo atacó a Caperucita Roja. 86473_94765
+%pos: el.DET lobo.NOUN atacó.VERB a.ADP Caperucita.PROPN Roja.PROPN
+*PAR:	el leñador llegó a la casa de la abuelita. 94765_102779
+%pos: el.DET leñador.NOUN llegó.VERB a.ADP la.DET casa.NOUN de.ADP la.DET abuelita.NOUN
+*PAR:	y vio al lobo con la panza llena. 102779_105665
+%pos: y.CCONJ vio.VERB al.DET lobo.NOUN con.ADP la.DET panza.NOUN llena.ADJ
+*PAR:	el leñador le cortó la panza al lobo para sacar a la abuelita y a Caperucita. 105665_116883
+%pos: el.DET leñador.NOUN le.PRON cortó.VERB la.DET panza.NOUN al.ADP lobo.NOUN para.ADP sacar.VERB a.ADP la.DET abuelita.NOUN y.CCONJ a.ADP Caperucita.PROPN
+*PAR:	lue(go) [///] el leñador <le metió las pie(dras)> [//] le metió piedras en la panza al lobo. 116883_129748
+%pos: luego.ADV el.DET leñador.NOUN le.PRON metió.VERB las.DET piedras.NOUN le.PRON metió.VERB piedras.NOUN en.ADP la.DET panza.NOUN al.ADP lobo.NOUN
+*PAR:	el lobo, con la panza llena, se cayó en un pozo. 129748_140444
+%pos: el.DET lobo.NOUN ,.PUNCT con.ADP la.DET panza.NOUN llena.ADJ ,.PUNCT se.PRON cayó.VERB en.ADP un.DET pozo.NOUN
+*PAR:	<la Cape(rucita)> [//] la abuelita se despidió de Caperucita y del leñador. 140444_150316
+%pos: la.DET Caperucita.PROPN la.DET abuelita.NOUN se.PRON despidió.VERB de.ADP Caperucita.PROPN y.CCONJ del.ADP leñador.NOUN
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:18:30.370807

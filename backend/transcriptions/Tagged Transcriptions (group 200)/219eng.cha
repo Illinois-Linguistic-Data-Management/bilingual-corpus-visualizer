@@ -1,0 +1,71 @@
+@UTF8
+@Window:	0_0_0_0_741_1_1980_1_1980_1
+@Begin
+@Languages:	spa, eng
+@Participants:	PAR 219 Speaker
+@ID:	eng|narratives|PAR||female|||Speaker|||
+@Media:	219eng, audio
+*PAR:	Little Red Riding Hood was excited. 0_10375
+%pos: Little.ADJ Red.ADJ Riding.PROPN Hood.PROPN was.AUX excited.VERB
+*PAR:	and was prancing around. 10375_12047
+%pos: and.CCONJ was.AUX prancing.VERB around.ADV
+*PAR:	Little Red Riding Hood was excited. 12048_16650
+%pos: Little.ADJ Red.ADJ Riding.PROPN Hood.PROPN was.AUX excited.VERB
+*PAR:	and prancing around. 16650_17800
+%pos: and.CCONJ prancing.VERB around.ADV
+*PAR:	maybe even dancing for her grandma, who had clapped for her. 17805_21452
+%pos: maybe.ADV even.ADV dancing.VERB for.ADP her.PRON grandma.NOUN ,.PUNCT who.PRON had.AUX clapped.VERB for.ADP her.PRON
+*PAR:	Little Red Riding Hood (..) left her home. 21453_28703
+%pos: Little.ADJ Red.ADJ Riding.PROPN Hood.PROPN left.VERB her.PRON home.NOUN
+*PAR:	and had waved goodbye to her mother. 28704_30703
+%pos: and.CCONJ had.AUX waved.VERB goodbye.NOUN to.ADP her.PRON mother.NOUN
+*PAR:	with the basket in hand (.)with (..)treats &-uh grapes and &=sniffs
+	a bottle of soft drink for her grandma. 30703_41500
+%pos: with.ADP the.DET basket.NOUN in.ADP handwithtreats.NOUN grapes.NOUN and.CCONJ a.DET bottle.NOUN of.ADP soft.ADJ drink.NOUN for.ADP her.PRON grandma.NOUN
+*PAR:	Little Red Riding Hood walked through the forest.  41200_44625
+%pos: Little.ADJ Red.ADJ Riding.PROPN Hood.PROPN walked.VERB through.ADP the.DET forest.NOUN
+*PAR:	and was startled <by a fo> [//] by a wolf <scuse me> [e]. 44626_49624
+%pos: and.CCONJ was.AUX startled.VERB
+*PAR:	there were plenty of animals in the forest &=sniffs. 49625_51796
+%pos: there.PRON were.VERB plenty.NOUN of.ADP animals.NOUN in.ADP the.DET forest.NOUN
+*PAR:	&-uhm, the wolf had gotten ahead of little red riding hood. 51796_59625
+%pos: ,.PUNCT the.DET wolf.NOUN had.AUX gotten.VERB ahead.ADV of.ADP little.ADJ red.ADJ riding.NOUN hood.NOUN
+*PAR:	and went to her (.)grandmother's house while Little Red Riding Hood
+	picked flowers. 59626_65624
+%pos: and.CCONJ went.VERB to.ADP hergrandmother.PROPN 's.PART house.NOUN while.SCONJ Little.ADJ Red.PROPN Riding.PROPN Hood.PROPN picked.VERB flowers.NOUN
+*PAR:	the wolf &=coughs had planned to eat the grandma, in her home. 65625_75423
+%pos: the.DET wolf.NOUN had.AUX planned.VERB to.PART eat.VERB the.DET grandma.NOUN ,.PUNCT in.ADP her.PRON home.NOUN
+*PAR:	Little Red Riding Hood had arrived at her grandmother's house. 75423_83000
+%pos: Little.ADJ Red.ADJ Riding.PROPN Hood.PROPN had.AUX arrived.VERB at.ADP her.PRON grandmother.NOUN 's.PART house.NOUN
+*PAR:	and she had put flowers in a vase and water in the glass and set out
+	the cookies for her grandma. 83100_92000
+%pos: and.CCONJ she.PRON had.AUX put.VERB flowers.NOUN in.ADP a.DET vase.NOUN and.CCONJ water.NOUN in.ADP the.DET glass.NOUN and.CCONJ set.VERB out.ADP the.DET cookies.NOUN for.ADP her.PRON grandma.NOUN
+*PAR:	Little Red Riding Hood was surprised that her grandma was laying in
+	bed. 93000_101000
+%pos: Little.ADJ Red.ADJ Riding.PROPN Hood.PROPN was.AUX surprised.VERB that.SCONJ her.PRON grandma.NOUN was.AUX laying.VERB in.ADP bed.NOUN
+*PAR:	Little Red Riding Hood was surprised. 101081_105450
+%pos: Little.ADJ Red.ADJ Riding.PROPN Hood.PROPN was.AUX surprised.VERB
+*PAR:	and scared &=inhales that the wolf was trying to get her. 105460_113952
+%pos: and.CCONJ scared.ADJ that.SCONJ the.DET wolf.NOUN was.AUX trying.VERB to.PART get.VERB her.PRON
+*PAR:	Little Red Riding Hood was eaten by the wolf &=clears throat. 113953_121376
+%pos: Little.ADJ Red.ADJ Riding.PROPN Hood.PROPN was.AUX eaten.VERB by.ADP the.DET wolf.NOUN throat.NOUN
+*PAR:	but a hunter came in. 121377_123376
+%pos: but.CCONJ a.DET hunter.NOUN came.VERB in.ADV
+*PAR:	and brought his <gun with him or his>[//] rifle with him and his dog
+	to help save them. 123377_131376
+%pos: and.CCONJ brought.VERB his.PRON gun.NOUN with.ADP him.PRON or.CCONJ hisrifle.ADJ with.ADP him.PRON and.CCONJ his.PRON dog.NOUN to.PART help.VERB save.VERB them.PRON
+*PAR:	Little Red Riding Hood and her grandmother were saved by this man. 131377_139453
+%pos: Little.ADJ Red.ADJ Riding.PROPN Hood.PROPN and.CCONJ her.PRON grandmother.NOUN were.AUX saved.VERB by.ADP this.DET man.NOUN
+*PAR:	and were taken out of the wolf's stomach. 139454_145452
+%pos: and.CCONJ were.AUX taken.VERB out.ADP of.ADP the.DET wolf.NOUN 's.PART stomach.NOUN
+*PAR:	Little Red Riding Hood had grabbed some rocks to put inside the wolf
+	so that they could sink him <perhaps>[e]. 145453_158125
+%pos: Little.ADJ Red.ADJ Riding.PROPN Hood.PROPN had.AUX grabbed.VERB some.DET rocks.NOUN to.PART put.VERB inside.ADP the.DET wolf.NOUN so.SCONJ that.SCONJ they.PRON could.AUX sink.VERB him.PRON
+*PAR:	xxx &=inhales Little Red Riding Hood, her grandmother and the man
+	laughed at the wolf when he walked with the belly full of rocks. 158125_174500
+%pos: xxx.ADP Little.ADJ Red.ADJ Riding.NOUN Hood.PROPN ,.PUNCT her.PRON grandmother.NOUN and.CCONJ the.DET man.NOUN laughed.VERB at.ADP the.DET wolf.NOUN when.ADV he.PRON walked.VERB with.ADP the.DET belly.NOUN full.ADJ of.ADP rocks.NOUN
+*PAR:	Litle Red Riding Hood's grandmother waved goodbye as they were
+	leaving. 174501_183251
+%pos: Litle.PROPN Red.PROPN Riding.PROPN Hood.PROPN 's.PART grandmother.NOUN waved.VERB goodbye.NOUN as.SCONJ they.PRON were.AUX leaving.VERB
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:21:02.267658

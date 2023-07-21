@@ -1,0 +1,75 @@
+@UTF8
+@Window:	0_0_0_0_0_0_1707_1_1707_1
+@Begin
+@Languages:	spa,eng
+@Participants:	PAR 127 Speaker
+@ID:	spa|narratives|PAR||female|||Speaker|||
+@Media:	127_spanish,audio
+*PAR:	<RES> [e]. 0_9456
+*PAR:	un [: una][*] niña va a su abuela's@s casa. 9456_15047
+%pos: un.DET niña.NOUN va.VERB a.ADP su.DET abuela.NOUN 's.PART casa.NOUN
+*PAR:	y &-um el [: la][*] niña showed@s <el> [///] su abuela her@s robe@s. 15047_29125
+%pos: y.CCONJ el.DET niña.NOUN showed.VERB el.DET su.DET abuela.NOUN her.ADJ robe.NOUN
+*PAR:	<RES> [e]. 29125_32735
+*PAR:	luego la niña se va de su mama's@s casa &-um en el into@s el &-um
+	forest@s con comida. 32735_56900
+%pos: luego.ADV la.DET niña.NOUN se.PRON va.VERB de.ADP su.DET mama.NOUN 's.PART casa.NOUN en.ADP el.DET into.X el.DET forest.NOUN con.ADP comida.NOUN
+*PAR:	<RES> [e]. 56900_60035
+*PAR:	luego &-um hay un lobo que ve a la niña. 60035_71000
+%pos: luego.ADV hay.VERB un.DET lobo.NOUN que.SCONJ ve.VERB a.ADP la.DET niña.NOUN
+*PAR:	y quiere comer la niña pero la niña no ve a la <loba> [//] lobo. 71000_78425
+%pos: y.CCONJ quiere.VERB comer.VERB la.DET niña.NOUN pero.CCONJ la.DET niña.NOUN no.ADV ve.VERB a.ADP la.DET loba.NOUN lobo.ADJ
+*PAR:	<RES> [e]. 78425_82411
+*PAR:	y el lobo (..) &-um goes@s ahead@s of@s el [: la][*] niña a sus
+	abuela's@s [/] abuela's@s <casas> [//] casa. 82411_104160
+%pos: y.CCONJ el.DET lobo.NOUN goes.VERB ahead.ADV of.ADP el.DET niña.NOUN a.ADP sus.DET abuela.NOUN 's.PART abuela.NOUN 's.PART casas.NOUN casa.NOUN
+*PAR:	y quiere ir inside@s. 104160_110786
+%pos: y.CCONJ quiere.VERB ir.VERB inside.ADV
+*PAR:	<RES> [e]. 110786_115000
+*PAR:	luego <la> [//] el lobo se come el [: la][*] abuela. 115000_127555
+%pos: luego.ADV la.DET el.DET lobo.NOUN se.PRON come.VERB el.DET abuela.NOUN
+*PAR:	<RES> [e]. 127555_129251
+*PAR:	y cuando la niña arrives@s &-um no ve que <el> [///] que es el lobo. 129251_141000
+%pos: y.CCONJ cuando.SCONJ la.DET niña.NOUN arrives.VERB no.ADV ve.VERB que.SCONJ el.DET que.SCONJ es.AUX el.DET lobo.NOUN
+*PAR:	y no su abuela. 141000_143985
+%pos: y.CCONJ no.ADV su.DET abuela.NOUN
+*PAR:	<RES> [e]. 143985_146335
+*PAR:	y luego la niña se comes@s up@s to el lobo. 146335_158285
+%pos: y.CCONJ luego.ADV la.DET niña.NOUN se.PRON comes.VERB up.ADV to.ADP el.DET lobo.NOUN
+*PAR:	y dice que tiene xxx. 158285_164506
+%pos: y.CCONJ dice.VERB que.CCONJ tiene.VERB xxx.PROPN
+*PAR:	<RES> [e]. 164506_169235
+*PAR:	y &=laughs el lobo come a la niña. 169235_180536
+%pos: y.CCONJ el.DET lobo.NOUN come.VERB a.ADP la.DET niña.NOUN
+*PAR:	(..) luego el lobo esta en el cama. 180536_189000
+%pos: luego.ADV el.DET lobo.NOUN esta.VERB en.ADP el.DET cama.NOUN
+*PAR:	y un hunter@s con su perro &-um comes@s in@s. 189000_195835
+%pos: y.CCONJ un.DET hunter.NOUN con.ADP su.DET perro.NOUN comes.VERB in.ADP
+*PAR:	<RES> [e]. 195835_197923
+*PAR:	y cuando el lobo esta en el [: la][*] cama sleeping el hunter@s
+	frees@s la abuela. 197923_216000
+%pos: y.CCONJ cuando.SCONJ el.DET lobo.NOUN esta.VERB en.ADP el.DET cama.NOUN sleeping.VERB el.DET hunter.NOUN frees.VERB la.DET abuela.NOUN
+*PAR:	y la niña. 216000_218600
+%pos: y.CCONJ la.DET niña.NOUN
+*PAR:	<RES> [e]. 218600_219500
+*PAR:	(...)y el hunter@s feeds@s el lobo rocks@s. 219500_232485
+%pos: y.CCONJ el.DET hunter.NOUN feeds.VERB el.DET lobo.NOUN rocks.PROPN
+*PAR:	<RES> [e]. 232485_234000
+*PAR:	(...)&-um luego cuando el lobo <vai [: va][*] out@s of@s the@s
+	house@s <los> [///] el perro y> [///] cuando <la> [//] el lobo
+	comes@s out@s of@s the@s house@s el hunter@s. 234000_265400
+%pos: luego.ADV cuando.SCONJ el.DET lobo.NOUN <.PUNCT vai.VERB out.ADP of.ADP the.DET house.NOUN los.DET el.DET perro.NOUN y.CCONJ >.PUNCT cuando.SCONJ la.DET el.DET lobo.NOUN comes.VERB out.ADP of.ADP the.DET house.NOUN el.DET hunter.NOUN
+*PAR:	y el <abuelo> [//] abuela. 265400_269000
+%pos: y.CCONJ el.DET abuelo.NOUN abuela.ADJ
+*PAR:	y &-um el [: la][*] niña xxx el lobo. 269000_275335
+%pos: y.CCONJ el.DET niña.NOUN xxx.X el.DET lobo.NOUN
+*PAR:	<RES> [e]. 275335_285581
+*PAR:	el hunter@s. 285581_287000
+%pos: el.DET hunter.NOUN
+*PAR:	y el [: la][*] niña &-um fue back@s into@s the@s forrest@s. 287000_293536
+%pos: y.CCONJ el.DET niña.NOUN fue.AUX back.ADV into.ADP the.DET forrest.NOUN
+*PAR:	y dicen adios a su abuela. 293536_298455
+%pos: y.CCONJ dicen.VERB adios.ADV a.ADP su.DET abuela.NOUN
+*PAR:	<RES> [e]. 298455_304364
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:38:03.234612

@@ -1,0 +1,54 @@
+@UTF8
+@Window:	121_693_668_792_-1_-1_1611_0_1611_0
+@Begin
+@Languages:	spa,eng
+@Participants:	PAR 620 Speaker
+@ID:	spa|narratives|PAR||male|||Speaker|||
+@Media:	620_spa,audio
+*PAR:	<RES> [e]. 0_4362
+*PAR:	<Capelucita Roja &-eh con su abuela> [//] (...) Capelucita Roja estaba con su abuelita comiendo pastel. 4362_30164
+%pos: Capelucita.PROPN Roja.PROPN con.ADP su.DET abuela.NOUN Capelucita.PROPN Roja.PROPN estaba.VERB con.ADP su.DET abuelita.NOUN comiendo.VERB pastel.NOUN
+*PAR:	su ab(uelita) [///] Capelucita Roja le llevaba vino a su abuelita, pan y este fruta. 30164_41382
+%pos: su.DET abuelita.NOUN Capelucita.PROPN Roja.PROPN le.PRON llevaba.VERB vino.NOUN a.ADP su.DET abuelita.NOUN ,.PUNCT pan.NOUN y.CCONJ este.DET fruta.NOUN
+*PAR:	el lobo la atacó. 41382_46154
+%pos: el.DET lobo.NOUN la.PRON atacó.VERB
+*PAR:	y un leñador <la atacó> [//] le iba a atacar al lobo. 46154_52595
+%pos: y.CCONJ un.DET leñador.NOUN la.PRON atacó.VERB le.PRON iba.VERB a.ADP atacar.VERB al.ADP lobo.NOUN
+*PAR:	Capelucita Roja agarraba flores para su abuelita. 52595_60277
+%pos: Capelucita.PROPN Roja.PROPN agarraba.VERB flores.NOUN para.ADP su.DET abuelita.NOUN
+*PAR:	y el lobo quería entrar a la casa de la abuela. 60277_67478
+%pos: y.CCONJ el.DET lobo.NOUN quería.VERB entrar.VERB a.ADP la.DET casa.NOUN de.ADP la.DET abuela.NOUN
+*PAR:	el lobo quería atacar a la abuela. 67478_72009
+%pos: el.DET lobo.NOUN quería.VERB atacar.VERB a.ADP la.DET abuela.NOUN
+*PAR:	<Capelucita Roja le puso las galle(tas)> [///] Caperucita Roja pueso unas flores para su abuelita, unas galletas, el vino. 72009_84838
+%pos: Capelucita.PROPN Roja.PROPN le.PRON puso.VERB las.DET galletas.NOUN Caperucita.PROPN Roja.PROPN pueso.VERB unas.DET flores.NOUN para.ADP su.DET abuelita.NOUN ,.PUNCT unas.DET galletas.NOUN ,.PUNCT el.DET vino.NOUN
+*PAR:	y el lobo estaba en su cama de la abuela. 84838_89591
+%pos: y.CCONJ el.DET lobo.NOUN estaba.VERB en.ADP su.DET cama.NOUN de.ADP la.DET abuela.NOUN
+*PAR:	Capelucita se dio cuenta que no era su abuelita. 89591_96811
+%pos: Capelucita.PROPN se.PRON dio.VERB cuenta.NOUN que.SCONJ no.ADV era.AUX su.DET abuelita.NOUN
+*PAR:	era el lobo. 96811_99714
+%pos: era.AUX el.DET lobo.NOUN
+*PAR:	&-eh el lobo asustó a Caperucita Roja. 99714_107041
+%pos: el.DET lobo.NOUN asustó.VERB a.ADP Caperucita.PROPN Roja.PROPN
+*PAR:	y el lobo y el señor <iba a atacar> [//] atacaba al lobo. 107041_118051
+%pos: y.CCONJ el.DET lobo.NOUN y.CCONJ el.DET señor.NOUN iba.VERB a.ADP atacar.VERB atacaba.VERB al.ADP lobo.NOUN
+*PAR:	<el lobo iba por el> [//] el señor iba a atacar al lobo. 118051_128452
+%pos: el.DET lobo.NOUN iba.VERB por.ADP el.DET el.DET señor.NOUN iba.VERB a.ADP atacar.VERB al.ADP lobo.NOUN
+*PAR:	le iba a matar. 128452_130219
+%pos: le.PRON iba.VERB a.ADP matar.VERB
+*PAR:	Capelucita se sorprendió. 130219_134801
+%pos: Capelucita.PROPN se.PRON sorprendió.VERB
+*PAR:	llevaba piedras. 134801_139774
+%pos: llevaba.VERB piedras.NOUN
+*PAR:	y el lobo estaba de piedras. 139774_146673
+%pos: y.CCONJ el.DET lobo.NOUN estaba.VERB de.ADP piedras.NOUN
+*PAR:	el señor le tiró una piedra. 146673_151820
+%pos: el.DET señor.NOUN le.PRON tiró.VERB una.DET piedra.NOUN
+*PAR:	y se xxx. 151820_158622
+%pos: y.CCONJ se.PRON xxx.X
+*PAR:	el lobo cayó <en la fosa> [//] <en la> [//] en el pozo. 158622_164111
+%pos: el.DET lobo.NOUN cayó.VERB en.ADP la.DET fosa.NOUN en.ADP la.DET en.ADP el.DET pozo.NOUN
+*PAR:	la abuela y Capelucita Roja se van con el señor y el perro. 164111_175215
+%pos: la.DET abuela.NOUN y.CCONJ Capelucita.PROPN Roja.PROPN se.PRON van.VERB con.ADP el.DET señor.NOUN y.CCONJ el.DET perro.NOUN
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:19:58.999148

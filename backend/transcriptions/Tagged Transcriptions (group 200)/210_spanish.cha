@@ -1,0 +1,48 @@
+@UTF8
+@Window:	79_728_642_664_-1_-1_1784_0_1784_0
+@Begin
+@Languages:	spa,eng
+@Participants:	PAR 210 Speaker
+@ID:	spa|narratives|PAR||female|||Speaker|||
+@Media:	210_spanish,audio
+*PAR:	Caperucita Roja. 0_7093
+%pos: Caperucita.NOUN Roja.ADJ
+*PAR:	<RES> [e]. 7093_8602
+*PAR:	Caperucita Roja visitó a su abuelita. 8602_13685
+%pos: Caperucita.PROPN Roja.PROPN visitó.VERB a.ADP su.DET abuelita.NOUN
+*PAR:	Caperucita Roja se estaba despidiendo de su mamá. 13685_25509
+%pos: Caperucita.PROPN Roja.PROPN se.PRON estaba.AUX despidiendo.VERB de.ADP su.DET mamá.NOUN
+*PAR:	el cazador [/] &-eh el cazador trató de matar al lobo feroz que iba a comerse a la Caperucita Roja. 25509_50047
+%pos: el.DET cazador.NOUN el.DET cazador.NOUN trató.VERB de.ADP matar.VERB al.ADP lobo.NOUN feroz.ADJ que.SCONJ iba.VERB a.ADP comerse.VERB a.ADP la.DET Caperucita.PROPN Roja.PROPN
+*PAR:	el lobo feroz llegó a la casa de la abuelita. 50047_60980
+%pos: el.DET lobo.NOUN feroz.ADJ llegó.VERB a.ADP la.DET casa.NOUN de.ADP la.DET abuelita.NOUN
+*PAR:	<RES> [e]. 60980_116305
+*PAR:	el lobo feroz trató de comerse a la abuelita de Caperucita Roja. 116305_126953
+%pos: el.DET lobo.NOUN feroz.ADJ trató.VERB de.ADP comerse.VERB a.ADP la.DET abuelita.NOUN de.ADP Caperucita.PROPN Roja.PROPN
+*PAR:	<RES> [e]. 126953_134344
+*PAR:	(...) el lobo se vistió como la abuelita de Caperucita Roja para engañarla y comerse la comida que Caperucita le llevó. 134344_168220
+%pos: el.DET lobo.NOUN se.PRON vistió.VERB como.ADP la.DET abuelita.NOUN de.ADP Caperucita.PROPN Roja.PROPN para.ADP engañarla.VERB y.CCONJ comerse.VERB la.DET comida.NOUN que.SCONJ Caperucita.PROPN le.PRON llevó.VERB
+*PAR:	la Caperucita le está hablando a su abuelita. 168220_176608
+%pos: la.DET Caperucita.PROPN le.PRON está.AUX hablando.VERB a.ADP su.DET abuelita.NOUN
+*PAR:	pero como es el lobo feroz, no le da la cara. 176608_180129
+%pos: pero.CCONJ como.ADV es.AUX el.DET lobo.NOUN feroz.ADJ ,.PUNCT no.ADV le.PRON da.VERB la.DET cara.NOUN
+*PAR:	de pronto, se para el lobo feroz queriéndose comer a Caperucita Roja. 180129_193081
+%pos: de.ADP pronto.ADV ,.PUNCT se.PRON para.ADP el.DET lobo.NOUN feroz.ADJ queriéndose.VERB comer.VERB a.ADP Caperucita.PROPN Roja.PROPN
+*PAR:	y Caperucita Roja está muy asustada que se echó a correr. 193081_197144
+%pos: y.CCONJ Caperucita.PROPN Roja.PROPN está.AUX muy.ADV asustada.ADJ que.SCONJ se.PRON echó.VERB a.ADP correr.VERB
+*PAR:	de pronto, entró el cazador con un perro. 197144_205528
+%pos: de.ADP pronto.ADV ,.PUNCT entró.VERB el.DET cazador.NOUN con.ADP un.DET perro.NOUN
+*PAR:	pero al parecer, el lobo feroz ya se había tragado a toda la comida y a Caperucita Roja. 205528_214028
+%pos: pero.CCONJ al.ADP parecer.NOUN ,.PUNCT el.DET lobo.NOUN feroz.ADJ ya.ADV se.PRON había.AUX tragado.VERB a.ADP toda.DET la.DET comida.NOUN y.CCONJ a.ADP Caperucita.PROPN Roja.PROPN
+*PAR:	aquí están celebrando que todos están a salvo. 214028_229075
+%pos: aquí.ADV están.AUX celebrando.VERB que.SCONJ todos.PRON están.VERB a.ADP salvo.ADV
+*PAR:	y el lobo feroz está muy privado de tanta comida que comió. 229075_233172
+%pos: y.CCONJ el.DET lobo.NOUN feroz.ADJ está.AUX muy.ADV privado.ADJ de.ADP tanta.DET comida.NOUN que.SCONJ comió.VERB
+*PAR:	el cazador, le quiere dar de comer al [/] al lobo rocas junto con Caperucita Roja y la abuelita y el perro. 233172_262484
+%pos: el.DET cazador.NOUN ,.PUNCT le.PRON quiere.VERB dar.VERB de.ADP comer.VERB al.ADP al.ADP lobo.NOUN rocas.NOUN junto.ADJ con.ADP Caperucita.PROPN Roja.PROPN y.CCONJ la.DET abuelita.NOUN y.CCONJ el.DET perro.NOUN
+*PAR:	ellos riéndose a carcajadas, disfrutando que el lobo ya va bien contento, lleno con su barriga llena de piedras. 262484_278422
+%pos: ellos.PRON riéndose.VERB a.ADP carcajadas.NOUN ,.PUNCT disfrutando.VERB que.SCONJ el.DET lobo.NOUN ya.ADV va.VERB bien.ADV contento.ADJ ,.PUNCT lleno.ADJ con.ADP su.DET barriga.NOUN llena.ADJ de.ADP piedras.NOUN
+*PAR:	y ahí se está despidiendo la Caperucita Roja de su abuelita, que <va de re(greso)> [//] va de vuelta a casa con su mamá. 278422_294978
+%pos: y.CCONJ ahí.ADV se.PRON está.AUX despidiendo.VERB la.DET Caperucita.NOUN Roja.ADJ de.ADP su.DET abuelita.NOUN ,.PUNCT que.SCONJ va.VERB de.ADP regreso.NOUN va.VERB de.ADP vuelta.NOUN a.ADP casa.NOUN con.ADP su.DET mamá.NOUN
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:21:33.278099

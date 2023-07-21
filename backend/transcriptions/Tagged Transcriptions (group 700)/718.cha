@@ -1,0 +1,56 @@
+@UTF8
+@Window:	74_421_668_752_-1_-1_83_0_83_0
+@Begin
+@Languages:	spa,eng
+@Participants:	PAR 718 Speaker
+@ID:	spa|narratives|PAR||male|||Speaker|||
+@Media:	718,audio
+*PAR:	<RES> [e]. 0_4403
+*PAR:	Caperucita Roja, una niña conocida por portar una capa de color rojo que vivía en el bosque. 4403_12766
+%pos: Caperucita.PROPN Roja.PROPN ,.PUNCT una.DET niña.NOUN conocida.VERB por.ADP portar.VERB una.DET capa.NOUN de.ADP color.NOUN rojo.ADJ que.SCONJ vivía.VERB en.ADP el.DET bosque.NOUN
+*PAR:	ella solía hornear pasteles con su abuela. 12766_18415
+%pos: ella.PRON solía.VERB hornear.VERB pasteles.NOUN con.ADP su.DET abuela.NOUN
+*PAR:	un día, su madre la envió con provisiones al bosque donde vivía su abuela. 18415_26269
+%pos: un.DET día.NOUN ,.PUNCT su.DET madre.NOUN la.PRON envió.VERB con.ADP provisiones.NOUN al.ADP bosque.NOUN donde.ADV vivía.VERB su.DET abuela.NOUN
+*PAR:	después de un largo caminar y toparse con un leñador, de pronto el lobo avistó a Caperucita Roja mirándola deseosamente. 26269_43250
+%pos: después.ADV de.ADP un.DET largo.ADJ caminar.VERB y.CCONJ toparse.VERB con.ADP un.DET leñador.NOUN ,.PUNCT de.ADP pronto.ADV el.DET lobo.NOUN avistó.VERB a.ADP Caperucita.PROPN Roja.PROPN mirándola.VERB deseosamente.ADV
+*PAR:	no obstante de ello, el lobo se percató de que Caperucita Roja iría a casa de su abuela. 43250_50541
+%pos: no.ADV obstante.ADV de.ADP ello.PRON ,.PUNCT el.DET lobo.NOUN se.PRON percató.VERB de.ADP que.SCONJ Caperucita.PROPN Roja.PROPN iría.VERB a.ADP casa.NOUN de.ADP su.DET abuela.NOUN
+*PAR:	mientras que ella recogía flores en los alrededores del bosque, el lobo decidió ir a casa de su abuela. 50541_58038
+%pos: mientras.ADV que.SCONJ ella.PRON recogía.VERB flores.NOUN en.ADP los.DET alrededores.NOUN del.ADP bosque.NOUN ,.PUNCT el.DET lobo.NOUN decidió.VERB ir.VERB a.ADP casa.NOUN de.ADP su.DET abuela.NOUN
+*PAR:	entonces, el lobo irrumpió en la casa de la abuela tomándola y comiéndola. 58038_67382
+%pos: entonces.ADV ,.PUNCT el.DET lobo.NOUN irrumpió.VERB en.ADP la.DET casa.NOUN de.ADP la.DET abuela.NOUN tomándola.VERB y.CCONJ comiéndola.VERB
+*PAR:	después de un rato, Caperucita Roja llegó sin saber que el lobo se había disfrazado de su abuela. 67382_75852
+%pos: después.ADV de.ADP un.DET rato.NOUN ,.PUNCT Caperucita.PROPN Roja.PROPN llegó.VERB sin.ADP saber.VERB que.SCONJ el.DET lobo.NOUN se.PRON había.AUX disfrazado.VERB de.ADP su.DET abuela.NOUN
+*PAR:	deseosa de ver a su abuela, llegó a la casa con flores que había recogido del bosque y con las provisiones que su mamá había mandado para su abuela, colocando las flores en un jarrón y la comida en una mesa, mientras el lobo estaba esperando deseosamente. 75852_92405
+%pos: deseosa.ADJ de.ADP ver.VERB a.ADP su.DET abuela.NOUN ,.PUNCT llegó.VERB a.ADP la.DET casa.NOUN con.ADP flores.NOUN que.SCONJ había.AUX recogido.VERB del.ADP bosque.NOUN y.CCONJ con.ADP las.DET provisiones.NOUN que.PRON su.DET mamá.NOUN había.AUX mandado.VERB para.ADP su.DET abuela.NOUN ,.PUNCT colocando.VERB las.DET flores.NOUN en.ADP un.DET jarrón.NOUN y.CCONJ la.DET comida.NOUN en.ADP una.DET mesa.NOUN ,.PUNCT mientras.SCONJ el.DET lobo.NOUN estaba.AUX esperando.VERB deseosamente.ADV
+*PAR:	porque Caperucita Roja se acercaba a él. 92405_95033
+%pos: porque.SCONJ Caperucita.PROPN Roja.PROPN se.PRON acercaba.VERB a.ADP él.PRON
+*PAR:	no obstante de ello, Caperucita Roja se acercó a la cama donde estaba su supuesta abuela, notando ciertas cosas que no veía bien. 95033_106830
+%pos: no.ADV obstante.ADV de.ADP ello.PRON ,.PUNCT Caperucita.PROPN Roja.PROPN se.PRON acercó.VERB a.ADP la.DET cama.NOUN donde.ADV estaba.VERB su.DET supuesta.ADJ abuela.NOUN ,.PUNCT notando.VERB ciertas.DET cosas.NOUN que.SCONJ no.ADV veía.VERB bien.ADV
+*PAR:	después de todo, el lobo se abalanzó hacia Caperucita Roja intentando comerla. 106830_116299
+%pos: después.ADV de.ADP todo.PRON ,.PUNCT el.DET lobo.NOUN se.PRON abalanzó.VERB hacia.ADP Caperucita.PROPN Roja.PROPN intentando.VERB comerla.VERB
+*PAR:	después de ello, ella intentó correr a [//] por toda la casa intentando escapar de él. 116299_122012
+%pos: después.ADV de.ADP ello.PRON ,.PUNCT ella.PRON intentó.VERB correr.VERB a.ADP por.ADP toda.DET la.DET casa.NOUN intentando.VERB escapar.VERB de.ADP él.PRON
+*PAR:	no obstante de ello, el lobo se comió a Caperucita Roja. 122012_128819
+%pos: no.ADV obstante.ADV de.ADP ello.PRON ,.PUNCT el.DET lobo.NOUN se.PRON comió.VERB a.ADP Caperucita.NOUN Roja.ADJ
+*PAR:	y &-eh al momento de [/] de hacer tanto ruido en casa, un cazador se dio cuenta de todo lo que estaba sucediendo. 128819_137240
+%pos: y.CCONJ al.ADP momento.NOUN de.ADP de.ADP hacer.VERB tanto.DET ruido.NOUN en.ADP casa.NOUN ,.PUNCT un.DET cazador.NOUN se.PRON dio.VERB cuenta.NOUN de.ADP todo.DET lo.PRON que.SCONJ estaba.AUX sucediendo.VERB
+*PAR:	y decidió acercarse a la casa a investigar. 137240_139631
+%pos: y.CCONJ decidió.VERB acercarse.VERB a.ADP la.DET casa.NOUN a.ADP investigar.VERB
+*PAR:	entró a la casa. 139631_141188
+%pos: entró.VERB a.ADP la.DET casa.NOUN
+*PAR:	y se encontró con un lobo satisfecho y tirado en la cama. 141188_144752
+%pos: y.CCONJ se.PRON encontró.VERB con.ADP un.DET lobo.NOUN satisfecho.ADJ y.CCONJ tirado.VERB en.ADP la.DET cama.NOUN
+*PAR:	después de ello, la historia tomó un (.) [/] un revuelo distinto en el cual el lobo simplemente se había comido la comida. 144752_162740
+%pos: después.ADV de.ADP ello.PRON ,.PUNCT la.DET historia.NOUN tomó.VERB un.DET un.DET revuelo.NOUN distinto.ADJ en.ADP el.DET cual.PRON el.DET lobo.NOUN simplemente.ADV se.PRON había.AUX comido.VERB la.DET comida.NOUN
+*PAR:	la abuela estaba bien y Caperucita igual. 162740_167432
+%pos: la.DET abuela.NOUN estaba.VERB bien.ADV y.CCONJ Caperucita.PROPN igual.ADJ
+*PAR:	después de ello, &-eh la niña fue mandada por el cazador a por un par de piedras, mientras el cazador preparaba una hilera. 167432_185730
+%pos: después.ADV de.ADP ello.PRON ,.PUNCT la.DET niña.NOUN fue.AUX mandada.VERB por.ADP el.DET cazador.NOUN a.ADP por.ADP un.DET par.NOUN de.ADP piedras.NOUN ,.PUNCT mientras.SCONJ el.DET cazador.NOUN preparaba.VERB una.DET hilera.NOUN
+*PAR:	después de ello, enviaron al lobo, ya con el estómago lleno de piedras, al bosque. 185730_197578
+%pos: después.ADV de.ADP ello.PRON ,.PUNCT enviaron.VERB al.ADP lobo.NOUN ,.PUNCT ya.ADV con.ADP el.DET estómago.NOUN lleno.ADJ de.ADP piedras.NOUN ,.PUNCT al.ADP bosque.NOUN
+*PAR:	después de deshacerse del lobo y de llevarle las cosas a la abuela, Caperucita se fue a su casa junto con el cazador. 197578_208060
+%pos: después.ADV de.ADP deshacerse.VERB del.ADP lobo.NOUN y.CCONJ de.ADP llevarle.VERB las.DET cosas.NOUN a.ADP la.DET abuela.NOUN ,.PUNCT Caperucita.PROPN se.PRON fue.VERB a.ADP su.DET casa.NOUN junto.ADJ con.ADP el.DET cazador.NOUN
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:18:05.279744

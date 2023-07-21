@@ -1,0 +1,125 @@
+@UTF8
+@Window:	0_0_0_0_2018_0_3676_0_3676_0
+@Begin
+@Languages:	spa,eng
+@Participants:	PAR 517 Speaker
+@ID:	spa|narratives|PAR||male|||Speaker|||
+@Media:	517_spanish,audio
+*PAR:	un [: una][*] niña que tiene un [: una][*] camara [: capucha][*]
+	rojo [//] roja estás [: estaba][*] bailando con tu [: su][*] abuela
+	en su casa . 0_11691
+%pos: un.DET niña.NOUN que.SCONJ tiene.VERB un.DET camara.NOUN rojo.ADJ roja.ADJ estás.AUX bailando.VERB con.ADP tu.DET abuela.NOUN en.ADP su.DET casa.NOUN
+*PAR:	<RES> [e] . 11691_12741
+*PAR:	y [/] y los pajaros estaban escuchando . 12741_19188
+%pos: y.CCONJ y.CCONJ los.DET pajaros.NOUN estaban.AUX escuchando.VERB
+*PAR:	<RES> [e] . 19188_28659
+*PAR:	<listo> [e] . 28659_30031
+*PAR:	<RES> [e] . 30031_32033
+*PAR:	&-um un día, su mamá &-um se (.) xxx a la niña <para c(aminar)> [/]
+	para caminar a <sus abuela> [//] <su abuela's@s casa> [//] (.) el
+	[: la][*] casa de su abuela . 32033_61535
+%pos: un.DET día.NOUN ,.PUNCT su.DET mamá.NOUN se.PRON xxx.VERB a.ADP la.DET niña.NOUN para.ADP caminar.VERB para.ADP caminar.VERB a.ADP sus.DET abuela.NOUN su.DET abuela.NOUN 's.PART casa.NOUN el.DET casa.NOUN de.ADP su.DET abuela.NOUN
+*PAR:	<RES> [e] . 61535_62287
+*PAR:	<para &-um> [/] (.) <para &-um> [//] (.) y <para &-um> [/] (.) &-um
+	&-uh (..) para &-um como (.) drop@s off@s el [: la][*] cosa <con
+	&-um un [: una][*] botella y> [//] (.) <que> [///] con un [: una][*]
+	botella . 62287_103316
+%pos: para.ADP para.ADP y.CCONJ para.ADP para.ADP como.CCONJ drop.VERB off.ADP el.DET cosa.NOUN <.PUNCT con.ADP un.DET botella.NOUN y.CCONJ >.SYM que.CCONJ con.ADP un.DET botella.NOUN
+*PAR:	<RES> [e] . 103316_106068
+*PAR:	y comido [: comida][*] . 106068_107069
+%pos: y.CCONJ comido.VERB
+*PAR:	<RES> [e] . 107069_111068
+*PAR:	&-um cuando están [: estaba][*] (.) co(minando) [/] cominando
+	[: caminando][*], un lobo que quiere [: quería][*] <la> [//] el
+	[: la][*] comida se saltó . 111068_130660
+%pos: cuando.SCONJ están.AUX cominando.VERB cominando.VERB ,.PUNCT un.DET lobo.NOUN que.SCONJ quiere.VERB la.DET el.DET comida.NOUN se.PRON saltó.VERB
+*PAR:	&-um <pero el> [/] pero el [: la][*] niño [: niña][*] no eschucho . 130660_139131
+%pos: pero.CCONJ el.DET pero.CCONJ el.DET niño.NOUN no.ADV eschucho.ADJ
+*PAR:	<RES> [e] . 139131_144826
+*PAR:	<&-uh can@s I@s add@s something@s> [e] . 144826_147286
+*PAR:	<RES> [e] . 147286_148661
+*PAR:	<I've@s never@s seen@s the@s other@s guy@s in@s my@s entire@s
+	life@s> [e] . 148661_152211
+%pos: <.PUNCT I.PRON 've.AUX never.ADV seen.VERB the.DET other.ADJ guy.NOUN in.ADP my.PRON entire.ADJ life.NOUN >.PUNCT
+*PAR:	<RES> [e] . 152211_158911
+*PAR:	<okay@s> [e] . 158911_160037
+*PAR:	<RES> [e] . 160037_161152
+*PAR:	<listo> [e] . 161152_161949
+*PAR:	<RES> [e] . 161949_164152
+*PAR:	&-um cuando la niña están [: estaba][*] agarando flores, el lobo
+	comino [: camino][*] en silencio a [: hasta][*] la casa de tu
+	[: su][*] abuelo [: abuela][*] . 164152_185101
+%pos: cuando.SCONJ la.DET niña.NOUN están.AUX agarando.VERB flores.NOUN ,.PUNCT el.DET lobo.NOUN comino.VERB en.ADP silencio.NOUN a.ADP la.DET casa.NOUN de.ADP tu.DET abuelo.NOUN
+*PAR:	<RES> [e] . 185101_185556
+*PAR:	abuela . 185556_186586
+%pos: abuela.NOUN
+*PAR:	<RES> [e] . 186586_191416
+*PAR:	&-um y [/] y el lobo se saltó encima de la abuela <y co(mía)> [/] y
+	comía  [: comió][*] . 191416_205116
+%pos: y.CCONJ y.CCONJ el.DET lobo.NOUN se.PRON saltó.VERB encima.ADV de.ADP la.DET abuela.NOUN y.CCONJ comía.VERB y.CCONJ comía.VERB
+*PAR:	<RES> [e] . 205116_209163
+*PAR:	&-uh cuando el [: la][*] niña se agararon [: llego][*] a la casa de
+	tu [: su][*] abuela, se pone [: puso][*] los [: las][*] flores en un
+	vaso . 209163_223806
+%pos: cuando.SCONJ el.DET niña.NOUN se.PRON agararon.VERB a.ADP la.DET casa.NOUN de.ADP tu.DET abuela.NOUN ,.PUNCT se.PRON pone.VERB los.DET flores.NOUN en.ADP un.DET vaso.NOUN
+*PAR:	<RES> [e] . 223806_224596
+*PAR:	pero no vi(jo) [/] vijo [: vio][*] el lobo en la cama . 224596_230916
+%pos: pero.CCONJ no.ADV vijo.VERB vijo.VERB el.DET lobo.NOUN en.ADP la.DET cama.NOUN
+*PAR:	<RES> [e] . 230916_232116
+*PAR:	<cuando ve> [//] cuando vio tu [: su][*] abuela, dijo a ella que se
+	están [: ve][*] un poco diferente . 232116_253706
+%pos: cuando.SCONJ ve.VERB cuando.SCONJ vio.VERB tu.DET abuela.NOUN ,.PUNCT dijo.VERB a.ADP ella.PRON que.SCONJ se.PRON están.AUX un.DET poco.PRON diferente.ADJ
+*PAR:	<RES> [e] . 253706_258997
+*PAR:	<sí> [e] . 258997_259951
+*PAR:	<RES> [e] . 259951_261671
+*PAR:	&-uh cuando la niña está [: estaba][*] muy cerco [: cerca][*], el
+	lobo se saltó &-um enfrente de la camara . 261671_275601
+%pos: cuando.SCONJ la.DET niña.NOUN está.AUX muy.ADV cerco.ADJ ,.PUNCT el.DET lobo.NOUN se.PRON saltó.VERB enfrente.ADV de.ADP la.DET camara.NOUN
+*PAR:	y corrió con [/] con la niña . 275601_279701
+%pos: y.CCONJ corrió.VERB con.ADP con.ADP la.DET niña.NOUN
+*PAR:	<RES> [e] . 279701_280871
+*PAR:	<un caz(ador)> [/] un cazador &-um <con un> [/] <con un rifel
+	[: rifle][*]> [//] con with@s a@s rifle@s &-uh se entra el [: la][*]
+	casa . 280871_302933
+%pos: un.DET cazador.NOUN un.DET cazador.NOUN con.ADP un.DET <.PUNCT con.ADP un.DET rifel.NOUN >.PUNCT con.ADP with.X a.ADP rifle.NOUN se.PRON entra.VERB el.DET casa.NOUN
+*PAR:	<RES> [e] . 302933_305348
+*PAR:	con un perro . 305348_306943
+%pos: con.ADP un.DET perro.NOUN
+*PAR:	<RES> [e] . 306943_312359
+*PAR:	<y el lobo tiene un> [///] (.) el lobo es muy grande . 312359_321438
+%pos: y.CCONJ el.DET lobo.NOUN tiene.VERB un.DET el.DET lobo.NOUN es.AUX muy.ADV grande.ADJ
+*PAR:	<RES> [e] . 321438_325813
+*PAR:	&-laughs (..) cuando el [/] &-uh el cazador se &-um ab(ro) [/] abró
+	el lobo, y el [: la][*] niña y abuela se están [: fueron][*] afuera
+	del lobo . 325813_354358
+%pos: cuando.SCONJ el.DET el.DET cazador.NOUN se.PRON abro.VERB abró.VERB el.DET lobo.NOUN ,.PUNCT y.CCONJ el.DET niña.NOUN y.CCONJ abuela.NOUN se.PRON están.VERB afuera.ADV del.ADP lobo.NOUN
+*PAR:	<RES> [e] . 354358_355888
+*PAR:	<that's@s kind@s of@s gruesome@s> [e] . 355888_357469
+*PAR:	<RES> [e] . 357469_363210
+*PAR:	&-um el cazador y el [: la][*] niña pone [: pusieron][*] rocas
+	<en> [//] adentro del lobo . 363210_376520
+%pos: el.DET cazador.NOUN y.CCONJ el.DET niña.NOUN pone.VERB rocas.NOUN en.ADP adentro.ADV del.ADP lobo.NOUN
+*PAR:	y la abuela <voy a &-um> [/] voy a &-um xxx . 376520_388721
+%pos: y.CCONJ la.DET abuela.NOUN voy.VERB a.ADP voy.VERB a.ADP xxx.PROPN
+*PAR:	<I@s can't@s remember@s what@s that@s is@s in@s Spanish@s> [e] . 388721_391036
+*PAR:	<RES> [e] . 391036_399336
+*PAR:	she's@s going@s to@s sow@s it@s together@s . 399336_402966
+%pos: she.PRON 's.AUX going.VERB to.PART sow.VERB it.PRON together.ADV
+*PAR:	<RES> [e] . 402966_408161
+*PAR:	y cuando el lobo &-uh caminó &-um afuera del casa, el [/] <el> [//]
+	la nina, el cazador, y la abuela están [: estaban][*] muy fe(liz)
+	[/] feliz [: felices][*] . 408161_428502
+%pos: y.CCONJ cuando.SCONJ el.DET lobo.NOUN caminó.VERB afuera.ADV del.ADP casa.NOUN ,.PUNCT el.DET el.DET la.DET nina.NOUN ,.PUNCT el.DET cazador.NOUN ,.PUNCT y.CCONJ la.DET abuela.NOUN están.AUX muy.ADV feliz.ADJ feliz.ADJ
+*PAR:	<RES> [e] . 428502_436117
+*PAR:	<listo> [e] . 436117_436979
+*PAR:	<RES> [e] . 436979_439239
+*PAR:	&-um <el> [//] la abuela &-uh (.) dijo al niña y cazador que estás
+	[: está][*] muy [/] &-um muy feliz que no necesita vivir en un
+	estómeco [: estómago][*] del lobo . 439239_465003
+%pos: el.DET la.DET abuela.NOUN dijo.VERB al.ADP niña.NOUN y.CCONJ cazador.NOUN que.SCONJ estás.AUX muy.ADV muy.ADV feliz.ADJ que.SCONJ no.ADV necesita.VERB vivir.VERB en.ADP un.DET estómeco.NOUN del.ADP lobo.NOUN
+*PAR:	<RES> [e] . 465003_468054
+*PAR:	y todos los animales &-um <son lo> [///] &-um simi(lar) [/] similar
+	[: similares][*] . 468054_477864
+%pos: y.CCONJ todos.DET los.DET animales.NOUN son.AUX lo.PRON similar.NOUN similar.ADJ
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:22:27.479147

@@ -1,0 +1,76 @@
+@UTF8
+@Window:	102_405_642_839_-1_-1_2223_0_2223_0
+@Begin
+@Languages:	spa,eng
+@Participants:	PAR 207 Speaker
+@ID:	spa|narratives|PAR||female|||Speaker|||
+@Media:	207_spanish,audio
+*PAR:	<RES> [e]. 0_5757
+*PAR:	okay@s. 5757_6780
+%pos: okay.INTJ
+*PAR:	&-eh esta es Caperucita Roja que fue a visitar a su abuelita. 6780_14390
+%pos: esta.PRON es.AUX Caperucita.PROPN Roja.PROPN que.SCONJ fue.VERB a.ADP visitar.VERB a.ADP su.DET abuelita.NOUN
+*PAR:	el [///] se despide de su mamá con su canasta llena de golosinas para su abuelita. 14390_28148
+%pos: el.DET se.PRON despide.VERB de.ADP su.DET mamá.NOUN con.ADP su.DET canasta.NOUN llena.ADJ de.ADP golosinas.NOUN para.ADP su.DET abuelita.NOUN
+*PAR:	en el bosque, se encuentra con el lobo. 28148_39621
+%pos: en.ADP el.DET bosque.NOUN ,.PUNCT se.PRON encuentra.VERB con.ADP el.DET lobo.NOUN
+*PAR:	y [//] pero hay un cazador que lo ve. 39621_44219
+%pos: y.CCONJ pero.CCONJ hay.VERB un.DET cazador.NOUN que.SCONJ lo.PRON ve.VERB
+*PAR:	y [//] (...) pero el lobo llega antes que Caperucita a la casa de la abuelita, mientras Caperucita recoge flores. 44219_59036
+%pos: y.CCONJ pero.CCONJ el.DET lobo.NOUN llega.VERB antes.ADV que.CCONJ Caperucita.PROPN a.ADP la.DET casa.NOUN de.ADP la.DET abuelita.NOUN ,.PUNCT mientras.SCONJ Caperucita.PROPN recoge.VERB flores.NOUN
+*PAR:	entonces, se encuentra con la abuelita. 59036_63673
+%pos: entonces.ADV ,.PUNCT se.PRON encuentra.VERB con.ADP la.DET abuelita.NOUN
+*PAR:	y se la come antes de que Caperucita pueda llegar a la casa. 63673_68805
+%pos: y.CCONJ se.PRON la.PRON come.VERB antes.ADV de.ADP que.SCONJ Caperucita.PROPN pueda.AUX llegar.VERB a.ADP la.DET casa.NOUN
+*PAR:	Caperucita entra a la casa de la abuelita sin saber que el lobo está en la cama de la abuelita. 68805_81794
+%pos: Caperucita.PROPN entra.VERB a.ADP la.DET casa.NOUN de.ADP la.DET abuelita.NOUN sin.ADP saber.VERB que.SCONJ el.DET lobo.NOUN está.VERB en.ADP la.DET cama.NOUN de.ADP la.DET abuelita.NOUN
+*PAR:	Caperucita se da cuenta de que hay algo extraño. 81794_94018
+%pos: Caperucita.PROPN se.PRON da.VERB cuenta.NOUN de.ADP que.SCONJ hay.VERB algo.PRON extraño.ADJ
+*PAR:	+" abuelita, qué orejas más grandes tienes. 94018_97391
+%pos: +".PUNCT abuelita.NOUN ,.PUNCT qué.DET orejas.NOUN más.ADV grandes.ADJ tienes.VERB
+*PAR:	+" sí, es para escucharte mejor. 97391_101186
+%pos: +".SYM sí.INTJ ,.PUNCT es.VERB para.ADP escucharte.VERB mejor.ADV
+*PAR:	+" abuelita, qué boca más grande tienes. 101186_112108
+%pos: +".SYM abuelita.NOUN ,.PUNCT qué.DET boca.NOUN más.ADV grande.ADJ tienes.VERB
+*PAR:	+" es para comerte mejor. 112108_114440
+%pos: +".PUNCT es.VERB para.ADP comerte.VERB mejor.ADV
+*PAR:	entonces, en eso entra el cazador. 114440_124835
+%pos: entonces.ADV ,.PUNCT en.ADP eso.PRON entra.VERB el.DET cazador.NOUN
+*PAR:	y ve que el lobo está [//] &-eh tiene la panza llena con algo. 124835_132650
+%pos: y.CCONJ ve.VERB que.SCONJ el.DET lobo.NOUN está.AUX tiene.VERB la.DET panza.NOUN llena.ADJ con.ADP algo.PRON
+*PAR:	y entra. 132650_134318
+%pos: y.CCONJ entra.VERB
+*PAR:	y no sé si lo mata todavía. 134318_136627
+%pos: y.CCONJ no.ADV sé.VERB si.SCONJ lo.PRON mata.VERB todavía.ADV
+*PAR:	pero vamos a ver. 136627_137632
+%pos: pero.CCONJ vamos.VERB a.ADP ver.VERB
+*PAR:	lo mata. 137632_143921
+%pos: lo.PRON mata.VERB
+*PAR:	y saca a la abuelita y a la Caperucita de la guata. 143921_147789
+%pos: y.CCONJ saca.VERB a.ADP la.DET abuelita.NOUN y.CCONJ a.ADP la.DET Caperucita.NOUN de.ADP la.DET guata.NOUN
+*PAR:	pero no lo mata. 147789_156287
+%pos: pero.CCONJ no.ADV lo.PRON mata.VERB
+*PAR:	el lobo sigue dormido. 156287_158012
+%pos: el.DET lobo.NOUN sigue.VERB dormido.ADJ
+*PAR:	entonces, para engañarlo, le ponen piedras. 158012_162248
+%pos: entonces.ADV ,.PUNCT para.ADP engañarlo.VERB ,.PUNCT le.PRON ponen.VERB piedras.NOUN
+*PAR:	y le cierran la guata. 162248_165140
+%pos: y.CCONJ le.PRON cierran.VERB la.DET guata.NOUN
+*PAR:	yo digo guata. 165140_165769
+%pos: yo.PRON digo.VERB guata.NOUN
+*PAR:	pero es el estómago. 165769_166869
+%pos: pero.CCONJ es.AUX el.DET estómago.NOUN
+*PAR:	el lobo no sabe qué ha pasado. 166869_176776
+%pos: el.DET lobo.NOUN no.ADV sabe.VERB qué.PRON ha.AUX pasado.VERB
+*PAR:	pero está muy lleno y muy pesado. 176776_179278
+%pos: pero.CCONJ está.AUX muy.ADV lleno.ADJ y.CCONJ muy.ADV pesado.ADJ
+*PAR:	y tiene mucha sed. 179278_181027
+%pos: y.CCONJ tiene.VERB mucha.DET sed.NOUN
+*PAR:	entonces, se va al [//] (..) &-eh a tomar agua. 181027_188347
+%pos: entonces.ADV ,.PUNCT se.PRON va.VERB al.ADV a.ADP tomar.VERB agua.NOUN
+*PAR:	y se cae dentro del [/] del pozo. 188347_192712
+%pos: y.CCONJ se.PRON cae.VERB dentro.ADV del.ADP del.ADP pozo.NOUN
+*PAR:	entonces, la abuelita y Caperucita se quedan muy contentas hasta la próxima vez que Caperucita venga a visitar a su abuelita. 192712_207029
+%pos: entonces.ADV ,.PUNCT la.DET abuelita.NOUN y.CCONJ Caperucita.PROPN se.PRON quedan.VERB muy.ADV contentas.ADJ hasta.ADP la.DET próxima.ADJ vez.NOUN que.SCONJ Caperucita.PROPN venga.VERB a.ADP visitar.VERB a.ADP su.DET abuelita.NOUN
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:20:14.616239

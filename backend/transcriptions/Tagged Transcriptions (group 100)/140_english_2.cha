@@ -1,0 +1,41 @@
+@UTF8
+@Window:	0_0_0_0_0_0_911_0_911_0
+@Begin
+@Languages:	eng
+@Participants:	PAR 140 Speaker
+@ID:	eng|narratives|PAR| |male| | |Speaker| | |
+@Media:	140_english_2, audio
+*PAR:	<the girl was at her> [///] the [/] the grandma came to visit the
+	girl. 0_7542
+%pos: the.DET girl.NOUN was.VERB at.ADP her.PRON the.DET the.DET grandma.NOUN came.VERB to.PART visit.VERB the.DET girl.NOUN
+*PAR:	<RES> [e]. 7543_14442
+*PAR:	the girl left her house (..)with cookies. 14442_21167
+%pos: the.DET girl.NOUN left.ADJ her.PRON housewith.NOUN cookies.NOUN
+*PAR:	a fox started following the girl. 21167_28247
+%pos: a.DET fox.NOUN started.VERB following.VERB the.DET girl.NOUN
+*PAR:	the fox got to the grandma's house before the girl. 28247_35167
+%pos: the.DET fox.NOUN got.VERB to.ADP the.DET grandma.NOUN 's.PART house.NOUN before.ADP the.DET girl.NOUN
+*PAR:	the fox scared the grandma. 35167_41840
+%pos: the.DET fox.NOUN scared.VERB the.DET grandma.NOUN
+*PAR:	the girl (.) bought flowers and cookies. 41840_50120
+%pos: the.DET girl.NOUN bought.VERB flowers.NOUN and.CCONJ cookies.NOUN
+*PAR:	a [/] (.) a cool elementary school. 50120_58808
+%pos: a.DET a.DET cool.NOUN elementary.ADJ school.NOUN
+*PAR:	the girl thinks something was [: is][*] off with her grandma. 58808_70543
+%pos: the.DET girl.NOUN thinks.VERB something.PRON was.AUX off.ADV with.ADP her.PRON grandma.NOUN
+*PAR:	the fox scared the girl. 70543_74214
+%pos: the.DET fox.NOUN scared.VERB the.DET girl.NOUN
+*PAR:	&-uhm, the cop got there after the fox ate the grandma. 74214_88168
+%pos: ,.PUNCT the.DET cop.NOUN got.VERB there.ADV after.SCONJ the.DET fox.NOUN ate.VERB the.DET grandma.NOUN
+*PAR:	the cop cut the wolf [: wolf's][*] body and took out the grandma. 88168_99464
+%pos: the.DET cop.NOUN cut.VERB the.DET wolf.NOUN body.NOUN and.CCONJ took.VERB out.ADP the.DET grandma.NOUN
+*PAR:	they gave the fox rocks. 99464_107589
+%pos: they.PRON gave.VERB the.DET fox.NOUN rocks.NOUN
+*PAR:	they're making fun of the fox. 107589_113339
+%pos: they.PRON 're.AUX making.VERB fun.NOUN of.ADP the.DET fox.NOUN
+*PAR:	because of his belly. 113339_115339
+%pos: because.ADP of.ADP his.PRON belly.NOUN
+*PAR:	and they all went home. 115339_120341
+%pos: and.CCONJ they.PRON all.DET went.VERB home.ADV
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:34:03.851983

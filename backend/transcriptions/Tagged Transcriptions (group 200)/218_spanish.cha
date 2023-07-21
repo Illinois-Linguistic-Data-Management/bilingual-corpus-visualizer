@@ -1,0 +1,95 @@
+@UTF8
+@Window:	175_272_618_1034_-1_-1_2058_0_2058_0
+@Begin
+@Languages:	spa,eng
+@Participants:	PAR 218 Speaker
+@ID:	spa|narratives|PAR||female|||Speaker|||
+@Media:	218_spanish, audio
+*PAR:	(..) okay@s, este es el cuento de Caperucita Roja de Charles Perrault. 0_14167
+%pos: okay.INTJ ,.PUNCT este.PRON es.AUX el.DET cuento.NOUN de.ADP Caperucita.PROPN Roja.PROPN de.ADP Charles.PROPN Perrault.PROPN
+*PAR:	xxx Caperucita tenía una abuelita. 14167_21228
+%pos: xxx.PROPN Caperucita.PROPN tenía.VERB una.DET abuelita.NOUN
+*PAR:	vivía con su abuelita en su casa. 21228_23507
+%pos: vivía.VERB con.ADP su.DET abuelita.NOUN en.ADP su.DET casa.NOUN
+*PAR:	y un día ella salió de la casa de su mamá. 23507_31939
+%pos: y.CCONJ un.DET día.NOUN ella.PRON salió.VERB de.ADP la.DET casa.NOUN de.ADP su.DET mamá.NOUN
+*PAR:	y llevaba con ella una canasta. 31939_34695
+%pos: y.CCONJ llevaba.VERB con.ADP ella.PRON una.DET canasta.NOUN
+*PAR:	y tenía panes y una botella. 34695_38621
+%pos: y.CCONJ tenía.VERB panes.NOUN y.CCONJ una.DET botella.NOUN
+*PAR:	y en el camino, había un lobo que estaba muy hambriento. 38621_46321
+%pos: y.CCONJ en.ADP el.DET camino.NOUN ,.PUNCT había.VERB un.DET lobo.NOUN que.SCONJ estaba.AUX muy.ADV hambriento.ADJ
+*PAR:	y se la quería comer. 46321_47718
+%pos: y.CCONJ se.PRON la.PRON quería.VERB comer.VERB
+*PAR:	y había una persona que quería matar al lobo. 47718_51653
+%pos: y.CCONJ había.VERB una.DET persona.NOUN que.SCONJ quería.VERB matar.VERB al.ADP lobo.NOUN
+*PAR:	luego, llegando [//] <llegó a la casa> [///] Caperucita recogió unas flores para llevarlas a su abuelita. 51653_63299
+%pos: luego.ADV ,.PUNCT llegando.VERB llegó.VERB a.ADP la.DET casa.NOUN Caperucita.PROPN recogió.VERB unas.DET flores.NOUN para.ADP llevarlas.VERB a.ADP su.DET abuelita.NOUN
+*PAR:	y llegó a la casa. 63299_64522
+%pos: y.CCONJ llegó.VERB a.ADP la.DET casa.NOUN
+*PAR:	y el lobo iba detrás de ella. 64522_66537
+%pos: y.CCONJ el.DET lobo.NOUN iba.VERB detrás.ADV de.ADP ella.PRON
+*PAR:	y el lobo entró a la casa. 66537_75694
+%pos: y.CCONJ el.DET lobo.NOUN entró.VERB a.ADP la.DET casa.NOUN
+*PAR:	y se quiso comer a la abuelita. 75694_77589
+%pos: y.CCONJ se.PRON quiso.VERB comer.VERB a.ADP la.DET abuelita.NOUN
+*PAR:	<y finalme(nte)> [//] y luego llegó Caperucita. 77589_86009
+%pos: y.CCONJ finalmente.ADV y.CCONJ luego.ADV llegó.VERB Caperucita.PROPN
+*PAR:	y puso las flores que había recogido en un florero. 86009_89509
+%pos: y.CCONJ puso.VERB las.DET flores.NOUN que.SCONJ había.AUX recogido.VERB en.ADP un.DET florero.NOUN
+*PAR:	y puso un [//] el vino y el agua y luego las galletas. 89509_94525
+%pos: y.CCONJ puso.VERB un.DET el.DET vino.NOUN y.CCONJ el.DET agua.NOUN y.CCONJ luego.ADV las.DET galletas.NOUN
+*PAR:	y mientras tanto, estaba Caperucita en &-eh el lobo dentro de la cama de la abuelita. 94525_104167
+%pos: y.CCONJ mientras.ADV tanto.ADV ,.PUNCT estaba.VERB Caperucita.PROPN en.ADP el.DET lobo.NOUN dentro.ADV de.ADP la.DET cama.NOUN de.ADP la.DET abuelita.NOUN
+*PAR:	y entonces, entró Caperucita. 104167_111000
+%pos: y.CCONJ entonces.ADV ,.PUNCT entró.VERB Caperucita.PROPN
+*PAR:	y pensaba que era la abuelita la que estaba en la cama. 111000_113630
+%pos: y.CCONJ pensaba.VERB que.SCONJ era.AUX la.DET abuelita.NOUN la.PRON que.SCONJ estaba.VERB en.ADP la.DET cama.NOUN
+*PAR:	pero en realidad, era el lobo. 113630_115731
+%pos: pero.CCONJ en.ADP realidad.NOUN ,.PUNCT era.AUX el.DET lobo.NOUN
+*PAR:	&-um y luego, el lobo se salió de la cama. 115731_124864
+%pos: y.CCONJ luego.ADV ,.PUNCT el.DET lobo.NOUN se.PRON salió.VERB de.ADP la.DET cama.NOUN
+*PAR:	y quiso comerse a Caperucita también. 124864_129575
+%pos: y.CCONJ quiso.VERB comerse.VERB a.ADP Caperucita.PROPN también.ADV
+*PAR:	y Caperucita solo quería escaparse. 129575_132767
+%pos: y.CCONJ Caperucita.PROPN solo.ADV quería.VERB escaparse.VERB
+*PAR:	pero en eso, entró el leñador. 132767_135767
+%pos: pero.CCONJ en.ADP eso.PRON ,.PUNCT entró.VERB el.DET leñador.NOUN
+*PAR:	y vio que el lobo estaba en la cama. 135767_139038
+%pos: y.CCONJ vio.VERB que.SCONJ el.DET lobo.NOUN estaba.VERB en.ADP la.DET cama.NOUN
+*PAR:	y que adentro de la panza del lobo había alguien. 139038_141966
+%pos: y.CCONJ que.SCONJ adentro.ADV de.ADP la.DET panza.NOUN del.ADP lobo.NOUN había.VERB alguien.PRON
+*PAR:	y puso [//] pudo cortar el leñador <el estómago> [//] la panza del lobo. 141966_151726
+%pos: y.CCONJ puso.VERB pudo.AUX cortar.VERB el.DET leñador.VERB el.DET estómago.NOUN la.DET panza.NOUN del.ADP lobo.NOUN
+*PAR:	y de ahí salieron Caperucita y la abuela. 151726_154493
+%pos: y.CCONJ de.ADP ahí.ADV salieron.VERB Caperucita.PROPN y.CCONJ la.DET abuela.NOUN
+*PAR:	[- eng] xxx (...) did it freeze? 154493_186238
+%pos: xxx.PROPN did.VERB it.PRON freeze.VERB
+*PAR:	[- eng] xxx (...) oh, okay. 186238_236661
+%pos: xxx.ADJ oh.INTJ ,.PUNCT okay.INTJ
+*PAR:	&-um entonces salió Caperucita y la abuelita de la panza del lobo. 236661_241500
+%pos: entonces.ADV salió.VERB Caperucita.PROPN y.CCONJ la.DET abuelita.NOUN de.ADP la.DET panza.NOUN del.ADP lobo.NOUN
+*PAR:	y luego vino Caperucita con unas piedras. 241500_246795
+%pos: y.CCONJ luego.ADV vino.NOUN Caperucita.PROPN con.ADP unas.DET piedras.NOUN
+*PAR:	y quisieron meterse [//] meterlas al estómago del lobo. 246795_250522
+%pos: y.CCONJ quisieron.VERB meterse.PRON meterlas.VERB al.ADP estómago.NOUN del.ADP lobo.NOUN
+*PAR:	y la abuelita sacó su hilo y su aguja. 250522_254420
+%pos: y.CCONJ la.DET abuelita.NOUN sacó.VERB su.DET hilo.NOUN y.CCONJ su.DET aguja.NOUN
+*PAR:	(...) &-um entonces, sí, entonces, ahora sí. 254420_314420
+%pos: entonces.ADV ,.PUNCT sí.INTJ ,.PUNCT entonces.ADV ,.PUNCT ahora.ADV sí.INTJ
+*PAR:	<el lobo no podía caminar, no> [///] sí, veo que el lobo tenía las piedras dentro de su estómago. 314420_325463
+%pos: el.DET lobo.NOUN no.ADV podía.AUX caminar.VERB ,.PUNCT no.ADV sí.ADV ,.PUNCT veo.VERB que.SCONJ el.DET lobo.NOUN tenía.VERB las.DET piedras.NOUN dentro.ADV de.ADP su.DET estómago.NOUN
+*PAR:	y toda la gente se estaba riendo. 325463_328367
+%pos: y.CCONJ toda.DET la.DET gente.NOUN se.PRON estaba.AUX riendo.VERB
+*PAR:	Caperucita, el leñador y la abuelita se estaban riendo. 328367_331967
+%pos: Caperucita.PROPN ,.PUNCT el.DET leñador.NOUN y.CCONJ la.DET abuelita.NOUN se.PRON estaban.AUX riendo.VERB
+*PAR:	y el lobo se fue. 331967_337567
+%pos: y.CCONJ el.DET lobo.NOUN se.PRON fue.VERB
+*PAR:	porque estaba buscando agua de tomar. 337567_340471
+%pos: porque.SCONJ estaba.AUX buscando.VERB agua.NOUN de.ADP tomar.VERB
+*PAR:	y la abuelita se quedó en su casa. 340471_342892
+%pos: y.CCONJ la.DET abuelita.NOUN se.PRON quedó.VERB en.ADP su.DET casa.NOUN
+*PAR:	y Caperucita se fue a su casa con el leñador. 342892_345953
+%pos: y.CCONJ Caperucita.PROPN se.PRON fue.VERB a.ADP su.DET casa.NOUN con.ADP el.DET leñador.NOUN
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:20:49.747122

@@ -1,0 +1,58 @@
+@UTF8
+@Window:	0_0_0_0_0_0_1443_0_1443_0
+@Begin
+@Languages:	spa
+@Participants:	PAR 502 Speaker
+@ID:	spa|narratives|PAR||male|||Speaker|||
+@Media:	502_spanish, audio
+*PAR:	una vez, un la ni√±a que se llamaba caperucita roja se fue a visitar
+	su abuela. 0_10531
+%pos: una.DET vez.NOUN ,.PUNCT un.DET la.DET ni√.X ±.SYM a.ADP que.PRON se.PRON llamaba.VERB caperucita.NOUN roja.ADJ se.PRON fue.VERB a.ADP visitar.VERB su.DET abuela.NOUN
+*PAR:	<RES> [e]. 10531_15018
+*PAR:	se fue a su casa y le llev√≥ mucha comida.  15018_31347
+%pos: se.PRON fue.VERB a.ADP su.DET casa.NOUN y.CCONJ le.PRON llev√.VERB ≥.CCONJ mucha.ADJ comida.NOUN
+*PAR:	un lobo quer√≠a, un lobo quer√≠a comer xxx as√≠ que la xxx. 31347_53154
+%pos: un.DET lobo.NOUN quer√≠a.NOUN ,.PUNCT un.DET lobo.NOUN quer√≠a.NOUN comer.VERB xxx.X as√.ADV ≠.VERB que.SCONJ la.PRON xxx.X
+*PAR:	un lobo xxx lo dijo que (..) que se (..) que se que xxx la quer√≠a
+	flores as√≠ que caperucita roja se xxx &-mm los flores para su
+	abuela. 53154_85033
+%pos: un.DET lobo.NOUN xxx.X lo.PRON dijo.VERB que.SCONJ que.SCONJ se.PRON que.SCONJ se.PRON que.SCONJ xxx.INTJ la.PRON quer√≠a.VERB flores.NOUN as√.ADV ≠.VERB que.SCONJ caperucita.VERB roja.ADJ se.PRON xxx.VERB los.DET flores.NOUN para.ADP su.DET abuela.NOUN
+*PAR:	<RES> [e]. 85033_86192
+*PAR:	lobo, y el lobo se fue a su xxx. 86192_90151
+%pos: lobo.NOUN ,.PUNCT y.CCONJ el.DET lobo.NOUN se.PRON fue.VERB a.ADP su.DET xxx.X
+*PAR:	el lobo se fue a la casa de su abuela y la como.  90151_97234
+%pos: el.DET lobo.NOUN se.PRON fue.VERB a.ADP la.DET casa.NOUN de.ADP su.DET abuela.NOUN y.CCONJ la.DET como.CCONJ
+*PAR:	<RES> [e]. 97234_98504
+*PAR:	caperucita roja ponen los flores en un xxx y el lobo se escondi√≥ en
+	la cama y se xxx un disfraz. 98504_120700
+%pos: caperucita.NOUN roja.ADJ ponen.VERB los.DET flores.NOUN en.ADP un.DET xxx.X y.CCONJ el.DET lobo.NOUN se.PRON escondi√.VERB ≥.X en.ADP la.DET cama.NOUN y.CCONJ se.PRON xxx.X un.DET disfraz.NOUN
+*PAR:	<RES> [e]. 120700_121981
+*PAR:	caperucita roja est√° xxx y se (..) dijo que el lobo ten√≠a muchos
+	dientes y el lobo dijo y mejor para comer a ti. 121981_148361
+%pos: caperucita.NOUN roja.ADJ est√.VERB °.PUNCT xxx.X y.CCONJ se.PRON dijo.VERB que.SCONJ el.DET lobo.NOUN ten√≠a.VERB muchos.DET dientes.NOUN y.CCONJ el.DET lobo.NOUN dijo.VERB y.CCONJ mejor.ADJ para.ADP comer.VERB a.ADP ti.PRON
+*PAR:	<RES> [e]. 148361_150571
+*PAR:	y el lobo se (..) ten√≠a xxx as√≠ que el lobo xxx de la cama y lo
+	persegu√≠, lo persigue. 150571_171861
+%pos: y.CCONJ el.DET lobo.NOUN se.PRON ten√≠a.VERB xxx.X as√.ADV ≠.VERB que.SCONJ el.DET lobo.NOUN xxx.X de.ADP la.DET cama.NOUN y.CCONJ lo.PRON persegu√.VERB ≠.NOUN ,.PUNCT lo.PRON persigue.VERB
+*PAR:	<RES> [e]. 171861_172824
+*PAR:	y lo come y xxx y una xxx persona se xxx en la casa porque hab√≠a
+	mucho ruido y veo el lobo. 172826_211667
+%pos: y.CCONJ lo.PRON come.VERB y.CCONJ xxx.X y.CCONJ una.DET xxx.X persona.NOUN se.PRON xxx.X en.ADP la.DET casa.NOUN porque.SCONJ hab√≠a.VERB mucho.ADJ ruido.ADJ y.CCONJ veo.VERB el.DET lobo.NOUN
+*PAR:	<RES> [e]. 211667_213507
+*PAR:	y, y cort√≥ el lobo con tijeras y caperucita roja y su abuela se (..)
+	escaparon del lobo. 213507_230852
+%pos: y.CCONJ ,.PUNCT y.CCONJ cort√.VERB ≥.X el.DET lobo.NOUN con.ADP tijeras.NOUN y.CCONJ caperucita.NOUN roja.ADJ y.CCONJ su.DET abuela.NOUN se.PRON escaparon.VERB del.ADP lobo.NOUN
+*PAR:	<RES> [e]. 230852_232043
+*PAR:	el hombre xxx las rocas, piedras en el lobo y xxx el lobo se acos√≥
+	el lobo xxx. 232043_270048
+%pos: el.DET hombre.NOUN xxx.X las.DET rocas.NOUN ,.PUNCT piedras.NOUN en.ADP el.DET lobo.NOUN y.CCONJ xxx.X el.DET lobo.NOUN se.PRON acos√.VERB ≥.ADP el.DET lobo.NOUN xxx.X
+*PAR:	<RES> [e]. 270048_272327
+*PAR:	y el lobo xxx as√≠ que fue a xxx y todas esas rocas es muy. 272327_295311
+%pos: y.CCONJ el.DET lobo.NOUN xxx.X as√.ADV ≠.VERB que.SCONJ fue.VERB a.ADP xxx.DET y.CCONJ todas.ADJ esas.ADJ rocas.NOUN es.VERB muy.ADV
+*PAR:	en xxx el lobo se cay√≥ en, no s√© xxx, se cay√≥ y en agua. 295311_314265
+%pos: en.ADP xxx.X el.DET lobo.NOUN se.PRON cay√≥.VERB en.ADP ,.PUNCT no.ADV s√.X ©.X xxx.X ,.PUNCT se.PRON cay√≥.VERB y.CCONJ en.ADP agua.NOUN
+*PAR:	<RES> [e]. 314265_321132
+*PAR:	y todos vivieron feliz y caperucita roja regresa a su casa. 321132_328876
+%pos: y.CCONJ todos.PRON vivieron.VERB feliz.ADJ y.CCONJ caperucita.NOUN roja.ADJ regresa.VERB a.ADP su.DET casa.NOUN
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-07-19 14:19:08.972565

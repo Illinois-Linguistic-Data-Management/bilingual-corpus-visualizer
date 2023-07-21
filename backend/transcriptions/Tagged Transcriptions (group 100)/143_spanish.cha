@@ -1,0 +1,146 @@
+@UTF8
+@Window:	0_0_0_0_0_0_3720_0_3720_0
+@Begin
+@Languages:	spa,eng
+@Participants:	PAR 143 Speaker
+@ID:	spa|narratives|PAR||male|||Speaker|||
+@Media:	143_spanish,audio
+*PAR:	<RES>[e]. 0_15431
+*PAR:	capirucita [: caperucita][*] roja &-um fue a visitar su abuela. 15431_26962
+%pos: capirucita.NOUN roja.ADJ fue.VERB a.ADP visitar.VERB su.DET abuela.NOUN
+*PAR:	<listo> [e]. 26962_29588
+*PAR:	<RES>[e]. 29588_31681
+*PAR:	&-um &-um se enlisto [//] se listo para ir a visitar a su abuela. 31681_46509
+%pos: se.PRON enlisto.VERB se.PRON listo.NOUN para.ADP ir.VERB a.ADP visitar.VERB a.ADP su.DET abuela.NOUN
+*PAR:	y trajió [: trajo][*] cosas &-um para comer para ella. 46509_55681
+%pos: y.CCONJ trajió.VERB cosas.NOUN para.ADP comer.VERB para.ADP ella.PRON
+*PAR:	<listo>[e]. 55681_57650
+*PAR:	<RES>[e]. 57650_59463
+*PAR:	&-uh había un &-uh un lobo atrás &-um de ella. 59463_68432
+%pos: había.VERB un.DET un.DET lobo.NOUN atrás.ADV de.ADP ella.PRON
+*PAR:	y había un hombre atrás del lobo. 68432_74431
+%pos: y.CCONJ había.VERB un.DET hombre.NOUN atrás.ADV del.ADP lobo.NOUN
+*PAR:	y &-uh capirucita [: caperucita][*] roja esta caminado. 74431_82713
+%pos: y.CCONJ capirucita.NOUN roja.ADJ esta.AUX caminado.VERB
+*PAR:	y el lobo quería comérsela. 82713_86260
+%pos: y.CCONJ el.DET lobo.NOUN quería.VERB comérsela.VERB
+*PAR:	<listo>[e]. 86260_87525
+*PAR:	<RES>[e]. 87525_89588
+*PAR:	el lobo &-um entro a la casa de su abuela. 89588_99385
+%pos: el.DET lobo.NOUN entro.VERB a.ADP la.DET casa.NOUN de.ADP su.DET abuela.NOUN
+*PAR:	y &-uh capirucita [: caperucita][*] roja &-um es &-um casi llegaba. 99385_111385
+%pos: y.CCONJ capirucita.NOUN roja.ADJ es.AUX casi.ADV llegaba.VERB
+*PAR:	<listo>[e]. 111385_113478
+*PAR:	<RES>[e]. 113478_115557
+*PAR:	el [/] el lobo se comió a la abuela. 115557_121713
+%pos: el.DET el.DET lobo.NOUN se.PRON comió.VERB a.ADP la.DET abuela.NOUN
+*PAR:	<ok listo>[e]. 121713_127245
+*PAR:	<RES>[e]. 127245_127995
+*PAR:	el &-um lobo se vistió como la abuela. 127995_136870
+%pos: el.DET lobo.NOUN se.PRON vistió.VERB como.ADP la.DET abuela.NOUN
+*PAR:	y la &-um capirucita [: caperucita] roja &-um le trajo plantas. 136870_142527
+%pos: y.CCONJ la.DET capirucita.NOUN roja.ADJ le.PRON trajo.VERB plantas.NOUN
+*PAR:	y se lo ponió [: puso] en un vaso. 142527_147995
+%pos: y.CCONJ se.PRON lo.PRON ponió.VERB en.ADP un.DET vaso.NOUN
+*PAR:	y le trajo galletas. 147995_151292
+%pos: y.CCONJ le.PRON trajo.VERB galletas.NOUN
+*PAR:	y le trajo agua. 151292_154855
+%pos: y.CCONJ le.PRON trajo.VERB agua.NOUN
+*PAR:	<listo>[e]. 154855_156370
+*PAR:	<RES>[e]. 156370_158495
+*PAR:	&-eh &-um capirucita [: caperucita] &-um roja dice +"/. 158495_167073
+%pos: capirucita.NOUN roja.ADJ dice.VERB +"/.SYM
+*PAR:	+" por qué tienes &-uh ojos grandes. 167073_170854
+%pos: +".SYM por.ADP qué.PRON tienes.VERB ojos.NOUN grandes.ADJ
+*PAR:	<listo>[e]. 170854_172527
+*PAR:	<RES>[e]. 172527_175652
+*PAR:	&-uhm y también dice +"/. 175652_180151
+%pos: y.CCONJ también.ADV dice.VERB +"/.SYM
+*PAR:	+" por qué tienes uñas grandes. 180151_183958
+%pos: +".SYM por.ADP qué.PRON tienes.VERB uñas.NOUN grandes.ADJ
+*PAR:	<RES>[e]. 183958_185177
+*PAR:	+" y por qué tienes orejas tan grandes. 185177_190661
+%pos: +".SYM y.CCONJ por.ADP qué.PRON tienes.VERB orejas.NOUN tan.ADV grandes.ADJ
+*PAR:	+" y por qué tienes unos dientes bien (..) pontitas [: puntitas][*]. 190661_200832
+%pos: +".SYM y.CCONJ por.ADP qué.PRON tienes.VERB unos.DET dientes.NOUN bien.ADV pontitas.ADJ
+*PAR:	<RES>[e]. 200832_205888
+*PAR:	y el lobo se levantó. 205888_211888
+%pos: y.CCONJ el.DET lobo.NOUN se.PRON levantó.VERB
+*PAR:	y la capirucita [: caperucita] roja &-um se asustó. 211888_218763
+%pos: y.CCONJ la.DET capirucita.NOUN roja.ADJ se.PRON asustó.VERB
+*PAR:	y trato de correr. 218763_221763
+%pos: y.CCONJ trato.VERB de.ADP correr.VERB
+*PAR:	y el lobo trato de comérsela. 221763_225607
+%pos: y.CCONJ el.DET lobo.NOUN trato.VERB de.ADP comérsela.VERB
+*PAR:	<RES>[e]. 225607_227935
+*PAR:	y &-um y el lobo se la comió. 227935_235217
+%pos: y.CCONJ y.CCONJ el.DET lobo.NOUN se.PRON la.PRON comió.VERB
+*PAR:	y el [//] un hombre. 235217_237591
+%pos: y.CCONJ el.DET un.DET hombre.NOUN
+*PAR:	y un perro entraron a la casa. 237591_242482
+%pos: y.CCONJ un.DET perro.NOUN entraron.VERB a.ADP la.DET casa.NOUN
+*PAR:	y el hombre vio el lobo. 242482_245216
+%pos: y.CCONJ el.DET hombre.NOUN vio.VERB el.DET lobo.NOUN
+*PAR:	y tenía una pistola. 245216_247138
+%pos: y.CCONJ tenía.VERB una.DET pistola.NOUN
+*PAR:	y el lobo estaba (a)costado. 247138_249966
+%pos: y.CCONJ el.DET lobo.NOUN estaba.AUX acostado.VERB
+*PAR:	y tenía la panza llena. 249966_251873
+%pos: y.CCONJ tenía.VERB la.DET panza.NOUN llena.ADJ
+*PAR:	<RES>[e]. 251873_257530
+*PAR:	&-um el hombre cortó la panza de la [//] del lobo. 257530_265170
+%pos: el.DET hombre.NOUN cortó.VERB la.DET panza.NOUN de.ADP la.PRON del.ADP lobo.NOUN
+*PAR:	y [/] y &-um y el [: la][*] capirucita [: caperucita][*] roja. 265170_273419
+%pos: y.CCONJ y.CCONJ y.CCONJ el.DET capirucita.NOUN roja.ADJ
+*PAR:	y la abuela &-um salieron de la panza de la [//] del &-um del lobo. 273419_280294
+%pos: y.CCONJ la.DET abuela.NOUN salieron.VERB de.ADP la.DET panza.NOUN de.ADP la.PRON del.ADP del.ADP lobo.NOUN
+*PAR:	y estaban libres. 280294_282998
+%pos: y.CCONJ estaban.AUX libres.ADJ
+*PAR:	y el hombre tenía tijeras &-um (..) para cortarle al lobo. 282998_290951
+%pos: y.CCONJ el.DET hombre.NOUN tenía.VERB tijeras.NOUN para.ADP cortarle.VERB al.ADP lobo.NOUN
+*PAR:	<RES>[e]. 290951_293750
+*PAR:	(.) &-um capirucita [: caperucita][*] roja. 293750_300078
+%pos: capirucita.NOUN roja.ADJ
+*PAR:	y &-um el perro &-um trajeron rocas. 300078_305440
+%pos: y.CCONJ el.DET perro.NOUN trajeron.VERB rocas.NOUN
+*PAR:	y se lo ponieron [: pusieron][*] en la panza. 305440_308674
+%pos: y.CCONJ se.PRON lo.PRON ponieron.VERB en.ADP la.DET panza.NOUN
+*PAR:	y a la abuela tenía &-um como &-um. 308674_317252
+%pos: y.CCONJ a.ADP la.DET abuela.NOUN tenía.VERB como.CCONJ
+*PAR:	<como se llaman las cosas esas la>[e]. 317252_322271
+*PAR:	<RES>[e]. 322271_324771
+*PAR:	<&-uhm>[e]. 324771_325521
+*PAR:	y la abuela tenía una aguja <pa(ra) que> [/] para que (..)
+	ponga (.) su panza &-um &-um pa(ra) que ponga su panza juntos
+	[: junta][*]. 325521_351615
+%pos: y.CCONJ la.DET abuela.NOUN tenía.VERB una.DET aguja.NOUN para.ADP que.SCONJ para.ADP que.SCONJ ponga.VERB su.DET panza.NOUN para.ADP que.SCONJ ponga.VERB su.DET panza.NOUN juntos.ADJ
+*PAR:	<RES>[e]. 351615_355601
+*PAR:	y el lobo &-um &-um fue. 355601_364977
+%pos: y.CCONJ el.DET lobo.NOUN fue.AUX
+*PAR:	y se metió en el agua. 364977_368071
+%pos: y.CCONJ se.PRON metió.VERB en.ADP el.DET agua.NOUN
+*PAR:	y es &-um y &-um &-uh y [/] y &-um y ponió [: puso][*] &-um una
+	cara de sonrisa. 368071_385492
+%pos: y.CCONJ es.VERB y.CCONJ y.CCONJ y.CCONJ y.CCONJ ponió.VERB una.DET cara.NOUN de.ADP sonrisa.NOUN
+*PAR:	y el [: la][*] abuela. 385492_387118
+%pos: y.CCONJ el.DET abuela.NOUN
+*PAR:	y el señor. 387118_387992
+%pos: y.CCONJ el.DET señor.NOUN
+*PAR:	y la capirucita [: caperucita][*] roja se estaban riendo. 387992_392993
+%pos: y.CCONJ la.DET capirucita.NOUN roja.ADJ se.PRON estaban.AUX riendo.VERB
+*PAR:	porque el lobo estaba caliente. 392993_395933
+%pos: porque.SCONJ el.DET lobo.NOUN estaba.AUX caliente.ADJ
+*PAR:	<listo>[e]. 395933_398011
+*PAR:	<RES>[e]. 398011_400441
+*PAR:	&-um la abuela. 400441_404144
+%pos: la.DET abuela.NOUN
+*PAR:	y los animales. 404144_407675
+%pos: y.CCONJ los.DET animales.NOUN
+*PAR:	y capiturucita [: caperucita][*] roja. 407675_412143
+%pos: y.CCONJ capiturucita.NOUN roja.ADJ
+*PAR:	y el señor &-um se &-um se despidieron &-um. 412143_423144
+%pos: y.CCONJ el.DET señor.NOUN se.PRON se.PRON despidieron.VERB
+*PAR:	y se fueron a sus casas. 423144_426472
+%pos: y.CCONJ se.PRON fueron.VERB a.ADP sus.DET casas.NOUN
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:33:05.809852

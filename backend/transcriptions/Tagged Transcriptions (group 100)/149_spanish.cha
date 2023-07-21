@@ -1,0 +1,74 @@
+@UTF8
+@Window:	0_0_0_0_0_0_1906_0_1906_0
+@Begin
+@Languages:	spa,eng
+@Participants:	PAR 149 Speaker
+@ID:	spa|narratives|PAR||female|||Speaker|||
+@Media:	149_spanish,audio
+*PAR:	la chiquita esta saludando a la abuela. 232563_238282
+%pos: la.DET chiquita.NOUN esta.AUX saludando.VERB a.ADP la.DET abuela.NOUN
+*PAR:	y la abuela es muy feliz. 238282_243069
+%pos: y.CCONJ la.DET abuela.NOUN es.AUX muy.ADV feliz.ADJ
+*PAR:	<RES>[e]. 243069_248536
+*PAR:	<&-ah siguimos>[e]. 248536_254190
+*PAR:	&-ah la chiquita tiene un [///] esta cargando algo. 254190_270467
+%pos: la.DET chiquita.NOUN tiene.VERB un.DET esta.PRON cargando.VERB algo.PRON
+*PAR:	y esta haciendo adios a un otro persona. 270467_278127
+%pos: y.CCONJ esta.AUX haciendo.VERB adios.ADV a.ADP un.DET otro.DET persona.NOUN
+*PAR:	<RES>[e]. 278127_285834
+*PAR:	la chiquita esta caminando. 285834_293366
+%pos: la.DET chiquita.NOUN esta.AUX caminando.VERB
+*PAR:	y ve [: vio][*] a un mal animal. 293366_297420
+%pos: y.CCONJ ve.VERB a.ADP un.DET mal.ADJ animal.NOUN
+*PAR:	<proximo> [e]. 297420_304700
+*PAR:	la [: el][*] animal quiere entrar a la casa. 304700_312539
+%pos: la.DET animal.NOUN quiere.VERB entrar.VERB a.ADP la.DET casa.NOUN
+*PAR:	(..) la [: el][*] animal esta agarrando a la abuela. 312539_328757
+%pos: la.DET animal.NOUN esta.AUX agarrando.VERB a.ADP la.DET abuela.NOUN
+*PAR:	la abuela esta asustada. 328757_331305
+%pos: la.DET abuela.NOUN esta.AUX asustada.ADJ
+*PAR:	(..) la chiquita esta poniendo flores en un vaso. 331305_346777
+%pos: la.DET chiquita.NOUN esta.AUX poniendo.VERB flores.NOUN en.ADP un.DET vaso.NOUN
+*PAR:	y la [: el][*] animal esta en la cama. 346777_350150
+%pos: y.CCONJ la.DET animal.NOUN esta.VERB en.ADP la.DET cama.NOUN
+*PAR:	<proximo>[e]. 350150_354211
+*PAR:	(..) la [: el] animal esta esconlado [: escondido][*] en la cama. 354211_364656
+%pos: la.DET animal.NOUN esta.AUX esconlado.VERB en.ADP la.DET cama.NOUN
+*PAR:	y la chiquita esta hablando. 364656_368109
+%pos: y.CCONJ la.DET chiquita.NOUN esta.AUX hablando.VERB
+*PAR:	<proximo>[e]. 368109_371172
+*PAR:	(.) la [: el][*] animal esta corriendo a la chiquita. 371172_384750
+%pos: la.DET animal.NOUN esta.AUX corriendo.VERB a.ADP la.DET chiquita.NOUN
+*PAR:	y la chiquita esta asustada. 384750_388797
+%pos: y.CCONJ la.DET chiquita.NOUN esta.AUX asustada.VERB
+*PAR:	<proximo>[e]. 388797_392452
+*PAR:	(..) y la [: el][*] animal comío mucho. 392452_405859
+%pos: y.CCONJ la.DET animal.NOUN comío.VERB mucho.ADV
+*PAR:	y aea [: ahí][*] entra un muchacho con un perro. 405859_412522
+%pos: y.CCONJ aea.ADV entra.VERB un.DET muchacho.NOUN con.ADP un.DET perro.NOUN
+*PAR:	<proximo>[e]. 412522_415768
+*PAR:	la chiquita, la abuela. 415768_426025
+%pos: la.DET chiquita.NOUN ,.PUNCT la.DET abuela.NOUN
+*PAR:	y la muchacha [: muchacho][*] esta feliz. 426025_427866
+%pos: y.CCONJ la.DET muchacha.NOUN esta.AUX feliz.ADJ
+*PAR:	y la muchacho [: muchacho][*] tiene tijeras. 427866_430320
+%pos: y.CCONJ la.DET muchacho.NOUN tiene.VERB tijeras.NOUN
+*PAR:	y la [: el][*] animal esta dormiendo. 430203_433625
+%pos: y.CCONJ la.DET animal.NOUN esta.AUX dormiendo.VERB
+*PAR:	<proximo>[e]. 433625_435345
+*PAR:	<RES>[e]. 435345_437126
+*PAR:	(..) la chiquita esta agarrando [/] agarrando bolas. 437126_449219
+%pos: la.DET chiquita.NOUN esta.AUX agarrando.VERB agarrando.VERB bolas.NOUN
+*PAR:	y la muchacha esta poniendo en la boca de la [: el][*] animal. 449219_454844
+%pos: y.CCONJ la.DET muchacha.NOUN esta.AUX poniendo.VERB en.ADP la.DET boca.NOUN de.ADP la.DET animal.NOUN
+*PAR:	<proximo>[e]. 454844_456142
+*PAR:	(..) la chiquita, abuela, la muchacha [: muchacho][*] esta viendo al
+	animal que esta corriendo. 456142_475411
+%pos: la.DET chiquita.NOUN ,.PUNCT abuela.NOUN ,.PUNCT la.DET muchacha.NOUN esta.AUX viendo.VERB al.DET animal.NOUN que.SCONJ esta.AUX corriendo.VERB
+*PAR:	<proximo>[e]. 475411_477662
+*PAR:	la abuela dice [: dijo][*] adiós a la chiquita, muchacho. 477662_489013
+%pos: la.DET abuela.NOUN dice.VERB adiós.ADV a.ADP la.DET chiquita.NOUN ,.PUNCT muchacho.NOUN
+*PAR:	y la perra. 489013_490590
+%pos: y.CCONJ la.DET perra.NOUN
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:32:45.378949

@@ -1,0 +1,76 @@
+@UTF8
+@Window:	0_0_0_0_557_0_2074_0_2074_0
+@Begin
+@Languages:	spa,eng
+@Participants:	PAR 509 Speaker
+@ID:	spa|narratives|PAR||female|||Speaker|||
+@Media:	509_spanish,audio
+*PAR:	la niña (.) &-uh is@s (.) &-um (...) &-uh . 0_21714
+%pos: la.DET niña.NOUN is.AUX
+*PAR:	<RES> [e] . 21714_32745
+*PAR:	&-uh la niña is@s &-um walking@s (.) out@s (.) of@s &-um el
+	[: la][*] casa . 32745_47556
+%pos: la.DET niña.NOUN is.AUX walking.VERB out.ADP of.ADP el.DET casa.NOUN
+*PAR:	y (.) la abuela (.) están [: está][*] (.) waving@s goodbye@s . 47556_64040
+%pos: y.CCONJ la.DET abuela.NOUN están.AUX waving.VERB goodbye.ADV
+*PAR:	<RES> [e] . 64040_72796
+*PAR:	la niña están [: está][*] &-um walking@s . 72796_79020
+%pos: la.DET niña.NOUN están.AUX walking.VERB
+*PAR:	y su mamá es [: está][*] waving@s (.) goodbye@s . 79020_85588
+%pos: y.CCONJ su.DET mamá.NOUN es.AUX waving.VERB goodbye.ADV
+*PAR:	<RES> [e] . 85588_90759
+*PAR:	&-uh la niña es [: está][*] en el bosque . 90759_96524
+%pos: la.DET niña.NOUN es.VERB en.ADP el.DET bosque.NOUN
+*PAR:	y &-um there's@s a@s wolf@s (.) trying@s to@s attack@s her@s . 96524_107194
+%pos: y.CCONJ there.ADV 's.VERB a.DET wolf.NOUN trying.VERB to.PART attack.VERB her.PRON
+*PAR:	<RES> [e] . 107194_120375
+*PAR:	la [: el][*] (.) &-um (.) wolf@s (.) is@s walking@s (.) a su (.)
+	casa . 120375_138790
+%pos: la.DET wolf.NOUN is.AUX walking.VERB a.ADP su.DET casa.NOUN
+*PAR:	<RES> [e] . 138790_142196
+*PAR:	<yeah@s [/] yeah@s, siguiente> [e] . 142196_150285
+*PAR:	la [: el][*] [/] (.) la [: el][*] wolf@s (.) &-um es [: está][*]
+	trying to@s eat@s (.) la abuela . 150285_166360
+%pos: la.DET la.DET wolf.NOUN es.AUX trying.VERB to.PART eat.VERB la.DET abuela.NOUN
+*PAR:	&-uh la niña es putting@s flores en un glass@s . 166360_182747
+%pos: la.DET niña.NOUN es.AUX putting.VERB flores.NOUN en.ADP un.DET glass.NOUN
+*PAR:	y el &-um wolf@s (.) is@s staring@s at@s her@s . 182747_188992
+%pos: y.CCONJ el.DET wolf.NOUN is.AUX staring.VERB at.ADP her.PRON
+*PAR:	<&-uh siguiente> [e] . 188992_194492
+*PAR:	<RES> [e] . 194492_197213
+*PAR:	&-uh la niña es (.) asking@s the@s wolf@s questions@s . 197213_206082
+%pos: la.DET niña.NOUN es.AUX asking.VERB the.DET wolf.NOUN questions.NOUN
+*PAR:	y el wolf@s es (.) kind@s of@s hiding@s . 206082_214965
+%pos: y.CCONJ el.DET wolf.NOUN es.AUX kind.ADJ of.SCONJ hiding.VERB
+*PAR:	&-uh la niña es (.) running@s away@s . 214965_226817
+%pos: la.DET niña.NOUN es.AUX running.VERB away.ADV
+*PAR:	y el wolf@s is@s (.) jumping@s up@s to@s attack@s her@s . 226817_234572
+%pos: y.CCONJ el.DET wolf.NOUN is.AUX jumping.VERB up.ADV to.ADP attack.VERB her.PRON
+*PAR:	<RES> [e] . 234572_239316
+*PAR:	&-uh (.) el wolf@s (.) comer la niña . 239316_249782
+%pos: el.DET wolf.NOUN comer.VERB la.DET niña.NOUN
+*PAR:	y es (.) xxx . 249782_255576
+%pos: y.CCONJ es.AUX xxx.X
+*PAR:	y un hunter@s y su perro came@s into@s the@s house@s to@s hunt@s
+	the@s wolf@s (.) xxx . 255576_269791
+%pos: y.CCONJ un.DET hunter.NOUN y.CCONJ su.DET perro.NOUN came.VERB into.ADP the.DET house.NOUN to.PART hunt.VERB the.DET wolf.NOUN xxx.PROPN
+*PAR:	&-um (.) <la> [///] &-um el hunter@s &-uh cut@s the@s wolf's@s
+	stomach@s open@s y freed@s la nina y su abuela . 269791_288306
+%pos: la.DET el.DET hunter.NOUN cut.VERB the.DET wolf.NOUN 's.PART stomach.NOUN open.ADJ y.CCONJ freed.VERB la.DET nina.NOUN y.CCONJ su.DET abuela.NOUN
+*PAR:	<RES> [e] . 288306_290212
+*PAR:	&-uh (.) &-um <el> [///] la [/] &-uh la niña y el hunter@s are@s
+	filling@s the@s wolf's@s stomach@s up@s with@s rocas . 290212_308465
+%pos: el.DET la.DET la.DET niña.NOUN y.CCONJ el.DET hunter.NOUN are.AUX filling.VERB the.DET wolf.NOUN 's.PART stomach.NOUN up.ADV with.ADP rocas.NOUN
+*PAR:	<siguiente> [e] . 308465_313190
+*PAR:	y (.) &-uh <la> [///] el wolf@s is@s I@s guess@s struggling@s to@s
+	walk@s . 313190_329940
+%pos: y.CCONJ la.DET el.DET wolf.NOUN is.AUX I.PRON guess.VERB struggling.VERB to.ADP walk.VERB
+*PAR:	y <lo> [///] la niña, su abuela, the@s hunter@s, y su perro están
+	laughing@s . 329940_343485
+%pos: y.CCONJ lo.PRON la.DET niña.NOUN ,.PUNCT su.DET abuela.NOUN ,.PUNCT the.DET hunter.NOUN ,.PUNCT y.CCONJ su.DET perro.NOUN están.AUX laughing.VERB
+*PAR:	&-um su abuela están [: está][*] waving@s goodbye@s . 343485_357280
+%pos: su.DET abuela.NOUN están.AUX waving.VERB goodbye.ADV
+*PAR:	y el hunter@s, la niña, y su perro están walking@s away@s . 357280_365891
+%pos: y.CCONJ el.DET hunter.NOUN ,.PUNCT la.DET niña.NOUN ,.PUNCT y.CCONJ su.DET perro.NOUN están.AUX walking.VERB away.ADV
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:30:50.434691

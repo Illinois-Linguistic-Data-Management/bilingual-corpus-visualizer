@@ -1,0 +1,81 @@
+@UTF8
+@Window:	0_0_0_0_0_0_1544_1_1544_1
+@Begin
+@Languages:	eng
+@Participants:	PAR 501 Speaker
+@ID:	eng|narratives|PAR||female|||Speaker|||
+@Media:	501_english, audio
+*PAR:	Li(ttle) [/] Little Red Riding Hood's mom found out. 0_10351
+%pos: Little.ADJ Little.ADJ Red.ADJ Riding.PROPN Hood.PROPN 's.PART mom.NOUN found.VERB out.ADP
+*PAR:	that the grandma was sick. 10351_12771
+%pos: that.SCONJ the.DET grandma.NOUN was.AUX sick.ADJ
+*PAR:	so indeed she told Little Red Riding Hood to give her some cookies. 12771_19987
+%pos: so.ADV indeed.ADV she.PRON told.VERB Little.ADJ Red.ADJ Riding.PROPN Hood.PROPN to.PART give.VERB her.PRON some.DET cookies.NOUN
+*PAR:	as Litttle red Riding Hood walked. 19987_29167
+%pos: as.SCONJ Litttle.PROPN red.ADJ Riding.PROPN Hood.PROPN walked.VERB
+*PAR:	<her mom her> [//] Little Red Riding Hood's mom (.) said bye (.) to
+	the [/] the little girl. 29167_40588
+%pos: her.ADJ mom.NOUN her.PRON Little.ADJ Red.PROPN Riding.PROPN Hood.PROPN 's.PART mom.NOUN said.VERB bye.NOUN to.ADP the.DET the.DET little.ADJ girl.NOUN
+*PAR:	<while sh(e)> [/] while she kept walking in the same direction. 40588_45288
+%pos: while.SCONJ she.PRON while.SCONJ she.PRON kept.VERB walking.VERB in.ADP the.DET same.ADJ direction.NOUN
+*PAR:	then she (.) met the wolf. 45288_56894
+%pos: then.ADV she.PRON met.VERB the.DET wolf.NOUN
+*PAR:	she told the wolf indeed. 56894_58275
+%pos: she.PRON told.VERB the.DET wolf.NOUN indeed.ADV
+*PAR:	that she was just going to see her grandma at
+	[/] at the end of the path. 58275_63135
+%pos: that.SCONJ she.PRON was.AUX just.ADV going.VERB to.PART see.VERB her.PRON grandma.NOUN at.ADP at.ADP the.DET end.NOUN of.ADP the.DET path.NOUN
+*PAR:	while Little Red Riding Hood was picking flowers. 63135_74210
+%pos: while.SCONJ Little.ADJ Red.ADJ Riding.PROPN Hood.PROPN was.AUX picking.VERB flowers.NOUN
+*PAR:	to give to her grandma. 74210_75425
+%pos: to.PART give.VERB to.ADP her.PRON grandma.NOUN
+*PAR:	the wolf went to the grandma's house. 75425_78000
+%pos: the.DET wolf.NOUN went.VERB to.ADP the.DET grandma.NOUN 's.PART house.NOUN
+*PAR:	and ate the grandma. 78000_79836
+%pos: and.CCONJ ate.VERB the.DET grandma.NOUN
+*PAR:	yup he ate the grandma. 79836_89056
+%pos: yup.INTJ he.PRON ate.VERB the.DET grandma.NOUN
+*PAR:	while the little girl was serving the wolf. 89056_98117
+%pos: while.SCONJ the.DET little.ADJ girl.NOUN was.AUX serving.VERB the.DET wolf.NOUN
+*PAR:	who she thought was the grandma. 98117_100261
+%pos: who.DET she.PRON thought.VERB was.AUX the.DET grandma.NOUN
+*PAR:	the wolf  in(deed) [/] indeed looked hungry. 100261_107572
+%pos: the.DET wolf.NOUN indeed.ADV indeed.ADV looked.VERB hungry.ADJ
+*PAR:	the little girl asked +"/. 107572_116253
+%pos: the.DET little.ADJ girl.NOUN asked.VERB +"/.SYM
+*PAR:	+" <why are your nails> [///] why are your arms so long? 116253_119783
+%pos: +".PUNCT why.ADV are.AUX your.PRON nails.NOUN why.ADV are.AUX your.PRON arms.NOUN so.ADV long.ADV
+*PAR:	+" to hug you. 119783_121925
+%pos: +".SYM to.PART hug.VERB you.PRON
+*PAR:	the [/] (.) the wolf responded +". 121925_128825
+%pos: the.DET the.DET wolf.NOUN responded.VERB +".PUNCT
+*PAR:	+" why are your ears so tall? 128825_131531
+%pos: +".PUNCT why.ADV are.AUX your.PRON ears.NOUN so.ADV tall.ADJ
+*PAR:	+" to hear you. 131531_133176
+%pos: +".SYM to.PART hear.VERB you.PRON
+*PAR:	the [/] the wolf responded +". 133176_135811
+%pos: the.DET the.DET wolf.NOUN responded.VERB +".PUNCT
+*PAR:	+" why is your mouth so big ? 135811_138852
+%pos: +".PUNCT why.ADV is.AUX your.PRON mouth.NOUN so.ADV big.ADJ
+*PAR:	+" to eat you +". 138852_141177
+%pos: +".PUNCT to.PART eat.VERB you.PRON +".PUNCT
+*PAR:	<yummy yummy> [//] then the wolf started saying. 141177_152517
+%pos: yummy.NOUN yummy.NOUN then.ADV the.DET wolf.NOUN started.VERB saying.VERB
+*PAR:	yummy yummy i'm going to eat the child. 152517_155798
+%pos: yummy.NOUN yummy.NOUN i.PRON 'm.AUX going.VERB to.PART eat.VERB the.DET child.NOUN
+*PAR:	while [/] (.) while [/] (.) while the woodcutter found out. 155798_170659
+%pos: while.SCONJ while.SCONJ while.SCONJ the.DET woodcutter.NOUN found.VERB out.ADP
+*PAR:	that the wolf ate the (.) kid and her grandma. 170659_174309
+%pos: that.CCONJ the.DET wolf.NOUN ate.VERB the.DET kid.NOUN and.CCONJ her.PRON grandma.NOUN
+*PAR:	he went inside. 174309_176639
+%pos: he.PRON went.VERB inside.ADV
+*PAR:	and cut open (.) his stomache. 176639_181790
+%pos: and.CCONJ cut.VERB open.ADJ his.PRON stomache.NOUN
+*PAR:	then he got out the grandma and the child. 181790_194041
+%pos: then.ADV he.PRON got.VERB out.ADV the.DET grandma.NOUN and.CCONJ the.DET child.NOUN
+*PAR:	he stuffed the wolf's stomache with rocks. 194041_204411
+%pos: he.PRON stuffed.VERB the.DET wolf.NOUN 's.PART stomache.NOUN with.ADP rocks.NOUN
+*PAR:	and they lived happily ever after. 204411_217671
+%pos: and.CCONJ they.PRON lived.VERB happily.ADV ever.ADV after.ADV
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:22:32.990335

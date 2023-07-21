@@ -1,0 +1,94 @@
+@UTF8
+@Window:	56_563_668_752_-1_-1_83_0_83_0
+@Begin
+@Languages:	spa,eng
+@Participants:	PAR 717 Speaker
+@ID:	spa|narratives|PAR||male|||Speaker|||
+@Media:	717,audio
+*PAR:	<RES> [e]. 0_4741
+*PAR:	Caperucita Roja era una niña alegre que la distinguía su capa roja. 4741_16548
+%pos: Caperucita.PROPN Roja.PROPN era.AUX una.DET niña.NOUN alegre.ADJ que.SCONJ la.PRON distinguía.VERB su.DET capa.NOUN roja.ADJ
+*PAR:	y tenía como amigos a varios pájaros y animales del bosque. 16548_24821
+%pos: y.CCONJ tenía.VERB como.ADP amigos.NOUN a.ADP varios.DET pájaros.NOUN y.CCONJ animales.NOUN del.ADP bosque.NOUN
+*PAR:	Caperucita Roja tenía una abuela que igual estaba muy alegre. 24821_33186
+%pos: Caperucita.PROPN Roja.PROPN tenía.VERB una.DET abuela.NOUN que.SCONJ igual.ADJ estaba.AUX muy.ADV alegre.ADJ
+*PAR:	le gustaba bailar. 33186_35427
+%pos: le.PRON gustaba.VERB bailar.VERB
+*PAR:	pero sobre todo, cocinaba. 35427_38797
+%pos: pero.CCONJ sobre.ADP todo.PRON ,.PUNCT cocinaba.VERB
+*PAR:	y preparaba postres. 38797_40664
+%pos: y.CCONJ preparaba.VERB postres.NOUN
+*PAR:	una mañana, Caperucita decidió salir para visitar a su abuela. 40664_53556
+%pos: una.DET mañana.NOUN ,.PUNCT Caperucita.PROPN decidió.VERB salir.VERB para.ADP visitar.VERB a.ADP su.DET abuela.NOUN
+*PAR:	su madre le otorgó una canasta en la cual llevaba uvas, vino y pan para el camino. 53556_61756
+%pos: su.DET madre.NOUN le.PRON otorgó.VERB una.DET canasta.NOUN en.ADP la.DET cual.PRON llevaba.VERB uvas.NOUN ,.PUNCT vino.NOUN y.CCONJ pan.NOUN para.ADP el.DET camino.NOUN
+*PAR:	al entrar en el bosque, se topó con que había un lobo, que aparentó intentar asustarla. 61756_74418
+%pos: al.ADP entrar.VERB en.ADP el.DET bosque.NOUN ,.PUNCT se.PRON topó.VERB con.ADP que.SCONJ había.VERB un.DET lobo.NOUN ,.PUNCT que.SCONJ aparentó.VERB intentar.VERB asustarla.VERB
+*PAR:	pero también había un cazador que parecía algo obsesionado con el lobo. 74418_82636
+%pos: pero.CCONJ también.ADV había.VERB un.DET cazador.NOUN que.SCONJ parecía.VERB algo.PRON obsesionado.VERB con.ADP el.DET lobo.NOUN
+*PAR:	Caperucita continuaba. 82636_85292
+%pos: Caperucita.PROPN continuaba.VERB
+*PAR:	el lobo llegó antes que Caperucita a la casa. 85292_94423
+%pos: el.DET lobo.NOUN llegó.VERB antes.ADV que.CCONJ Caperucita.PROPN a.ADP la.DET casa.NOUN
+*PAR:	tenía un plan. 94423_97632
+%pos: tenía.VERB un.DET plan.NOUN
+*PAR:	durante el camino, Caperucita se entretuvo recogiendo unas flores para la visita de su abuela. 97632_106723
+%pos: durante.ADP el.DET camino.NOUN ,.PUNCT Caperucita.PROPN se.PRON entretuvo.VERB recogiendo.VERB unas.DET flores.NOUN para.ADP la.DET visita.NOUN de.ADP su.DET abuela.NOUN
+*PAR:	el lobo entró a la casa de su abuela. 106723_114416
+%pos: el.DET lobo.NOUN entró.VERB a.ADP la.DET casa.NOUN de.ADP su.DET abuela.NOUN
+*PAR:	y tuvo la gran idea de atacarla y abalanzarse sobre ella antes de que apareciera Caperucita. 114416_126518
+%pos: y.CCONJ tuvo.VERB la.DET gran.ADJ idea.NOUN de.ADP atacarla.VERB y.CCONJ abalanzarse.VERB sobre.ADP ella.PRON antes.ADV de.ADP que.SCONJ apareciera.VERB Caperucita.PROPN
+*PAR:	Caperucita una vez que llegó, puso las plantas que recogió en el camino en un jarrón. 126518_138871
+%pos: Caperucita.VERB una.DET vez.NOUN que.SCONJ llegó.VERB ,.PUNCT puso.VERB las.DET plantas.NOUN que.SCONJ recogió.VERB en.ADP el.DET camino.NOUN en.ADP un.DET jarrón.NOUN
+*PAR:	sirvió un poco del vino que llevaba junto con unas galletas. 138871_145709
+%pos: sirvió.VERB un.DET poco.PRON del.ADP vino.NOUN que.SCONJ llevaba.VERB junto.ADJ con.ADP unas.DET galletas.NOUN
+*PAR:	Caperucita se acercó a la abuela algo sorprendida, pues la notaba diferente. 145709_157587
+%pos: Caperucita.PROPN se.PRON acercó.VERB a.ADP la.DET abuela.NOUN algo.PRON sorprendida.ADJ ,.PUNCT pues.SCONJ la.PRON notaba.VERB diferente.ADJ
+*PAR:	su aspecto físico le llamaba mucho la atención. 157587_162057
+%pos: su.DET aspecto.NOUN físico.ADJ le.PRON llamaba.VERB mucho.ADV la.DET atención.NOUN
+*PAR:	entonces, de pronto, salta la supuesta abuela que resultó ser el lobo. 162057_173107
+%pos: entonces.ADV ,.PUNCT de.ADP pronto.ADV ,.PUNCT salta.VERB la.DET supuesta.ADJ abuela.NOUN que.SCONJ resultó.VERB ser.AUX el.DET lobo.NOUN
+*PAR:	Caperucita muy espantada, tirando el lobo todo, el mueble donde tenía las flores y una vela. 173107_182820
+%pos: Caperucita.NOUN muy.ADV espantada.ADJ ,.PUNCT tirando.VERB el.DET lobo.NOUN todo.PRON ,.PUNCT el.DET mueble.NOUN donde.ADV tenía.VERB las.DET flores.NOUN y.CCONJ una.DET vela.NOUN
+*PAR:	en eso, llegó un cazador acompañado de su perro. 182820_194219
+%pos: en.ADP eso.PRON ,.PUNCT llegó.VERB un.DET cazador.NOUN acompañado.VERB de.ADP su.DET perro.NOUN
+*PAR:	escucharon ruido. 194219_198398
+%pos: escucharon.VERB ruido.NOUN
+*PAR:	y decidieron investigar. 198398_200360
+%pos: y.CCONJ decidieron.VERB investigar.VERB
+*PAR:	entran a la casa. 200360_202195
+%pos: entran.VERB a.ADP la.DET casa.NOUN
+*PAR:	y ven que hay un desorden y un lobo que se ve muy satisfecho con la panza muy llena. 202195_210441
+%pos: y.CCONJ ven.VERB que.SCONJ hay.VERB un.DET desorden.NOUN y.CCONJ un.DET lobo.NOUN que.SCONJ se.PRON ve.VERB muy.ADV satisfecho.ADJ con.ADP la.DET panza.NOUN muy.ADV llena.ADJ
+*PAR:	entonces, están algo felices. 210441_222865
+%pos: entonces.ADV ,.PUNCT están.AUX algo.PRON felices.ADJ
+*PAR:	porque llegó el cazador que los apoyó con el lobo. 222865_227589
+%pos: porque.SCONJ llegó.VERB el.DET cazador.NOUN que.SCONJ los.PRON apoyó.VERB con.ADP el.DET lobo.NOUN
+*PAR:	y utilizó unas tijeras para apoyar a salir a Caperucita y a la abuela. 227589_236764
+%pos: y.CCONJ utilizó.VERB unas.DET tijeras.NOUN para.ADP apoyar.VERB a.ADP salir.VERB a.ADP Caperucita.PROPN y.CCONJ a.ADP la.DET abuela.NOUN
+*PAR:	en eso, se les ocurrió la idea de llenar al lobo pero de piedras y coserlo. 236764_251903
+%pos: en.ADP eso.PRON ,.PUNCT se.PRON les.PRON ocurrió.VERB la.DET idea.NOUN de.ADP llenar.VERB al.ADP lobo.NOUN pero.CCONJ de.ADP piedras.NOUN y.CCONJ coserlo.VERB
+*PAR:	una vez hecho eso, el lobo se fue aparentemente satisfecho. 251903_263261
+%pos: una.DET vez.NOUN hecho.VERB eso.PRON ,.PUNCT el.DET lobo.NOUN se.PRON fue.AUX aparentemente.ADV satisfecho.ADJ
+*PAR:	pero no conocía lo que cargaba en su interior. 263261_266323
+%pos: pero.CCONJ no.ADV conocía.VERB lo.PRON que.SCONJ cargaba.VERB en.ADP su.DET interior.NOUN
+*PAR:	fue en busca de agua. 266323_269792
+%pos: fue.VERB en.ADP busca.NOUN de.ADP agua.NOUN
+*PAR:	porque estaba sediento. 269792_270724
+%pos: porque.CCONJ estaba.VERB sediento.NOUN
+*PAR:	y resbaló. 270724_273696
+%pos: y.CCONJ resbaló.VERB
+*PAR:	y cayó. 273696_274604
+%pos: y.CCONJ cayó.VERB
+*PAR:	y Caperucita, el cazador y la abuela estaban carcajeando. 274604_279179
+%pos: y.CCONJ Caperucita.PROPN ,.PUNCT el.DET cazador.NOUN y.CCONJ la.DET abuela.NOUN estaban.AUX carcajeando.VERB
+*PAR:	al final, se fueron felices. 279179_287455
+%pos: al.ADP final.NOUN ,.PUNCT se.PRON fueron.AUX felices.ADJ
+*PAR:	la abuela estaba contenta con la visita. 287455_289246
+%pos: la.DET abuela.NOUN estaba.AUX contenta.ADJ con.ADP la.DET visita.NOUN
+*PAR:	Caperucita vio a su abuela. 289246_293201
+%pos: Caperucita.PROPN vio.VERB a.ADP su.DET abuela.NOUN
+*PAR:	y se despidió en compañía del cazador. 293201_297066
+%pos: y.CCONJ se.PRON despidió.VERB en.ADP compañía.NOUN del.ADP cazador.NOUN
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:16:48.491171

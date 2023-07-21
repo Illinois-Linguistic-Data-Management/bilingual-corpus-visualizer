@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- (c) http://www.rrz.uni-hamburg.de/exmaralda -->
+<basic-transcription>
+	<head>
+		<meta-information>
+			<project-name/>
+			<transcription-name/>
+			<referenced-file url="125_english.m4a"/>
+			<ud-meta-information>
+				<ud-information attribute-name="CHAT:@Window">0_0_0_0_472_0_1177_0_1177_0</ud-information>
+				<ud-information attribute-name="CHAT:@Languages">eng</ud-information>
+				<ud-information attribute-name="CHAT:@Media">125_english,audio</ud-information>
+			</ud-meta-information>
+			<comment/>
+			<transcription-convention/>
+		</meta-information>
+		<speakertable>
+			<speaker id="PAR">
+				<abbreviation>PAR</abbreviation>
+				<sex value="m"/>
+				<languages-used/>
+				<l1/>
+				<l2/>
+				<ud-speaker-information>
+					<ud-information attribute-name="CHAT:Name">PAR</ud-information>
+					<ud-information attribute-name="CHAT:Full Name">125</ud-information>
+					<ud-information attribute-name="CHAT:Role">Speaker</ud-information>
+					<ud-information attribute-name="CHAT:ID">eng|narratives|PAR||male|||Speaker|||</ud-information>
+				</ud-speaker-information>
+				<comment/>
+			</speaker>
+		</speakertable>
+	</head>
+	<basic-body>
+		<common-timeline>
+			<tli id="T0" time="0.0"/>
+			<tli id="T1" time="3.571"/>
+			<tli id="T2" time="13.7"/>
+			<tli id="T3" time="23.11"/>
+			<tli id="T4" time="30.621"/>
+			<tli id="T5" time="37.051"/>
+			<tli id="T6" time="42.999"/>
+			<tli id="T7" time="45.718"/>
+			<tli id="T8" time="50.718"/>
+			<tli id="T9" time="54.969"/>
+			<tli id="T10" time="56.409"/>
+			<tli id="T11" time="58.397"/>
+			<tli id="T12" time="60.61"/>
+			<tli id="T13" time="68.594"/>
+			<tli id="T14" time="70.815"/>
+			<tli id="T15" time="73.667"/>
+			<tli id="T16" time="77.097"/>
+			<tli id="T17" time="84.007"/>
+			<tli id="T18" time="85.094"/>
+			<tli id="T19" time="86.958"/>
+			<tli id="T20" time="98.025"/>
+			<tli id="T21" time="102.919"/>
+			<tli id="T22" time="111.479"/>
+			<tli id="T23" time="114.429"/>
+			<tli id="T24" time="119.915"/>
+			<tli id="T25" time="122.009"/>
+			<tli id="T26" time="127.819"/>
+			<tli id="T27" time="129.63"/>
+			<tli id="T28" time="132.528"/>
+		</common-timeline>
+		<tier id="TIE2" speaker="PAR" category="main" type="t" display-name="PAR [main]">
+			<event start="T0" end="T1">&lt;RES&gt; [e].</event>
+			<event start="T1" end="T2">Little Red Riding Hood was in a house with her grandma.</event>
+			<event start="T2" end="T3">she left the house with a basket of food.</event>
+			<event start="T3" end="T4">she was attacked by a wolf in the woods.</event>
+			<event start="T4" end="T5">the wolf found a house.</event>
+			<event start="T5" end="T6">the wolf entered her grandma&apos;s house.</event>
+			<event start="T6" end="T7">and ate her grandma.</event>
+			<event start="T7" end="T8">Little Red Riding Hood arranged flowers.</event>
+			<event start="T8" end="T9">and put the food out for her grandma.</event>
+			<event start="T9" end="T10">but she did not know.</event>
+			<event start="T10" end="T11">that the wolf ate the grandma.</event>
+			<event start="T11" end="T12">and was going to eat her.</event>
+			<event start="T12" end="T13">Little Red Riding Hood went up to the wolf .</event>
+			<event start="T13" end="T14">and was asking questions.</event>
+			<event start="T14" end="T15">because she thought it was her grandma.</event>
+			<event start="T15" end="T16">The wolf attacked Little Red Riding Hood.</event>
+			<event start="T16" end="T17">a hunter and his dog entered the grandma&apos;s house.</event>
+			<event start="T17" end="T18">and saw the wolf.</event>
+			<event start="T18" end="T19">who had eaten both of them.</event>
+			<event start="T19" end="T20">&lt;the (.) hunter cuts open the wolf and Little Red Riding Hood&gt;  [//] the hunter cut open the wolf.</event>
+			<event start="T20" end="T21">and Little Red Riding Hood left with her grandma.</event>
+			<event start="T21" end="T22">they filled the wolf&apos;s stomache with rocks.</event>
+			<event start="T22" end="T23">and stiched it together.</event>
+			<event start="T23" end="T24">the wolf walked around with rocks in his stomache.</event>
+			<event start="T24" end="T25">and they laughed at him.</event>
+			<event start="T25" end="T26">they all left the grandma&apos;s house.</event>
+			<event start="T26" end="T27">and they said goodbye.</event>
+			<event start="T27" end="T28">the end.</event>
+		</tier>
+	</basic-body>
+</basic-transcription>

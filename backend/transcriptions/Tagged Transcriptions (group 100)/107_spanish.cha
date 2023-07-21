@@ -1,0 +1,89 @@
+@UTF8
+@Window:	113_243_668_1071_-1_-1_3061_0_3061_0
+@Begin
+@Languages:	spa,eng
+@Participants:	PAR 107 Speaker
+@ID:	spa|narratives|PAR||male|||Speaker|||
+@Media:	107_spanish,audio
+*PAR:	<RES> [e]. 0_30930
+*PAR:	okay@s. 30930_32755
+%pos: okay.INTJ
+*PAR:	<RES> [e]. 32755_36734
+*PAR:	[- eng] <so we just have to tell you about the story of this girl> [e]? 36734_44074
+*PAR:	<RES> [e]. 44074_55180
+*PAR:	<RES> [e]. 55180_66720
+*PAR:	[- eng] <one second> [e]. 66720_72245
+*PAR:	okay@s. 72245_80519
+%pos: okay.INTJ
+*PAR:	<una chica que> [/] una chica que tenía pelo rubio y [/] y tenía un abuela buena. 80519_97974
+%pos: una.DET chica.NOUN que.PRON una.DET chica.NOUN que.SCONJ tenía.VERB pelo.VERB rubio.NOUN y.CCONJ y.CCONJ tenía.VERB un.DET abuela.NOUN buena.ADJ
+*PAR:	[- eng] <wait, how do I describe this> [e]? 97974_102023
+*PAR:	un chica que tengo pelo rubio y un suéter rojo. 102023_111077
+%pos: un.DET chica.NOUN que.SCONJ tengo.VERB pelo.VERB rubio.ADJ y.CCONJ un.DET suéter.NOUN rojo.ADJ
+*PAR:	[- eng] <<do I have to like> [///] how much do I describe of it> [e]? 111077_119863
+*PAR:	<RES> [e]. 119863_126199
+*PAR:	okay@s. 126199_127540
+%pos: okay.INTJ
+*PAR:	(..) ella sale de la casa. 127540_141119
+%pos: ella.PRON sale.VERB de.ADP la.DET casa.NOUN
+*PAR:	y su abuela dar comida. 141119_151980
+%pos: y.CCONJ su.DET abuela.NOUN dar.VERB comida.NOUN
+*PAR:	yeah@s. 151980_153313
+%pos: yeah.ADV
+*PAR:	cuando ella caminar <de la> [/] (.) de la forest@s. 153313_175255
+%pos: cuando.SCONJ ella.PRON caminar.VERB de.ADP la.PRON de.ADP la.DET forest.NOUN
+*PAR:	[- eng] <I don't know the word for forest> [e]. 175255_176755
+*PAR:	cuando ella caminar de la forest@s un [/] un (.). 176755_188604
+%pos: cuando.CCONJ ella.PRON caminar.VERB de.ADP la.DET forest.NOUN un.DET un.DET
+*PAR:	[- eng] <I'm trying to think of the word for this> [e]. 188604_193163
+*PAR:	I'm@s just@s gonna@s [: going to] say@s un perro. 193163_198924
+%pos: I.PRON 'm.AUX just.ADV gonna.VERB say.VERB un.DET perro.NOUN
+*PAR:	[- eng] <yeah, that's it> [e]. 198924_204717
+*PAR:	<cuando ella está> [//] cuando ella. 204717_221441
+%pos: cuando.CCONJ ella.PRON está.VERB cuando.SCONJ ella.PRON
+*PAR:	[- eng] <let me think of how to describe this> [e]. 221441_226227
+*PAR:	cuando ella colectar las flores, el perro entra de la casa. 226227_236745
+%pos: cuando.SCONJ ella.PRON colectar.VERB las.DET flores.NOUN ,.PUNCT el.DET perro.NOUN entra.VERB de.ADP la.DET casa.NOUN
+*PAR:	<la perro> [//] el perro miraba el abuela. 236745_250851
+%pos: la.DET perro.NOUN el.DET perro.NOUN miraba.VERB el.DET abuela.NOUN
+*PAR:	y matar (..) ella? 250851_257520
+%pos: y.CCONJ matar.VERB ella.PRON
+*PAR:	(...) y cuando ella dice que no quieres más flores, entra de la casa. 257520_282598
+%pos: y.CCONJ cuando.SCONJ ella.PRON dice.VERB que.SCONJ no.ADV quieres.VERB más.ADV flores.NOUN ,.PUNCT entra.VERB de.ADP la.DET casa.NOUN
+*PAR:	y poner en un vaso. 282598_284598
+%pos: y.CCONJ poner.VERB en.ADP un.DET vaso.NOUN
+*PAR:	&-hm cuando el chica que tengo un [//] el suéter rojo abrir de la cama, miraba que el abuela tengo el piel negro. 284598_314177
+%pos: cuando.SCONJ el.DET chica.NOUN que.SCONJ tengo.VERB un.DET el.DET suéter.NOUN rojo.ADJ abrir.VERB de.ADP la.DET cama.NOUN ,.PUNCT miraba.VERB que.SCONJ el.DET abuela.NOUN tengo.VERB el.DET piel.NOUN negro.ADJ
+*PAR:	y cuando abrir el cama, un malo perro (...). 314177_345397
+%pos: y.CCONJ cuando.SCONJ abrir.VERB el.DET cama.NOUN ,.PUNCT un.DET malo.ADJ perro.NOUN
+*PAR:	[- eng] <yeah, that's it> [e]. 345397_346897
+*PAR:	[- eng] <I'm sorry> [e]. 346897_347397
+*PAR:	<RES> [e]. 347397_352676
+*PAR:	cuando [/] cuando el perro comer el chica con el suéter rojo, un persona miraba que todo de la casa es malo. 352676_372676
+%pos: cuando.SCONJ cuando.SCONJ el.DET perro.NOUN comer.VERB el.DET chica.NOUN con.ADP el.DET suéter.NOUN rojo.ADJ ,.PUNCT un.DET persona.NOUN miraba.VERB que.SCONJ todo.PRON de.ADP la.DET casa.NOUN es.AUX malo.ADJ
+*PAR:	y abrir la puerta con su perro. 372676_376374
+%pos: y.CCONJ abrir.VERB la.DET puerta.NOUN con.ADP su.DET perro.NOUN
+*PAR:	<RES> [e]. 376374_383632
+*PAR:	<en el final> [/] en el final, la persona que miraba toro [//] todo de la casa (.), &-hm ma(tar) [//] matar el perro. 383632_403632
+%pos: en.ADP el.DET final.NOUN en.ADP el.DET final.NOUN ,.PUNCT la.DET persona.NOUN que.SCONJ miraba.VERB toro.ADP todo.PRON de.ADP la.DET casa.NOUN ,.PUNCT matar.VERB matar.VERB el.DET perro.NOUN
+*PAR:	y poner [/] (..) poner. 403632_418262
+%pos: y.CCONJ poner.VERB poner.VERB
+*PAR:	[- eng] <I don't know how to say rocks> [e]. 418262_423262
+*PAR:	put@s rocks@s en el estómago <de la> [//] del perro. 423262_429632
+%pos: put.VERB rocks.NOUN en.ADP el.DET estómago.NOUN de.ADP la.PRON del.ADP perro.NOUN
+*PAR:	y cuando el. 429632_441692
+%pos: y.CCONJ cuando.SCONJ el.DET
+*PAR:	[- eng] <I think I know the word for wolf now> [e]. 441692_445692
+*PAR:	&-hm cuando el lobo salir de la casa, <ello tengo> [//] ello tenía rocks@s en el estómago. 445692_463234
+%pos: cuando.SCONJ el.DET lobo.NOUN salir.VERB de.ADP la.DET casa.NOUN ,.PUNCT ello.PRON tengo.VERB ello.PRON tenía.VERB rocks.NOUN en.ADP el.DET estómago.NOUN
+*PAR:	y es difícil para caminar. 463234_467329
+%pos: y.CCONJ es.AUX difícil.ADJ para.ADP caminar.VERB
+*PAR:	<RES> [e]. 467329_470814
+*PAR:	y en el final, el abuela decir adiós. 470814_485014
+%pos: y.CCONJ en.ADP el.DET final.NOUN ,.PUNCT el.DET abuela.NOUN decir.VERB adiós.ADV
+*PAR:	y el chica con el suéter rojo salir. 485014_493832
+%pos: y.CCONJ el.DET chica.NOUN con.ADP el.DET suéter.NOUN rojo.ADJ salir.VERB
+*PAR:	y caminar con el persona que mata a los animales y con el perro. 493832_499732
+%pos: y.CCONJ caminar.VERB con.ADP el.DET persona.NOUN que.SCONJ mata.VERB a.ADP los.DET animales.NOUN y.CCONJ con.ADP el.DET perro.NOUN
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:31:26.083012

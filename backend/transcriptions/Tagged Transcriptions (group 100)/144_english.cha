@@ -1,0 +1,87 @@
+@UTF8
+@Window:	128_532_768_685_-1_-1_2836_0_2836_0
+@Begin
+@Languages:	eng
+@Participants:	PAR 144 Speaker
+@ID:	eng|narratives|PAR||female|||Speaker|||
+@Media:	144_english, audio
+*PAR:	the little girl went to go visit her (.) grandma (.). 0_4358
+%pos: the.DET little.ADJ girl.NOUN went.VERB to.PART go.VERB visit.VERB her.PRON grandma.NOUN
+*PAR:	and she was dancing for her (..). 4358_7071
+%pos: and.CCONJ she.PRON was.AUX dancing.VERB for.ADP her.PRON
+*PAR:	<next (...)> [e]. 7071_11391
+*PAR:	the little girl (.) went [//] was ready to go (..) visit her grandma (..). 11391_17656
+%pos: the.DET little.ADJ girl.NOUN went.VERB was.AUX ready.ADJ to.PART go.VERB visit.VERB her.PRON grandma.NOUN
+*PAR:	she said goodbye (.) to her mother (..). 17656_21180
+%pos: she.PRON said.VERB goodbye.NOUN to.ADP her.PRON mother.NOUN
+*PAR:	and off she went (...). 21180_25111
+%pos: and.CCONJ off.ADV she.PRON went.VERB
+*PAR:	<next (...)> [e]. 25111_29819
+*PAR:	when she was walking, she found herself a big bad wolf (...). 29819_36240
+%pos: when.ADV she.PRON was.AUX walking.VERB ,.PUNCT she.PRON found.VERB herself.PRON a.DET big.ADJ bad.ADJ wolf.NOUN
+*PAR:	the wolf was trying to eat her (...) while she was walking. 36240_42460
+%pos: the.DET wolf.NOUN was.AUX trying.VERB to.PART eat.VERB her.PRON while.SCONJ she.PRON was.AUX walking.VERB
+*PAR:	<next (...)> [e]. 42460_48481
+*PAR:	the little girl in red cap (..) picked up some flowers (..) to give to her grandmother (...). 48481_57539
+%pos: the.DET little.ADJ girl.NOUN in.ADP red.ADJ cap.NOUN picked.VERB up.ADP some.DET flowers.NOUN to.PART give.VERB to.ADP her.PRON grandmother.NOUN
+*PAR:	meanwhile, when the wolf was (..) going alone, he found himself the house of (.) her grandma (..). 57539_65618
+%pos: meanwhile.ADV ,.PUNCT when.ADV the.DET wolf.NOUN was.AUX going.VERB alone.ADJ ,.PUNCT he.PRON found.VERB himself.PRON the.DET house.NOUN of.ADP her.PRON grandma.NOUN
+*PAR:	he went inside. 65618_66688
+%pos: he.PRON went.VERB inside.ADV
+*PAR:	and something horrible had happened (..). 66688_69040
+%pos: and.CCONJ something.PRON horrible.ADJ had.AUX happened.VERB
+*PAR:	<next (..)> [e]. 69040_69916
+*PAR:	<RES> [e]. 69916_73840
+*PAR:	the big bad wolf (..) ate (.) her (.) grandmother (...). 73840_80341
+%pos: the.DET big.ADJ bad.ADJ wolf.NOUN ate.VERB her.PRON grandmother.NOUN
+*PAR:	<next (...)> [e]. 80341_85370
+*PAR:	when (..) the little girl (.) came back into her grandmother's house, she put the cookies in a plate and the roses (.) in a vase (...). 85370_97106
+%pos: when.ADV the.DET little.ADJ girl.NOUN came.VERB back.ADV into.ADP her.PRON grandmother.NOUN 's.PART house.NOUN ,.PUNCT she.PRON put.VERB the.DET cookies.NOUN in.ADP a.DET plate.NOUN and.CCONJ the.DET roses.NOUN in.ADP a.DET vase.NOUN
+*PAR:	<next (...)> [e]. 97106_101961
+*PAR:	the little girl noticed her grandma was a little bit off (.). 101961_105176
+%pos: the.DET little.ADJ girl.NOUN noticed.VERB her.PRON grandma.NOUN was.AUX a.DET little.ADJ bit.NOUN off.ADV
+*PAR:	but she xxx [//] (.) didn't understand what happen [: happened][*] (..). 105176_108000
+%pos: but.CCONJ she.PRON xxx.PROPN did.AUX n't.PART understand.VERB what.PRON happen.VERB
+*PAR:	and the wolf was trying to hide (..). 108000_110327
+%pos: and.CCONJ the.DET wolf.NOUN was.AUX trying.VERB to.PART hide.VERB
+*PAR:	<next (...)> [e]. 110327_114987
+*PAR:	the wolf came out. 114987_116520
+%pos: the.DET wolf.NOUN came.VERB out.ADV
+*PAR:	and surprised her (..). 116520_118532
+%pos: and.CCONJ surprised.VERB her.PRON
+*PAR:	the girl was running for her life (...). 118532_122059
+%pos: the.DET girl.NOUN was.AUX running.VERB for.ADP her.PRON life.NOUN
+*PAR:	<next (...)> [e]. 122059_127376
+*PAR:	when <the (.) help> [//] when the (.) man came (..). 127376_131888
+%pos: when.ADV the.DET help.NOUN when.ADV the.DET man.NOUN came.VERB
+*PAR:	and heard the little girl screaming (..). 131888_134584
+%pos: and.CCONJ heard.VERB the.DET little.ADJ girl.NOUN screaming.VERB
+*PAR:	he found the wolf who had ate her gra(ndma) (..) the grandma and (.) the (.) girl. 134584_142002
+%pos: he.PRON found.VERB the.DET wolf.NOUN who.PRON had.VERB ate.VERB her.PRON grandma.NOUN the.DET grandma.NOUN and.CCONJ the.DET girl.NOUN
+*PAR:	<next (...)> [e]. 142002_148288
+*PAR:	the man helped out (..) the little girl and the grandma out of (..) the wolf's (...) stomach (...). 148288_156672
+%pos: the.DET man.NOUN helped.VERB out.ADP the.DET little.ADJ girl.NOUN and.CCONJ the.DET grandma.NOUN out.ADP of.ADP the.DET wolf.NOUN 's.PART stomach.NOUN
+*PAR:	meanwhile, while the wolf was still sleeping. 156672_159061
+%pos: meanwhile.ADV ,.PUNCT while.SCONJ the.DET wolf.NOUN was.AUX still.ADV sleeping.VERB
+*PAR:	<next (..)> [e]. 159061_160353
+*PAR:	<RES> [e]. 160353_165024
+*PAR:	the little girl helped get some rocks (..) to put inside (.) the big bad wood [//] wolf's belly (..). 165024_172537
+%pos: the.DET little.ADJ girl.NOUN helped.VERB get.VERB some.DET rocks.NOUN to.PART put.VERB inside.ADP the.DET big.ADJ bad.ADJ wood.NOUN wolf.NOUN 's.PART belly.NOUN
+*PAR:	<next (...)> [e]. 172537_177615
+*PAR:	the big bad wolf (..) felt so (.) weird. 177615_182365
+%pos: the.DET big.ADJ bad.ADJ wolf.NOUN felt.VERB so.ADV weird.ADJ
+*PAR:	and he went near a well. 182365_184026
+%pos: and.CCONJ he.PRON went.VERB near.ADP a.DET well.ADV
+*PAR:	and fell inside (...). 184026_186737
+%pos: and.CCONJ fell.VERB inside.ADV
+*PAR:	the man, the grandma, and the little girl were laughing off (..). 186737_191057
+%pos: the.DET man.NOUN ,.PUNCT the.DET grandma.NOUN ,.PUNCT and.CCONJ the.DET little.ADJ girl.NOUN were.AUX laughing.VERB off.ADV
+*PAR:	<next (...)> [e]. 191057_196336
+*PAR:	the little girl and the man said goodbye to the grandma (.). 196336_200308
+%pos: the.DET little.ADJ girl.NOUN and.CCONJ the.DET man.NOUN said.VERB goodbye.NOUN to.ADP the.DET grandma.NOUN
+*PAR:	(be)cause they were going back home (..). 200308_202495
+%pos: because.SCONJ they.PRON were.AUX going.VERB back.ADV home.ADV
+*PAR:	<next (...)> [e]. 202495_204858
+*PAR:	<RES> [e]. 204858_209000
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:36:31.935954

@@ -1,0 +1,60 @@
+@UTF8
+@Window:	123_558_668_792_-1_-1_1642_0_1642_0
+@Begin
+@Languages:	spa,eng
+@Participants:	PAR 621 Speaker
+@ID:	spa|narratives|PAR||male|||Speaker|||
+@Media:	621_spa,audio
+*PAR:	<RES> [e]. 0_3932
+*PAR:	Caperucita Roja tenía una capa roja. 3932_9867
+%pos: Caperucita.PROPN Roja.PROPN tenía.VERB una.DET capa.NOUN roja.ADJ
+*PAR:	&-eh su abuela y ella le gustaba cocinar pasteles. 9867_15323
+%pos: su.DET abuela.NOUN y.CCONJ ella.PRON le.PRON gustaba.VERB cocinar.VERB pasteles.NOUN
+*PAR:	un día, le llevó xxx su mamá xxx quería que le llevara vino, uvas, galletas a la abuela que vivía en el bosque. 15323_27516
+%pos: un.DET día.NOUN ,.PUNCT le.PRON llevó.VERB xxx.X su.DET mamá.NOUN xxx.X quería.VERB que.SCONJ le.PRON llevara.VERB vino.NOUN ,.PUNCT uvas.NOUN ,.PUNCT galletas.NOUN a.ADP la.DET abuela.NOUN que.SCONJ vivía.VERB en.ADP el.DET bosque.NOUN
+*PAR:	el lobo se la quería comer. 27516_30100
+%pos: el.DET lobo.NOUN se.PRON la.PRON quería.VERB comer.VERB
+*PAR:	pero como estaba el leñador, Cape(rucita) [//] el lobo llegó primero pa(ra) comerse a la abue(la) [//] pa(ra) comerse a la abuela xxx antes que Caperucita. 30100_49300 
+%pos: pero.CCONJ como.ADV estaba.VERB el.DET leñador.NOUN ,.PUNCT Caperucita.PROPN el.DET lobo.NOUN llegó.VERB primero.ADV para.ADP comerse.VERB a.ADP la.DET abuela.NOUN para.ADP comerse.VERB a.ADP la.DET abuela.NOUN xxx.X antes.ADV que.CCONJ Caperucita.PROPN
+*PAR:	y el lobo se comió a la abuela. 49300_53231
+%pos: y.CCONJ el.DET lobo.NOUN se.PRON comió.VERB a.ADP la.DET abuela.NOUN
+*PAR:	<y después se> [/] y después se puso su ropa. 53231_57220
+%pos: y.CCONJ después.ADV se.PRON y.CCONJ después.ADV se.PRON puso.VERB su.DET ropa.NOUN
+*PAR:	<y le> [/] y le puso flores y galletas y vino. 57220_66353
+%pos: y.CCONJ le.PRON y.CCONJ le.PRON puso.VERB flores.NOUN y.CCONJ galletas.NOUN y.CCONJ vino.NOUN
+*PAR:	y Caperucita Roja la quería destapar. 66353_73435
+%pos: y.CCONJ Caperucita.PROPN Roja.PROPN la.PRON quería.VERB destapar.VERB
+*PAR:	pero no se dejaba. 73435_75566
+%pos: pero.CCONJ no.ADV se.PRON dejaba.VERB
+*PAR:	el lobo vino. 75566_80712
+%pos: el.DET lobo.NOUN vino.NOUN
+*PAR:	se la quería comer. 80712_82206
+%pos: se.PRON la.PRON quería.VERB comer.VERB
+*PAR:	corrió Caperucita Roja. 82206_88033
+%pos: corrió.VERB Caperucita.PROPN Roja.PROPN
+*PAR:	vino un señor. 88033_97657
+%pos: vino.NOUN un.DET señor.NOUN
+*PAR:	y lo quería matar. 97657_100287
+%pos: y.CCONJ lo.PRON quería.VERB matar.VERB
+*PAR:	lo vio xxx gordo. 100287_104114
+%pos: lo.PRON vio.VERB xxx.X gordo.NOUN
+*PAR:	y cortó al lobo. 104114_108272
+%pos: y.CCONJ cortó.VERB al.ADP lobo.NOUN
+*PAR:	y sacó a la abuela y [/] y a Caperucita Roja. 108272_111840
+%pos: y.CCONJ sacó.VERB a.ADP la.DET abuela.NOUN y.CCONJ y.CCONJ a.ADP Caperucita.PROPN Roja.PROPN
+*PAR:	y se quedó flaco. 111840_115367
+%pos: y.CCONJ se.PRON quedó.VERB flaco.ADJ
+*PAR:	<y ya se> [//] y que le metieron rocas (.) en la panza. 115367_123545
+%pos: y.CCONJ ya.ADV se.PRON y.CCONJ que.SCONJ le.PRON metieron.VERB rocas.NOUN en.ADP la.DET panza.NOUN
+*PAR:	<y le> [/] y le iban a costurar con una aguja. 123545_128839
+%pos: y.CCONJ le.PRON y.CCONJ le.PRON iban.VERB a.ADP costurar.VERB con.ADP una.DET aguja.NOUN
+*PAR:	<y se> [//] y todos se estaban riendo. 128839_136617
+%pos: y.CCONJ se.PRON y.CCONJ todos.PRON se.PRON estaban.AUX riendo.VERB
+*PAR:	tenían sed. 136617_139546
+%pos: tenían.VERB sed.ADV
+*PAR:	y se cayó al pozo. 139546_143096
+%pos: y.CCONJ se.PRON cayó.VERB al.ADP pozo.NOUN
+*PAR:	y después la abuela y Caperucita Roja le [/] le dijo adiós. 143096_149604
+%pos: y.CCONJ después.ADV la.DET abuela.NOUN y.CCONJ Caperucita.PROPN Roja.PROPN le.PRON le.PRON dijo.VERB adiós.ADV
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:19:54.111414

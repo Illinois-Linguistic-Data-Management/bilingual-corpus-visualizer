@@ -1,0 +1,66 @@
+@UTF8
+@Window:	111_807_668_613_-1_-1_133_0_133_0
+@Begin
+@Languages:	spa
+@Participants:	PAR 608 Speaker
+@ID:	spa|BILinMID|PAR||female|||Speaker|||
+@Media:	608_spa,audio
+*PAR:	<RES> [e]. 0_3859
+*PAR:	Caperucita Roja vivía en el bosque. 3859_9428
+%pos: Caperucita.PROPN Roja.PROPN vivía.VERB en.ADP el.DET bosque.NOUN
+*PAR:	Caperucita vi(vía) [/] vivía con su abuelita. 9428_15903
+%pos: Caperucita.PROPN vivía.VERB vivía.VERB con.ADP su.DET abuelita.NOUN
+*PAR:	y a su abuelita le gustaba mucho cocinar pasteles. 15903_19864
+%pos: y.CCONJ a.ADP su.DET abuelita.NOUN le.PRON gustaba.VERB mucho.PRON cocinar.VERB pasteles.NOUN
+*PAR:	un día, Caperucita fue a visitar a su abuelita. 19864_25666
+%pos: un.DET día.NOUN ,.PUNCT Caperucita.PROPN fue.VERB a.ADP visitar.VERB a.ADP su.DET abuelita.NOUN
+*PAR:	y le llevó comida. 25666_27288
+%pos: y.CCONJ le.PRON llevó.VERB comida.NOUN
+*PAR:	Caperucita iba en el bosque. 27288_32217
+%pos: Caperucita.PROPN iba.VERB en.ADP el.DET bosque.NOUN
+*PAR:	pero el lobo la seguía. 32217_33607
+%pos: pero.CCONJ el.DET lobo.NOUN la.PRON seguía.VERB
+*PAR:	y había un leñador que lo vio. 33607_36375
+%pos: y.CCONJ había.VERB un.DET leñador.NOUN que.SCONJ lo.PRON vio.VERB
+*PAR:	Caperucita se quedó a recoger flores para su abuelita. 36375_42088
+%pos: Caperucita.PROPN se.PRON quedó.VERB a.ADP recoger.VERB flores.NOUN para.ADP su.DET abuelita.NOUN
+*PAR:	y el lobo fue [//] se adelantó a su casa. 42088_45692
+%pos: y.CCONJ el.DET lobo.NOUN fue.AUX se.PRON adelantó.VERB a.ADP su.DET casa.NOUN
+*PAR:	<el lobo lle(gó)> [/] el lobo llegó. 45692_48661
+%pos: el.DET lobo.NOUN llegó.VERB el.DET lobo.NOUN llegó.VERB
+*PAR:	y te(nía) [//] quería comerse a la abuelita de Caperucita. 48661_54467
+%pos: y.CCONJ tenía.VERB quería.VERB comerse.VERB a.ADP la.DET abuelita.NOUN de.ADP Caperucita.PROPN
+*PAR:	se la comió. 54467_57471
+%pos: se.PRON la.PRON comió.VERB
+*PAR:	se visitó de ella. 57471_61003
+%pos: se.PRON visitó.VERB de.ADP ella.PRON
+*PAR:	y se acostó en la cama. 61003_63282
+%pos: y.CCONJ se.PRON acostó.VERB en.ADP la.DET cama.NOUN
+*PAR:	llegó Caperucita. 63282_64429
+%pos: llegó.VERB Caperucita.PROPN
+*PAR:	y puso las flores en el florero. 64429_66441
+%pos: y.CCONJ puso.VERB las.DET flores.NOUN en.ADP el.DET florero.NOUN
+*PAR:	Caperucita se dio cuenta de que algo andaba mal con su abuelita. 66441_73706
+%pos: Caperucita.PROPN se.PRON dio.VERB cuenta.NOUN de.ADP que.SCONJ algo.PRON andaba.VERB mal.ADV con.ADP su.DET abuelita.NOUN
+*PAR:	y entonces el lobo salió de la cama. 73706_77707
+%pos: y.CCONJ entonces.ADV el.DET lobo.NOUN salió.VERB de.ADP la.DET cama.NOUN
+*PAR:	y empezó a perseguirla. 77707_80746
+%pos: y.CCONJ empezó.VERB a.ADP perseguirla.VERB
+*PAR:	después de que se la comió, llegó un cazador que quería matar al lobo. 80746_88128
+%pos: después.ADV de.ADP que.SCONJ se.PRON la.PRON comió.VERB ,.PUNCT llegó.VERB un.DET cazador.NOUN que.SCONJ quería.VERB matar.VERB al.ADP lobo.NOUN
+*PAR:	lo mató. 88128_91426
+%pos: lo.PRON mató.VERB
+*PAR:	y logró sacar a Caperucita y a la abuelita de su panza. 91426_95315
+%pos: y.CCONJ logró.VERB sacar.VERB a.ADP Caperucita.PROPN y.CCONJ a.ADP la.DET abuelita.NOUN de.ADP su.DET panza.NOUN
+*PAR:	luego, metieron piedras. 95315_101564
+%pos: luego.ADV ,.PUNCT metieron.VERB piedras.NOUN
+*PAR:	y luego lo acosturaron. 101564_106575
+%pos: y.CCONJ luego.ADV lo.PRON acosturaron.VERB
+*PAR:	cuando el lobo se levantó, sintió muy pesada su panza. 106575_113252
+%pos: cuando.SCONJ el.DET lobo.NOUN se.PRON levantó.VERB ,.PUNCT sintió.VERB muy.ADV pesada.ADJ su.DET panza.NOUN
+*PAR:	y luego Caperucita se fue con el leñador a su casa. 113252_120266
+%pos: y.CCONJ luego.ADV Caperucita.PROPN se.PRON fue.VERB con.ADP el.DET leñador.NOUN a.ADP su.DET casa.NOUN
+*PAR:	fin. 120266_121207
+%pos: fin.NOUN
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:19:12.329562

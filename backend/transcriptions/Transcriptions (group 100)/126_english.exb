@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- (c) http://www.rrz.uni-hamburg.de/exmaralda -->
+<basic-transcription>
+	<head>
+		<meta-information>
+			<project-name/>
+			<transcription-name/>
+			<referenced-file url="126_english.m4a"/>
+			<ud-meta-information>
+				<ud-information attribute-name="CHAT:@Window">0_0_0_0_4361_1_5480_0_5480_0</ud-information>
+				<ud-information attribute-name="CHAT:@Languages">eng</ud-information>
+				<ud-information attribute-name="CHAT:@Media">126_english,audio</ud-information>
+			</ud-meta-information>
+			<comment/>
+			<transcription-convention/>
+		</meta-information>
+		<speakertable>
+			<speaker id="PAR">
+				<abbreviation>PAR</abbreviation>
+				<sex value="m"/>
+				<languages-used/>
+				<l1/>
+				<l2/>
+				<ud-speaker-information>
+					<ud-information attribute-name="CHAT:Name">PAR</ud-information>
+					<ud-information attribute-name="CHAT:Full Name">126</ud-information>
+					<ud-information attribute-name="CHAT:Role">Speaker</ud-information>
+					<ud-information attribute-name="CHAT:ID">eng|narratives|PAR||male|||Speaker|||</ud-information>
+				</ud-speaker-information>
+				<comment/>
+			</speaker>
+		</speakertable>
+	</head>
+	<basic-body>
+		<common-timeline>
+			<tli id="T0" time="0.0"/>
+			<tli id="T1" time="2.271"/>
+			<tli id="T2" time="6.241"/>
+			<tli id="T3" time="9.071"/>
+			<tli id="T4" time="11.091"/>
+			<tli id="T5" time="14.336"/>
+			<tli id="T6" time="17.201"/>
+			<tli id="T7" time="23.041"/>
+			<tli id="T8" time="25.116"/>
+			<tli id="T9" time="30.946"/>
+			<tli id="T10" time="33.646"/>
+			<tli id="T11" time="41.841"/>
+			<tli id="T12" time="45.201"/>
+			<tli id="T13" time="47.446"/>
+			<tli id="T14" time="53.021"/>
+			<tli id="T15" time="55.946"/>
+			<tli id="T16" time="63.037"/>
+			<tli id="T17" time="65.671"/>
+			<tli id="T18" time="73.541"/>
+			<tli id="T19" time="74.791"/>
+			<tli id="T20" time="77.741"/>
+			<tli id="T21" time="78.771"/>
+			<tli id="T22" time="80.446"/>
+			<tli id="T23" time="87.416"/>
+			<tli id="T24" time="90.771"/>
+			<tli id="T25" time="100.194"/>
+			<tli id="T26" time="102.326"/>
+			<tli id="T27" time="104.026"/>
+			<tli id="T28" time="114.666"/>
+			<tli id="T29" time="118.991"/>
+			<tli id="T30" time="120.836"/>
+			<tli id="T31" time="128.836"/>
+			<tli id="T32" time="129.491"/>
+			<tli id="T33" time="132.146"/>
+			<tli id="T34" time="134.196"/>
+			<tli id="T35" time="143.271"/>
+			<tli id="T36" time="146.451"/>
+			<tli id="T37" time="148.451"/>
+			<tli id="T38" time="158.621"/>
+			<tli id="T39" time="163.821"/>
+			<tli id="T40" time="167.241"/>
+			<tli id="T41" time="169.461"/>
+			<tli id="T42" time="174.241"/>
+			<tli id="T43" time="176.771"/>
+			<tli id="T44" time="179.446"/>
+			<tli id="T45" time="180.834"/>
+			<tli id="T46" time="188.912"/>
+			<tli id="T47" time="200.412"/>
+			<tli id="T48" time="204.959"/>
+			<tli id="T49" time="212.021"/>
+			<tli id="T50" time="216.616"/>
+			<tli id="T51" time="218.365"/>
+			<tli id="T52" time="227.037"/>
+			<tli id="T53" time="229.115"/>
+			<tli id="T54" time="230.943"/>
+			<tli id="T55" time="236.693"/>
+			<tli id="T56" time="240.293"/>
+			<tli id="T57" time="241.537"/>
+			<tli id="T58" time="244.896"/>
+			<tli id="T59" time="250.646"/>
+			<tli id="T60" time="252.037"/>
+			<tli id="T61" time="256.787"/>
+			<tli id="T62" time="259.116"/>
+			<tli id="T63" time="271.961"/>
+			<tli id="T64" time="275.696"/>
+			<tli id="T65" time="276.946"/>
+			<tli id="T66" time="280.241"/>
+			<tli id="T67" time="282.616"/>
+			<tli id="T68" time="287.916"/>
+			<tli id="T69" time="291.196"/>
+			<tli id="T70" time="294.711"/>
+			<tli id="T71" time="297.341"/>
+			<tli id="T72" time="300.321"/>
+			<tli id="T73" time="312.821"/>
+			<tli id="T74" time="316.466"/>
+			<tli id="T75" time="320.166"/>
+			<tli id="T76" time="328.651"/>
+			<tli id="T77" time="334.711"/>
+			<tli id="T78" time="337.911"/>
+			<tli id="T79" time="339.696"/>
+			<tli id="T80" time="340.336"/>
+			<tli id="T81" time="350.651"/>
+			<tli id="T82" time="353.201"/>
+			<tli id="T83" time="360.401"/>
+			<tli id="T84" time="364.571"/>
+			<tli id="T85" time="368.371"/>
+			<tli id="T86" time="378.821"/>
+			<tli id="T87" time="381.741"/>
+			<tli id="T88" time="385.322"/>
+			<tli id="T89" time="391.151"/>
+			<tli id="T90" time="396.071"/>
+			<tli id="T91" time="403.871"/>
+			<tli id="T92" time="414.146"/>
+			<tli id="T93" time="425.771"/>
+			<tli id="T94" time="432.571"/>
+			<tli id="T95" time="439.366"/>
+			<tli id="T96" time="442.712"/>
+			<tli id="T97" time="449.341"/>
+			<tli id="T98" time="451.946"/>
+			<tli id="T99" time="458.461"/>
+			<tli id="T100" time="461.791"/>
+			<tli id="T101" time="471.398"/>
+			<tli id="T102" time="477.115"/>
+			<tli id="T103" time="480.271"/>
+			<tli id="T104" time="491.913"/>
+			<tli id="T105" time="497.651"/>
+			<tli id="T106" time="502.491"/>
+			<tli id="T107" time="506.836"/>
+			<tli id="T108" time="512.146"/>
+			<tli id="T109" time="518.646"/>
+			<tli id="T110" time="526.001"/>
+			<tli id="T111" time="531.146"/>
+			<tli id="T112" time="538.541"/>
+			<tli id="T113" time="543.416"/>
+			<tli id="T114" time="553.271"/>
+			<tli id="T115" time="564.446"/>
+			<tli id="T116" time="570.446"/>
+			<tli id="T117" time="574.536"/>
+			<tli id="T118" time="582.711"/>
+			<tli id="T119" time="590.341"/>
+			<tli id="T120" time="593.586"/>
+			<tli id="T121" time="599.996"/>
+			<tli id="T122" time="604.821"/>
+			<tli id="T123" time="616.771"/>
+			<tli id="T124" time="621.771"/>
+			<tli id="T125" time="628.651"/>
+			<tli id="T126" time="629.151"/>
+			<tli id="T127" time="639.696"/>
+			<tli id="T128" time="643.446"/>
+			<tli id="T129" time="650.951"/>
+			<tli id="T130" time="656.341"/>
+		</common-timeline>
+		<tier id="TIE2" speaker="PAR" category="main" type="t" display-name="PAR [main]">
+			<event start="T0" end="T1">&lt;RES&gt; [e].</event>
+			<event start="T1" end="T2">&lt;RES&gt; [e].</event>
+			<event start="T2" end="T3">the children are working.</event>
+			<event start="T3" end="T4">&lt;RES&gt; [e].</event>
+			<event start="T4" end="T5">&lt;RES&gt; [e].</event>
+			<event start="T5" end="T6">did the girl catch the baseball?</event>
+			<event start="T6" end="T7">&lt;RES&gt; [e].</event>
+			<event start="T7" end="T8">did you remember to bring your lunch?</event>
+			<event start="T8" end="T9">&lt;RES&gt; [e].</event>
+			<event start="T9" end="T10">didn&apos;t the boys eat the apples?</event>
+			<event start="T10" end="T11">&lt;RES&gt; [e].</event>
+			<event start="T11" end="T12">the big brown dog ate all the cat&apos;s food.</event>
+			<event start="T12" end="T13">&lt;RES&gt; [e].</event>
+			<event start="T13" end="T14">&lt;RES&gt; [e].</event>
+			<event start="T14" end="T15">does anyone know who the new teacher is?</event>
+			<event start="T15" end="T16">&lt;RES&gt; [e].</event>
+			<event start="T16" end="T17">was the van followed by the ambulance?</event>
+			<event start="T17" end="T18">&lt;RES&gt; [e].</event>
+			<event start="T18" end="T19">&lt;RES&gt; [e].</event>
+			<event start="T19" end="T20">because tomorrow is saturday.</event>
+			<event start="T20" end="T21">we can stay up late tonight.</event>
+			<event start="T21" end="T22">&lt;RES&gt; [e].</event>
+			<event start="T22" end="T23">&lt;RES&gt; [e].</event>
+			<event start="T23" end="T24">the book was not returned to the library by the teacher.</event>
+			<event start="T24" end="T25">&lt;RES&gt; [e].</event>
+			<event start="T25" end="T26">the coach could not find the uniforms.</event>
+			<event start="T26" end="T27">the team wore last year.</event>
+			<event start="T27" end="T28">&lt;RES&gt; [e].</event>
+			<event start="T28" end="T29">the girl stopped to buy some milk even though she was late to class.</event>
+			<event start="T29" end="T30">&lt;RES&gt; [e].</event>
+			<event start="T30" end="T31">&lt;RES&gt; [e].</event>
+			<event start="T31" end="T32">&lt;RES&gt; [e].</event>
+			<event start="T32" end="T33">my mother is the nurse.</event>
+			<event start="T33" end="T34">that works in the community clinic.</event>
+			<event start="T34" end="T35">&lt;RES&gt; [e].</event>
+			<event start="T35" end="T36">the boy bought the book for his friend .</event>
+			<event start="T36" end="T37">who likes short stories.</event>
+			<event start="T37" end="T38">&lt;RES&gt; [e].</event>
+			<event start="T38" end="T39">&lt;RES&gt; [e].</event>
+			<event start="T39" end="T40">the computers and printers were donated by the school board.</event>
+			<event start="T40" end="T41">&lt;RES&gt; [e].</event>
+			<event start="T41" end="T42">&lt;RES&gt; [e].</event>
+			<event start="T42" end="T43">&lt;RES&gt; [e].</event>
+			<event start="T43" end="T44">if the rain doesn&apos;t stop by noon.</event>
+			<event start="T44" end="T45">the field trip will have to be canceled.</event>
+			<event start="T45" end="T46">&lt;RES&gt; [e].</event>
+			<event start="T46" end="T47">&lt;&amp;-uhm can you repeat that one&gt; [e]?</event>
+			<event start="T47" end="T48">&lt;RES&gt; [e].</event>
+			<event start="T48" end="T49">&lt;RES&gt; [e].</event>
+			<event start="T49" end="T50">the student who won the award at the art show was very excited.</event>
+			<event start="T50" end="T51">&lt;RES&gt; [e].</event>
+			<event start="T51" end="T52">&lt;RES&gt; [e].</event>
+			<event start="T52" end="T53">&lt;i couldn&apos;t hear that one, the audio cut out&gt; [e].</event>
+			<event start="T53" end="T54">&lt;RES&gt; [e].</event>
+			<event start="T54" end="T55">&lt;RES&gt; [e].</event>
+			<event start="T55" end="T56">the class that sells the most ticket [: tickets][*] to the dance.</event>
+			<event start="T56" end="T57">will win a prize.</event>
+			<event start="T57" end="T58">&lt;RES&gt; [e].</event>
+			<event start="T58" end="T59">&lt;RES&gt; [e].</event>
+			<event start="T59" end="T60">&lt;RES&gt; [e].</event>
+			<event start="T60" end="T61">once the students finished the book.</event>
+			<event start="T61" end="T62">the teacher asked them to write an award.</event>
+			<event start="T62" end="T63">&lt;RES&gt; [e].</event>
+			<event start="T63" end="T64">&lt;RES&gt; [e].</event>
+			<event start="T64" end="T65">&lt;RES&gt; [e].</event>
+			<event start="T65" end="T66">if we had gone straight home from the game.</event>
+			<event start="T66" end="T67">we would not have missed our curfew.</event>
+			<event start="T67" end="T68">&lt;RES&gt; [e].</event>
+			<event start="T68" end="T69">&lt;RES&gt; [e].</event>
+			<event start="T69" end="T70">&lt;RES&gt; [e].</event>
+			<event start="T70" end="T71">when the students finished the studying.</event>
+			<event start="T71" end="T72">they decided to get something to eat before they went home.</event>
+			<event start="T72" end="T73">&lt;RES&gt; [e].</event>
+			<event start="T73" end="T74">the coach gave the trophy to the team.</event>
+			<event start="T74" end="T75">that won the track game on saturday.</event>
+			<event start="T75" end="T76">&lt;RES&gt; [e].</event>
+			<event start="T76" end="T77">&lt;RES&gt; [e].</event>
+			<event start="T77" end="T78">the students repaired and collected toys.</event>
+			<event start="T78" end="T79">and sold them at the fair.</event>
+			<event start="T79" end="T80">&lt;RES&gt; [e].</event>
+			<event start="T80" end="T81">&lt;RES&gt; [e].</event>
+			<event start="T81" end="T82">&lt;RES&gt; [e].</event>
+			<event start="T82" end="T83">before the &amp;-uh students went to the graduation.</event>
+			<event start="T83" end="T84">they lined up alphabetically.</event>
+			<event start="T84" end="T85">&lt;RES&gt; [e].</event>
+			<event start="T85" end="T86">&lt;RES&gt; [e].</event>
+			<event start="T86" end="T87">&lt;RES&gt; [e].</event>
+			<event start="T87" end="T88">&lt;RES&gt; [e].</event>
+			<event start="T88" end="T89">(be)fore the students went to lunch.</event>
+			<event start="T89" end="T90">they were told to hand in their assignments for a teacher.</event>
+			<event start="T90" end="T91">&lt;RES&gt; [e].</event>
+			<event start="T91" end="T92">&lt;RES&gt; [e].</event>
+			<event start="T92" end="T93">the math teacher sor(ted) [/] sorted, boxed, and &amp;-uh sent the (.)  calculators.</event>
+			<event start="T93" end="T94">&lt;RES&gt; [e].</event>
+			<event start="T94" end="T95">&lt;RES&gt; [e].</event>
+			<event start="T95" end="T96">&lt;RES&gt; [e].</event>
+			<event start="T96" end="T97">&lt;&amp;-uh i couldn&apos;t really hear that one &lt;it went&gt; [//] it cut out&gt;  [e].</event>
+			<event start="T97" end="T98">&lt;RES&gt; [e].</event>
+			<event start="T98" end="T99">&lt;RES&gt; [e].</event>
+			<event start="T99" end="T100">&lt;RES&gt; [e].</event>
+			<event start="T100" end="T101">&lt;in the [//] the&gt; [///] in some countries the minimal age for  obtaining a drivers license is eighteen years.</event>
+			<event start="T101" end="T102">considerably older than in (.) america.</event>
+			<event start="T102" end="T103">&lt;RES&gt; [e].</event>
+			<event start="T103" end="T104">&lt;RES&gt; [e].</event>
+			<event start="T104" end="T105">&amp;-uh one day, the girl was &amp;=sneezes at her grandma&apos;s house.</event>
+			<event start="T105" end="T106">&amp;-uhm and enjoying herself.</event>
+			<event start="T106" end="T107">and next xxx.</event>
+			<event start="T107" end="T108">then the girl left with some food and things.</event>
+			<event start="T108" end="T109">leaving her mom to go into the forest.</event>
+			<event start="T109" end="T110">but then there [//] there was this wolf.</event>
+			<event start="T110" end="T111">that was chasing the girl (.) in the forest.</event>
+			<event start="T111" end="T112">then the wolf ran ahead.</event>
+			<event start="T112" end="T113">and while the girl was doing something.</event>
+			<event start="T113" end="T114">&lt;the wolf who was entering the grandma&apos;s house&gt; [///] then he ate  the grandma.</event>
+			<event start="T114" end="T115">then when the girl arrived, she had flowers, and cookies, and water.</event>
+			<event start="T115" end="T116">but then the girl realized.</event>
+			<event start="T116" end="T117">that &amp;-uh didn&apos;t really look like her grandma.</event>
+			<event start="T117" end="T118">&amp;-uh then the wolf tried to eat the girl.</event>
+			<event start="T118" end="T119">then a hunter came (.) with his dog.</event>
+			<event start="T119" end="T120">while the wolf was sitting there.</event>
+			<event start="T120" end="T121">&lt;but&gt; [//] and then he cut open the wolf.</event>
+			<event start="T121" end="T122">and the girl and grandma came out.</event>
+			<event start="T122" end="T123">then he filled the &amp;-uh wolf&apos;s stomache with stones.</event>
+			<event start="T123" end="T124">&lt;RES&gt; [e].</event>
+			<event start="T124" end="T125">and the &amp;-uh grandma sewed the (.) stomache back together.</event>
+			<event start="T125" end="T126">&lt;RES&gt; [e].</event>
+			<event start="T126" end="T127">and then the wolf had a hard time walking back.</event>
+			<event start="T127" end="T128">with stomache full of stones.</event>
+			<event start="T128" end="T129">and then the girl left with the hunter to go back home.</event>
+			<event start="T129" end="T130">&lt;RES&gt; [e].</event>
+		</tier>
+	</basic-body>
+</basic-transcription>

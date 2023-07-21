@@ -1,0 +1,102 @@
+@UTF8
+@Window:	0_0_0_0_0_0_2524_0_2524_0
+@Begin
+@Languages:	spa,eng
+@Participants:	PAR 129 Speaker
+@ID:	spa|narratives|PAR||male|||Speaker|||
+@Media:	129_spanish,audio
+*PAR:	<RES>[e]. 0_13737
+*PAR:	<ok>[e]. 13737_14392
+*PAR:	<RES>[e]. 14392_44614
+*PAR:	había una niña que esta con su abuelita. 44614_50365
+%pos: había.VERB una.DET niña.NOUN que.PRON esta.VERB con.ADP su.DET abuelita.NOUN
+*PAR:	y quería comer un poquito de pastel. 50365_54517
+%pos: y.CCONJ quería.VERB comer.VERB un.DET poquito.NOUN de.ADP pastel.NOUN
+*PAR:	<siguiente>[e]. 54517_56829
+*PAR:	<RES>[e]. 56829_58360
+*PAR:	y entonces se fue pero con una basqueta [: canasta] [*] de comida. 58360_70689
+%pos: y.CCONJ entonces.ADV se.PRON fue.VERB pero.CCONJ con.ADP una.DET basqueta.NOUN de.ADP comida.NOUN
+*PAR:	<siguinte>[e]. 70689_73939
+*PAR:	<RES>[e]. 73939_75111
+*PAR:	pero cuando se fue al bosque para caminar a su casa había un lobo
+	atrás de ella que lo [: la][*] iba comer. 75111_91564
+%pos: pero.CCONJ cuando.SCONJ se.PRON fue.VERB al.ADP bosque.NOUN para.ADP caminar.VERB a.ADP su.DET casa.NOUN había.VERB un.DET lobo.NOUN atrás.ADV de.ADP ella.PRON que.SCONJ lo.PRON iba.VERB comer.VERB
+*PAR:	<siguinte>[e]. 91564_93908
+*PAR:	y llego a su casa. 93908_101620
+%pos: y.CCONJ llego.VERB a.ADP su.DET casa.NOUN
+*PAR:	y el lobo le siguió entonces llego también. 101620_106729
+%pos: y.CCONJ el.DET lobo.NOUN le.PRON siguió.VERB entonces.ADV llego.VERB también.ADV
+*PAR:	<siguiente>[e]. 106729_108730
+*PAR:	y ay el lobo asusto al [//] a su abuela. 108730_120573
+%pos: y.CCONJ ay.INTJ el.DET lobo.NOUN asusto.ADJ al.ADP a.ADP su.DET abuela.NOUN
+*PAR:	<siguiente>[e]. 120573_122573
+*PAR:	y cuando [/] cuando agarró unas flores para su abuelita el lobo
+	pretendió [: fingió][*] como su abuelita (.) ahí en la cama. 122573_139417
+%pos: y.CCONJ cuando.SCONJ cuando.SCONJ agarró.VERB unas.DET flores.NOUN para.ADP su.DET abuelita.NOUN el.DET lobo.NOUN pretendió.VERB como.ADP su.DET abuelita.NOUN ahí.ADV en.ADP la.DET cama.NOUN
+*PAR:	<siguiente>[e]. 139417_141121
+*PAR:	pero luego la niña dijo +"/. 141121_148203
+%pos: pero.CCONJ luego.ADV la.DET niña.NOUN dijo.VERB +"/.SYM
+*PAR:	+" ay que paso abuelita? 148203_150527
+%pos: +".SYM ay.INTJ que.CCONJ paso.VERB abuelita.NOUN
+*PAR:	+" estas bien? 150527_151857
+%pos: +".PUNCT estas.PRON bien.ADV
+*PAR:	+" (...) te ves un poco raro. 151857_156954
+%pos: +".PUNCT te.PRON ves.VERB un.DET poco.ADV raro.ADJ
+*PAR:	y el [/] y el lobo que se pretende
+	[: fingiendo][*] como la abuelita dijo +"/. 156954_165202
+%pos: y.CCONJ el.DET y.CCONJ el.DET lobo.NOUN que.SCONJ se.PRON pretende.VERB como.ADP la.DET abuelita.NOUN dijo.VERB +"/.SYM
+*PAR:	+" estoy bien. 165202_166276
+%pos: +".SYM estoy.AUX bien.ADV
+*PAR:	<siguiente>[e]. 166276_168202
+*PAR:	<RES>[e]. 168202_170797
+*PAR:	&-ah el lobo asusto la niña. 170797_177605
+%pos: el.DET lobo.NOUN asusto.ADJ la.DET niña.NOUN
+*PAR:	<siguiente>[e]. 177605_180327
+*PAR:	<RES>[e]. 180327_181858
+*PAR:	y había un señor que caminó. 181858_188986
+%pos: y.CCONJ había.VERB un.DET señor.NOUN que.SCONJ caminó.VERB
+*PAR:	y vio al lobo (..) <con una> [///] Había un señor que caminó. 188986_197479
+%pos: y.CCONJ vio.VERB al.ADP lobo.NOUN con.ADP una.DET Había.PROPN un.DET señor.NOUN que.SCONJ caminó.VERB
+*PAR:	y abrió la puerta tenía [/] tenía <un [/] un> [//] una pistola. 197479_203676
+%pos: y.CCONJ abrió.VERB la.DET puerta.NOUN tenía.VERB tenía.VERB un.DET un.DET una.DET pistola.NOUN
+*PAR:	y vio al lobo. 203676_205422
+%pos: y.CCONJ vio.VERB al.DET lobo.NOUN
+*PAR:	y le que xxx. 205422_207548
+%pos: y.CCONJ le.PRON que.CCONJ xxx.PROPN
+*PAR:	<siguiente>[e]. 207548_210301
+*PAR:	<RES>[e]. 210301_212313
+*PAR:	(..) pero el lobo no se comió a ellos. 212313_219766
+%pos: pero.CCONJ el.DET lobo.NOUN no.ADV se.PRON comió.VERB a.ADP ellos.PRON
+*PAR:	se se comió al postre. 219766_221801
+%pos: se.PRON se.PRON comió.VERB al.ADP postre.NOUN
+*PAR:	<the end>[e]. 221801_224798
+*PAR:	<RES>[e]. 224798_230346
+*PAR:	y luego la niñita trajo rocas. 230346_242756
+%pos: y.CCONJ luego.ADV la.DET niñita.NOUN trajo.VERB rocas.NOUN
+*PAR:	y el señor las puso cerca del lobo. 242756_247471
+%pos: y.CCONJ el.DET señor.NOUN las.PRON puso.VERB cerca.ADV del.ADP lobo.NOUN
+*PAR:	y el lobo creía que se los iba comer. 247471_250261
+%pos: y.CCONJ el.DET lobo.NOUN creía.VERB que.SCONJ se.PRON los.PRON iba.VERB comer.VERB
+*PAR:	(.) pero no. 250261_251950
+%pos: pero.CCONJ no.ADV
+*PAR:	<RES>[e]. 251950_256102
+*PAR:	<si>[e]. 256102_257066
+*PAR:	<RES>[e]. 257066_257866
+*PAR:	y se [/] se los comió. 257866_262037
+%pos: y.CCONJ se.PRON se.PRON los.PRON comió.VERB
+*PAR:	y <se corrió> [/] y se corrió afuera. 262037_266582
+%pos: y.CCONJ se.PRON corrió.VERB y.CCONJ se.PRON corrió.VERB afuera.ADV
+*PAR:	<y se> [/] y se fue. 266582_268866
+%pos: y.CCONJ se.PRON y.CCONJ se.PRON fue.VERB
+*PAR:	<the end>[e]. 268866_271367
+*PAR:	<RES>[e]. 271367_274935
+*PAR:	y la niñita. 274935_279419
+%pos: y.CCONJ la.DET niñita.NOUN
+*PAR:	y el señor se fue [: fueron][*] juntos. 279419_281514
+%pos: y.CCONJ el.DET señor.NOUN se.PRON fue.AUX juntos.ADJ
+*PAR:	y la abuelita le [: les][*] dijo adiós. 281514_285219
+%pos: y.CCONJ la.DET abuelita.NOUN le.PRON dijo.VERB adiós.ADV
+*PAR:	<siguiente>[e]. 285219_288674
+*PAR:	<RES>[e]. 288674_290720
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:31:37.596077

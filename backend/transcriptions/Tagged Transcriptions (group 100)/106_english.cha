@@ -1,0 +1,48 @@
+@UTF8
+@Window:	125_247_768_685_-1_-1_578_0_578_0
+@Begin
+@Languages:	eng, spa
+@Participants:	PAR 106 Speaker
+@ID:	eng|narratives|PAR||male|||Speaker|||
+@Media:	106_english, audio
+*PAR:	okay so she (.) left (...). 0_9437
+%pos: okay.INTJ so.ADV she.PRON left.VERB
+*PAR:	<okay> [/] (.) okay (..) <she said> [/] she (.) said goodbye. 9437_22356
+%pos: okay.INTJ okay.ADV she.PRON said.VERB she.PRON said.VERB goodbye.NOUN
+*PAR:	she. 22356_24755
+%pos: she.PRON
+*PAR:	<RES> [e]. 24755_31332
+*PAR:	<yeah okay> [e] she said goodbye. 31332_33353
+%pos: she.PRON said.VERB goodbye.NOUN
+*PAR:	<RES> [e]. 33353_38154
+*PAR:	okay &-um (..) the wolf found her (...). 38154_54841
+%pos: okay.INTJ the.DET wolf.NOUN found.VERB her.PRON
+*PAR:	the wolf went to her grandma's house (...). 54841_71393
+%pos: the.DET wolf.NOUN went.VERB to.ADP her.PRON grandma.NOUN 's.PART house.NOUN
+*PAR:	the wolf (.) ate (.) her grandma (...). 71393_85872
+%pos: the.DET wolf.NOUN ate.VERB her.PRON grandma.NOUN
+*PAR:	&-um (..) she (..) got to her grandma's house (...). 85872_106282
+%pos: she.PRON got.VERB to.ADP her.PRON grandma.NOUN 's.PART house.NOUN
+*PAR:	&-um (.) she (.) asked her grandma (.) why she had big eyes and big teeth and big ears (...). 106282_128798
+%pos: she.PRON asked.VERB her.PRON grandma.NOUN why.ADV she.PRON had.VERB big.ADJ eyes.NOUN and.CCONJ big.ADJ teeth.NOUN and.CCONJ big.ADJ ears.NOUN
+*PAR:	the wolf ate Little Red Riding Hood (...). 128798_143691
+%pos: the.DET wolf.NOUN ate.VERB Little.ADJ Red.PROPN Riding.PROPN Hood.PROPN
+*PAR:	<the hunter &-um (..) in> [//] the hunter came (...). 143691_155895
+%pos: the.DET hunter.NOUN in.ADP the.DET hunter.NOUN came.VERB
+*PAR:	<RES> [e]. 155895_159924
+*PAR:	<RES> [e]? 159924_161458
+*PAR:	uh (...) yeah the wolf was sleeping when the hunter came. 161458_170015
+%pos: uh.INTJ yeah.ADV the.DET wolf.NOUN was.AUX sleeping.VERB when.ADV the.DET hunter.NOUN came.VERB
+*PAR:	<RES> [e]. 170015_178868
+*PAR:	the hunter (.) cut (.) the wolf's stomach open. 178868_183814
+%pos: the.DET hunter.NOUN cut.VERB the.DET wolf.NOUN 's.PART stomach.NOUN open.ADJ
+*PAR:	and got the grandma and (..) Little Red Riding Hood out (...). 183814_197256
+%pos: and.CCONJ got.VERB the.DET grandma.NOUN and.CCONJ Little.ADJ Red.ADJ Riding.PROPN Hood.PROPN out.ADV
+*PAR:	they stuff (.) the [/] (.) the wolf's stomach with (.) &-um rocks (...). 197256_217905
+%pos: they.PRON stuff.VERB the.DET the.DET wolf.NOUN 's.PART stomach.NOUN with.ADP rocks.NOUN
+*PAR:	the wolf wakes up <with a full> [//] with a stomach full of rocks (...). 217905_236986
+%pos: the.DET wolf.NOUN wakes.VERB up.ADV with.ADP a.DET full.NOUN with.ADP a.DET stomach.NOUN full.ADJ of.ADP rocks.NOUN
+*PAR:	they say goodbye <to the grandma> [//] (..) to her grandma (..). 236986_246000
+%pos: they.PRON say.VERB goodbye.NOUN to.ADP the.DET grandma.NOUN to.ADP her.PRON grandma.NOUN
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:36:47.591240

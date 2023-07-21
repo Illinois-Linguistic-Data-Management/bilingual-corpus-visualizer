@@ -1,0 +1,66 @@
+@UTF8
+@Window:	0_0_0_0_88_1_951_0_951_0
+@Begin
+@Languages:	eng
+@Participants:	PAR 135 Speaker
+@ID:	eng|narratives|PAR| |male| | |Speaker| | |
+@Media:	135_english_2, audio
+*PAR:	The Little <ri(de)> [//] riding hood was visiting her grandmother. 0_7779
+%pos: The.DET Little.ADJ ride.NOUN riding.NOUN hood.NOUN was.AUX visiting.VERB her.PRON grandmother.NOUN
+*PAR:	xxx. 7779_9779
+%pos: xxx.PROPN
+*PAR:	<RES> [e]. 9779_11824
+*PAR:	The Red Riding Hood was (.) &-uh saying bye to her mom. 11824_19201
+%pos: The.DET Red.ADJ Riding.PROPN Hood.PROPN was.AUX saying.VERB bye.NOUN to.ADP her.PRON mom.NOUN
+*PAR:	&=clears throat  The Red Riding Hood was being followed by the wolf. 19201_29515
+%pos: throat.NOUN The.DET Red.ADJ Riding.PROPN Hood.PROPN was.AUX being.AUX followed.VERB by.ADP the.DET wolf.NOUN
+*PAR:	and a xxx. 29515_33511
+%pos: and.CCONJ a.DET xxx.NOUN
+*PAR:	<RES> [e]. 33511_36678
+*PAR:	man with an axe. 36678_39076
+%pos: man.NOUN with.ADP an.DET axe.NOUN
+*PAR:	<RES> [e]. 39076_41887
+*PAR:	<RES> [e]. 41887_44528
+*PAR:	yeah &=clears throat he was (.) trying to attack the wolf. 44528_55856
+%pos: yeah.ADV throat.NOUN he.PRON was.AUX trying.VERB to.PART attack.VERB the.DET wolf.NOUN
+*PAR:	the wolf [/] wolf was getting in a house. 55856_61387
+%pos: the.DET wolf.NOUN wolf.NOUN was.AUX getting.VERB in.ADP a.DET house.NOUN
+*PAR:	&=clears throat the wolf eat [: ate][*] the grandmother of The Red
+	Riding Hood. 61387_69810
+%pos: throat.VERB the.DET wolf.NOUN eat.VERB the.DET grandmother.NOUN of.ADP The.DET Red.ADJ Riding.PROPN Hood.PROPN
+*PAR:	the wolf &-eh. 69810_74810
+%pos: the.DET wolf.NOUN
+*PAR:	<RES> [e]. 74810_79940
+*PAR:	the wolf get [: got][*] in the bed and cover [: covered][*] his
+	body. 79940_84559
+%pos: the.DET wolf.NOUN get.VERB in.ADP the.DET bed.NOUN and.CCONJ cover.VERB his.PRON body.NOUN
+*PAR:	and when the Red Riding Hood get in the house putting flowers in
+	the (.) glass. 84559_93982
+%pos: and.CCONJ when.ADV the.DET Red.ADJ Riding.PROPN Hood.PROPN get.VERB in.ADP the.DET house.NOUN putting.VERB flowers.NOUN in.ADP the.DET glass.NOUN
+*PAR:	&=clears throat she go to the bed. 93982_103154
+%pos: throat.NOUN she.PRON go.VERB to.ADP the.DET bed.NOUN
+*PAR:	but the wolf was in the bed. 103154_106030
+%pos: but.CCONJ the.DET wolf.NOUN was.AUX in.ADP the.DET bed.NOUN
+*PAR:	&=sniffs the wolf jumped off the bed and scared The Red Riding Hood. 106030_111512
+%pos: the.DET wolf.NOUN jumped.VERB off.ADP the.DET bed.NOUN and.CCONJ scared.VERB The.DET Red.ADJ Riding.PROPN Hood.PROPN
+*PAR:	the wolf was taking a nap when a (...) &-uh xxx. 111512_130327
+%pos: the.DET wolf.NOUN was.AUX taking.VERB a.DET nap.NOUN when.ADV a.DET xxx.NOUN
+*PAR:	and then xxx with a gun and dog get in the house. 130327_136013
+%pos: and.CCONJ then.ADV xxx.NOUN with.ADP a.DET gun.NOUN and.CCONJ dog.NOUN get.VERB in.ADP the.DET house.NOUN
+*PAR:	and see all the house disorganized. 136013_139060
+%pos: and.CCONJ see.VERB all.DET the.DET house.NOUN disorganized.VERB
+*PAR:	yeah, the man cut the stomach of the wolf with scissors. 139060_144784
+%pos: yeah.INTJ ,.PUNCT the.DET man.NOUN cut.VERB the.DET stomach.NOUN of.ADP the.DET wolf.NOUN with.ADP scissors.NOUN
+*PAR:	and The Red Riding Hood and her grandmother get out. 144784_147684
+%pos: and.CCONJ The.DET Red.ADJ Riding.PROPN Hood.PROPN and.CCONJ her.PRON grandmother.NOUN get.VERB out.ADV
+*PAR:	the three of them put rocks inside the stomach of the wolf with the
+	help of the xxx. 147684_154686
+%pos: the.DET three.NUM of.ADP them.PRON put.VERB rocks.NOUN inside.ADP the.DET stomach.NOUN of.ADP the.DET wolf.NOUN with.ADP the.DET help.NOUN of.ADP the.DET xxx.NOUN
+*PAR:	the wolf wake [: woke][*] up and go [: went][*] to drink water but
+	he fell. 154686_161014
+%pos: the.DET wolf.NOUN wake.NOUN up.ADP and.CCONJ go.VERB to.PART drink.VERB water.NOUN but.CCONJ he.PRON fell.VERB
+*PAR:	the man and The Red Riding Hood said bye to her grandma to go to
+	their houses. 161014_170012
+%pos: the.DET man.NOUN and.CCONJ The.DET Red.ADJ Riding.PROPN Hood.PROPN said.VERB bye.NOUN to.ADP her.PRON grandma.NOUN to.PART go.VERB to.ADP their.PRON houses.NOUN
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:34:13.067348

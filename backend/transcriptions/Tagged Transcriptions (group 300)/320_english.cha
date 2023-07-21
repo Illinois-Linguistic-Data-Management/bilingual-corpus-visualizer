@@ -1,0 +1,74 @@
+@UTF8
+@Window:	0_0_0_0_739_0_1715_0_1715_0
+@Begin
+@Languages:	eng
+@Participants:	PAR 320 Speaker
+@ID:	eng|narratives|PAR||male|||Speaker|||
+@Media:	320_english, audio
+*PAR:	the grandma gave her granddaughter a costume for xxx. 0_4066
+%pos: the.DET grandma.NOUN gave.VERB her.PRON granddaughter.NOUN a.DET costume.NOUN for.ADP xxx.PROPN
+*PAR:	<RES> [e]. 4066_14766
+*PAR:	<the grandma> [//] the woman gave the child snacks. 14766_21176
+%pos: the.DET grandma.NOUN the.DET woman.NOUN gave.VERB the.DET child.NOUN snacks.NOUN
+*PAR:	to go to the grandma's. 21176_22926
+%pos: to.PART go.VERB to.ADP the.DET grandma.NOUN 's.PART
+*PAR:	<done> [e]. 22926_26577
+*PAR:	<RES> [e]. 26577_28247
+*PAR:	the wolf tried to xxx on the child. 28247_34827
+%pos: the.DET wolf.NOUN tried.VERB to.PART xxx.VERB on.ADP the.DET child.NOUN
+*PAR:	<RES> [e]. 34827_47827
+*PAR:	the wolf was behind the grandchild. 47827_50217
+%pos: the.DET wolf.NOUN was.AUX behind.ADP the.DET grandchild.NOUN
+*PAR:	and tried to sneak up on her. 50217_51702
+%pos: and.CCONJ tried.VERB to.PART sneak.VERB up.ADV on.ADP her.PRON
+*PAR:	but the man in the back xxx. 51702_56467
+%pos: but.CCONJ the.DET man.NOUN in.ADP the.DET back.NOUN xxx.PROPN
+*PAR:	<done> [e]. 56467_57997
+*PAR:	the wolf made it back to the house before her. 57997_63997
+%pos: the.DET wolf.NOUN made.VERB it.PRON back.ADV to.ADP the.DET house.NOUN before.ADP her.PRON
+*PAR:	the wolf ate grandma. 63997_71547
+%pos: the.DET wolf.NOUN ate.VERB grandma.NOUN
+*PAR:	<RES>[e]. 71547_78827
+*PAR:	the grandchild is back home. 78827_82622
+%pos: the.DET grandchild.NOUN is.AUX back.ADV home.ADV
+*PAR:	and sees her grandmother in the bed xxx. 82622_87063
+%pos: and.CCONJ sees.VERB her.PRON grandmother.NOUN in.ADP the.DET bed.NOUN xxx.ADV
+*PAR:	the grandchild sees her grandma <with weird> [/] with weird
+	features. 87063_95493
+%pos: the.DET grandchild.NOUN sees.VERB her.PRON grandma.NOUN with.ADP weird.ADJ with.ADP weird.ADJ features.NOUN
+*PAR:	<next> [e]. 95493_97378
+*PAR:	the wolf tries to eat the little girl (.) and her snacks. 97378_110273
+%pos: the.DET wolf.NOUN tries.VERB to.PART eat.VERB the.DET little.ADJ girl.NOUN and.CCONJ her.PRON snacks.NOUN
+*PAR:	<done> [e]. 110273_112083
+*PAR:	the sheriff comes in. 112083_118958
+%pos: the.DET sheriff.NOUN comes.VERB in.ADV
+*PAR:	and sees the wolf. 118958_120333
+%pos: and.CCONJ sees.VERB the.DET wolf.NOUN
+*PAR:	<done> [e]. 120333_122923
+*PAR:	the sheriff helps the child and the grandma get out of xxx. 122923_137723
+%pos: the.DET sheriff.NOUN helps.VERB the.DET child.NOUN and.CCONJ the.DET grandma.NOUN get.VERB out.ADP of.ADP xxx.PROPN
+*PAR:	the wolf is xxx. 137723_141628
+%pos: the.DET wolf.NOUN is.AUX xxx.NOUN
+*PAR:	<RES> [e]. 141628_148048
+*PAR:	the wolf is probably dead. 148048_148878
+%pos: the.DET wolf.NOUN is.AUX probably.ADV dead.ADJ
+*PAR:	<RES to this one> [e]. 148878_158603
+*PAR:	the grandchild goes to town. 158603_163503
+%pos: the.DET grandchild.NOUN goes.VERB to.ADP town.NOUN
+*PAR:	and comes back with snacks for everyone. 163503_164883
+%pos: and.CCONJ comes.VERB back.ADV with.ADP snacks.NOUN for.ADP everyone.PRON
+*PAR:	<RES> [e]. 164883_171469
+*PAR:	the grandchild comes back to town xxx. 171469_178883
+%pos: the.DET grandchild.NOUN comes.VERB back.ADV to.ADP town.NOUN xxx.NOUN
+*PAR:	<RES> [e]. 178883_184423
+*PAR:	the wolf goes back to the town. 184423_189943
+%pos: the.DET wolf.NOUN goes.VERB back.ADV to.ADP the.DET town.NOUN
+*PAR:	stuffed with food. 189943_194989
+%pos: stuffed.VERB with.ADP food.NOUN
+*PAR:	<RES> [e]. 194989_209209
+*PAR:	the sheriff, the daughter, and the dog go home. 209209_215188
+%pos: the.DET sheriff.NOUN ,.PUNCT the.DET daughter.NOUN ,.PUNCT and.CCONJ the.DET dog.NOUN go.VERB home.ADV
+*PAR:	grandma says bye. 215188_216738
+%pos: grandma.NOUN says.NOUN bye.NOUN
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:15:52.119979

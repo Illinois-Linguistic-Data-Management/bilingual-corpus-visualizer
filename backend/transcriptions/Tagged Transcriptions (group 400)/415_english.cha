@@ -1,0 +1,9 @@
+@UTF8
+@Window:	0_0_0_0_2940_1_4051_0_4051_0
+@Begin
+@Languages:	eng
+@Participants:	PAR 415 Speaker
+@ID:	eng|narratives|PAR||female|||Speaker|||
+@Media:	415_english, audio
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:38:54.348099

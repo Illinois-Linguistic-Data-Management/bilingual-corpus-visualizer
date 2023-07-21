@@ -1,0 +1,65 @@
+@UTF8
+@Window:	116_211_668_1071_-1_-1_1744_0_1744_0
+@Begin
+@Languages:	spa,eng
+@Participants:	PAR 109 Speaker
+@ID:	spa|narratives|PAR||female|||Speaker|||
+@Media:	109_spanish,audio
+*PAR:	<la niña está> [///] yo creo, que se ve que está hablando con su abuela (.) o bailando. 0_8132
+%pos: la.DET niña.NOUN está.VERB yo.PRON creo.VERB ,.PUNCT que.SCONJ se.PRON ve.VERB que.SCONJ está.AUX hablando.VERB con.ADP su.DET abuela.NOUN o.CCONJ bailando.VERB
+*PAR:	okay@s y la niña se va con [//] se va de su casa. 8132_15448
+%pos: okay.INTJ y.CCONJ la.DET niña.NOUN se.PRON va.VERB con.ADP se.PRON va.VERB de.ADP su.DET casa.NOUN
+*PAR:	y va en el camino con su comida. 15448_19559
+%pos: y.CCONJ va.VERB en.ADP el.DET camino.NOUN con.ADP su.DET comida.NOUN
+*PAR:	y ahí está un lobo. 19559_23975
+%pos: y.CCONJ ahí.ADV está.VERB un.DET lobo.NOUN
+*PAR:	y la niña no lo ve al lobo. 23975_26464
+%pos: y.CCONJ la.DET niña.NOUN no.ADV lo.PRON ve.VERB al.ADP lobo.NOUN
+*PAR:	pero el lobo quiere comer a la niña. 26464_28568
+%pos: pero.CCONJ el.DET lobo.NOUN quiere.VERB comer.VERB a.ADP la.DET niña.NOUN
+*PAR:	y el lobo va a la casa, yo creo de la abuela. 28568_35216
+%pos: y.CCONJ el.DET lobo.NOUN va.VERB a.ADP la.DET casa.NOUN ,.PUNCT yo.PRON creo.VERB de.ADP la.DET abuela.NOUN
+*PAR:	y el lobo ataca a la abuelita. 35216_42032
+%pos: y.CCONJ el.DET lobo.NOUN ataca.VERB a.ADP la.DET abuelita.NOUN
+*PAR:	y ya llega la niña con las flores. 42032_46682
+%pos: y.CCONJ ya.ADV llega.VERB la.DET niña.NOUN con.ADP las.DET flores.NOUN
+*PAR:	y no sabe que está el lobo comió su abuelita. 46682_51156
+%pos: y.CCONJ no.ADV sabe.VERB que.SCONJ está.VERB el.DET lobo.NOUN comió.VERB su.DET abuelita.NOUN
+*PAR:	y la niña va a ver a su abuelita. 51156_55567
+%pos: y.CCONJ la.DET niña.NOUN va.VERB a.ADP ver.VERB a.ADP su.DET abuelita.NOUN
+*PAR:	lo ve. 55567_56987
+%pos: lo.PRON ve.VERB
+*PAR:	pero ella no sé que es su abuela. 56987_62327
+%pos: pero.CCONJ ella.PRON no.ADV sé.VERB que.SCONJ es.AUX su.DET abuela.NOUN
+*PAR:	entonces, el lobo brinca de la cama. 62327_66954
+%pos: entonces.ADV ,.PUNCT el.DET lobo.NOUN brinca.VERB de.ADP la.DET cama.NOUN
+*PAR:	y va a atacar a la niña. 66954_69015
+%pos: y.CCONJ va.VERB a.ADP atacar.VERB a.ADP la.DET niña.NOUN
+*PAR:	pero los hombres vienen con una pistola y un perro. 69015_76527
+%pos: pero.CCONJ los.DET hombres.NOUN vienen.VERB con.ADP una.DET pistola.NOUN y.CCONJ un.DET perro.NOUN
+*PAR:	y el lobo comió a la niña. 76527_80187
+%pos: y.CCONJ el.DET lobo.NOUN comió.VERB a.ADP la.DET niña.NOUN
+*PAR:	pero el hombre tiene su &-um I@s don't@s know@s what@s that@s is@s &-um scissors@s. 80187_98337
+%pos: pero.CCONJ el.DET hombre.NOUN tiene.VERB su.ADJ I.PRON do.VERB n't.PART know.VERB what.DET that.DET is.VERB scissors.PROPN
+*PAR:	I'll@s say@s scissors@s. 98337_100180
+%pos: I.PRON 'll.AUX say.VERB scissors.NOUN
+*PAR:	y lo corta al lobo de su estómago. 100180_103702
+%pos: y.CCONJ lo.PRON corta.NOUN al.ADP lobo.NOUN de.ADP su.DET estómago.NOUN
+*PAR:	y ahí sale la niña y el abuela. 103702_105717
+%pos: y.CCONJ ahí.ADV sale.VERB la.DET niña.NOUN y.CCONJ el.DET abuela.NOUN
+*PAR:	y aquí viene la niña con rocas y el perro también. 105717_113427
+%pos: y.CCONJ aquí.ADV viene.VERB la.DET niña.NOUN con.ADP rocas.NOUN y.CCONJ el.DET perro.NOUN también.ADV
+*PAR:	y el hombre va a poner los rocas en el lobo. 113427_118264
+%pos: y.CCONJ el.DET hombre.NOUN va.VERB a.ADP poner.VERB los.DET rocas.NOUN en.ADP el.DET lobo.NOUN
+*PAR:	y el lobo va corriendo. 118264_125602
+%pos: y.CCONJ el.DET lobo.NOUN va.VERB corriendo.VERB
+*PAR:	se cae. 125602_126802
+%pos: se.PRON cae.VERB
+*PAR:	y todos están riendo del lobo. 126802_129496
+%pos: y.CCONJ todos.PRON están.AUX riendo.VERB del.ADP lobo.NOUN
+*PAR:	entonces, ya se va la niña con el hombre y el perro. 129496_133926
+%pos: entonces.ADV ,.PUNCT ya.ADV se.PRON va.VERB la.DET niña.NOUN con.ADP el.DET hombre.NOUN y.CCONJ el.DET perro.NOUN
+*PAR:	y dicen adiós a la abuelita. 133926_136000	
+%pos: y.CCONJ dicen.VERB adiós.ADV a.ADP la.DET abuelita.NOUN
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:37:51.658760

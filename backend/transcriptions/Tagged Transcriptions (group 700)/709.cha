@@ -1,0 +1,81 @@
+@UTF8
+@Window:	68_415_668_1008_-1_-1_3238_0_3238_0
+@Begin
+@Languages:	spa,eng
+@Participants:	PAR 709 Speaker
+@ID:	spa|narratives|PAR||female|||Speaker|||
+@Media:	709,audio
+*PAR:	<RES> [e]. 0_4522
+*PAR:	Caperucita Roja. 4522_14395
+%pos: Caperucita.NOUN Roja.ADJ
+*PAR:	una niña, vestida de (.). 14395_17337
+%pos: una.DET niña.NOUN ,.PUNCT vestida.VERB de.ADP
+*PAR:	<RES> [e]. 17337_23500
+*PAR:	(.) de capa roja, &-um que vivía en el bosque &-um junto con los animales. 23500_30991
+%pos: de.ADP capa.NOUN roja.ADJ ,.PUNCT que.SCONJ vivía.VERB en.ADP el.DET bosque.NOUN junto.ADJ con.ADP los.DET animales.NOUN
+*PAR:	su abuela &-um vivía con ella. 30991_37245
+%pos: su.DET abuela.NOUN vivía.VERB con.ADP ella.PRON
+*PAR:	y a ambas les gustaban hornear pasteles &-um cada semana. 37245_45055
+%pos: y.CCONJ a.ADP ambas.PRON les.PRON gustaban.VERB hornear.VERB pasteles.NOUN cada.DET semana.NOUN
+*PAR:	un día, la mamá de Caperucita Roja le dijo que llevara comida y frutas en una canasta. 45055_56213
+%pos: un.DET día.NOUN ,.PUNCT la.DET mamá.NOUN de.ADP Caperucita.PROPN Roja.PROPN le.PRON dijo.VERB que.SCONJ llevara.VERB comida.NOUN y.CCONJ frutas.NOUN en.ADP una.DET canasta.NOUN
+*PAR:	en el transcurso del camino, Caperucita Roja se [/] se encontró con un lobo que la persiguió sin que ella se diera cuenta. 56213_75811
+%pos: en.ADP el.DET transcurso.NOUN del.ADP camino.NOUN ,.PUNCT Caperucita.PROPN Roja.PROPN se.PRON se.PRON encontró.VERB con.ADP un.DET lobo.NOUN que.SCONJ la.PRON persiguió.VERB sin.ADP que.SCONJ ella.PRON se.PRON diera.VERB cuenta.NOUN
+*PAR:	pero detrás del lobo, sin que este se diera cuenta, estaba [/] estaba un señor quien lo quería asustar con su hacha. 75811_94849
+%pos: pero.CCONJ detrás.ADV del.ADP lobo.NOUN ,.PUNCT sin.ADP que.SCONJ este.PRON se.PRON diera.VERB cuenta.NOUN ,.PUNCT estaba.VERB estaba.AUX un.DET señor.NOUN quien.PRON lo.PRON quería.VERB asustar.VERB con.ADP su.DET hacha.NOUN
+*PAR:	más tarde, Caperucita Roja se desvió del camino. 94849_102064
+%pos: más.ADV tarde.ADV ,.PUNCT Caperucita.PROPN Roja.PROPN se.PRON desvió.VERB del.ADP camino.NOUN
+*PAR:	porque encontró unas flores. 102064_105644
+%pos: porque.SCONJ encontró.VERB unas.DET flores.NOUN
+*PAR:	y decidió hacer un ramo de flores con ellas. 105644_111128
+%pos: y.CCONJ decidió.VERB hacer.VERB un.DET ramo.NOUN de.ADP flores.NOUN con.ADP ellas.PRON
+*PAR:	por lo que el lobo, al percatarse de esto, se desvió del camino. 111128_117757
+%pos: por.ADP lo.PRON que.PRON el.DET lobo.NOUN ,.PUNCT al.ADP percatarse.VERB de.ADP esto.PRON ,.PUNCT se.PRON desvió.VERB del.ADP camino.NOUN
+*PAR:	y decidió &-um ir a la casa de la abuela. 117757_127488
+%pos: y.CCONJ decidió.VERB ir.VERB a.ADP la.DET casa.NOUN de.ADP la.DET abuela.NOUN
+*PAR:	el lobo entró a la casa de la abuela. 127488_132000
+%pos: el.DET lobo.NOUN entró.VERB a.ADP la.DET casa.NOUN de.ADP la.DET abuela.NOUN
+*PAR:	y se dio cuenta que estaba ahí. 132000_135251
+%pos: y.CCONJ se.PRON dio.VERB cuenta.NOUN que.SCONJ estaba.VERB ahí.ADV
+*PAR:	la abuela lo vio. 135251_139984
+%pos: la.DET abuela.NOUN lo.PRON vio.VERB
+*PAR:	y se asustó. 139984_141833
+%pos: y.CCONJ se.PRON asustó.VERB
+*PAR:	Caperucita Roja llegó a la casa con las flores que había cortado del bosque. 141833_150212
+%pos: Caperucita.PROPN Roja.PROPN llegó.VERB a.ADP la.DET casa.NOUN con.ADP las.DET flores.NOUN que.SCONJ había.AUX cortado.VERB del.ADP bosque.NOUN
+*PAR:	sin embargo, no se había percatado que quien estaba <en la ca(ma)> [//] en la cama de la abuela era el lobo y no su abuelita. 150212_161478
+%pos: sin.ADP embargo.NOUN ,.PUNCT no.ADV se.PRON había.AUX percatado.VERB que.SCONJ quien.PRON estaba.VERB en.ADP la.DET cama.NOUN en.ADP la.DET cama.NOUN de.ADP la.DET abuela.NOUN era.AUX el.DET lobo.NOUN y.CCONJ no.ADV su.DET abuelita.NOUN
+*PAR:	Caperucita Roja quiso decirle a su abuela que habia llegado y que había traido flores para ella. 161478_175169
+%pos: Caperucita.PROPN Roja.PROPN quiso.VERB decirle.VERB a.ADP su.DET abuela.NOUN que.SCONJ habia.AUX llegado.VERB y.CCONJ que.SCONJ había.AUX traido.VERB flores.NOUN para.ADP ella.PRON
+*PAR:	pero se percató que su abuela cubría su rostro con las sábanas de su cama. 175169_181420
+%pos: pero.CCONJ se.PRON percató.VERB que.SCONJ su.DET abuela.NOUN cubría.VERB su.DET rostro.NOUN con.ADP las.DET sábanas.NOUN de.ADP su.DET cama.NOUN
+*PAR:	más tarde, el lobo sorprendió a Caperucita saltando de la cama y mostrándole que no era su abuela quien estaba recostada en la cama. 181420_198593
+%pos: más.ADV tarde.ADV ,.PUNCT el.DET lobo.NOUN sorprendió.VERB a.ADP Caperucita.PROPN saltando.VERB de.ADP la.DET cama.NOUN y.CCONJ mostrándole.VERB que.SCONJ no.ADV era.AUX su.DET abuela.NOUN quien.PRON estaba.AUX recostada.VERB en.ADP la.DET cama.NOUN
+*PAR:	después de este suceso, &-um un cazador se percató de los ruidos que [/] que habían por este incidente. 198593_221519
+%pos: después.ADV de.ADP este.DET suceso.NOUN ,.PUNCT un.DET cazador.NOUN se.PRON percató.VERB de.ADP los.DET ruidos.NOUN que.SCONJ que.SCONJ habían.VERB por.ADP este.DET incidente.NOUN
+*PAR:	entró a la casa con su arma. 221519_225279
+%pos: entró.VERB a.ADP la.DET casa.NOUN con.ADP su.DET arma.NOUN
+*PAR:	y se dio cuenta que el lobo estaba recostado sobre la cama que aparentemente se había comido a Caperucita. 225279_235665
+%pos: y.CCONJ se.PRON dio.VERB cuenta.NOUN que.SCONJ el.DET lobo.NOUN estaba.AUX recostado.VERB sobre.ADP la.DET cama.NOUN que.SCONJ aparentemente.ADV se.PRON había.AUX comido.VERB a.ADP Caperucita.PROPN
+*PAR:	<el cazador> [/] el cazador tomó unas tijeras. 235665_248997
+%pos: el.DET cazador.NOUN el.DET cazador.NOUN tomó.VERB unas.DET tijeras.NOUN
+*PAR:	le abrió la panza al lobo. 248997_253224
+%pos: le.PRON abrió.VERB la.DET panza.NOUN al.ADP lobo.NOUN
+*PAR:	y de su panza salieron la abuela y Caperucita <salvas y salvas> [//] sanas y salvas. 253224_262479
+%pos: y.CCONJ de.ADP su.DET panza.NOUN salieron.VERB la.DET abuela.NOUN y.CCONJ Caperucita.NOUN salvas.ADJ y.CCONJ salvas.NOUN sanas.ADJ y.CCONJ salvas.ADJ
+*PAR:	para esto, el cazador le pidó a Caperucita que fuera al bosque por unas rocas. 262479_274186
+%pos: para.ADP esto.PRON ,.PUNCT el.DET cazador.NOUN le.PRON pidó.VERB a.ADP Caperucita.PROPN que.SCONJ fuera.VERB al.DET bosque.NOUN por.ADP unas.DET rocas.NOUN
+*PAR:	ya que llenarían al lobo de rocas. 274186_278287
+%pos: ya.ADV que.CCONJ llenarían.VERB al.ADP lobo.NOUN de.ADP rocas.NOUN
+*PAR:	y por consiguiente, le coserían su cuerpo. 278287_282050
+%pos: y.CCONJ por.ADP consiguiente.NOUN ,.PUNCT le.PRON coserían.VERB su.DET cuerpo.NOUN
+*PAR:	más tarde, el lobo, con su panza costurada, salió al bosque. 282050_295625
+%pos: más.ADV tarde.ADV ,.PUNCT el.DET lobo.NOUN ,.PUNCT con.ADP su.DET panza.NOUN costurada.ADJ ,.PUNCT salió.VERB al.ADP bosque.NOUN
+*PAR:	pero como este estaba lleno de rocas, el pesor lo hizo que cayera en un río. 295625_303640
+%pos: pero.CCONJ como.ADP este.PRON estaba.AUX lleno.ADJ de.ADP rocas.NOUN ,.PUNCT el.DET pesor.NOUN lo.PRON hizo.VERB que.SCONJ cayera.VERB en.ADP un.DET río.NOUN
+*PAR:	más tarde, el cazador se despidió <de la abuela> [/] de la abuela de Caperucita. 303640_320005
+%pos: más.ADV tarde.ADV ,.PUNCT el.DET cazador.NOUN se.PRON despidió.VERB de.ADP la.DET abuela.NOUN de.ADP la.DET abuela.NOUN de.ADP Caperucita.PROPN
+*PAR:	y le dijo a la abuela de Caperucita <que la iba a acompañar al bosque> [/] que la iba a acompañar al bosque para que no se regresara sola a la casa de su madre. 320005_335776
+%pos: y.CCONJ le.PRON dijo.VERB a.ADP la.DET abuela.NOUN de.ADP Caperucita.PROPN que.SCONJ la.PRON iba.VERB a.ADP acompañar.VERB al.DET bosque.NOUN que.SCONJ la.PRON iba.VERB a.ADP acompañar.VERB al.DET bosque.NOUN para.ADP que.SCONJ no.ADV se.PRON regresara.VERB sola.ADJ a.ADP la.DET casa.NOUN de.ADP su.DET madre.NOUN
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:17:50.236586

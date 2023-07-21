@@ -1,0 +1,58 @@
+.form-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .tagger-form {
+    width: 80%;
+    height: 40vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .tagger-form label {
+    margin-bottom: 10px;
+  }
+  
+  .tagger-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .tagger-form button {
+    padding: 10px 20px;
+  }
+  
+  .centered-input {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+  }
+  
+  .word-bubble {
+    display: inline-block;
+    background-color: #f0f0f0;
+    border-radius: 20px;
+    padding: 8px 16px;
+    margin: 4px;
+    text-align: center;
+  }
+  
+  .word-label {
+    font-weight: bold;
+  }
+  
+  .upos-label {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin-top: 8px;
+    font-size: 12px;
+  }
+  

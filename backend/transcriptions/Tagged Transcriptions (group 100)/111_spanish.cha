@@ -1,0 +1,37 @@
+@UTF8
+@Window:	116_211_668_1071_-1_-1_1027_0_1027_0
+@Begin
+@Languages:	spa,eng
+@Participants:	PAR 111 Speaker
+@ID:	spa|narratives|PAR||male|||Speaker|||
+@Media:	111_spanish,audio
+*PAR:	<la Caperucita Roja> [///] no, la mamá recibió una tarjeta que decía que estaba muy enferma la abuelita. 0_9649
+%pos: la.DET Caperucita.NOUN Roja.ADJ no.ADV ,.PUNCT la.DET mamá.NOUN recibió.VERB una.DET tarjeta.NOUN que.SCONJ decía.VERB que.SCONJ estaba.AUX muy.ADV enferma.ADJ la.DET abuelita.NOUN
+*PAR:	y le dijo a la Caperucita Roja que le mande galletas. 9649_14967
+%pos: y.CCONJ le.PRON dijo.VERB a.ADP la.DET Caperucita.NOUN Roja.ADJ que.SCONJ le.PRON mande.VERB galletas.NOUN
+*PAR:	y entonces fue. 14967_16726
+%pos: y.CCONJ entonces.ADV fue.VERB
+*PAR:	y &-um xxx estaba [/] estaba cerrado una callecita. 16726_28273
+%pos: y.CCONJ xxx.NOUN estaba.AUX estaba.AUX cerrado.VERB una.DET callecita.NOUN
+*PAR:	entonces, fue por el otro lado. 28273_31073
+%pos: entonces.ADV ,.PUNCT fue.VERB por.ADP el.DET otro.DET lado.NOUN
+*PAR:	y &-um y luego vio un lobo. 31073_36163
+%pos: y.CCONJ y.CCONJ luego.ADV vio.VERB un.DET lobo.NOUN
+*PAR:	y &-um la estaba correteando. 36163_43158
+%pos: y.CCONJ la.PRON estaba.AUX correteando.VERB
+*PAR:	y &-um luego un trabajador o alguien &-hm lo vio. 43158_55227
+%pos: y.CCONJ luego.ADV un.DET trabajador.NOUN o.CCONJ alguien.PRON lo.PRON vio.VERB
+*PAR:	<y Caperucita> [///] &-um el lobo le dijo que llegaría más rápido por otro lado. 55227_65705
+%pos: y.CCONJ Caperucita.PROPN el.DET lobo.NOUN le.PRON dijo.VERB que.SCONJ llegaría.VERB más.ADV rápido.ADJ por.ADP otro.DET lado.NOUN
+*PAR:	y el lobo fue a la casa de la abuelita más rápido. 65705_69133
+%pos: y.CCONJ el.DET lobo.NOUN fue.VERB a.ADP la.DET casa.NOUN de.ADP la.DET abuelita.NOUN más.ADV rápido.ADJ
+*PAR:	y se vistió como la abuelita. 69133_71136
+%pos: y.CCONJ se.PRON vistió.VERB como.ADP la.DET abuelita.NOUN
+*PAR:	y Caperucita llegó. 71136_74428
+%pos: y.CCONJ Caperucita.PROPN llegó.VERB
+*PAR:	y ya casi iba a [/] a matar a Caperucita Roja. 74428_80796
+%pos: y.CCONJ ya.ADV casi.ADV iba.VERB a.ADP a.ADP matar.VERB a.ADP Caperucita.PROPN Roja.PROPN
+*PAR:	pero el señor que había visto mató al lobo. 80796_85165
+%pos: pero.CCONJ el.DET señor.NOUN que.SCONJ había.AUX visto.VERB mató.VERB al.ADP lobo.NOUN
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:33:53.913815

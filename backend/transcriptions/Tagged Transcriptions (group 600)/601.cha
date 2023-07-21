@@ -1,0 +1,50 @@
+@UTF8
+@Window:	86_757_668_653_-1_-1_62_0_62_0
+@Begin
+@Languages:	spa
+@Participants:	PAR 601 Speaker
+@ID:	spa|narratives|PAR||female|||Speaker|||
+@Media:	601,audio
+*PAR:	<RES> [e]. 0_4019
+*PAR:	érase una vez una Caperucita Roja (.) que estaba en su casa. 4019_15196
+%pos: érase.VERB una.DET vez.NOUN una.DET Caperucita.NOUN Roja.ADJ que.SCONJ estaba.VERB en.ADP su.DET casa.NOUN
+*PAR:	un [/] un día estaba con su abuela. 15196_18895
+%pos: un.DET un.DET día.NOUN estaba.VERB con.ADP su.DET abuela.NOUN
+*PAR:	y ella [//] a ellas juntas les gustaba preparar un pastel. 18895_24453
+%pos: y.CCONJ ella.PRON a.ADP ellas.PRON juntas.ADJ les.PRON gustaba.VERB preparar.VERB un.DET pastel.NOUN
+*PAR:	un día, su mamá mandó a la Caperucita con una canasta llena de comida y una botella. 24453_33393
+%pos: un.DET día.NOUN ,.PUNCT su.DET mamá.NOUN mandó.VERB a.ADP la.DET Caperucita.PROPN con.ADP una.DET canasta.NOUN llena.ADJ de.ADP comida.NOUN y.CCONJ una.DET botella.NOUN
+*PAR:	y de repente, la Caperucita se encontró con un lobo. 33393_37500
+%pos: y.CCONJ de.ADP repente.ADV ,.PUNCT la.DET Caperucita.PROPN se.PRON encontró.VERB con.ADP un.DET lobo.NOUN
+*PAR:	y atrás del lobo había un leñador. 37500_39905
+%pos: y.CCONJ atrás.ADV del.ADP lobo.NOUN había.VERB un.DET leñador.NOUN
+*PAR:	el lobo se adelantó de mientras la Caperucita recogía flores. 39905_47387
+%pos: el.DET lobo.NOUN se.PRON adelantó.VERB de.ADP mientras.SCONJ la.DET Caperucita.PROPN recogía.VERB flores.NOUN
+*PAR:	el lobo decidió comerse a la abuelita para [///] y luego la Caperucita llegó con el ramo de flores. 47387_58565
+%pos: el.DET lobo.NOUN decidió.VERB comerse.VERB a.ADP la.DET abuelita.NOUN para.ADP y.CCONJ luego.ADV la.DET Caperucita.PROPN llegó.VERB con.ADP el.DET ramo.NOUN de.ADP flores.NOUN
+*PAR:	y el lobo estaba fingiendo ser la abuelita. 58565_62384
+%pos: y.CCONJ el.DET lobo.NOUN estaba.AUX fingiendo.VERB ser.AUX la.DET abuelita.NOUN
+*PAR:	luego, la Caperucita se estaba preguntándose por qué tiene esas [/] esas manos tan grandes. 62384_70849
+%pos: luego.ADV ,.PUNCT la.DET Caperucita.PROPN se.PRON estaba.AUX preguntándose.VERB por.ADP qué.PRON tiene.VERB esas.DET esas.DET manos.NOUN tan.ADV grandes.ADJ
+*PAR:	y, de repente, el lobo se rebela. 70849_76594
+%pos: y.CCONJ ,.PUNCT de.ADP repente.ADV ,.PUNCT el.DET lobo.NOUN se.PRON rebela.VERB
+*PAR:	<y que> [///] el lobo se rebela. 76594_78443
+%pos: y.CCONJ que.SCONJ el.DET lobo.NOUN se.PRON rebela.VERB
+*PAR:	después, llega un cazador <para hacer(le)> [//] para sacarle lo que se había comido el lobo. 78443_91089
+%pos: después.ADV ,.PUNCT llega.VERB un.DET cazador.NOUN para.ADP hacerle.VERB para.ADP sacarle.VERB lo.PRON que.SCONJ se.PRON había.AUX comido.VERB el.DET lobo.NOUN
+*PAR:	y sa(có) [/] sa(có) [///] y entonces el cazador sacó a la abuelita y a la Caperucita Roja. 91089_100195
+%pos: y.CCONJ sacó.VERB sacó.VERB y.CCONJ entonces.ADV el.DET cazador.NOUN sacó.VERB a.ADP la.DET abuelita.NOUN y.CCONJ a.ADP la.DET Caperucita.NOUN Roja.ADJ
+*PAR:	después, la Caperucita Roja fue por piedras para darle al lobo. 100195_107647
+%pos: después.ADV ,.PUNCT la.DET Caperucita.PROPN Roja.PROPN fue.VERB por.ADP piedras.NOUN para.ADP darle.VERB al.ADP lobo.NOUN
+*PAR:	el lobo se sintió mal de su pancita. 107647_114058
+%pos: el.DET lobo.NOUN se.PRON sintió.VERB mal.ADV de.ADP su.DET pancita.NOUN
+*PAR:	y cayó al pozo. 114058_116099
+%pos: y.CCONJ cayó.VERB al.ADP pozo.NOUN
+*PAR:	entonces, la Caperucita y el cazador y el perro del cazador se fueron. 116099_122457
+%pos: entonces.ADV ,.PUNCT la.DET Caperucita.PROPN y.CCONJ el.DET cazador.NOUN y.CCONJ el.DET perro.NOUN del.ADP cazador.NOUN se.PRON fueron.AUX
+*PAR:	y se fueron. 122457_124331
+%pos: y.CCONJ se.PRON fueron.VERB
+*PAR:	y vivieron felices para siempre, fin. 124331_127257
+%pos: y.CCONJ vivieron.VERB felices.NOUN para.ADP siempre.ADV ,.PUNCT fin.NOUN
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:18:40.876393

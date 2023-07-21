@@ -1,0 +1,77 @@
+@UTF8
+@Window:	130_198_668_1071_-1_-1_1454_0_1454_0
+@Begin
+@Languages:	spa,eng
+@Participants:	PAR 503 Speaker
+@ID:	spa|narratives|PAR||male|||Speaker|||
+@Media:	503_spanish,audio
+*PAR:	<RES> [e]. 0_4477
+*PAR:	<RES> [e].4477_7990
+*PAR:	la &-hm (...). 7990_22159
+%pos: la.DET
+*PAR:	la niña <se> [///] &-um tiene un nuevo (...). 22159_61705
+%pos: la.DET niña.NOUN se.PRON tiene.VERB un.DET nuevo.ADJ
+*PAR:	<RES> [e]. 61705_63607
+*PAR:	<RES> [e]. 63607_65222
+*PAR:	<RES> [e]. 65222_67820
+*PAR:	<RES> [e]. 67820_68996
+*PAR:	<RES> [e]. 68996_69617
+*PAR:	<RES> [e].69617_73341
+*PAR:	&-um la [/] la niña &-um va a ir a su abuela. 73341_84562
+%pos: la.DET la.DET niña.NOUN va.VERB a.ADP ir.VERB a.ADP su.DET abuela.NOUN
+*PAR:	<RES> [e]. 84562_87824
+*PAR:	hay un lobo. 87824_97900
+%pos: hay.VERB un.DET lobo.NOUN
+*PAR:	y el lobo está <trying@s to@s> [//] tratando de asustar a la niña. 97900_110690
+%pos: y.CCONJ el.DET lobo.NOUN está.AUX trying.VERB to.ADP tratando.VERB de.ADP asustar.VERB a.ADP la.DET niña.NOUN
+*PAR:	<RES> [e]. 110690_114018
+*PAR:	la [/] la niña está picking@s flores para su abuela. 114018_134300
+%pos: la.DET la.DET niña.NOUN está.AUX picking.VERB flores.NOUN para.ADP su.DET abuela.NOUN
+*PAR:	y el lobo está &-um tratando de comer su abuela. 134300_143438
+%pos: y.CCONJ el.DET lobo.NOUN está.AUX tratando.VERB de.ADP comer.VERB su.DET abuela.NOUN
+*PAR:	<RES> [e]. 143438_147352
+*PAR:	el lobo come a la abuela. 147352_154125
+%pos: el.DET lobo.NOUN come.VERB a.ADP la.DET abuela.NOUN
+*PAR:	<RES> [e]. 154125_156829
+*PAR:	el [//] la niña pone las flores y las galletas en un [: una][*] mesa. 156829_174483
+%pos: el.DET la.DET niña.NOUN pone.VERB las.DET flores.NOUN y.CCONJ las.DET galletas.NOUN en.ADP un.DET mesa.NOUN
+*PAR:	y sí. 174483_185365
+%pos: y.CCONJ sí.ADV
+*PAR:	<RES> [e]. 185365_187508
+*PAR:	el lobo quiere comer la niña. 187508_192191
+%pos: el.DET lobo.NOUN quiere.VERB comer.VERB la.DET niña.NOUN
+*PAR:	<RES> [e]. 192191_194803
+*PAR:	la niña piense [: piensa][*] que el lobo tiene muy [/] muy grande orejas. 194803_214026
+%pos: la.DET niña.NOUN piense.VERB que.SCONJ el.DET lobo.NOUN tiene.VERB muy.ADV muy.ADV grande.ADJ orejas.NOUN
+*PAR:	<RES> [e]. 214026_215838
+*PAR:	el lobo &-um <is@s trying@s> [//] trata de comer &-hm la niña. 215838_234357
+%pos: el.DET lobo.NOUN is.AUX trying.VERB trata.VERB de.ADP comer.VERB la.DET niña.NOUN
+*PAR:	el hunter@s comes@s in@s. 234357_255052
+%pos: el.DET hunter.NOUN comes.VERB in.ADV
+*PAR:	xxx la niña y la abuela. 255052_259715
+%pos: xxx.X la.DET niña.NOUN y.CCONJ la.DET abuela.NOUN
+*PAR:	<RES> [e]. 259715_262674
+*PAR:	y todos están &-um alegre [: alegres][*]. 262674_281870
+%pos: y.CCONJ todos.PRON están.AUX alegre.ADJ
+*PAR:	<RES> [e]. 281870_288317
+*PAR:	&-um xxx el lobo con rocas para el lobo no se xxx bien. 288317_323725
+%pos: xxx.X el.DET lobo.NOUN con.ADP rocas.NOUN para.ADP el.DET lobo.NOUN no.ADV se.PRON xxx.VERB bien.ADV
+*PAR:	<RES> [e]. 323725_325111
+*PAR:	y sew@s him@s together@s. 325111_333821
+%pos: y.CCONJ sew.VERB him.PRON together.ADV
+*PAR:	y el lobo se va [/] va a [//] (..) al forest. 333821_351242
+%pos: y.CCONJ el.DET lobo.NOUN se.PRON va.VERB va.VERB a.ADP al.DET forest.PROPN
+*PAR:	<RES> [e]. 351242_353457
+*PAR:	los demás están laughing@s a él. 353457_358634
+%pos: los.DET demás.PRON están.AUX laughing.VERB a.ADP él.PRON
+*PAR:	<RES> [e]. 358634_360909
+*PAR:	<RES> [e]. 360909_363907
+*PAR:	y <todos se> [//] todos se [/] se [/] se [: le][*] dice [: dicen][*] goodbye@s a la abuela. 363907_381233
+%pos: y.CCONJ todos.DET se.PRON todos.PRON se.PRON se.PRON se.PRON dice.VERB goodbye.NOUN a.ADP la.DET abuela.NOUN
+*PAR:	<RES> [e]. 381233_384006
+*PAR:	y el [: la] abuela dice goodbye@s al [/] al niño y [/] y al hunter@s. 384006_398057
+%pos: y.CCONJ el.DET abuela.NOUN dice.VERB goodbye.PROPN al.ADP al.DET niño.NOUN y.CCONJ y.CCONJ al.ADP hunter.VERB
+*PAR:	y los animales se [/] se hacen el [/] el [/] &-um xxx. 398057_406713
+%pos: y.CCONJ los.DET animales.NOUN se.PRON se.PRON hacen.VERB el.DET el.DET xxx.X
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:29:55.337302

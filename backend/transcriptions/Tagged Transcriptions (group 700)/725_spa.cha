@@ -1,0 +1,70 @@
+@UTF8
+@Window:	108_797_668_637_-1_-1_2734_0_2734_0
+@Begin
+@Languages:	spa
+@Participants:	PAR 725 Speaker
+@ID:	spa|narratives|PAR||female|||Speaker|||
+@Media:	725_spa,audio
+*PAR:	<RES> [e]. 0_4821
+*PAR:	érase una vez Caperucita Roja muy feliz con vestimenta roja, su vestido. 4821_18438
+%pos: érase.VERB una.DET vez.NOUN Caperucita.NOUN Roja.ADJ muy.ADV feliz.ADJ con.ADP vestimenta.NOUN roja.ADJ ,.PUNCT su.DET vestido.NOUN
+*PAR:	era muy feliz y atenta, respon(sable), este, educada. 18438_27088
+%pos: era.AUX muy.ADV feliz.ADJ y.CCONJ atenta.ADJ ,.PUNCT responsable.ADJ ,.PUNCT este.PRON ,.PUNCT educada.VERB
+*PAR:	un día, estando con su abuelita, su abuelita hacía pasteles. 27088_36634
+%pos: un.DET día.NOUN ,.PUNCT estando.VERB con.ADP su.DET abuelita.NOUN ,.PUNCT su.DET abuelita.NOUN hacía.VERB pasteles.NOUN
+*PAR:	&-eh &=laughs no sé qué más. 36634_45310
+%pos: no.ADV sé.VERB qué.INTJ más.ADV
+*PAR:	la abuelita la [/] la quería. 45310_49435
+%pos: la.DET abuelita.NOUN la.PRON la.PRON quería.VERB
+*PAR:	y se la pasaban bien juntas. 49435_52336
+%pos: y.CCONJ se.PRON la.PRON pasaban.VERB bien.ADV juntas.ADJ
+*PAR:	un día, la mamá le dijo a Caperucita +"/. 52336_58223
+%pos: un.DET día.NOUN ,.PUNCT la.DET mamá.NOUN le.PRON dijo.VERB a.ADP Caperucita.PROPN +"/.SYM
+*PAR:	+" puedes llevarle este [//] esta comida a tu abuelita? 58223_65786
+%pos: +".SYM puedes.AUX llevarle.VERB este.DET esta.DET comida.NOUN a.ADP tu.DET abuelita.NOUN
+*PAR:	+" y así la visitas. 65786_66909
+%pos: +".SYM y.CCONJ así.ADV la.DET visitas.NOUN
+*PAR:	+" y estás con ella. 66909_68074
+%pos: +".SYM y.CCONJ estás.VERB con.ADP ella.PRON
+*PAR:	Caperucita se dirigió a casa de su abuela. 68074_72679
+%pos: Caperucita.PROPN se.PRON dirigió.VERB a.ADP casa.NOUN de.ADP su.DET abuela.NOUN
+*PAR:	y <mientras que> [/] mientras que iba hacia ella estaba muy contenta por darle una canasta de comida. 72679_82201
+%pos: y.CCONJ mientras.ADV que.SCONJ mientras.ADV que.SCONJ iba.VERB hacia.ADP ella.PRON estaba.AUX muy.ADV contenta.ADJ por.ADP darle.VERB una.DET canasta.NOUN de.ADP comida.NOUN
+*PAR:	pero no contaba con <que ha(bía)> [//] en ese [/] en ese camino había un lobo muy hambriento y feroz. 82201_90280
+%pos: pero.CCONJ no.ADV contaba.VERB con.ADP que.SCONJ había.VERB en.ADP ese.PRON en.ADP ese.DET camino.NOUN había.VERB un.DET lobo.NOUN muy.ADV hambriento.ADJ y.CCONJ feroz.ADJ
+*PAR:	mientras Caperucita se distría por [/] por darle más flores a su abuelita, el lobo alcanzó a llegar a la casa de la abuela para darle una sorpresa a Caperucita. 90280_109506
+%pos: mientras.SCONJ Caperucita.PROPN se.PRON distría.VERB por.ADP por.ADP darle.VERB más.ADV flores.NOUN a.ADP su.DET abuelita.NOUN ,.PUNCT el.DET lobo.NOUN alcanzó.VERB a.ADP llegar.VERB a.ADP la.DET casa.NOUN de.ADP la.DET abuela.NOUN para.ADP darle.VERB una.DET sorpresa.NOUN a.ADP Caperucita.PROPN
+*PAR:	Caperucita no contaba con que el lobo atacaría a la abuela mientras ella se distraía. 109506_118623
+%pos: Caperucita.PROPN no.ADV contaba.VERB con.ADP que.SCONJ el.DET lobo.NOUN atacaría.VERB a.ADP la.DET abuela.NOUN mientras.SCONJ ella.PRON se.PRON distraía.VERB
+*PAR:	y [/] y pensaba en ella. 118623_124142
+%pos: y.CCONJ y.CCONJ pensaba.VERB en.ADP ella.PRON
+*PAR:	Caperucita, al llegar a la casa de la abuelita, colocó las flores. 124142_133891
+%pos: Caperucita.PROPN ,.PUNCT al.ADP llegar.VERB a.ADP la.DET casa.NOUN de.ADP la.DET abuelita.NOUN ,.PUNCT colocó.VERB las.DET flores.NOUN
+*PAR:	<y la> [/] y la saludó. 133891_136931
+%pos: y.CCONJ la.DET y.CCONJ la.PRON saludó.VERB
+*PAR:	pero la abuelita no [/] no contestaba. 136931_141230
+%pos: pero.CCONJ la.DET abuelita.NOUN no.ADV no.ADV contestaba.VERB
+*PAR:	Caperucita, muy sorprendida, se acercó a [/] a la cama de su abuela. 141230_150885
+%pos: Caperucita.ADJ ,.PUNCT muy.ADV sorprendida.ADJ ,.PUNCT se.PRON acercó.VERB a.ADP a.ADP la.DET cama.NOUN de.ADP su.DET abuela.NOUN
+*PAR:	y, al ver <que no> [/] que no contestaba la abuelita a las preguntas que le hacía Caperucita, Caperucita muy asustada, reaccionó al lobo que se la quería comer. 150885_168568
+%pos: y.CCONJ ,.PUNCT al.ADP ver.VERB que.SCONJ no.ADV que.SCONJ no.ADV contestaba.VERB la.DET abuelita.NOUN a.ADP las.DET preguntas.NOUN que.SCONJ le.PRON hacía.VERB Caperucita.PROPN ,.PUNCT Caperucita.PROPN muy.ADV asustada.ADJ ,.PUNCT reaccionó.VERB al.ADP lobo.NOUN que.SCONJ se.PRON la.PRON quería.VERB comer.VERB
+*PAR:	el lobo estaba muy hambriento que se la comió. 168568_182475
+%pos: el.DET lobo.NOUN estaba.AUX muy.ADV hambriento.ADJ que.SCONJ se.PRON la.PRON comió.VERB
+*PAR:	y después de haberla comido, estuvo muy cansado, tirado. 182475_189021
+%pos: y.CCONJ después.ADV de.ADP haberla.AUX comido.VERB ,.PUNCT estuvo.AUX muy.ADV cansado.ADJ ,.PUNCT tirado.ADJ
+*PAR:	y mientras que estaba descansando, llegó un carpintero en busca de salvarlo. 189021_197264
+%pos: y.CCONJ mientras.ADV que.SCONJ estaba.AUX descansando.VERB ,.PUNCT llegó.VERB un.DET carpintero.NOUN en.ADP busca.NOUN de.ADP salvarlo.VERB
+*PAR:	pero se dio cuenta de que todos estaban bien y felices. 197264_207348
+%pos: pero.CCONJ se.PRON dio.VERB cuenta.NOUN de.ADP que.SCONJ todos.PRON estaban.VERB bien.ADV y.CCONJ felices.ADJ
+*PAR:	la abuelita le ofreció comida al lobo. 207348_211475
+%pos: la.DET abuelita.NOUN le.PRON ofreció.VERB comida.NOUN al.ADP lobo.NOUN
+*PAR:	y Caperucita salió bien mientras todos se la pasaban felices y contentos. 211475_219563
+%pos: y.CCONJ Caperucita.PROPN salió.VERB bien.ADV mientras.SCONJ todos.PRON se.PRON la.PRON pasaban.VERB felices.ADJ y.CCONJ contentos.ADJ
+*PAR:	todos muy felices <apoyando a que> [//] apoyándose el uno al otro convivían. 219563_234413
+%pos: todos.DET muy.ADV felices.ADJ apoyando.VERB a.ADP que.SCONJ apoyándose.VERB el.DET uno.PRON al.ADP otro.PRON convivían.VERB
+*PAR:	el lobo, muy hambriento, se fue feliz mientras todos estuvieron alegres y divirtiéndose, todos felices y en paz. 234413_254706
+%pos: el.DET lobo.NOUN ,.PUNCT muy.ADV hambriento.ADJ ,.PUNCT se.PRON fue.AUX feliz.ADJ mientras.SCONJ todos.PRON estuvieron.AUX alegres.ADJ y.CCONJ divirtiéndose.VERB ,.PUNCT todos.DET felices.NOUN y.CCONJ en.ADP paz.NOUN
+*PAR:	finalmente, Caperucita se retira de la casa de su abuela junto con su amigo nuevo, el carpintero, <deseándole una> [/] deseándole una [/] una buena visita a su abuela. 254706_280215
+%pos: finalmente.ADV ,.PUNCT Caperucita.PROPN se.PRON retira.VERB de.ADP la.DET casa.NOUN de.ADP su.DET abuela.NOUN junto.ADJ con.ADP su.DET amigo.NOUN nuevo.ADJ ,.PUNCT el.DET carpintero.NOUN ,.PUNCT deseándole.VERB una.DET deseándole.VERB una.DET una.DET buena.ADJ visita.NOUN a.ADP su.DET abuela.NOUN
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:17:33.012420

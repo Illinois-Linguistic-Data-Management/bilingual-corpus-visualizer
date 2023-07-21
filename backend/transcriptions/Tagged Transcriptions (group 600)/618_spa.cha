@@ -1,0 +1,72 @@
+@UTF8
+@Window:	125_483_668_1071_-1_-1_1987_0_1987_0
+@Begin
+@Languages:	spa,eng
+@Participants:	PAR 618 Speaker
+@ID:	spa|narratives|PAR||female|||Speaker|||
+@Media:	618_spa,audio
+*PAR:	<RES> [e]. 0_4070
+*PAR:	Caperucita Roja. 4070_7235
+%pos: Caperucita.NOUN Roja.ADJ
+*PAR:	a Caperucita Roja le gustaba hacer pastel con su abuelita. 7235_14826
+%pos: a.ADP Caperucita.PROPN Roja.PROPN le.PRON gustaba.VERB hacer.VERB pastel.NOUN con.ADP su.DET abuelita.NOUN
+*PAR:	su mamá le dijo que fuera a llevarle fruta, galleta y vino a su abuelita. 14826_25760
+%pos: su.DET mamá.NOUN le.PRON dijo.VERB que.SCONJ fuera.VERB a.ADP llevarle.VERB fruta.NOUN ,.PUNCT galleta.NOUN y.CCONJ vino.NOUN a.ADP su.DET abuelita.NOUN
+*PAR:	pero el lobo se estaba, se dio cuenta que Caperucita iba caminando sola. 25760_34200
+%pos: pero.CCONJ el.DET lobo.NOUN se.PRON estaba.VERB ,.PUNCT se.PRON dio.VERB cuenta.NOUN que.SCONJ Caperucita.PROPN iba.AUX caminando.VERB sola.ADJ
+*PAR:	pero él no sabía que el leñador estaba ahí. 34200_37331
+%pos: pero.CCONJ él.PRON no.ADV sabía.VERB que.SCONJ el.DET leñador.NOUN estaba.VERB ahí.ADV
+*PAR:	Ca(perucita) [//] mientras que Caperucita Roja estaba cortando flores para su abuelita, el lobo se adelantó para disfrazarse de su abuelita. 37331_47341
+%pos: Caperucita.PROPN mientras.ADV que.SCONJ Caperucita.PROPN Roja.PROPN estaba.AUX cortando.VERB flores.NOUN para.ADP su.DET abuelita.NOUN ,.PUNCT el.DET lobo.NOUN se.PRON adelantó.VERB para.ADP disfrazarse.VERB de.ADP su.DET abuelita.NOUN
+*PAR:	después, el lobo pensó en algo. 47341_51410
+%pos: después.ADV ,.PUNCT el.DET lobo.NOUN pensó.VERB en.ADP algo.PRON
+*PAR:	y se la comió. 51410_52972
+%pos: y.CCONJ se.PRON la.PRON comió.VERB
+*PAR:	Caperucita le dejó sus galletas, su vino y su fruta con sus flores. 52972_64219
+%pos: Caperucita.PROPN le.PRON dejó.VERB sus.DET galletas.NOUN ,.PUNCT su.DET vino.NOUN y.CCONJ su.DET fruta.NOUN con.ADP sus.DET flores.NOUN
+*PAR:	y el lobo la estaba mirando. 64219_66831
+%pos: y.CCONJ el.DET lobo.NOUN la.PRON estaba.AUX mirando.VERB
+*PAR:	después, ella la miró. 66831_71598
+%pos: después.ADV ,.PUNCT ella.PRON la.PRON miró.VERB
+*PAR:	y le empezó a preguntar que por qué sus ojos eran más grandes. 71598_77039
+%pos: y.CCONJ le.PRON empezó.VERB a.ADP preguntar.VERB que.SCONJ por.ADP qué.PRON sus.DET ojos.NOUN eran.AUX más.ADV grandes.ADJ
+*PAR:	y el lobo le contestó +"/. 77039_78967
+%pos: y.CCONJ el.DET lobo.NOUN le.PRON contestó.VERB +"/.SYM
+*PAR:	+" para verte mejor. 78967_80075
+%pos: +".SYM para.ADP verte.NOUN mejor.ADJ
+*PAR:	y así. 80075_81252
+%pos: y.CCONJ así.ADV
+*PAR:	después, el lobo se levantó de la cama. 81252_86116
+%pos: después.ADV ,.PUNCT el.DET lobo.NOUN se.PRON levantó.VERB de.ADP la.DET cama.NOUN
+*PAR:	y Caperucita vio que era el lobo. 86116_88804
+%pos: y.CCONJ Caperucita.PROPN vio.VERB que.SCONJ era.AUX el.DET lobo.NOUN
+*PAR:	y salió corriendo. 88804_90015
+%pos: y.CCONJ salió.VERB corriendo.VERB
+*PAR:	después, vino un cazador. 90015_94163
+%pos: después.ADV ,.PUNCT vino.VERB un.DET cazador.NOUN
+*PAR:	y lo vio. 94163_96054
+%pos: y.CCONJ lo.PRON vio.VERB
+*PAR:	lleni(to) [//] que su pancita estaba llenita. 96054_99854
+%pos: llenito.ADJ que.SCONJ su.DET pancita.NOUN estaba.AUX llenita.ADJ
+*PAR:	y él estaba en la cama. 99854_101566
+%pos: y.CCONJ él.PRON estaba.VERB en.ADP la.DET cama.NOUN
+*PAR:	después, le cortó la panza al lobo. 101566_106226
+%pos: después.ADV ,.PUNCT le.PRON cortó.VERB la.DET panza.NOUN al.ADP lobo.NOUN
+*PAR:	y pudieron salir su abuelita y Caperucita. 106226_109644
+%pos: y.CCONJ pudieron.AUX salir.VERB su.DET abuelita.NOUN y.CCONJ Caperucita.PROPN
+*PAR:	el leñador le metió piedras. 109644_114162
+%pos: el.DET leñador.NOUN le.PRON metió.VERB piedras.NOUN
+*PAR:	y después le costuró para que no lo notara. 114162_119101
+%pos: y.CCONJ después.ADV le.PRON costuró.VERB para.ADP que.SCONJ no.ADV lo.PRON notara.VERB
+*PAR:	después, el lobo fue para tomar agua. 119101_123428
+%pos: después.ADV ,.PUNCT el.DET lobo.NOUN fue.VERB para.ADP tomar.VERB agua.NOUN
+*PAR:	pero se cayó en el pozo. 123428_128109
+%pos: pero.CCONJ se.PRON cayó.VERB en.ADP el.DET pozo.NOUN
+*PAR:	y se resbaló. 128109_130347
+%pos: y.CCONJ se.PRON resbaló.VERB
+*PAR:	después, Caperucita se despidió de su abuelita. 130347_137260
+%pos: después.ADV ,.PUNCT Caperucita.PROPN se.PRON despidió.VERB de.ADP su.DET abuelita.NOUN
+*PAR:	y se fue con el leñador a casa. 137260_139003
+%pos: y.CCONJ se.PRON fue.VERB con.ADP el.DET leñador.NOUN a.ADP casa.NOUN
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:19:17.809145

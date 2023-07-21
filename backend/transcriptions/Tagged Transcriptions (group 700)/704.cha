@@ -1,0 +1,78 @@
+@UTF8
+@Window:	135_575_668_768_-1_-1_2104_0_2104_0
+@Begin
+@Languages:	spa,eng
+@Participants:	PAR 704 Speaker
+@ID:	spa|narratives|PAR||female|||Speaker|||
+@Media:	704,audio
+*PAR:	<RES> [e]. 0_10694
+*PAR:	Caperucita Roja de Charles (.). 10694_20183
+%pos: Caperucita.NOUN Roja.ADJ de.ADP Charles.PROPN
+*PAR:	Caperucita Roja visitó a su abuela para llevarle un pastel. 20183_25499
+%pos: Caperucita.PROPN Roja.PROPN visitó.VERB a.ADP su.DET abuela.NOUN para.ADP llevarle.VERB un.DET pastel.NOUN
+*PAR:	se fue de su casa con una canasta llena de uva, pan y jugo. 25499_40051
+%pos: se.PRON fue.VERB de.ADP su.DET casa.NOUN con.ADP una.DET canasta.NOUN llena.ADJ de.ADP uva.NOUN ,.PUNCT pan.NOUN y.CCONJ jugo.NOUN
+*PAR:	se despidió de su mamá. 40051_42150
+%pos: se.PRON despidió.VERB de.ADP su.DET mamá.NOUN
+*PAR:	iba caminando por el bosque cuando, de repente, un lobo iba atrás de ella. 42150_54087
+%pos: iba.AUX caminando.VERB por.ADP el.DET bosque.NOUN cuando.SCONJ ,.PUNCT de.ADP repente.ADV ,.PUNCT un.DET lobo.NOUN iba.VERB atrás.ADV de.ADP ella.PRON
+*PAR:	un leñador se dio cuenta. 54087_57185
+%pos: un.DET leñador.NOUN se.PRON dio.VERB cuenta.NOUN
+*PAR:	y estaba enojado. 57185_60682
+%pos: y.CCONJ estaba.AUX enojado.ADJ
+*PAR:	el lobo llegó antes que Caperucita. 60682_70034
+%pos: el.DET lobo.NOUN llegó.VERB antes.ADV que.CCONJ Caperucita.PROPN
+*PAR:	ya que ella estaba recogiendo flores para su abuela. 70034_73429
+%pos: ya.ADV que.CCONJ ella.PRON estaba.AUX recogiendo.VERB flores.NOUN para.ADP su.DET abuela.NOUN
+*PAR:	el lobo entró a la casa. 73429_77906
+%pos: el.DET lobo.NOUN entró.VERB a.ADP la.DET casa.NOUN
+*PAR:	y si [///] asustó a la abuela. 77906_81993
+%pos: y.CCONJ si.SCONJ asustó.VERB a.ADP la.DET abuela.NOUN
+*PAR:	y estaba pensativo. 81993_86540
+%pos: y.CCONJ estaba.AUX pensativo.ADJ
+*PAR:	Caperucita llegó a la casa de su abuela. 86540_90565
+%pos: Caperucita.PROPN llegó.VERB a.ADP la.DET casa.NOUN de.ADP su.DET abuela.NOUN
+*PAR:	y puso las flores en un jarrón. 90565_93225
+%pos: y.CCONJ puso.VERB las.DET flores.NOUN en.ADP un.DET jarrón.NOUN
+*PAR:	pero el lobo era el que se encontraba en la cama viendo muy feliz a Caperucita. 93225_103405
+%pos: pero.CCONJ el.DET lobo.NOUN era.AUX el.DET que.SCONJ se.PRON encontraba.VERB en.ADP la.DET cama.NOUN viendo.VERB muy.ADV feliz.ADJ a.ADP Caperucita.PROPN
+*PAR:	Caperucita se acercó a su abuela. 103405_110067
+%pos: Caperucita.PROPN se.PRON acercó.VERB a.ADP su.DET abuela.NOUN
+*PAR:	y se quedó sorprendida. 110067_113273
+%pos: y.CCONJ se.PRON quedó.VERB sorprendida.ADJ
+*PAR:	el lobo salió de la cama. 113273_117090
+%pos: el.DET lobo.NOUN salió.VERB de.ADP la.DET cama.NOUN
+*PAR:	tiró el [/] el cajón. 117090_123612
+%pos: tiró.VERB el.DET el.DET cajón.NOUN
+*PAR:	cayó la vela y el florero con las flo(res). 123612_127960
+%pos: cayó.VERB la.DET vela.NOUN y.CCONJ el.DET florero.NOUN con.ADP las.DET flores.NOUN
+*PAR:	Caperucita se asustó. 127960_130261
+%pos: Caperucita.PROPN se.PRON asustó.VERB
+*PAR:	un leñador entró junto con su perro a la casa. 130261_135419
+%pos: un.DET leñador.NOUN entró.VERB junto.ADV con.ADP su.DET perro.NOUN a.ADP la.DET casa.NOUN
+*PAR:	y el lobo estaba acostado en la cama muy satisfecho. 135419_141366
+%pos: y.CCONJ el.DET lobo.NOUN estaba.AUX acostado.VERB en.ADP la.DET cama.NOUN muy.ADV satisfecho.ADJ
+*PAR:	el leñador utilizó unas tijeras. 141366_147612
+%pos: el.DET leñador.NOUN utilizó.VERB unas.DET tijeras.NOUN
+*PAR:	y abrió al lobo. 147612_150343
+%pos: y.CCONJ abrió.VERB al.ADP lobo.NOUN
+*PAR:	y salió Caperucita y su abuela. 150343_154307
+%pos: y.CCONJ salió.VERB Caperucita.PROPN y.CCONJ su.DET abuela.NOUN
+*PAR:	Caperucita trajo unas rocas del jardín. 154307_161843
+%pos: Caperucita.PROPN trajo.VERB unas.DET rocas.NOUN del.ADP jardín.NOUN
+*PAR:	y llenaron al lobo de ellas. 161843_166024
+%pos: y.CCONJ llenaron.VERB al.ADP lobo.NOUN de.ADP ellas.PRON
+*PAR:	la abuela sostenía hilo y aguja. 166024_169711
+%pos: la.DET abuela.NOUN sostenía.VERB hilo.NOUN y.CCONJ aguja.NOUN
+*PAR:	el leñador, la abuela y Caperucita se estaban riendo del lobo, que caminaba muy cansado. 169711_184938
+%pos: el.DET leñador.NOUN ,.PUNCT la.DET abuela.NOUN y.CCONJ Caperucita.PROPN se.PRON estaban.AUX riendo.VERB del.ADP lobo.NOUN ,.PUNCT que.SCONJ caminaba.VERB muy.ADV cansado.ADJ
+*PAR:	llegó a un pozo. 184938_187805
+%pos: llegó.VERB a.ADP un.DET pozo.NOUN
+*PAR:	y se hundió. 187805_189116
+%pos: y.CCONJ se.PRON hundió.VERB
+*PAR:	Caperucita se despidió de su abuela. 189116_193673
+%pos: Caperucita.PROPN se.PRON despidió.VERB de.ADP su.DET abuela.NOUN
+*PAR:	y el leñador la acompañaba. 193673_195588
+%pos: y.CCONJ el.DET leñador.NOUN la.PRON acompañaba.VERB
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:17:21.776585

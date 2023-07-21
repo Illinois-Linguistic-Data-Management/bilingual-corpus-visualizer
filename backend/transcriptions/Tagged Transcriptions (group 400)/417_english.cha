@@ -1,0 +1,141 @@
+@UTF8
+@Window:	0_0_0_0_2608_0_3482_1_3482_1
+@Begin
+@Languages:	eng
+@Participants:	PAR 417 Speaker
+@ID:	eng|narratives|PAR||male|||Speaker|||
+@Media:	417_english, audio
+*PAR:	there was a little girl &-uh in a house &-um and [//] with her
+	grandmother. 0_9001
+%pos: there.ADV was.VERB a.DET little.ADJ girl.NOUN in.ADP a.DET house.NOUN and.CCONJ with.ADP her.PRON grandmother.NOUN
+*PAR:	and they were very happy. 9001_12140
+%pos: and.CCONJ they.PRON were.AUX very.ADV happy.ADJ
+*PAR:	there was a bunch of birds chirping. 12140_13921
+%pos: there.PRON was.VERB a.DET bunch.NOUN of.ADP birds.NOUN chirping.VERB
+*PAR:	&-um &-um that's all, yeah. 13921_20170
+%pos: that.PRON 's.AUX all.DET ,.PUNCT yeah.ADV
+*PAR:	&-um so then the little girl left the house with a basket. 20170_27966
+%pos: so.ADV then.ADV the.DET little.ADJ girl.NOUN left.VERB the.DET house.NOUN with.ADP a.DET basket.NOUN
+*PAR:	&-uh and yup then everyone's happy. 27966_34451
+%pos: and.CCONJ yup.INTJ then.ADV everyone.PRON 's.AUX happy.ADJ
+*PAR:	then when the little girl was going through the forest with a basket. 34451_44700
+%pos: then.ADV when.ADV the.DET little.ADJ girl.NOUN was.AUX going.VERB through.ADP the.DET forest.NOUN with.ADP a.DET basket.NOUN
+*PAR:	&-uh there was a scary man with an ax. 44700_48248
+%pos: there.ADV was.VERB a.DET scary.ADJ man.NOUN with.ADP an.DET ax.NOUN
+*PAR:	and a wolf that were chasing her. 48248_53263
+%pos: and.CCONJ a.DET wolf.NOUN that.PRON were.AUX chasing.VERB her.PRON
+*PAR:	but she did not see them. 53263_55390
+%pos: but.CCONJ she.PRON did.AUX not.PART see.VERB them.PRON
+*PAR:	&-uh and the animals continued to watch her. 55390_60300
+%pos: and.CCONJ the.DET animals.NOUN continued.VERB to.PART watch.VERB her.PRON
+*PAR:	the wolf (.) went to the house. 60300_76466
+%pos: the.DET wolf.NOUN went.VERB to.ADP the.DET house.NOUN
+*PAR:	and as the birds watched. 76466_80316
+%pos: and.CCONJ as.SCONJ the.DET birds.NOUN watched.VERB
+*PAR:	<the wolf> [//] and (.) the wolf was looking behind him. 80316_87517
+%pos: the.DET wolf.NOUN and.CCONJ the.DET wolf.NOUN was.AUX looking.VERB behind.ADP him.PRON
+*PAR:	so the wolf enters the grandmother's house. 87517_100677
+%pos: so.ADV the.DET wolf.NOUN enters.VERB the.DET grandmother.NOUN 's.PART house.NOUN
+*PAR:	and attacks the grandmother. 100677_103297
+%pos: and.CCONJ attacks.VERB the.DET grandmother.NOUN
+*PAR:	probably eats her. 103297_105327
+%pos: probably.ADV eats.VERB her.PRON
+*PAR:	&-um and the girl is not there. 105327_108328
+%pos: and.CCONJ the.DET girl.NOUN is.AUX not.PART there.ADV
+*PAR:	the girl brings the water &-uh and the flowers to [//] back to her
+	house from the woods. 108328_125702
+%pos: the.DET girl.NOUN brings.VERB the.DET water.NOUN and.CCONJ the.DET flowers.NOUN to.ADP back.ADV to.ADP her.PRON house.NOUN from.ADP the.DET woods.NOUN
+*PAR:	or she brought it back to the house from the woods. 125702_128974
+%pos: or.CCONJ she.PRON brought.VERB it.PRON back.ADV to.ADP the.DET house.NOUN from.ADP the.DET woods.NOUN
+*PAR:	&-um and (.) the mice watched her. 128974_136451
+%pos: and.CCONJ the.DET mice.NOUN watched.VERB her.PRON
+*PAR:	while the wolf had &-uh eaten the grandmother, presumably. 136451_146862
+%pos: while.SCONJ the.DET wolf.NOUN had.AUX eaten.VERB the.DET grandmother.NOUN ,.PUNCT presumably.ADV
+*PAR:	and stolen her clothes. 146862_148989
+%pos: and.CCONJ stolen.VERB her.PRON clothes.NOUN
+*PAR:	and <is now disguised as the> [//] disguised himself as the
+	grandmother in bed. 148989_156283
+%pos: and.CCONJ is.AUX now.ADV disguised.VERB as.ADP the.DET disguised.VERB himself.PRON as.ADP the.DET grandmother.NOUN in.ADP bed.NOUN
+*PAR:	looking hungrily at the little girl. 156283_160741
+%pos: looking.VERB hungrily.ADV at.ADP the.DET little.ADJ girl.NOUN
+*PAR:	&-uh the little girl approached the bed. 160741_170091
+%pos: the.DET little.ADJ girl.NOUN approached.VERB the.DET bed.NOUN
+*PAR:	and started talking to the wolf. 170091_174711
+%pos: and.CCONJ started.VERB talking.VERB to.ADP the.DET wolf.NOUN
+*PAR:	<disguised as the> [//] who was disguised as the grandmother. 174711_177742
+%pos: disguised.VERB as.ADP the.DET who.PRON was.AUX disguised.VERB as.ADP the.DET grandmother.NOUN
+*PAR:	and the wolf was trying to hide underneath the covers. 177742_181542
+%pos: and.CCONJ the.DET wolf.NOUN was.AUX trying.VERB to.PART hide.VERB underneath.ADP the.DET covers.NOUN
+*PAR:	to disguise his identity. 181542_183664
+%pos: to.PART disguise.VERB his.PRON identity.NOUN
+*PAR:	then the wolf revelead himself. 183664_196122
+%pos: then.ADV the.DET wolf.NOUN revelead.VERB himself.PRON
+*PAR:	jumped out of bed. 196122_197663
+%pos: jumped.VERB out.ADP of.ADP bed.NOUN
+*PAR:	and he started chasing the little girl. 197663_201054
+%pos: and.CCONJ he.PRON started.VERB chasing.VERB the.DET little.ADJ girl.NOUN
+*PAR:	who realized. 201054_201992
+%pos: who.PRON realized.VERB
+*PAR:	that the wolf was not her grandmother. 201992_205632
+%pos: that.SCONJ the.DET wolf.NOUN was.AUX not.PART her.PRON grandmother.NOUN
+*PAR:	after the wolf had eaten both the grandmother. 205632_220372
+%pos: after.SCONJ the.DET wolf.NOUN had.AUX eaten.VERB both.DET the.DET grandmother.NOUN
+*PAR:	and it seems the little girl. 220372_221732
+%pos: and.CCONJ it.PRON seems.VERB the.DET little.ADJ girl.NOUN
+*PAR:	&-um &-um and was resting. 221732_226332
+%pos: and.CCONJ was.AUX resting.VERB
+*PAR:	taking a nap in their house. 226332_228332
+%pos: taking.VERB a.DET nap.NOUN in.ADP their.PRON house.NOUN
+*PAR:	&-uh a man with a shotgun (.) and a dog (.) arrived at the house. 228332_237282
+%pos: a.DET man.NOUN with.ADP a.DET shotgun.NOUN and.CCONJ a.DET dog.NOUN arrived.VERB at.ADP the.DET house.NOUN
+*PAR:	and <saw the> [//] discovered the wolf sitting on the bed. 237282_241453
+%pos: and.CCONJ saw.VERB the.DET discovered.VERB the.DET wolf.NOUN sitting.VERB on.ADP the.DET bed.NOUN
+*PAR:	&-uh the man. 241453_252694
+%pos: the.DET man.NOUN
+*PAR:	wow &-um i guess the man sliced open the wolf with a pair of
+	scissors. 252694_263994
+%pos: wow.INTJ i.PRON guess.VERB the.DET man.NOUN sliced.VERB open.ADP the.DET wolf.NOUN with.ADP a.DET pair.NOUN of.ADP scissors.NOUN
+*PAR:	&-uh although there the wolf looked very contented and happy. 263994_269957
+%pos: although.SCONJ there.ADV the.DET wolf.NOUN looked.VERB very.ADV contented.ADJ and.CCONJ happy.ADJ
+*PAR:	&-um and retrieved the grandmother and the child from the wolf's
+	stomach. 269957_277932
+%pos: and.CCONJ retrieved.VERB the.DET grandmother.NOUN and.CCONJ the.DET child.NOUN from.ADP the.DET wolf.NOUN 's.PART stomach.NOUN
+*PAR:	although quite honestly it's not quite clear. 277932_282758
+%pos: although.SCONJ quite.ADV honestly.ADV it.PRON 's.AUX not.PART quite.ADV clear.ADJ
+*PAR:	what actually happened. 282758_283837
+%pos: what.PRON actually.ADV happened.VERB
+*PAR:	because the wolf looks pretty. 283837_285817
+%pos: because.SCONJ the.DET wolf.NOUN looks.VERB pretty.ADJ
+*PAR:	safe he [/] he's not cut open. 285817_289548
+%pos: safe.ADJ he.PRON he.PRON 's.AUX not.PART cut.VERB open.ADJ
+*PAR:	and they've [//] then the girl, the dog, and the man brought some
+	rocks. 289548_310479
+%pos: and.CCONJ they.PRON 've.AUX then.ADV the.DET girl.NOUN ,.PUNCT the.DET dog.NOUN ,.PUNCT and.CCONJ the.DET man.NOUN brought.VERB some.DET rocks.NOUN
+*PAR:	to fill up the wolf's stomach. 310479_315053
+%pos: to.PART fill.VERB up.ADP the.DET wolf.NOUN 's.PART stomach.NOUN
+*PAR:	&-uh and everyone looks very contented about their situation. 315053_322507
+%pos: and.CCONJ everyone.PRON looks.VERB very.ADV contented.ADJ about.ADP their.PRON situation.NOUN
+*PAR:	everyone looked very contented. 322507_325100
+%pos: everyone.PRON looked.VERB very.ADV contented.ADJ
+*PAR:	then the three, the [/] the girl the woman and the man hid behind
+	some bushes. 325100_339461
+%pos: then.ADV the.DET three.NUM ,.PUNCT the.DET the.DET girl.NOUN the.DET woman.NOUN and.CCONJ the.DET man.NOUN hid.VERB behind.ADP some.DET bushes.NOUN
+*PAR:	watching the wolf with his belly full of rocks. 339461_344342
+%pos: watching.VERB the.DET wolf.NOUN with.ADP his.PRON belly.NOUN full.ADJ of.ADP rocks.NOUN
+*PAR:	look very upset. 344342_348341
+%pos: look.VERB very.ADV upset.ADJ
+*PAR:	and wander towards a well. 348341_351231
+%pos: and.CCONJ wander.VERB towards.ADP a.DET well.ADV
+*PAR:	<while they're> [//] and the [/] the three of them laughed at <the
+	little> [//] &-uh the wolf. 351231_357812
+%pos: while.SCONJ they.PRON 're.AUX and.CCONJ the.DET the.DET three.NUM of.ADP them.PRON laughed.VERB at.ADP <.PUNCT the.DET little.ADJ >.PUNCT the.DET wolf.NOUN
+*PAR:	&-uh the grandmother waved goodbye to the girl and the man with the
+	gun. 357812_373071
+%pos: the.DET grandmother.NOUN waved.VERB goodbye.NOUN to.ADP the.DET girl.NOUN and.CCONJ the.DET man.NOUN with.ADP the.DET gun.NOUN
+*PAR:	&-um as it appears that they left. 373071_378662
+%pos: as.SCONJ it.PRON appears.VERB that.SCONJ they.PRON left.VERB
+*PAR:	to go back into the forest. 378662_379961
+%pos: to.PART go.VERB back.ADV into.ADP the.DET forest.NOUN
+*PAR:	<RES> [e]. 379961_386911
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:39:21.108080

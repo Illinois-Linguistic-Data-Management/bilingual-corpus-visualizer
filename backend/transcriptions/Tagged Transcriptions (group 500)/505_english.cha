@@ -1,0 +1,75 @@
+@UTF8
+@Window:	0_0_0_0_961_1_1489_0_1489_0
+@Begin
+@Languages:	eng
+@Participants:	PAR 505 Speaker
+@ID:	eng|narratives|PAR||male|||Speaker|||
+@Media:	505_english, audio
+*PAR:	the girl was walking through the house with a bunch of birds. 0_3701
+%pos: the.DET girl.NOUN was.AUX walking.VERB through.ADP the.DET house.NOUN with.ADP a.DET bunch.NOUN of.ADP birds.NOUN
+*PAR:	and walking down the floor. 3701_4490
+%pos: and.CCONJ walking.VERB down.ADP the.DET floor.NOUN
+*PAR:	<RES> [e]. 4490_8480
+*PAR:	<the grandma was>
+	[/] &-uhm <the grandma was happy> [/] the grandma was happy. 8480_13450
+%pos: the.DET grandma.NOUN was.AUX the.DET grandma.NOUN was.AUX happy.ADJ the.DET grandma.NOUN was.AUX happy.ADJ
+*PAR:	because the girl was there. 13450_15645
+%pos: because.SCONJ the.DET girl.NOUN was.VERB there.ADV
+*PAR:	<RES> [e]. 15645_18896
+*PAR:	and also there was a bunch of birds. 18896_23020
+%pos: and.CCONJ also.ADV there.ADV was.VERB a.DET bunch.NOUN of.ADP birds.NOUN
+*PAR:	<RES> [e]. 23020_25570
+*PAR:	the girl was saying bye to her mother. 25570_27911
+%pos: the.DET girl.NOUN was.AUX saying.VERB bye.NOUN to.ADP her.PRON mother.NOUN
+*PAR:	and walking down a pathway. 27911_30520
+%pos: and.CCONJ walking.VERB down.ADP a.DET pathway.NOUN
+*PAR:	<RES> [e]. 30520_36241
+*PAR:	there was a bunch of bunnies and squirrels. 36241_37651
+%pos: there.PRON was.VERB a.DET bunch.NOUN of.ADP bunnies.NOUN and.CCONJ squirrels.NOUN
+*PAR:	<and the> [/] <and the &-uhm fox, no> [//] and the wolf scared the
+	girl. 37651_44770
+%pos: and.CCONJ the.DET and.CCONJ the.DET fox.NOUN ,.PUNCT no.INTJ and.CCONJ the.DET wolf.NOUN scared.VERB the.DET girl.NOUN
+*PAR:	i think so. 44770_47320
+%pos: i.PRON think.VERB so.ADV
+*PAR:	the wolf was walking towards the house. 47320_50195
+%pos: the.DET wolf.NOUN was.AUX walking.VERB towards.ADP the.DET house.NOUN
+*PAR:	with a bunch of birds. 50195_52441
+%pos: with.ADP a.DET bunch.NOUN of.ADP birds.NOUN
+*PAR:	the wolf &-uhm scared the grandmother. 52441_59020
+%pos: the.DET wolf.NOUN scared.VERB the.DET grandmother.NOUN
+*PAR:	<RES> [e]. 59020_67900
+*PAR:	&-uhm the girl was putting flowers in the pot (.) next to a bunch of
+	cookies and some mice. 67900_74100
+%pos: the.DET girl.NOUN was.AUX putting.VERB flowers.NOUN in.ADP the.DET pot.NOUN next.ADV to.ADP a.DET bunch.NOUN of.ADP cookies.NOUN and.CCONJ some.DET mice.NOUN
+*PAR:	<and then the fo(x)> [//] and the. 74100_77890
+%pos: and.CCONJ then.ADV the.DET fox.NOUN and.CCONJ the.DET
+*PAR:	&uhm whats it called again. 77890_80280
+%pos: &.CCONJ uhm.INTJ whats.X it.PRON called.VERB again.ADV
+*PAR:	the wolf was (.) smiling. 80280_83274
+%pos: the.DET wolf.NOUN was.AUX smiling.VERB
+*PAR:	the girl looked at the wolf in surprise. 83274_87569
+%pos: the.DET girl.NOUN looked.VERB at.ADP the.DET wolf.NOUN in.ADP surprise.NOUN
+*PAR:	the wolf jumped out. 87569_92074
+%pos: the.DET wolf.NOUN jumped.VERB out.ADV
+*PAR:	and scared the girl. 92074_93024
+%pos: and.CCONJ scared.VERB the.DET girl.NOUN
+*PAR:	with a bunch of tea pots. 93024_94534
+%pos: with.ADP a.DET bunch.NOUN of.ADP tea.NOUN pots.NOUN
+*PAR:	the hunter came in with a gun. 94534_99974
+%pos: the.DET hunter.NOUN came.VERB in.ADV with.ADP a.DET gun.NOUN
+*PAR:	with a bunch of birds and mice and squirrels. 99974_103644
+%pos: with.ADP a.DET bunch.NOUN of.ADP birds.NOUN and.CCONJ mice.NOUN and.CCONJ squirrels.NOUN
+*PAR:	then the hunter cut his belly. 103644_109284
+%pos: then.ADV the.DET hunter.NOUN cut.VERB his.PRON belly.NOUN
+*PAR:	and then they came out. 109284_110894
+%pos: and.CCONJ then.ADV they.PRON came.VERB out.ADV
+*PAR:	and then they put rocks in the belly. 110894_113744
+%pos: and.CCONJ then.ADV they.PRON put.VERB rocks.NOUN in.ADP the.DET belly.NOUN
+*PAR:	and then they sewed him up. 113744_115099
+%pos: and.CCONJ then.ADV they.PRON sewed.VERB him.PRON up.ADV
+*PAR:	and then they left. 115099_116570
+%pos: and.CCONJ then.ADV they.PRON left.VERB
+*PAR:	<is that it> [e]? 116570_120909
+*PAR:	<RES> [e]. 120909_123489
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:30:12.522620

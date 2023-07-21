@@ -1,0 +1,170 @@
+@UTF8
+@Window:	0_0_0_0_0_0_3802_1_3802_1
+@Begin
+@Languages:	spa, eng
+@Participants:	PAR 142 Speaker
+@ID:	spa|narrative|PAR||male|||Speaker|||
+@Media:	142_spanish, audio
+*PAR:	<RES>[e]. 0_37483
+*PAR:	en esta página caperucita roja quería ir a la casa de su abuela para
+	darle galletas. 37483_46655
+%pos: en.ADP esta.DET página.NOUN caperucita.NOUN roja.ADJ quería.VERB ir.VERB a.ADP la.DET casa.NOUN de.ADP su.DET abuela.NOUN para.ADP darle.VERB galletas.NOUN
+*PAR:	<RES>[e]. 46655_49045
+*PAR:	<si>[e]. 49045_49827
+*PAR:	después caperucita roja llevaba. 49827_54920
+%pos: después.ADV caperucita.NOUN roja.ADJ llevaba.VERB
+*PAR:	<&-ah no sé come se llama>[e]. 54920_58045
+*PAR:	bo(tella) [//] es botella, uvas, panes. 58045_62420
+%pos: botella.NOUN es.AUX botella.NOUN ,.PUNCT uvas.NOUN ,.PUNCT panes.NOUN
+*PAR:	<no>[e]. 62420_64155
+*PAR:	galletas. 64155_64905
+%pos: galletas.NOUN
+*PAR:	y se despidió de su mamá para ir a la casa de su abuela. 64905_70280
+%pos: y.CCONJ se.PRON despidió.VERB de.ADP su.DET mamá.NOUN para.ADP ir.VERB a.ADP la.DET casa.NOUN de.ADP su.DET abuela.NOUN
+*PAR:	<RES>[e]. 70280_72530
+*PAR:	después caperucita roja se encontró con un lobo. 72530_83248
+%pos: después.ADV caperucita.NOUN roja.ADJ se.PRON encontró.VERB con.ADP un.DET lobo.NOUN
+*PAR:	después. 83248_84444
+%pos: después.ADV
+*PAR:	+" woah@s wo esta niña (es)ta deliciosa. 84444_89038
+%pos: +".SYM woah.INTJ wo.ADV esta.DET niña.NOUN esta.AUX deliciosa.ADJ
+*PAR:	dijo <el> [/] el lobo +". 89038_93164
+%pos: dijo.VERB el.DET el.DET lobo.NOUN +".PUNCT
+*PAR:	después un este un señor [//] un cazador le
+	[: lo] [*] encuentro por atrás. 93164_99334
+%pos: después.ADV un.DET este.PRON un.DET señor.NOUN un.DET cazador.NOUN le.PRON encuentro.VERB por.ADP atrás.ADV
+*PAR:	después dijo +"/. 99334_101288
+%pos: después.ADV dijo.VERB +"/.SYM
+*PAR:	+" ven (esca)pa . 101288_103194
+%pos: +".PUNCT ven.VERB escapa.ADV
+*PAR:	<creo que dijo como escapa así>[e]. 103194_106538
+*PAR:	después el lobo escapó. 106538_110491
+%pos: después.ADV el.DET lobo.NOUN escapó.VERB
+*PAR:	el cazador se quedó con la caperucita roja para decirle que tenga
+	cuidado. 110491_117131
+%pos: el.DET cazador.NOUN se.PRON quedó.VERB con.ADP la.DET caperucita.NOUN roja.ADJ para.ADP decirle.VERB que.SCONJ tenga.VERB cuidado.NOUN
+*PAR:	<RES>[e]. 117131_120038
+*PAR:	(..) después el <lobo> [/] lobo luego llego a su casa de su abuela. 120038_135866
+%pos: después.ADV el.DET lobo.NOUN lobo.NOUN luego.ADV llego.VERB a.ADP su.DET casa.NOUN de.ADP su.DET abuela.NOUN
+*PAR:	después caperucita roja (es)taba recogiendo unas flores. 135866_142746
+%pos: después.ADV caperucita.NOUN roja.ADJ estaba.AUX recogiendo.VERB unas.DET flores.NOUN
+*PAR:	<RES>[e]. 142746_145293
+*PAR:	<si y la otra pa(gina)>[e]. 145293_150496
+*PAR:	después el lobo se comió a su abuela. 150496_154528
+%pos: después.ADV el.DET lobo.NOUN se.PRON comió.VERB a.ADP su.DET abuela.NOUN
+*PAR:	después el lobo pensó una idea para vestirse como su abuela. 154528_160996
+%pos: después.ADV el.DET lobo.NOUN pensó.VERB una.DET idea.NOUN para.ADP vestirse.VERB como.ADP su.DET abuela.NOUN
+*PAR:	y creer que es su abuela. 160996_164027
+%pos: y.CCONJ creer.VERB que.SCONJ es.AUX su.DET abuela.NOUN
+*PAR:	(..) después caperucita roja llego le [/] le. 164027_174571
+%pos: después.ADV caperucita.NOUN roja.ADJ llego.VERB le.PRON le.PRON
+*PAR:	y le dijo +"/. 174571_175665
+%pos: y.CCONJ le.PRON dijo.VERB +"/.SYM
+*PAR:	+" hola abuela. 175665_176790
+%pos: +".SYM hola.NOUN abuela.PROPN
+*PAR:	después dejo las flores ahí. 176790_179071
+%pos: después.ADV dejo.VERB las.DET flores.NOUN ahí.ADV
+*PAR:	el agua. 179071_180273
+%pos: el.DET agua.NOUN
+*PAR:	y las galletas. 180273_182524
+%pos: y.CCONJ las.DET galletas.NOUN
+*PAR:	le dijo caperucita roja a su abuela +"/. 182524_186352
+%pos: le.PRON dijo.VERB caperucita.NOUN roja.ADJ a.ADP su.DET abuela.NOUN +"/.SYM
+*PAR:	+" abuela que le paso en su mano. 186352_189649
+%pos: +".SYM abuela.NOUN que.SCONJ le.PRON paso.VERB en.ADP su.DET mano.NOUN
+*PAR:	+" y en su cara. 189649_191101
+%pos: +".SYM y.CCONJ en.ADP su.DET cara.NOUN
+*PAR:	+" o nomás [: nada más][*] estoy enferma. 191101_193399
+%pos: +".SYM o.CCONJ nomás.VERB estoy.AUX enferma.ADJ
+*PAR:	dijo la abuela +". 193399_194446
+%pos: dijo.VERB la.DET abuela.NOUN +".PUNCT
+*PAR:	(..) después xxx. 194446_200290
+%pos: después.ADV xxx.PROPN
+*PAR:	+" mira esas garras abuela. 200290_201821
+%pos: +".PUNCT mira.VERB esas.DET garras.ADJ abuela.NOUN
+*PAR:	y dijo caperucita roja +". 201821_205695
+%pos: y.CCONJ dijo.VERB caperucita.NOUN roja.ADJ +".PUNCT
+*PAR:	+" o no es nada. 205695_206967
+%pos: +".SYM o.CCONJ no.ADV es.AUX nada.PRON
+*PAR:	+" y esos oídos. 206967_209186
+%pos: +".SYM y.CCONJ esos.DET oídos.NOUN
+*PAR:	dijo +". 209186_209858
+%pos: dijo.VERB +".PUNCT
+*PAR:	+" es que estoy un poco resfriado. 209858_212904
+%pos: +".SYM es.AUX que.SCONJ estoy.AUX un.DET poco.PRON resfriado.VERB
+*PAR:	dijo creo que el lobo +". 212904_215482
+%pos: dijo.VERB creo.VERB que.SCONJ el.DET lobo.NOUN +".PUNCT
+*PAR:	+" o okay@s. 215482_217277
+%pos: +".SYM o.CCONJ okay.ADV
+*PAR:	dijo caperucita roja +". 217277_219573
+%pos: dijo.VERB caperucita.NOUN roja.ADJ +".SYM
+*PAR:	<RES>[e]. 219573_223558
+*PAR:	<si>[e]. 223558_224309
+*PAR:	después el lobo salió saltando. 224309_231152
+%pos: después.ADV el.DET lobo.NOUN salió.VERB saltando.VERB
+*PAR:	y persiguiendo a caperucita roja [/] roja. 231152_236121
+%pos: y.CCONJ persiguiendo.VERB a.ADP caperucita.NOUN roja.ADJ roja.ADJ
+*PAR:	después todo se derrumbó. 236121_239480
+%pos: después.ADV todo.DET se.PRON derrumbó.VERB
+*PAR:	y el lobo se salió de su [//] la cama. 239480_243932
+%pos: y.CCONJ el.DET lobo.NOUN se.PRON salió.VERB de.ADP su.DET la.DET cama.NOUN
+*PAR:	y empezó perseguir a caperucita roja. 243932_247230
+%pos: y.CCONJ empezó.VERB perseguir.VERB a.ADP caperucita.NOUN roja.ADJ
+*PAR:	después el cazador vino. 247230_254855
+%pos: después.ADV el.DET cazador.NOUN vino.NOUN
+*PAR:	y le [/] le disparó. 254855_259980
+%pos: y.CCONJ le.PRON le.PRON disparó.VERB
+*PAR:	y el lobo se murió. 259980_262433
+%pos: y.CCONJ el.DET lobo.NOUN se.PRON murió.VERB
+*PAR:	<pero no se ya se me olvido>[e]. 262433_268824
+*PAR:	después el lobo se. 268824_272355
+%pos: después.ADV el.DET lobo.NOUN se.PRON
+*PAR:	<o>[e]. 272355_274870
+*PAR:	se murió. 274870_276027
+%pos: se.PRON murió.VERB
+*PAR:	después la abuela salió de [/] de su panza. 276027_279949
+%pos: después.ADV la.DET abuela.NOUN salió.VERB de.ADP de.ADP su.DET panza.NOUN
+*PAR:	y caperucita roja. 279949_281621
+%pos: y.CCONJ caperucita.NOUN roja.ADJ
+*PAR:	después el cazador sacó una tijera. 281621_286073
+%pos: después.ADV el.DET cazador.NOUN sacó.VERB una.DET tijera.NOUN
+*PAR:	(..) <listo>[e]. 286073_291652
+%pos: listo.NOUN
+*PAR:	después ellos [///] el lobo aún estaba vivo. 291652_297870
+%pos: después.ADV ellos.PRON el.DET lobo.NOUN aún.ADV estaba.AUX vivo.ADJ
+*PAR:	y ellos le metieron a@s roca dentro de su boca. 297870_302605
+%pos: y.CCONJ ellos.PRON le.PRON metieron.VERB a.ADP roca.NOUN dentro.ADV de.ADP su.DET boca.NOUN
+*PAR:	<después yo se lo que paso en el otra pagina>[e]. 302605_309575
+*PAR:	<RES>[e]. 309575_310653
+*PAR:	después el lobo siento como si algo [//] &-eh como si rocas
+	estuviera(n). 310653_320403
+%pos: después.ADV el.DET lobo.NOUN siento.VERB como.CCONJ si.CCONJ algo.PRON como.CCONJ si.CCONJ rocas.NOUN estuvieran.AUX
+*PAR:	adentro <de su> [/] de su panza. 320403_324966
+%pos: adentro.ADV de.ADP su.PRON de.ADP su.DET panza.NOUN
+*PAR:	después dijo como +"/. 324966_325700
+%pos: después.ADV dijo.VERB como.ADP +"/.SYM
+*PAR:	+" o esa comida estuvo bien rica hasta que parece como [/] como
+	rocas. 325700_332794
+%pos: +".SYM o.CCONJ esa.DET comida.NOUN estuvo.AUX bien.ADV rica.ADJ hasta.ADP que.SCONJ parece.VERB como.CCONJ como.ADP rocas.NOUN
+*PAR:	dijo el lobo +". 332794_333512
+%pos: dijo.VERB el.DET lobo.NOUN +".PUNCT
+*PAR:	después el lobo caminó. 333512_335513
+%pos: después.ADV el.DET lobo.NOUN caminó.VERB
+*PAR:	y caminó. 335513_336512
+%pos: y.CCONJ caminó.VERB
+*PAR:	después llego al pozo para beber agua. 336512_339700
+%pos: después.ADV llego.VERB al.ADP pozo.NOUN para.ADP beber.VERB agua.NOUN
+*PAR:	y se cayó. 339700_341075
+%pos: y.CCONJ se.PRON cayó.VERB
+*PAR:	(.) después caperucita roja. 341075_348200
+%pos: después.ADV caperucita.NOUN roja.ADJ
+*PAR:	y la abuela. 348200_349419
+%pos: y.CCONJ la.DET abuela.NOUN
+*PAR:	y los conejos. 349419_350248
+%pos: y.CCONJ los.DET conejos.NOUN
+*PAR:	y las ardillas se despidieron de caperucita roja. 350248_355388
+%pos: y.CCONJ las.DET ardillas.NOUN se.PRON despidieron.VERB de.ADP caperucita.NOUN roja.ADJ
+*PAR:	y el cazador. 355388_357217
+%pos: y.CCONJ el.DET cazador.NOUN
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:37:40.008200

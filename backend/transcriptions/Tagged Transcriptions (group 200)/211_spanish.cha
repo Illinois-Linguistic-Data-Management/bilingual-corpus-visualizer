@@ -1,0 +1,53 @@
+@UTF8
+@Window:	110_406_642_964_-1_-1_1450_0_1450_0
+@Begin
+@Languages:	spa,eng
+@Participants:	PAR 211 Speaker
+@ID:	spa|narratives|PAR||female|||Speaker|||
+@Media:	211_spanish,audio
+*PAR:	okay@s. 0_5614
+%pos: okay.INTJ
+*PAR:	Caperucita Roja (...) [/] &-um Caperucita Roja visi(tó) [//] visitó a su abuela. 5614_23834
+%pos: Caperucita.NOUN Roja.ADJ Caperucita.NOUN Roja.ADJ visitó.VERB visitó.VERB a.ADP su.DET abuela.NOUN
+*PAR:	&-um Caperucita Roja fue caminando (.) fuera de su casa. 23834_38344
+%pos: Caperucita.PROPN Roja.PROPN fue.AUX caminando.VERB fuera.ADV de.ADP su.DET casa.NOUN
+*PAR:	un lobo la siguió. 38344_51605
+%pos: un.DET lobo.NOUN la.PRON siguió.VERB
+*PAR:	Caperucita Roja entró en la casa. 51605_62503
+%pos: Caperucita.PROPN Roja.PROPN entró.VERB en.ADP la.DET casa.NOUN
+*PAR:	y el lobo también entró. 62503_69260
+%pos: y.CCONJ el.DET lobo.NOUN también.ADV entró.VERB
+*PAR:	el lobo se comió a la abuelita. 69260_78058
+%pos: el.DET lobo.NOUN se.PRON comió.VERB a.ADP la.DET abuelita.NOUN
+*PAR:	Caperucita Roja le trajo flores a su abuela. 78058_90330
+%pos: Caperucita.PROPN Roja.PROPN le.PRON trajo.VERB flores.NOUN a.ADP su.DET abuela.NOUN
+*PAR:	Caperucita Roja no sabía que el lobo estaba en la cama. 90330_101907
+%pos: Caperucita.PROPN Roja.PROPN no.ADV sabía.VERB que.SCONJ el.DET lobo.NOUN estaba.VERB en.ADP la.DET cama.NOUN
+*PAR:	y fue a ver a su abuela en la cama. 101907_105718
+%pos: y.CCONJ fue.VERB a.ADP ver.VERB a.ADP su.DET abuela.NOUN en.ADP la.DET cama.NOUN
+*PAR:	el lobo salió de la cama. 105718_113185
+%pos: el.DET lobo.NOUN salió.VERB de.ADP la.DET cama.NOUN
+*PAR:	y espantó a Caperucita Roja. 113185_116393
+%pos: y.CCONJ espantó.VERB a.ADP Caperucita.PROPN Roja.PROPN
+*PAR:	el lobo se comió a Caperucita Roja. 116393_125440
+%pos: el.DET lobo.NOUN se.PRON comió.VERB a.ADP Caperucita.PROPN Roja.PROPN
+*PAR:	y un hombre entró por la puerta a tratar de ayudarla. 125440_135536
+%pos: y.CCONJ un.DET hombre.NOUN entró.VERB por.ADP la.DET puerta.NOUN a.ADP tratar.VERB de.ADP ayudarla.VERB
+*PAR:	el hombre mató al lobo. 135536_148083
+%pos: el.DET hombre.NOUN mató.VERB al.ADP lobo.NOUN
+*PAR:	y sacó a Caperucita Roja y a su abuela de su estómago. 148083_153684
+%pos: y.CCONJ sacó.VERB a.ADP Caperucita.PROPN Roja.PROPN y.CCONJ a.ADP su.DET abuela.NOUN de.ADP su.DET estómago.NOUN
+*PAR:	el hombre llenó al lobo de piedras. 153684_168037
+%pos: el.DET hombre.NOUN llenó.VERB al.ADP lobo.NOUN de.ADP piedras.NOUN
+*PAR:	y Caperucita Roja le trajo de afuera. 168037_171889
+%pos: y.CCONJ Caperucita.PROPN Roja.PROPN le.PRON trajo.VERB de.ADP afuera.ADV
+*PAR:	el lobo se fue de la casa lleno de piedras en su estómago, mientras ellos se rieron de él. 171889_192310
+%pos: el.DET lobo.NOUN se.PRON fue.VERB de.ADP la.DET casa.NOUN lleno.ADJ de.ADP piedras.NOUN en.ADP su.DET estómago.NOUN ,.PUNCT mientras.SCONJ ellos.PRON se.PRON rieron.VERB de.ADP él.PRON
+*PAR:	Caperucita Roja se despidió de su abuela. 192310_207359
+%pos: Caperucita.PROPN Roja.PROPN se.PRON despidió.VERB de.ADP su.DET abuela.NOUN
+*PAR:	y regresó por el campo cuidada por el señor. 207359_215403
+%pos: y.CCONJ regresó.VERB por.ADP el.DET campo.NOUN cuidada.VERB por.ADP el.DET señor.NOUN
+*PAR:	y fin. 215403_221061
+%pos: y.CCONJ fin.NOUN
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:20:37.868352

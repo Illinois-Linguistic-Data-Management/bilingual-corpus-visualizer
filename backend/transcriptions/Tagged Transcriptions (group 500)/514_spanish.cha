@@ -1,0 +1,85 @@
+@UTF8
+@Window:	0_0_0_0_726_0_2565_0_2565_0
+@Begin
+@Languages:	spa,eng
+@Participants:	PAR 514 Speaker
+@ID:	spa|narratives|PAR||male|||Speaker|||
+@Media:	514_spanish,audio
+*PAR:	el [: la][*] niña estaba bailando para [/] para su abuelita . 0_8882
+%pos: el.DET niña.NOUN estaba.AUX bailando.VERB para.ADP para.ADP su.DET abuelita.NOUN
+*PAR:	<RES> [e] . 8882_9961
+*PAR:	<&-uh, listo> [e] . 9961_14821
+*PAR:	<RES> [e]. 14821_16377
+*PAR:	el [: la][*] niña se fue en la [: el][*] bosque para ir a su
+	abuelita's@s casa . 16377_28071
+%pos: el.DET niña.NOUN se.PRON fue.VERB en.ADP la.DET bosque.NOUN para.ADP ir.VERB a.ADP su.DET abuelita.NOUN 's.PART casa.NOUN
+*PAR:	<listo> [e] . 28071_29411
+*PAR:	en la [: el][*] bosque, estaba un [/] (...) un wolfe [: lobo][*] que
+	queria a comer el [: la][*] niña . 29411_62131
+%pos: en.ADP la.DET bosque.NOUN ,.PUNCT estaba.VERB un.DET un.DET wolfe.NOUN que.SCONJ queria.VERB a.ADP comer.VERB el.DET niña.NOUN
+*PAR:	<RES> [e] . 62131_63191
+*PAR:	<listo> [e] . 63191_68782
+*PAR:	<RES> [e] . 68782_75283
+*PAR:	el wolfe [: lobo][*] <se hice> [///] <se fue> [/] se fue a la casa
+	de abuelita . 75283_86533
+%pos: el.DET wolfe.NOUN se.PRON hice.VERB se.PRON fue.VERB se.PRON fue.VERB a.ADP la.DET casa.NOUN de.ADP abuelita.NOUN
+*PAR:	<listo> [e] . 86533_90796
+*PAR:	el wolfe [: lobo][*] se comía la [/] la abuelita . 90796_101534
+%pos: el.DET wolfe.NOUN se.PRON comía.VERB la.DET la.DET abuelita.NOUN
+*PAR:	<RES> [e] . 101534_103003
+*PAR:	<listo> [e] . 103003_110843
+*PAR:	cuando el [: la][*] niña estaba en la casa de abuelita, <se pu(so)>
+	[///] &-uh el wolfe [: lobo][*] <estaba en [/] en [/] (.) en> [/]
+	(..) es(taba) [/] estaba en la (.) cama . 110843_139341
+%pos: cuando.SCONJ el.DET niña.NOUN estaba.VERB en.ADP la.DET casa.NOUN de.ADP abuelita.NOUN ,.PUNCT se.PRON puso.VERB el.DET wolfe.NOUN estaba.VERB en.ADP en.ADP en.ADP estaba.AUX estaba.VERB en.ADP la.DET cama.NOUN
+*PAR:	&-um (.) cuando el [/] el [: la][*] niña estaba pone estabo
+	[: estaba][*] (.) estabo [: estaba][*] pon(e) [/] (.) pone
+	[: poniendo][*] &-um (.) comida . 139341_162560
+%pos: cuando.SCONJ el.DET el.DET niña.NOUN estaba.AUX pone.VERB estabo.NOUN estabo.VERB pone.VERB pone.VERB comida.NOUN
+*PAR:	<RES> [e] . 162560_167651
+*PAR:	cuando el [: la][*] niña se fue a hablar con su abuelita, el
+	[/] &-uh el [: la][*] abuelita estaba actiando [: actuando][*] muy
+	(.) diferente de normal . 167651_187193
+%pos: cuando.SCONJ el.DET niña.NOUN se.PRON fue.VERB a.ADP hablar.VERB con.ADP su.DET abuelita.NOUN ,.PUNCT el.DET el.DET abuelita.NOUN estaba.AUX actiando.VERB muy.ADV diferente.ADJ de.ADP normal.ADJ
+*PAR:	<RES> [e] . 187193_188812
+*PAR:	<listo> [e] . 188812_189952
+*PAR:	<RES> [e] . 189952_193282
+*PAR:	&-uh &-uh el exact(a) [/] exacta [: exacto][*] momento, el
+	[/] el wolfe [: lobo][*] se fue a comer el [/] el [: la][*] niña . 193282_213612
+%pos: el.DET exacta.NOUN exacta.ADJ momento.NOUN ,.PUNCT el.DET el.DET wolfe.NOUN se.PRON fue.VERB a.ADP comer.VERB el.DET el.DET niña.NOUN
+*PAR:	<RES> [e] . 213612_214782
+*PAR:	<listo> [e] . 214782_220937
+*PAR:	cuando el wolfe [: lobo][*] <se come> [//] se comía el [: la][*]
+	niña, un [/] (.) <un> [//] (.) alguien se vio el [: la][*] niña a
+	[/] a el [: la][*] niña <come a> [///] se a comera [: comida][*] . 220937_250282
+%pos: cuando.SCONJ el.DET wolfe.NOUN se.PRON come.VERB se.PRON comía.VERB el.DET niña.NOUN ,.PUNCT un.DET un.DET alguien.PRON se.PRON vio.VERB el.DET niña.NOUN a.ADP a.ADP el.DET niña.NOUN come.VERB a.ADP se.PRON a.ADP comera.VERB
+*PAR:	y <se fue con un [: una][*] arma> [/] se fue con un [: una][*] arma
+	en la casa de abuelita . 250282_258121
+%pos: y.CCONJ se.PRON fue.VERB con.ADP un.DET arma.NOUN se.PRON fue.VERB con.ADP un.DET arma.NOUN en.ADP la.DET casa.NOUN de.ADP abuelita.NOUN
+*PAR:	<listo> [e] . 258121_259757
+*PAR:	<RES> [e] . 259757_261710
+*PAR:	el [/] &=laughs (..) el [/] (..) el [/] (..) <el> [//] (..) la [/]
+	(..) &-um la (.) adulta se [/] se cazara [: caza][*] el wolfe
+	[: lobo][*] . 261710_305907
+%pos: el.DET el.DET el.DET el.DET la.DET la.DET adulta.NOUN se.PRON se.PRON cazara.VERB el.DET wolfe.NOUN
+*PAR:	y se &-uh (.) corta la [/] la abuelita y el [: la][*] niña &-um (.)
+	de la [: el][*] wolfe [: lobo][*] . 305907_319868
+%pos: y.CCONJ se.PRON corta.VERB la.DET la.DET abuelita.NOUN y.CCONJ el.DET niña.NOUN de.ADP la.DET wolfe.NOUN
+*PAR:	<RES> [e] . 319868_322343
+*PAR:	<listo> [e] . 322343_323171
+*PAR:	<RES> [e] . 323171_325257
+*PAR:	el [: la][*] abuelita y el [: la][*] adulta y el [: la][*] niña se
+	pone [: ponen][*] rocas <en la> [/] en la [: el][*] corp(se) [/]
+	corpse [: cuerpo][*] de la [: el][*] wolfe [: lobo][*] . 325257_347210
+%pos: el.DET abuelita.NOUN y.CCONJ el.DET adulta.NOUN y.CCONJ el.DET niña.NOUN se.PRON pone.VERB rocas.NOUN en.ADP la.DET en.ADP la.DET corpse.NOUN corpse.NOUN de.ADP la.DET wolfe.NOUN
+*PAR:	<RES> [e] . 347210_348788
+*PAR:	el [/] el wolfe [: lobo][*] se fue en un (.) &-um botar de agua . 348788_370578
+%pos: el.DET el.DET wolfe.NOUN se.PRON fue.VERB en.ADP un.DET botar.NOUN de.ADP agua.NOUN
+*PAR:	<RES> [e] . 370578_371656
+*PAR:	<listo> [e] . 371656_372578
+*PAR:	<RES> [e] . 372578_375438
+*PAR:	el [/] (.) el [: la][*] niña y el [: la][*] adulta se [/] se hice
+	[: fueron][*] &-uh a [/] a sus casas . 375438_395734
+%pos: el.DET el.DET niña.NOUN y.CCONJ el.DET adulta.NOUN se.PRON se.PRON hice.VERB a.ADP a.ADP sus.DET casas.NOUN
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:22:50.366378

@@ -1,0 +1,92 @@
+@UTF8
+@Window:	0_0_0_0_489_0_2192_0_2192_0
+@Begin
+@Languages:	spa
+@Participants:	PAR 138 Speaker
+@ID:	spa|narratives|PAR||female|||Speaker|||
+@Media:	138_spanish,audio
+*PAR:	la niña está bailando (.) por su abuela . 0_4436
+%pos: la.DET niña.NOUN está.AUX bailando.VERB por.ADP su.DET abuela.NOUN
+*PAR:	porque es su cumpleaños . 4436_6417
+%pos: porque.SCONJ es.AUX su.DET cumpleaños.NOUN
+*PAR:	<RES> [e] . 6417_18733
+*PAR:	<&-ah> [e] . 18733_19529
+*PAR:	<RES> [e] . 19529_20078
+*PAR:	estaba bailando porque xxx . 20078_23480
+%pos: estaba.AUX bailando.VERB porque.SCONJ xxx.PROPN
+*PAR:	<RES> [e] . 23480_26533
+*PAR:	<sí> [e] . 26533_27346
+*PAR:	<RES> [e] . 27346_29693
+*PAR:	<bien> [e] . 29693_33363
+*PAR:	la caperucita roja se fue (..) de la casa con comida . 33363_43171
+%pos: la.DET caperucita.NOUN roja.ADJ se.PRON fue.VERB de.ADP la.DET casa.NOUN con.ADP comida.NOUN
+*PAR:	<sí> [e] . 43171_45511
+*PAR:	<RES> [e] . 45511_47178
+*PAR:	<sí> [e] . 47178_48030
+*PAR:	<RES> [e] . 48030_51944
+*PAR:	y (..) mientras la caperucita roja está caminando, hay un lobo
+	esperando &-eh (.) a comerla . 51944_63275
+%pos: y.CCONJ mientras.SCONJ la.DET caperucita.NOUN roja.ADJ está.AUX caminando.VERB ,.PUNCT hay.VERB un.DET lobo.NOUN esperando.VERB a.ADP comerla.VERB
+*PAR:	y (..) algiuen le está tratando a matar . 63275_68804
+%pos: y.CCONJ algiuen.ADV le.PRON está.AUX tratando.VERB a.ADP matar.VERB
+*PAR:	&-eh (..) la caperucita roja se quedó (.) a agarar flores para su
+	abuela . 68804_89089
+%pos: la.DET caperucita.NOUN roja.ADJ se.PRON quedó.VERB a.ADP agarar.VERB flores.NOUN para.ADP su.DET abuela.NOUN
+*PAR:	y el lobo entró a la casa . 89089_92284
+%pos: y.CCONJ el.DET lobo.NOUN entró.VERB a.ADP la.DET casa.NOUN
+*PAR:	<RES> [e] . 92284_98804
+*PAR:	&-eh (.) el lobo entró a la casa . 98804_102857
+%pos: el.DET lobo.NOUN entró.VERB a.ADP la.DET casa.NOUN
+*PAR:	y se cazó de comer la abuela . 102857_107412
+%pos: y.CCONJ se.PRON cazó.VERB de.ADP comer.VERB la.DET abuela.NOUN
+*PAR:	&-eh el lobo se comió a la abuela . 107412_115956
+%pos: el.DET lobo.NOUN se.PRON comió.VERB a.ADP la.DET abuela.NOUN
+*PAR:	y se disfrazó (.) de la abuela . 115956_121507
+%pos: y.CCONJ se.PRON disfrazó.VERB de.ADP la.DET abuela.NOUN
+*PAR:	y se metió a la cama . 121507_125666
+%pos: y.CCONJ se.PRON metió.VERB a.ADP la.DET cama.NOUN
+*PAR:	y la caperucita roja (.) puso unas flores y unas galletas xxx en
+	la mesa para su abuela . 125666_137004
+%pos: y.CCONJ la.DET caperucita.NOUN roja.ADJ puso.VERB unas.DET flores.NOUN y.CCONJ unas.DET galletas.NOUN xxx.X en.ADP la.DET mesa.NOUN para.ADP su.DET abuela.NOUN
+*PAR:	&-um (.) la caperucita roja estaba confundida . 137004_149103
+%pos: la.DET caperucita.NOUN roja.ADJ estaba.AUX confundida.ADJ
+*PAR:	porque su abuela sabía un poco rara . 149539_154101
+%pos: porque.SCONJ su.DET abuela.NOUN sabía.VERB un.DET poco.PRON rara.ADJ
+*PAR:	<RES> [e] . 154101_162420
+*PAR:	el lobo (..) miró a la mesa . 162420_168415
+%pos: el.DET lobo.NOUN miró.VERB a.ADP la.DET mesa.NOUN
+*PAR:	y (.) <trató de> [///] &-uh empezó a persiguir [: preseguir][*] a la
+	caperucita roja . 168415_175132
+%pos: y.CCONJ trató.VERB de.ADP empezó.VERB a.ADP persiguir.VERB a.ADP la.DET caperucita.NOUN roja.ADJ
+*PAR:	<RES> [e] . 175132_176086
+*PAR:	<sí> [e] . 176086_182830
+*PAR:	el lobo se comió a la abuela y la caperucita roja . 182830_188826
+%pos: el.DET lobo.NOUN se.PRON comió.VERB a.ADP la.DET abuela.NOUN y.CCONJ la.DET caperucita.NOUN roja.ADJ
+*PAR:	y vino un señor con (..) la pistola muy grande y su perro a matar
+	el lobo . 188826_200873
+%pos: y.CCONJ vino.VERB un.DET señor.NOUN con.ADP la.DET pistola.NOUN muy.ADV grande.ADJ y.CCONJ su.DET perro.NOUN a.ADP matar.VERB el.DET lobo.NOUN
+*PAR:	&-eh el señor cortó al lobo . 200873_214661
+%pos: el.DET señor.NOUN cortó.VERB al.ADP lobo.NOUN
+*PAR:	y salieron <la niñ(a)> [//] la caperucita roja y su abuela . 214661_226434
+%pos: y.CCONJ salieron.VERB la.DET niña.NOUN la.DET caperucita.NOUN roja.ADJ y.CCONJ su.DET abuela.NOUN
+*PAR:	la abuela xxx dio de vuelta el lobo . 226434_234077
+%pos: la.DET abuela.NOUN xxx.PROPN dio.VERB de.ADP vuelta.NOUN el.DET lobo.NOUN
+*PAR:	y le pusieron rocas <a la> [//] adentro de la barriga . 234077_240563
+%pos: y.CCONJ le.PRON pusieron.VERB rocas.NOUN a.ADP la.DET adentro.ADV de.ADP la.DET barriga.NOUN
+*PAR:	<RES> [e] . 240563_242589
+*PAR:	<sí> [e] . 242589_243282
+*PAR:	<RES> [e] . 243282_247434
+*PAR:	el lobo estaba muy pesado . 247434_251856
+%pos: el.DET lobo.NOUN estaba.AUX muy.ADV pesado.ADJ
+*PAR:	y le costaba mucho trabajo para xxx . 251856_254890
+%pos: y.CCONJ le.PRON costaba.VERB mucho.DET trabajo.NOUN para.ADP xxx.PROPN
+*PAR:	<RES> [e] . 254890_256540
+*PAR:	y todos le reía . 256540_261842
+%pos: y.CCONJ todos.PRON le.PRON reía.VERB
+*PAR:	&-eh (...) y caperucita roja y el señor y su perro se fueron . 261842_275246
+%pos: y.CCONJ caperucita.NOUN roja.ADJ y.CCONJ el.DET señor.NOUN y.CCONJ su.DET perro.NOUN se.PRON fueron.AUX
+*PAR:	y le dijieron [: dijeron][*] adiós a la abuela . 275246_277859
+%pos: y.CCONJ le.PRON dijieron.VERB adiós.ADV a.ADP la.DET abuela.NOUN
+*PAR:	<RES> [e] . 277859_287575
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:34:23.469625

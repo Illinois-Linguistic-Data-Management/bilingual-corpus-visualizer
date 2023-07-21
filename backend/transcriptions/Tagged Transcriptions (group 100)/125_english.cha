@@ -1,0 +1,65 @@
+@UTF8
+@Window:	0_0_0_0_472_0_1177_0_1177_0
+@Begin
+@Languages:	eng
+@Participants:	PAR 125 Speaker
+@ID:	eng|narratives|PAR||male|||Speaker|||
+@Media:	125_english,audio
+*PAR:	<RES> [e]. 0_3571
+*PAR:	Little Red Riding Hood was in a house with her grandma. 3571_13700
+%pos: Little.ADJ Red.ADJ Riding.PROPN Hood.PROPN was.AUX in.ADP a.DET house.NOUN with.ADP her.PRON grandma.NOUN
+*PAR:	she left the house with a basket of food. 13700_23110
+%pos: she.PRON left.VERB the.DET house.NOUN with.ADP a.DET basket.NOUN of.ADP food.NOUN
+*PAR:	she was attacked by a wolf in the woods. 23110_30621
+%pos: she.PRON was.AUX attacked.VERB by.ADP a.DET wolf.NOUN in.ADP the.DET woods.NOUN
+*PAR:	the wolf found a house. 30621_37051
+%pos: the.DET wolf.NOUN found.VERB a.DET house.NOUN
+*PAR:	the wolf entered her grandma's house. 37051_42999
+%pos: the.DET wolf.NOUN entered.VERB her.PRON grandma.NOUN 's.PART house.NOUN
+*PAR:	and ate her grandma. 42999_45718
+%pos: and.CCONJ ate.VERB her.PRON grandma.NOUN
+*PAR:	Little Red Riding Hood arranged flowers. 45718_50718
+%pos: Little.ADJ Red.ADJ Riding.PROPN Hood.PROPN arranged.VERB flowers.NOUN
+*PAR:	and put the food out for her grandma. 50718_54969
+%pos: and.CCONJ put.VERB the.DET food.NOUN out.ADV for.ADP her.PRON grandma.NOUN
+*PAR:	but she did not know. 54969_56409
+%pos: but.CCONJ she.PRON did.AUX not.PART know.VERB
+*PAR:	that the wolf ate the grandma. 56409_58397
+%pos: that.SCONJ the.DET wolf.NOUN ate.VERB the.DET grandma.NOUN
+*PAR:	and was going to eat her. 58397_60610
+%pos: and.CCONJ was.AUX going.VERB to.PART eat.VERB her.PRON
+*PAR:	Little Red Riding Hood went up to the wolf . 60610_68594
+%pos: Little.ADJ Red.ADJ Riding.PROPN Hood.PROPN went.VERB up.ADV to.ADP the.DET wolf.NOUN
+*PAR:	and was asking questions. 68594_70815
+%pos: and.CCONJ was.AUX asking.VERB questions.NOUN
+*PAR:	because she thought it was her grandma. 70815_73667
+%pos: because.SCONJ she.PRON thought.VERB it.PRON was.AUX her.ADJ grandma.NOUN
+*PAR:	The wolf attacked Little Red Riding Hood. 73667_77097
+%pos: The.DET wolf.NOUN attacked.VERB Little.ADJ Red.ADJ Riding.PROPN Hood.PROPN
+*PAR:	a hunter and his dog entered the grandma's house. 77097_84007
+%pos: a.DET hunter.NOUN and.CCONJ his.PRON dog.NOUN entered.VERB the.DET grandma.NOUN 's.PART house.NOUN
+*PAR:	and saw the wolf. 84007_85094
+%pos: and.CCONJ saw.VERB the.DET wolf.NOUN
+*PAR:	who had eaten both of them. 85094_86958
+%pos: who.PRON had.AUX eaten.VERB both.DET of.ADP them.PRON
+*PAR:	<the (.) hunter cuts open the wolf and Little Red Riding Hood>
+	[//] the hunter cut open the wolf. 86958_98025
+%pos: the.DET hunter.NOUN cuts.VERB open.VERB the.DET wolf.NOUN and.CCONJ Little.ADJ Red.ADJ Riding.NOUN Hood.PROPN the.DET hunter.NOUN cut.VERB open.ADP the.DET wolf.NOUN
+*PAR:	and Little Red Riding Hood left with her grandma. 98024_102919
+%pos: and.CCONJ Little.ADJ Red.ADJ Riding.PROPN Hood.PROPN left.VERB with.ADP her.PRON grandma.NOUN
+*PAR:	they filled the wolf's stomache with rocks. 102919_111479
+%pos: they.PRON filled.VERB the.DET wolf.NOUN 's.PART stomache.NOUN with.ADP rocks.NOUN
+*PAR:	and stiched it together. 111479_114429
+%pos: and.CCONJ stiched.VERB it.PRON together.ADV
+*PAR:	the wolf walked around with rocks in his stomache. 114429_119915
+%pos: the.DET wolf.NOUN walked.VERB around.ADV with.SCONJ rocks.NOUN in.ADP his.PRON stomache.NOUN
+*PAR:	and they laughed at him. 119915_122009
+%pos: and.CCONJ they.PRON laughed.VERB at.ADP him.PRON
+*PAR:	they all left the grandma's house. 122009_127819
+%pos: they.PRON all.ADV left.ADP the.DET grandma.NOUN 's.PART house.NOUN
+*PAR:	and they said goodbye. 127819_129630
+%pos: and.CCONJ they.PRON said.VERB goodbye.NOUN
+*PAR:	the end. 129630_132528
+%pos: the.DET end.NOUN
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:33:15.069481

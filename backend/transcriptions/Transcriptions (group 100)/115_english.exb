@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- (c) http://www.rrz.uni-hamburg.de/exmaralda -->
+<basic-transcription>
+	<head>
+		<meta-information>
+			<project-name/>
+			<transcription-name/>
+			<referenced-file url="115_english.m4a"/>
+			<ud-meta-information>
+				<ud-information attribute-name="CHAT:@Window">0_0_0_0_0_0_406_0_406_0</ud-information>
+				<ud-information attribute-name="CHAT:@Languages">eng</ud-information>
+				<ud-information attribute-name="CHAT:@Media">115_english,audio</ud-information>
+			</ud-meta-information>
+			<comment/>
+			<transcription-convention/>
+		</meta-information>
+		<speakertable>
+			<speaker id="PAR">
+				<abbreviation>PAR</abbreviation>
+				<sex value="m"/>
+				<languages-used/>
+				<l1/>
+				<l2/>
+				<ud-speaker-information>
+					<ud-information attribute-name="CHAT:Name">PAR</ud-information>
+					<ud-information attribute-name="CHAT:Full Name">115</ud-information>
+					<ud-information attribute-name="CHAT:Role">Speaker</ud-information>
+					<ud-information attribute-name="CHAT:ID">eng|narratives|PAR||male|||Speaker|||</ud-information>
+				</ud-speaker-information>
+				<comment/>
+			</speaker>
+		</speakertable>
+	</head>
+	<basic-body>
+		<common-timeline>
+			<tli id="T0" time="0.0"/>
+			<tli id="T1" time="4.631"/>
+			<tli id="T2" time="5.566"/>
+			<tli id="T3" time="7.721"/>
+			<tli id="T4" time="12.381"/>
+			<tli id="T5" time="30.367"/>
+			<tli id="T6" time="34.523"/>
+			<tli id="T7" time="49.414"/>
+			<tli id="T8" time="53.714"/>
+			<tli id="T9" time="70.085"/>
+			<tli id="T10" time="72.51"/>
+			<tli id="T11" time="86.076"/>
+			<tli id="T12" time="89.202"/>
+			<tli id="T13" time="106.113"/>
+			<tli id="T14" time="115.774"/>
+			<tli id="T15" time="122.314"/>
+			<tli id="T16" time="129.595"/>
+			<tli id="T17" time="143.565"/>
+			<tli id="T18" time="147.44"/>
+			<tli id="T19" time="164.671"/>
+			<tli id="T20" time="165.671"/>
+			<tli id="T21" time="180.622"/>
+			<tli id="T22" time="181.903"/>
+			<tli id="T23" time="185.482"/>
+			<tli id="T24" time="194.903"/>
+			<tli id="T25" time="199.233"/>
+			<tli id="T26" time="211.844"/>
+			<tli id="T27" time="220.875"/>
+			<tli id="T28" time="229.731"/>
+			<tli id="T29" time="231.815"/>
+			<tli id="T30" time="246.628"/>
+		</common-timeline>
+		<tier id="TIE2" speaker="PAR" category="main" type="t" display-name="PAR [main]">
+			<event start="T0" end="T1">&lt;maybe &amp;-uh can we make it a little bigger&gt; [e]?</event>
+			<event start="T1" end="T2">&lt;RES&gt; [e].</event>
+			<event start="T2" end="T3">&lt;ok&gt; [e].</event>
+			<event start="T3" end="T4">&amp;-uh Little Red Riding Hood, by Charles (.) Perrault.</event>
+			<event start="T4" end="T5">&amp;-uh Little Red Riding Hood &amp;-uh danced.</event>
+			<event start="T5" end="T6">while her grandma was &amp;-uh cheering her up.</event>
+			<event start="T6" end="T7">&amp;-uh Little Red Riding Hood walked past &amp;-uh the garden.</event>
+			<event start="T7" end="T8">&lt;or is&gt; [//] she is saying bye to her grandma.</event>
+			<event start="T8" end="T9">&amp;-uh the wolf (.) &lt;he was&gt; [//] he thought about  &amp;-uh eating  Little &lt;Red &amp;-uh&gt;[/] Red Riding Hood.</event>
+			<event start="T9" end="T10">while she walked past.</event>
+			<event start="T10" end="T11">uh the [/] the wolf  &amp;-uhm he walked past the house.</event>
+			<event start="T11" end="T12">tried looking for &amp;-uh Little Red Riding Hood.</event>
+			<event start="T12" end="T13">the wolf &amp;-uhm &lt;he ate the&gt; [//] he was about to [/] to &amp;-uh eat the  grandma.</event>
+			<event start="T13" end="T14">&amp;-uh the wolfs [: wolf][*] &amp;-uh was in the bed.</event>
+			<event start="T14" end="T15">and Little Red Riding Hood &amp;-uh she left some flowers for her  grandma.</event>
+			<event start="T15" end="T16">&amp;-uh here &amp;-uh.</event>
+			<event start="T16" end="T17">&amp;-uhm Little Red Riding Hood &amp;-uh she [/] she tried waking up (.)  &lt;supposedly &amp;-uh&gt; [//] she thought that it was her grandma.</event>
+			<event start="T17" end="T18">but it was the [/] the wolf.</event>
+			<event start="T18" end="T19">&amp;-uh and here &lt;&amp;-uh she&gt; [//] the wolf &amp;-uh tried to scare her.</event>
+			<event start="T19" end="T20">and eat her.</event>
+			<event start="T20" end="T21">and here &amp;-uh after [/] after the wolf ate the grandma and &amp;-uh  Little Red Riding Hood.</event>
+			<event start="T21" end="T22">he was full.</event>
+			<event start="T22" end="T23">and then the hunter came (.) with the rifle.</event>
+			<event start="T23" end="T24">and here &amp;-uh the hunter he [/] he &amp;-uh cut open the stomache.</event>
+			<event start="T24" end="T25">and let the grandma and Little Red Riding Hood out.</event>
+			<event start="T25" end="T26">and here &amp;-uh they&apos;d put rocks in the stomache of the wolf.</event>
+			<event start="T26" end="T27">and here &amp;-uh the wolf &lt;there&gt; [//] &lt;they laughed&gt; [///] think &amp;-uh.</event>
+			<event start="T27" end="T28">because the wolf thought that he ate &amp;-uh the grandma and the  &amp;-uh Little Red Riding Hood.</event>
+			<event start="T28" end="T29">but he actually ate rocks.</event>
+			<event start="T29" end="T30">and here &amp;-uh grandma thanked (.) &amp;-uh the hunter and &amp;-uh Little  Red Riding Hood.</event>
+		</tier>
+	</basic-body>
+</basic-transcription>

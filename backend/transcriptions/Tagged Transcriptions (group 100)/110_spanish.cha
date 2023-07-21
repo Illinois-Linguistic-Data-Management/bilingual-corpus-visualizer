@@ -1,0 +1,99 @@
+@UTF8
+@Window:	116_211_668_1071_-1_-1_2774_0_2774_0
+@Begin
+@Languages:	spa,eng
+@Participants:	PAR 110 Speaker
+@ID:	spa|narratives|PAR||female|||Speaker|||
+@Media:	110_spanish,audio
+*PAR:	un día, la Caperucita y su mamá hicieron galletas. 0_6913
+%pos: un.DET día.NOUN ,.PUNCT la.DET Caperucita.PROPN y.CCONJ su.DET mamá.NOUN hicieron.VERB galletas.NOUN
+*PAR:	entonces, la mamá agarró una canasta. 6913_11176
+%pos: entonces.ADV ,.PUNCT la.DET mamá.NOUN agarró.VERB una.DET canasta.NOUN
+*PAR:	y le dijo a la Caperucita +"/. 11176_13618
+%pos: y.CCONJ le.PRON dijo.VERB a.ADP la.DET Caperucita.PROPN +"/.SYM
+*PAR:	+" trae [//] tráele esto a tu abuelita. 13618_17930
+%pos: +".PUNCT trae.VERB tráele.VERB esto.PRON a.ADP tu.DET abuelita.NOUN
+*PAR:	le dijo +". 17930_19093
+%pos: le.PRON dijo.VERB +".PUNCT
+*PAR:	después, la Caperucita dijo +"/. 19093_23000
+%pos: después.ADV ,.PUNCT la.DET Caperucita.PROPN dijo.VERB +"/.SYM
+*PAR:	+" okay@s. 23000_23889
+%pos: +".SYM okay.INTJ
+*PAR:	y después, agarró la canasta de las galletas. 23889_27295
+%pos: y.CCONJ después.ADV ,.PUNCT agarró.VERB la.DET canasta.NOUN de.ADP las.DET galletas.NOUN
+*PAR:	y después se fue al bosque. 27295_29863
+%pos: y.CCONJ después.ADV se.PRON fue.VERB al.ADP bosque.NOUN
+*PAR:	<se fue> [/] se fue de su casa. 29863_35094
+%pos: se.PRON fue.VERB se.PRON fue.VERB de.ADP su.DET casa.NOUN
+*PAR:	y fue al bosque. 35094_36322
+%pos: y.CCONJ fue.VERB al.ADP bosque.NOUN
+*PAR:	había un lobo que tenía mucha hambre. 36322_39688
+%pos: había.VERB un.DET lobo.NOUN que.SCONJ tenía.VERB mucha.DET hambre.NOUN
+*PAR:	y entonces, el lobo tenía un plan. 39688_42552
+%pos: y.CCONJ entonces.ADV ,.PUNCT el.DET lobo.NOUN tenía.VERB un.DET plan.NOUN
+*PAR:	y le dijo a la Caperucita Rosa +"/. 42552_46323
+%pos: y.CCONJ le.PRON dijo.VERB a.ADP la.DET Caperucita.PROPN Rosa.PROPN +"/.SYM
+*PAR:	+" qué [/] qué estás haciendo aquí. 46323_50116
+%pos: +".SYM qué.INTJ qué.PRON estás.AUX haciendo.VERB aquí.ADV
+*PAR:	+" y dónde vas. 50116_51031
+%pos: +".SYM y.CCONJ dónde.INTJ vas.VERB
+*PAR:	después, la Caperucita dijo +"/. 51031_53131
+%pos: después.ADV ,.PUNCT la.DET Caperucita.PROPN dijo.VERB +"/.SYM
+*PAR:	+" yo le voy a llevar eso para mi abuelita. 53131_56260
+%pos: +".PUNCT yo.PRON le.PRON voy.VERB a.ADP llevar.VERB eso.PRON para.ADP mi.DET abuelita.NOUN
+*PAR:	dijo la Caperucita +". 56260_59259
+%pos: dijo.VERB la.DET Caperucita.NOUN +".PUNCT
+*PAR:	entonces, la Caperucita caminó. 59259_62459
+%pos: entonces.ADV ,.PUNCT la.DET Caperucita.PROPN caminó.VERB
+*PAR:	y caminó. 62459_63539
+%pos: y.CCONJ caminó.VERB
+*PAR:	y después, el lobo tenía un plan. 63539_66072
+%pos: y.CCONJ después.ADV ,.PUNCT el.DET lobo.NOUN tenía.VERB un.DET plan.NOUN
+*PAR:	dijo +"/. 66072_67406
+%pos: dijo.VERB +"/.SYM
+*PAR:	+" yo voy a ir a la casa. 67406_70671
+%pos: +".PUNCT yo.PRON voy.VERB a.ADP ir.VERB a.ADP la.DET casa.NOUN
+*PAR:	+" y me voy a comer a la Caperucita y las galletas. 70671_77119
+%pos: +".SYM y.CCONJ me.PRON voy.VERB a.ADP comer.VERB a.ADP la.DET Caperucita.PROPN y.CCONJ las.DET galletas.NOUN
+*PAR:	<y también> [///] entonces, el lobo llegó a [/] a la casa de la abuelita. 77119_87681
+%pos: y.CCONJ también.ADV entonces.ADV ,.PUNCT el.DET lobo.NOUN llegó.VERB a.ADP a.ADP la.DET casa.NOUN de.ADP la.DET abuelita.NOUN
+*PAR:	y agarró todas las cosas de la abuelita de la Caperucita. 87681_94981
+%pos: y.CCONJ agarró.VERB todas.DET las.DET cosas.NOUN de.ADP la.DET abuelita.NOUN de.ADP la.DET Caperucita.PROPN
+*PAR:	agarró su gorro, sus lentes y su pijama. 94981_99944
+%pos: agarró.VERB su.DET gorro.NOUN ,.PUNCT sus.DET lentes.NOUN y.CCONJ su.DET pijama.NOUN
+*PAR:	<se los pu(so)> [//] se lo puso. 99944_105709
+%pos: se.PRON los.PRON puso.VERB se.PRON lo.PRON puso.VERB
+*PAR:	y después puso la abuelita &-um en un lado pa(ra) que Caperucita no se dé cuenta que está ahí. 105709_119485
+%pos: y.CCONJ después.ADV puso.VERB la.DET abuelita.NOUN en.ADP un.DET lado.NOUN para.ADP que.SCONJ Caperucita.PROPN no.ADV se.PRON dé.VERB cuenta.NOUN que.SCONJ está.VERB ahí.ADV
+*PAR:	<la Caperuci(ta)> [//] la Caperucita estaba ahí. 119485_123692
+%pos: la.DET Caperucita.PROPN la.DET Caperucita.PROPN estaba.VERB ahí.ADV
+*PAR:	y después puso <las galle(tas)> [//] las galletitas en la mesa. 123692_130233
+%pos: y.CCONJ después.ADV puso.VERB las.DET galletas.NOUN las.DET galletitas.NOUN en.ADP la.DET mesa.NOUN
+*PAR:	y después, el [/] <el lobo> [//] la Caperucita estaba +"/. 130233_137922
+%pos: y.CCONJ después.ADV ,.PUNCT el.DET el.DET lobo.NOUN la.DET Caperucita.PROPN estaba.VERB +"/.SYM
+*PAR:	+" abuelita, por qué tienes ojos bien grandes. 137922_142147
+%pos: +".PUNCT abuelita.NOUN ,.PUNCT por.ADP qué.PRON tienes.VERB ojos.NOUN bien.ADV grandes.ADJ
+*PAR:	+" por qué tienes la boca bien grande. 142147_145822
+%pos: +".SYM por.ADP qué.PRON tienes.VERB la.DET boca.NOUN bien.ADV grande.ADJ
+*PAR:	+" y por qué tienes oídos bien grandes. 145822_148893
+%pos: +".SYM y.CCONJ por.ADP qué.PRON tienes.VERB oídos.NOUN bien.ADV grandes.ADJ
+*PAR:	después, el lobo esta(ba) [//] le dijo a la Caperucita +"/. 148893_154080
+%pos: después.ADV ,.PUNCT el.DET lobo.NOUN estaba.AUX le.PRON dijo.VERB a.ADP la.DET Caperucita.PROPN +"/.SYM
+*PAR:	+" porque yo te quiero comer. 154080_156244
+%pos: +".SYM porque.SCONJ yo.PRON te.PRON quiero.VERB comer.VERB
+*PAR:	y después, la Caperucita corrió. 156244_160787
+%pos: y.CCONJ después.ADV ,.PUNCT la.DET Caperucita.PROPN corrió.VERB
+*PAR:	y después, <el lobo estaba bien> [//] el lobo tenía mucha hambre. 160787_169113
+%pos: y.CCONJ después.ADV ,.PUNCT el.DET lobo.NOUN estaba.VERB bien.ADV el.DET lobo.NOUN tenía.VERB mucha.DET hambre.NOUN
+*PAR:	entonces, después, se (..). 169113_176196
+%pos: entonces.ADV ,.PUNCT después.ADV ,.PUNCT se.PRON
+*PAR:	yo no sé si se comió a Caperucita. 176196_180734
+%pos: yo.PRON no.ADV sé.VERB si.SCONJ se.PRON comió.VERB a.ADP Caperucita.PROPN
+*PAR:	pero después un cazador vino. 180734_183231
+%pos: pero.CCONJ después.ADV un.DET cazador.NOUN vino.NOUN
+*PAR:	y después <vio a la> [//] vio al lobo. 183231_189639
+%pos: y.CCONJ después.ADV vio.VERB a.ADP la.PRON vio.VERB al.ADP lobo.NOUN
+*PAR:	y rescató a la Caperucita y su abuela. 189639_205839
+%pos: y.CCONJ rescató.VERB a.ADP la.DET Caperucita.PROPN y.CCONJ su.DET abuela.NOUN
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:36:37.905184

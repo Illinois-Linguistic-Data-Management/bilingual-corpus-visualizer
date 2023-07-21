@@ -1,0 +1,133 @@
+@UTF8
+@Window:	0_0_0_0_3201_0_3030_0_3030_0
+@Begin
+@Languages:	eng
+@Participants:	PAR 422 Speaker
+@ID:	eng|narratives|PAR||female|||Speaker|||
+@Media:	422_english, audio
+*PAR:	<RES> [e]. 0_13040
+*PAR:	Little Red Riding Hood &=laughs &-uhmwas at her grandma's house. 13040_18495
+%pos: Little.ADJ Red.ADJ Riding.NOUN Hood.PROPN at.ADP her.PRON grandma.NOUN 's.PART house.NOUN
+*PAR:	and her grandma was so excited to see her. 18495_20995
+%pos: and.CCONJ her.PRON grandma.NOUN was.AUX so.ADV excited.ADJ to.PART see.VERB her.PRON
+*PAR:	and &-uhm she was very happy. 20995_25496
+%pos: and.CCONJ she.PRON was.AUX very.ADV happy.ADJ
+*PAR:	it was her birthday. 25496_26461
+%pos: it.PRON was.AUX her.PRON birthday.NOUN
+*PAR:	and there was a cake somewhere outside of the picture. 26461_32161
+%pos: and.CCONJ there.ADV was.VERB a.DET cake.NOUN somewhere.ADV outside.ADP of.ADP the.DET picture.NOUN
+*PAR:	and the little birds were [/] were &-uhm chirping. 32161_35240
+%pos: and.CCONJ the.DET little.ADJ birds.NOUN were.AUX were.AUX chirping.VERB
+*PAR:	and everybody was very happy. 35240_37735
+%pos: and.CCONJ everybody.PRON was.AUX very.ADV happy.ADJ
+*PAR:	<RES> [e].
+*PAR:	and dancing. 37735_40060
+*PAR:	and dancing. 37735_40060
+%pos: and.CCONJ dancing.VERB
+*PAR:	Little Red Riding Hood went to go take some food
+	(.) back to her grandma's house from her mom's house. 40060_52815
+%pos: Little.ADJ Red.ADJ Riding.PROPN Hood.PROPN went.VERB to.PART go.VERB take.VERB some.DET food.NOUN back.ADV to.ADP her.PRON grandma.NOUN 's.PART house.NOUN from.ADP her.PRON mom.NOUN 's.PART house.NOUN
+*PAR:	and they were going to spend the afternoon together eating the food. 52815_57636
+%pos: and.CCONJ they.PRON were.AUX going.VERB to.PART spend.VERB the.DET afternoon.NOUN together.ADV eating.VERB the.DET food.NOUN
+*PAR:	and spending time as a family. 57636_59840
+%pos: and.CCONJ spending.VERB time.NOUN as.ADP a.DET family.NOUN
+*PAR:	+" bye mom. 59840_61545
+%pos: +".SYM bye.NOUN mom.NOUN
+*PAR:	while Little Red Riding Hood was walking through the forest. 61545_69015
+%pos: while.SCONJ Little.ADJ Red.ADJ Riding.PROPN Hood.PROPN was.AUX walking.VERB through.ADP the.DET forest.NOUN
+*PAR:	there was a scary wolf. 69015_71736
+%pos: there.PRON was.VERB a.DET scary.ADJ wolf.NOUN
+*PAR:	that was following her secretly. 71736_75560
+%pos: that.PRON was.AUX following.VERB her.PRON secretly.ADV
+*PAR:	Little Red Riding Hood was picking some flowers. 75560_85611
+%pos: Little.ADJ Red.ADJ Riding.PROPN Hood.PROPN was.AUX picking.VERB some.DET flowers.NOUN
+*PAR:	had stopped to pick some flowers for her grandmother. 85611_89560
+%pos: had.AUX stopped.VERB to.PART pick.VERB some.DET flowers.NOUN for.ADP her.PRON grandmother.NOUN
+*PAR:	and <the little> [//] the wolf headed to her grandmother's house. 89560_94206
+%pos: and.CCONJ the.DET little.ADJ the.DET wolf.NOUN headed.VERB to.ADP her.PRON grandmother.NOUN 's.PART house.NOUN
+*PAR:	to try to sneak in. 94206_95781
+%pos: to.PART try.VERB to.PART sneak.VERB in.ADV
+*PAR:	the wolf came in. 95781_102561
+%pos: the.DET wolf.NOUN came.VERB in.ADV
+*PAR:	and attacked her grandma. 102561_103736
+%pos: and.CCONJ attacked.VERB her.PRON grandma.NOUN
+*PAR:	and they fought. 103736_108116
+%pos: and.CCONJ they.PRON fought.VERB
+*PAR:	and the wolf climbed in the bed. 108116_111251
+%pos: and.CCONJ the.DET wolf.NOUN climbed.VERB in.ADP the.DET bed.NOUN
+*PAR:	and pretended like he was grandma. 111251_113336
+%pos: and.CCONJ pretended.VERB like.SCONJ he.PRON was.AUX grandma.NOUN
+*PAR:	while Little Red Riding Hood came in. 113336_115301
+%pos: while.SCONJ Little.ADJ Red.ADJ Riding.PROPN Hood.PROPN came.VERB in.ADV
+*PAR:	and set up the flowers and the cookies just for her grandma. 115301_118425
+%pos: and.CCONJ set.VERB up.ADP the.DET flowers.NOUN and.CCONJ the.DET cookies.NOUN just.ADV for.ADP her.PRON grandma.NOUN
+*PAR:	Little Red Riding Hood approached her grandma's bed wondering. 118425_126801
+%pos: Little.ADJ Red.ADJ Riding.PROPN Hood.PROPN approached.VERB her.PRON grandma.NOUN 's.PART bed.NOUN wondering.VERB
+*PAR:	+" grandma looks a little sickly or different today. 126801_129581
+%pos: +".PUNCT grandma.NOUN looks.VERB a.DET little.ADJ sickly.ADJ or.CCONJ different.ADJ today.NOUN
+*PAR:	she wondered. 129581_131146
+%pos: she.PRON wondered.VERB
+*PAR:	+" what's going on with my grandma? 131146_132691
+%pos: +".PUNCT what.PRON 's.AUX going.VERB on.ADV with.ADP my.PRON grandma.NOUN
+*PAR:	all of a sudden the wolf jumped up. 132691_139671
+%pos: all.DET of.ADP a.DET sudden.NOUN the.DET wolf.NOUN jumped.VERB up.ADV
+*PAR:	and said. 139671_141156
+%pos: and.CCONJ said.VERB
+*PAR:	+" i'm your grandma now. 141156_142111
+%pos: +".PUNCT i.PRON 'm.AUX your.PRON grandma.NOUN now.ADV
+*PAR:	and began chasing Little Red Riding Hood. 142111_145623
+%pos: and.CCONJ began.VERB chasing.VERB Little.ADJ Red.ADJ Riding.PROPN Hood.PROPN
+*PAR:	the wolf ate Little Red Riding Hood. 145623_153861
+%pos: the.DET wolf.NOUN ate.VERB Little.ADJ Red.PROPN Riding.PROPN Hood.PROPN
+*PAR:	He swallowed her up whole. 153861_156376
+%pos: He.PRON swallowed.VERB her.PRON up.ADP whole.ADV
+*PAR:	and he laid on the couch. 156376_157576
+%pos: and.CCONJ he.PRON laid.VERB on.ADP the.DET couch.NOUN
+*PAR:	while his big fat belly and rubbed it. 157576_159751
+%pos: while.SCONJ his.PRON big.ADJ fat.NOUN belly.NOUN and.CCONJ rubbed.VERB it.PRON
+*PAR:	while birds sat on it and pecked at it. 159751_161076
+%pos: while.SCONJ birds.NOUN sat.VERB on.ADP it.PRON and.CCONJ pecked.VERB at.ADP it.PRON
+*PAR:	all of the sudden (.) a man with a gun came running in with his dog.
+	161076_165861
+%pos: all.DET of.ADP the.DET sudden.ADV a.DET man.NOUN with.ADP a.DET gun.NOUN came.VERB running.VERB in.ADV with.ADP his.PRON dog.NOUN
+*PAR:	and saw the wolf there with his belly full of dead bodies. 165861_169031
+%pos: and.CCONJ saw.VERB the.DET wolf.NOUN there.ADV with.ADP his.PRON belly.NOUN full.ADJ of.ADP dead.ADJ bodies.NOUN
+*PAR:	<&-oh and the wo(lf)> [//] he cut the wolf's stomach open. 169031_177731
+%pos: and.CCONJ the.DET wolf.NOUN he.PRON cut.VERB the.DET wolf.NOUN 's.PART stomach.NOUN open.ADJ
+*PAR:	and out popped grandma and Little Red Riding Hood. 177731_180656
+%pos: and.CCONJ out.ADV popped.VERB grandma.NOUN and.CCONJ Little.ADJ Red.ADJ Riding.PROPN Hood.PROPN
+*PAR:	and the wolf was tickled. 180656_185406
+%pos: and.CCONJ the.DET wolf.NOUN was.AUX tickled.VERB
+*PAR:	and so happy he wasn't bloated anymore. 185406_188871
+%pos: and.CCONJ so.ADV happy.ADJ he.PRON was.AUX n't.PART bloated.VERB anymore.ADV
+*PAR:	and then they took rocks. 188871_197906
+%pos: and.CCONJ then.ADV they.PRON took.VERB rocks.NOUN
+*PAR:	and put it on the wolf's stomach. 197906_202201
+%pos: and.CCONJ put.VERB it.PRON on.ADP the.DET wolf.NOUN 's.PART stomach.NOUN
+*PAR:	(be)cause they were going to cook the wolf maybe. 202201_206482
+%pos: because.SCONJ they.PRON were.AUX going.VERB to.PART cook.VERB the.DET wolf.NOUN maybe.ADV
+*PAR:	or they were going to sew the wolf back up. 206482_208447
+%pos: or.CCONJ they.PRON were.AUX going.VERB to.PART sew.VERB the.DET wolf.NOUN back.ADV up.ADV
+*PAR:	and save his life. 208447_209667
+%pos: and.CCONJ save.VERB his.PRON life.NOUN
+*PAR:	even though he had just tried to eaten them. 209667_211167
+%pos: even.ADV though.SCONJ he.PRON had.AUX just.ADV tried.VERB to.PART eaten.VERB them.PRON
+*PAR:	<RES> [e]. 211167_213697
+*PAR:	&-oh and then they filled the wolf's stomach up with rocks. 213697_219717
+%pos: and.CCONJ then.ADV they.PRON filled.VERB the.DET wolf.NOUN 's.PART stomach.NOUN up.ADV with.ADP rocks.NOUN
+*PAR:	so he would never try to eat anybody again. 219717_221997
+%pos: so.ADV he.PRON would.AUX never.ADV try.VERB to.PART eat.VERB anybody.PRON again.ADV
+*PAR:	and he ran off. 221997_225792
+%pos: and.CCONJ he.PRON ran.VERB off.ADV
+*PAR:	and they laughed. 225792_226577
+%pos: and.CCONJ they.PRON laughed.VERB
+*PAR:	and Little Red Riding Hood ran off with a man. 226577_231497
+%pos: and.CCONJ Little.ADJ Red.ADJ Riding.PROPN Hood.PROPN ran.VERB off.ADV with.ADP a.DET man.NOUN
+*PAR:	who was actually her father. 231497_232587
+%pos: who.PRON was.AUX actually.ADV her.PRON father.NOUN
+*PAR:	and grandma said. 232587_234712
+%pos: and.CCONJ grandma.NOUN said.VERB
+*PAR:	+" bye, thanks for saving my life and all the good food. 234712_237917
+%pos: +".PUNCT bye.NOUN ,.PUNCT thanks.NOUN for.SCONJ saving.VERB my.PRON life.NOUN and.CCONJ all.DET the.DET good.ADJ food.NOUN
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:38:43.025264

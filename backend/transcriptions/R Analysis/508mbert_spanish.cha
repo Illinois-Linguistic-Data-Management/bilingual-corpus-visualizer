@@ -1,0 +1,82 @@
+@UTF8
+@Window:	0_0_0_0_1008_0_2172_0_2172_0
+@Begin
+@Languages:	spa,eng
+@Participants:	PAR 508 Speaker
+@ID:	spa|narratives|PAR||female|||Speaker|||
+@Media:	508_spanish,audio
+*PAR:	la niña recibió su (..) chaqueta roja de su abuela . 0_14494
+%pos: la.DET niña.NOUN recibió.VERB su.DET chaqueta.NOUN roja.ADJ de.ADP su.DET abuela.NOUN
+*PAR:	<RES> [e] . 14494_18275
+*PAR:	<next@s> [e] . 18275_19463
+*PAR:	<RES> [e] . 19463_22009
+*PAR:	&-um (.) la niña es [: está][*] caminando <y> [///] <con un> [//]
+	&-um (.) con su chaqueta roja . 22009_37306
+%pos: la.DET niña.NOUN es.AUX caminando.VERB y.CCONJ con.ADP un.DET con.ADP su.DET chaqueta.NOUN roja.ADJ
+*PAR:	y tiene . 37306_39588
+%pos: y.CCONJ tiene.VERB
+*PAR:	&-um (.) &-um (..) I'm@s not@s sure@s . 39588_48509
+%pos: I.PRON 'm.AUX not.PART sure.ADJ
+*PAR:	<RES> [e] . 48509_56337
+*PAR:	yeah@s, una canasta (.) con (.) comida entre [: adentro][*] . 56337_64116
+%pos: yeah.INTJ ,.PUNCT una.DET canasta.NOUN con.ADP comida.NOUN entre.ADP
+*PAR:	<RES> [e] . 64116_68563
+*PAR:	&-um hay un [/] un lobo que es [: está][*] persiguiendo la niña
+	cuando es [: está][*] caminando en el bosque . 68563_83672
+%pos: hay.VERB un.DET un.DET lobo.NOUN que.SCONJ es.AUX persiguiendo.VERB la.DET niña.NOUN cuando.SCONJ es.AUX caminando.VERB en.ADP el.DET bosque.NOUN
+*PAR:	y (.) <hay una> [//] &-uh (.) &-um (.) hay unas flores y animales . 83672_98000
+%pos: y.CCONJ hay.VERB una.DET hay.VERB unas.DET flores.NOUN y.CCONJ animales.NOUN
+*PAR:	<RES> [e] . 98000_103875
+*PAR:	&-um (.) el lobo es [: está][*] caminando &-um hasta un [: una][*]
+	casa . 103875_114125
+%pos: el.DET lobo.NOUN es.AUX caminando.VERB hasta.ADP un.DET casa.NOUN
+*PAR:	<next@s> [e] . 114125_118000
+*PAR:	<RES> [e] . 118000_120367
+*PAR:	el lobo es [: está][*] comiendo <la ni(ña)> [///] la abuela de la
+	niña . 120367_128587
+%pos: el.DET lobo.NOUN es.AUX comiendo.VERB la.DET niña.NOUN la.DET abuela.NOUN de.ADP la.DET niña.NOUN
+*PAR:	<next@s> [e] . 128587_130618
+*PAR:	<la niña> [/] (.) la niña (.) pone flores en un vaso . 130618_142775
+%pos: la.DET niña.NOUN la.DET niña.NOUN pone.VERB flores.NOUN en.ADP un.DET vaso.NOUN
+*PAR:	y pone galletas y (.) agua en la mesa . 142775_149618
+%pos: y.CCONJ pone.VERB galletas.NOUN y.CCONJ agua.NOUN en.ADP la.DET mesa.NOUN
+*PAR:	y el lobo quiere comerlo . 149618_153994
+%pos: y.CCONJ el.DET lobo.NOUN quiere.VERB comerlo.VERB
+*PAR:	<next@s> [e] . 153994_156697
+*PAR:	la niña es [: está][*] curioso [: curiosa][*] . 156697_162116
+%pos: la.DET niña.NOUN es.AUX curioso.ADJ
+*PAR:	porque el lobo no mira como su abuela . 162116_165946
+%pos: porque.SCONJ el.DET lobo.NOUN no.ADV mira.VERB como.ADP su.DET abuela.NOUN
+*PAR:	<next@s> [e] . 165946_167946
+*PAR:	y el lobo (.) <corre> [//] (.) persigue de la niña . 167946_178869
+%pos: y.CCONJ el.DET lobo.NOUN corre.ADJ persigue.VERB de.ADP la.DET niña.NOUN
+*PAR:	<y> [///] porque quiere comerlo . 178869_181447
+%pos: y.CCONJ porque.SCONJ quiere.VERB comerlo.VERB
+*PAR:	<next@s> [e] . 181447_182664
+*PAR:	&-um el lobo come la niña . 182664_191838
+%pos: el.DET lobo.NOUN come.VERB la.DET niña.NOUN
+*PAR:	y (.) <a@s hunter@s quiere> [///] a@s hunter@s (.) veo [: ve][*] . 191838_202837
+%pos: y.CCONJ a.ADP hunter.VERB quiere.VERB a.ADP hunter.VERB veo.VERB
+*PAR:	<next@s> [e] . 202837_204479
+*PAR:	<RES> [e] . 204479_206634
+*PAR:	a@s hunter@s (.) &-uh (..) &-um save@s (.) la niña y su abuela del
+	lobo . 206634_226291
+%pos: a.ADP hunter.VERB save.VERB la.DET niña.NOUN y.CCONJ su.DET abuela.NOUN del.ADP lobo.NOUN
+*PAR:	<next@s> [e] . 226291_230041
+*PAR:	&-um <la niñ(a)> [///] &-uh a@s hunter@s y la niña pone [: ponen][*]
+	rocas en el lobo . 230041_241915
+%pos: la.DET niña.NOUN a.ADP hunter.VERB y.CCONJ la.DET niña.NOUN pone.VERB rocas.NOUN en.ADP el.DET lobo.NOUN
+*PAR:	<next@s> [e] . 241915_244210
+*PAR:	el lobo er(a) [/] era muy (.) &-um heavy@s . 244210_258817
+%pos: el.DET lobo.NOUN era.AUX era.AUX muy.ADV heavy.ADJ
+*PAR:	porque hay rocas en [: adentro][*] . 258817_261085
+%pos: porque.SCONJ hay.VERB rocas.NOUN en.ADP
+*PAR:	<next@s> [e] . 261085_262507
+*PAR:	<RES> [e] . 262507_267413
+*PAR:	&-um (.) rey(endo) [: riendo][*] [/] reyendo [: riendo][*] . 267413_273053
+%pos: reyendo.VERB reyendo.VERB
+*PAR:	<RES> [e] . 273053_275976
+*PAR:	la niña y el hunter@s (.) dice [: dicen][*] adiós a la abuela . 275976_287613
+%pos: la.DET niña.NOUN y.CCONJ el.DET hunter.NOUN dice.VERB adiós.ADV a.ADP la.DET abuela.NOUN
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-24 19:45:33.216403

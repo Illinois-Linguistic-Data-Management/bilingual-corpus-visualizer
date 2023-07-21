@@ -1,0 +1,52 @@
+@UTF8
+@Window:	131_657_642_783_-1_-1_83_0_83_0
+@Begin
+@Languages:	spa,eng
+@Participants:	PAR 615 Speaker
+@ID:	spa|narratives|PAR||male|||Speaker|||
+@Media:	615_spa,audio
+*PAR:	<RES> [e]. 0_3568
+*PAR:	Caperucita Roja era una niña que vivía en el bosque (..) conjunto con su abuelita. 3568_14878
+%pos: Caperucita.PROPN Roja.PROPN era.AUX una.DET niña.NOUN que.SCONJ vivía.VERB en.ADP el.DET bosque.NOUN conjunto.ADJ con.ADP su.DET abuelita.NOUN
+*PAR:	ella [//] ellas [//] ella hacía pasteles junto con Caperucita. 14878_21882
+%pos: ella.PRON ellas.PRON ella.PRON hacía.VERB pasteles.NOUN junto.ADJ con.ADP Caperucita.PROPN
+*PAR:	su mamá &-eh mandó a Caperucita a dejarle a su abuelita galleta, uvas y [/] y vino. 21882_40956
+%pos: su.DET mamá.NOUN mandó.VERB a.ADP Caperucita.PROPN a.ADP dejarle.VERB a.ADP su.DET abuelita.NOUN galleta.NOUN ,.PUNCT uvas.NOUN y.CCONJ y.CCONJ vino.NOUN
+*PAR:	Caperucita no se dio cuenta que el lobo la venía siguiendo. 40956_53300
+%pos: Caperucita.PROPN no.ADV se.PRON dio.VERB cuenta.NOUN que.SCONJ el.DET lobo.NOUN la.PRON venía.VERB siguiendo.VERB
+*PAR:	y el lobo no se dio cuenta que el cazador lo venía siguiendo. 53300_61797
+%pos: y.CCONJ el.DET lobo.NOUN no.ADV se.PRON dio.VERB cuenta.NOUN que.SCONJ el.DET cazador.NOUN lo.PRON venía.VERB siguiendo.VERB
+*PAR:	Caperucita <se entre(tuvo)> [//] se entretenió [: entretuvo] cortando flores para su abuelita. 61797_70052
+%pos: Caperucita.PROPN se.PRON entretuvo.VERB se.PRON entretenió.VERB cortando.VERB flores.NOUN para.ADP su.DET abuelita.NOUN
+*PAR:	y el lobo se adelantó a casa de su abuelita. 70052_74305
+%pos: y.CCONJ el.DET lobo.NOUN se.PRON adelantó.VERB a.ADP casa.NOUN de.ADP su.DET abuelita.NOUN
+*PAR:	el lobo atacó a la abuelita. 74305_80315
+%pos: el.DET lobo.NOUN atacó.VERB a.ADP la.DET abuelita.NOUN
+*PAR:	Caperucita llegó al cuarto. 80315_86936
+%pos: Caperucita.PROPN llegó.VERB al.DET cuarto.NOUN
+*PAR:	dejó las rosas, agua y galleta para su abuelita. 86936_93243
+%pos: dejó.VERB las.DET rosas.NOUN ,.PUNCT agua.NOUN y.CCONJ galleta.NOUN para.ADP su.DET abuelita.NOUN
+*PAR:	y el lobo estaba en la cama. 93243_95904
+%pos: y.CCONJ el.DET lobo.NOUN estaba.VERB en.ADP la.DET cama.NOUN
+*PAR:	Caperucita se acercó al lobo. 95904_102381
+%pos: Caperucita.PROPN se.PRON acercó.VERB al.ADP lobo.NOUN
+*PAR:	Ca(perucita) [/] Ca(perucita) [//] el lobo se le aventó a Caperucita. 102381_116874
+%pos: Caperucita.PROPN Caperucita.PROPN el.DET lobo.NOUN se.PRON le.PRON aventó.VERB a.ADP Caperucita.PROPN
+*PAR:	el cazador y el perro llegaron a rescatar a Caperucita. 116874_128559
+%pos: el.DET cazador.NOUN y.CCONJ el.DET perro.NOUN llegaron.VERB a.ADP rescatar.VERB a.ADP Caperucita.PROPN
+*PAR:	el [/] el cazador salvó a Caperucita y a su abuela. 128559_140103
+%pos: el.DET el.DET cazador.NOUN salvó.VERB a.ADP Caperucita.PROPN y.CCONJ a.ADP su.DET abuela.NOUN
+*PAR:	Caperucita llevaba unas piedras para el lobo y [/] y el perro igual. 140103_165129
+%pos: Caperucita.PROPN llevaba.VERB unas.DET piedras.NOUN para.ADP el.DET lobo.NOUN y.CCONJ y.CCONJ el.DET perro.NOUN igual.ADJ
+*PAR:	y su abuelita estaba cosiendo. 165129_172879
+%pos: y.CCONJ su.DET abuelita.NOUN estaba.AUX cosiendo.VERB
+*PAR:	el lobo le creció mucho la panza. 172879_180623
+%pos: el.DET lobo.NOUN le.PRON creció.VERB mucho.PRON la.DET panza.NOUN
+*PAR:	y el cazador y la abuelita y Caperucita Roja se reían de él. 180623_185779
+%pos: y.CCONJ el.DET cazador.NOUN y.CCONJ la.DET abuelita.NOUN y.CCONJ Caperucita.PROPN Roja.PROPN se.PRON reían.VERB de.ADP él.PRON
+*PAR:	y [/] y el lobo cayó en [/] en agua. 185779_192513
+%pos: y.CCONJ y.CCONJ el.DET lobo.NOUN cayó.VERB en.ADP en.ADP agua.NOUN
+*PAR:	Caperucita <y el> [/] y el que la llegó a salvar y el perro se despidieron de la abuelita. 192513_207819
+%pos: Caperucita.PROPN y.CCONJ el.DET y.NOUN el.DET que.SCONJ la.PRON llegó.VERB a.ADP salvar.VERB y.CCONJ el.DET perro.NOUN se.PRON despidieron.VERB de.ADP la.DET abuelita.NOUN
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:19:37.526418

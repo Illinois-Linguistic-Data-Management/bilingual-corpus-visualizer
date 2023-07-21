@@ -1,0 +1,60 @@
+@UTF8
+@Window:	133_803_668_637_-1_-1_1795_0_1795_0
+@Begin
+@Languages:	spa
+@Participants:	PAR 726 Speaker
+@ID:	spa|narratives|PAR||female|||Speaker|||
+@Media:	726_spa,audio
+*PAR:	<RES> [e]. 0_4119
+*PAR:	Caperucita Roja. 4119_10383
+%pos: Caperucita.NOUN Roja.ADJ
+*PAR:	&-eh Caperucita Roja un día estaba con su abuela <a la cual> [//] a ambas les gustaban los pasteles. 10383_20072
+%pos: Caperucita.NOUN Roja.ADJ un.DET día.NOUN estaba.VERB con.ADP su.DET abuela.NOUN a.ADP la.DET cual.PRON a.ADP ambas.PRON les.PRON gustaban.VERB los.DET pasteles.NOUN
+*PAR:	&-eh un día, Caperucita Roja estando en su casa, su mamá le dio una canasta de (.) galletas para llevárselas a su abuelita. 20072_31627
+%pos: un.DET día.NOUN ,.PUNCT Caperucita.PROPN Roja.PROPN estando.VERB en.ADP su.DET casa.NOUN ,.PUNCT su.DET mamá.NOUN le.PRON dio.VERB una.DET canasta.NOUN de.ADP galletas.NOUN para.ADP llevárselas.VERB a.ADP su.DET abuelita.NOUN
+*PAR:	en el camino, Caperucita Roja encontró al lobo. 31627_38489
+%pos: en.ADP el.DET camino.NOUN ,.PUNCT Caperucita.PROPN Roja.PROPN encontró.VERB al.DET lobo.NOUN
+*PAR:	pero un cazador también vio al lobo y a Caperucita. 38489_43526
+%pos: pero.CCONJ un.DET cazador.NOUN también.ADV vio.VERB al.ADP lobo.NOUN y.CCONJ a.ADP Caperucita.PROPN
+*PAR:	Caperucita Roja se entretuvo con las flores mientras el lobo parecía ir camino hacia casa de la abuelita de Caperucita. 43526_54696
+%pos: Caperucita.PROPN Roja.PROPN se.PRON entretuvo.VERB con.ADP las.DET flores.NOUN mientras.SCONJ el.DET lobo.NOUN parecía.VERB ir.VERB camino.NOUN hacia.ADP casa.NOUN de.ADP la.DET abuelita.NOUN de.ADP Caperucita.PROPN
+*PAR:	el lobo tuvo una idea. 54696_58494
+%pos: el.DET lobo.NOUN tuvo.VERB una.DET idea.NOUN
+*PAR:	y fue directo a atacar a la abuelita. 58494_62603
+%pos: y.CCONJ fue.AUX directo.ADJ a.ADP atacar.VERB a.ADP la.DET abuelita.NOUN
+*PAR:	Caperucita llega a la casa. 62603_68671
+%pos: Caperucita.PROPN llega.VERB a.ADP la.DET casa.NOUN
+*PAR:	y sirve la mesa para su abuelita. 68671_72506
+%pos: y.CCONJ sirve.VERB la.DET mesa.NOUN para.ADP su.DET abuelita.NOUN
+*PAR:	el lobo simuló ser la abuelita. 72506_74834
+%pos: el.DET lobo.NOUN simuló.VERB ser.AUX la.DET abuelita.NOUN
+*PAR:	y se acostó en la cama. 74834_76589
+%pos: y.CCONJ se.PRON acostó.VERB en.ADP la.DET cama.NOUN
+*PAR:	Caperucita se acerca a su abuelita. 76589_82289
+%pos: Caperucita.VERB se.PRON acerca.VERB a.ADP su.DET abuelita.NOUN
+*PAR:	pero en realidad era el lobo. 82289_83593
+%pos: pero.CCONJ en.ADP realidad.NOUN era.AUX el.DET lobo.NOUN
+*PAR:	y se da cuenta que está diferente. 83593_85444
+%pos: y.CCONJ se.PRON da.VERB cuenta.NOUN que.SCONJ está.AUX diferente.ADJ
+*PAR:	el lobo asusta a Caperucita. 85444_89308
+%pos: el.DET lobo.NOUN asusta.VERB a.ADP Caperucita.PROPN
+*PAR:	el lobo, al parecer, se come a la abuelita y a Caperucita. 89308_96673
+%pos: el.DET lobo.NOUN ,.PUNCT al.ADP parecer.NOUN ,.PUNCT se.PRON come.VERB a.ADP la.DET abuelita.NOUN y.CCONJ a.ADP Caperucita.PROPN
+*PAR:	y llega el cazador. 96673_98191
+%pos: y.CCONJ llega.VERB el.DET cazador.NOUN
+*PAR:	y ve la escena. 98191_100162
+%pos: y.CCONJ ve.VERB la.DET escena.NOUN
+*PAR:	el cazador &-hm logra salvar a la abuelita y a la Caperucita del lobo. 100162_116460
+%pos: el.DET cazador.NOUN logra.VERB salvar.VERB a.ADP la.DET abuelita.NOUN y.CCONJ a.ADP la.DET Caperucita.NOUN del.ADP lobo.NOUN
+*PAR:	Caperucita y la abuelita, con [//] junto con el cazador, llenan el lobo &-um de piedras. 116460_129374
+%pos: Caperucita.PROPN y.CCONJ la.DET abuelita.NOUN ,.PUNCT con.ADP junto.ADJ con.ADP el.DET cazador.NOUN ,.PUNCT llenan.VERB el.DET lobo.NOUN de.ADP piedras.NOUN
+*PAR:	el lobo se despierta. 129374_137033
+%pos: el.DET lobo.NOUN se.PRON despierta.VERB
+*PAR:	y no puede más con su peso. 137033_139914
+%pos: y.CCONJ no.ADV puede.AUX más.ADV con.ADP su.DET peso.NOUN
+*PAR:	y cae dentro de un río. 139914_141819
+%pos: y.CCONJ cae.VERB dentro.ADV de.ADP un.DET río.NOUN
+*PAR:	Caperucita y el cazador se despiden de la abuelita. 141819_147550
+%pos: Caperucita.PROPN y.CCONJ el.DET cazador.NOUN se.PRON despiden.VERB de.ADP la.DET abuelita.NOUN
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:16:25.594769

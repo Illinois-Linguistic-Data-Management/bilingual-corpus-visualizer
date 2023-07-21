@@ -1,0 +1,56 @@
+@UTF8
+@Window:	130_198_668_1071_-1_-1_1951_0_1951_0
+@Begin
+@Languages:	spa,eng
+@Participants:	PAR 720 Speaker
+@ID:	spa|narratives|PAR||male|||Speaker|||
+@Media:	720_spanish,audio
+*PAR:	<RES> [e]. 0_4801
+*PAR:	Caperucita Roja era una niña muy alegre. 4801_10535
+%pos: Caperucita.PROPN Roja.PROPN era.AUX una.DET niña.NOUN muy.ADV alegre.ADJ
+*PAR:	y siempre le gustaba vestir con su capa color rojo. 10535_14991
+%pos: y.CCONJ siempre.ADV le.PRON gustaba.VERB vestir.VERB con.ADP su.DET capa.NOUN color.NOUN rojo.ADJ
+*PAR:	ella le gustaba visitar a su abuela muy a menudo. 14991_20885
+%pos: ella.PRON le.PRON gustaba.VERB visitar.VERB a.ADP su.DET abuela.NOUN muy.ADV a.ADP menudo.ADJ
+*PAR:	y le gustaba llevarle postres. 20885_23923
+%pos: y.CCONJ le.PRON gustaba.VERB llevarle.VERB postres.NOUN
+*PAR:	un día, su mamá la mandó a casa de su abuela a llevarle una canasta con galletas. 23923_35496
+%pos: un.DET día.NOUN ,.PUNCT su.DET mamá.NOUN la.PRON mandó.VERB a.ADP casa.NOUN de.ADP su.DET abuela.NOUN a.ADP llevarle.VERB una.DET canasta.NOUN con.ADP galletas.NOUN
+*PAR:	en el camino, un lobo la observaba. 35496_41700
+%pos: en.ADP el.DET camino.NOUN ,.PUNCT un.DET lobo.NOUN la.PRON observaba.VERB
+*PAR:	y la empezó a perseguir. 41700_44084
+%pos: y.CCONJ la.PRON empezó.VERB a.ADP perseguir.VERB
+*PAR:	un leñador se dio cuenta <de este> [/] <de este> [//] de esto. 44084_52794
+%pos: un.DET leñador.NOUN se.PRON dio.VERB cuenta.NOUN de.ADP este.PRON de.ADP este.PRON de.ADP esto.PRON
+*PAR:	Caperucita iba recogiendo flores por todo el camino para llevarle a su abuelita. 52794_61092
+%pos: Caperucita.PROPN iba.AUX recogiendo.VERB flores.NOUN por.ADP todo.DET el.DET camino.NOUN para.ADP llevarle.VERB a.ADP su.DET abuelita.NOUN
+*PAR:	el lobo la siguió persiguiendo. 61092_64977
+%pos: el.DET lobo.NOUN la.PRON siguió.VERB persiguiendo.VERB
+*PAR:	y llegó a la casa de su abuelita. 64977_69289
+%pos: y.CCONJ llegó.VERB a.ADP la.DET casa.NOUN de.ADP su.DET abuelita.NOUN
+*PAR:	el lobo llegó primero a casa de su abuelita. 69289_75670
+%pos: el.DET lobo.NOUN llegó.VERB primero.ADV a.ADP casa.NOUN de.ADP su.DET abuelita.NOUN
+*PAR:	y este la atacó. 75670_79179
+%pos: y.CCONJ este.PRON la.PRON atacó.VERB
+*PAR:	Caperucita llegó a casa de su abuelita llevándole flores y poniéndole todas las galletas en la mesa, mientras que el lobo ya estaba en la cama disfrazado de su abuela. 79179_99321
+%pos: Caperucita.PROPN llegó.VERB a.ADP casa.NOUN de.ADP su.DET abuelita.NOUN llevándole.VERB flores.NOUN y.CCONJ poniéndole.VERB todas.DET las.DET galletas.NOUN en.ADP la.DET mesa.NOUN ,.PUNCT mientras.ADV que.SCONJ el.DET lobo.NOUN ya.ADV estaba.VERB en.ADP la.DET cama.NOUN disfrazado.VERB de.ADP su.DET abuela.NOUN
+*PAR:	Caperucita, al observar a su abuela, se dio cuenta de que ella estaba un poco extraña. 99321_109493
+%pos: Caperucita.PROPN ,.PUNCT al.ADP observar.VERB a.ADP su.DET abuela.NOUN ,.PUNCT se.PRON dio.VERB cuenta.NOUN de.ADP que.SCONJ ella.PRON estaba.AUX un.DET poco.ADV extraña.ADJ
+*PAR:	el lobo, sin previo aviso, saltó para atacar a Caperucita. 109493_120440
+%pos: el.DET lobo.NOUN ,.PUNCT sin.ADP previo.ADJ aviso.NOUN ,.PUNCT saltó.VERB para.ADP atacar.VERB a.ADP Caperucita.PROPN
+*PAR:	el leñador, que había visto al lobo, lo siguió de igual manera. 120440_134268
+%pos: el.DET leñador.NOUN ,.PUNCT que.SCONJ había.AUX visto.VERB al.ADP lobo.NOUN ,.PUNCT lo.PRON siguió.VERB de.ADP igual.ADJ manera.NOUN
+*PAR:	y encontró al lobo tendido en la cama con una enorme barriga. 134268_144194
+%pos: y.CCONJ encontró.VERB al.DET lobo.NOUN tendido.VERB en.ADP la.DET cama.NOUN con.ADP una.DET enorme.ADJ barriga.NOUN
+*PAR:	el leñador mató al lobo. 144194_154352
+%pos: el.DET leñador.NOUN mató.VERB al.ADP lobo.NOUN
+*PAR:	e hizo que Caperucita y su abuelita salieran de su estómago. 154352_163731
+%pos: e.CCONJ hizo.VERB que.SCONJ Caperucita.PROPN y.CCONJ su.DET abuelita.NOUN salieran.VERB de.ADP su.DET estómago.NOUN
+*PAR:	el leñador metió piedras en el estómago del lobo para así costurarlo y que este cayera en un pozo. 163731_183664
+%pos: el.DET leñador.NOUN metió.VERB piedras.NOUN en.ADP el.DET estómago.NOUN del.ADP lobo.NOUN para.ADP así.ADV costurarlo.VERB y.CCONJ que.SCONJ este.PRON cayera.VERB en.ADP un.DET pozo.NOUN
+*PAR:	de regreso, Caperucita Roja fue acompañada por el leñador. 183664_192795
+%pos: de.ADP regreso.NOUN ,.PUNCT Caperucita.PROPN Roja.PROPN fue.AUX acompañada.VERB por.ADP el.DET leñador.NOUN
+*PAR:	y estos disfrutaron del postre que había llevado. 192795_196548
+%pos: y.CCONJ estos.PRON disfrutaron.VERB del.ADP postre.NOUN que.SCONJ había.AUX llevado.VERB
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:18:00.508277

@@ -1,0 +1,66 @@
+@UTF8
+@Window:	0_0_0_0_0_0_285_0_285_0
+@Begin
+@Languages:	eng
+@Participants:	PAR 317 Speaker
+@ID:	eng|narratives|PAR||male|||Speaker|||
+@Media:	317_english, audio
+*PAR:	the girl was getting ready. 0_2491
+%pos: the.DET girl.NOUN was.AUX getting.VERB ready.ADJ
+*PAR:	to go outside. 2491_3211
+%pos: to.PART go.VERB outside.ADV
+*PAR:	<&-oh this is, okay yeah> [///] she was going to bring stuff for her
+	grandmother. 3211_22695
+%pos: this.PRON is.AUX ,.PUNCT okay.INTJ yeah.ADV she.PRON was.AUX going.VERB to.PART bring.VERB stuff.VERB for.ADP her.PRON grandmother.NOUN
+*PAR:	<RES> [e]. 22695_33575
+*PAR:	she was walking down the path. 33575_41501
+%pos: she.PRON was.AUX walking.VERB down.ADP the.DET path.NOUN
+*PAR:	and &-uh &-uh a wolf tried to attack her. 41501_49841
+%pos: and.CCONJ a.DET wolf.NOUN tried.VERB to.PART attack.VERB her.PRON
+*PAR:	&-uhm (.) the wolf. 49841_71156
+%pos: the.DET wolf.NOUN
+*PAR:	<can't really think of a good stoty for this part of the slide> [e].
+	71156_88222
+*PAR:	<RES> [e]. 88222_97473
+*PAR:	the wolf is going inside the house. 97473_99253
+%pos: the.DET wolf.NOUN is.AUX going.VERB inside.ADP the.DET house.NOUN
+*PAR:	<RES> [e]. 99253_101219
+*PAR:	the wolf ate the grandmother. 101219_109719
+%pos: the.DET wolf.NOUN ate.VERB the.DET grandmother.NOUN
+*PAR:	&-uhm the wolf is pretending to be the grandmother. 109719_126344
+%pos: the.DET wolf.NOUN is.AUX pretending.VERB to.PART be.AUX the.DET grandmother.NOUN
+*PAR:	and tricking the girl. 126344_128519
+%pos: and.CCONJ tricking.VERB the.DET girl.NOUN
+*PAR:	&-uh the girl notices that [/] that is not her grandmother. 128519_147453
+%pos: the.DET girl.NOUN notices.VERB that.SCONJ that.PRON is.AUX not.PART her.PRON grandmother.NOUN
+*PAR:	the wolf tries to eat her. 147453_156518
+%pos: the.DET wolf.NOUN tries.VERB to.PART eat.VERB her.PRON
+*PAR:	<RES> [e]. 156518_163439
+*PAR:	&-oh the wolf tried to eat her. 163439_167239
+%pos: the.DET wolf.NOUN tried.VERB to.PART eat.VERB her.PRON
+*PAR:	<RES> [e]. 167239_168930
+*PAR:	&-uh a hunter (.) heard all the commotion. 168930_183850
+%pos: a.DET hunter.NOUN heard.VERB all.DET the.DET commotion.NOUN
+*PAR:	and went inside the house. 183850_186070
+%pos: and.CCONJ went.VERB inside.ADP the.DET house.NOUN
+*PAR:	to see <what was going on or> [//] what went on. 186070_190694
+%pos: to.PART see.VERB what.PRON was.AUX going.VERB on.ADV or.CCONJ what.PRON went.VERB on.ADV
+*PAR:	<RES> [e]. 190694_192169
+*PAR:	&-uh the girl and the grandmother were saved. 192169_201609
+%pos: the.DET girl.NOUN and.CCONJ the.DET grandmother.NOUN were.AUX saved.VERB
+*PAR:	i guess. 201609_202009
+%pos: i.PRON guess.VERB
+*PAR:	<i really don't know what's going on here> [e]. 202009_220689
+*PAR:	<RES> [e]. 220689_228265
+*PAR:	&uh <they col(lected)> [/] they collected rocks for something. 228265_234390
+%pos: &.CCONJ uh.INTJ they.PRON collected.VERB they.PRON collected.VERB rocks.NOUN for.ADP something.PRON
+*PAR:	but i don't. 234390_235681
+%pos: but.CCONJ i.PRON do.AUX n't.PART
+*PAR:	<RES> [e]. 235681_251750
+*PAR:	&-uh i think (.) they're just making fun of him at this point. 251750_260886
+%pos: i.PRON think.VERB they.PRON 're.AUX just.ADV making.VERB fun.NOUN of.ADP him.PRON at.ADP this.DET point.NOUN
+*PAR:	<RES> [e]. 265381_268777
+*PAR:	&-uh the girl is returning home and yeah. 268777_276291
+%pos: the.DET girl.NOUN is.AUX returning.VERB home.ADV and.CCONJ yeah.ADV
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:15:09.505828

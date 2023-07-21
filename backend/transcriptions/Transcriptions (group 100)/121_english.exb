@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- (c) http://www.rrz.uni-hamburg.de/exmaralda -->
+<basic-transcription>
+	<head>
+		<meta-information>
+			<project-name/>
+			<transcription-name/>
+			<referenced-file url="121_english.m4a"/>
+			<ud-meta-information>
+				<ud-information attribute-name="CHAT:@Window">0_0_0_0_0_0_0_0_6_1</ud-information>
+				<ud-information attribute-name="CHAT:@Languages">eng</ud-information>
+				<ud-information attribute-name="CHAT:@Media">121_english,audio</ud-information>
+			</ud-meta-information>
+			<comment/>
+			<transcription-convention/>
+		</meta-information>
+		<speakertable>
+			<speaker id="PAR">
+				<abbreviation>PAR</abbreviation>
+				<sex value="f"/>
+				<languages-used/>
+				<l1/>
+				<l2/>
+				<ud-speaker-information>
+					<ud-information attribute-name="CHAT:Name">PAR</ud-information>
+					<ud-information attribute-name="CHAT:Full Name">122</ud-information>
+					<ud-information attribute-name="CHAT:Role">Speaker</ud-information>
+					<ud-information attribute-name="CHAT:ID">eng|narratives|PAR||female|||Speaker|||</ud-information>
+				</ud-speaker-information>
+				<comment/>
+			</speaker>
+		</speakertable>
+	</head>
+	<basic-body>
+		<common-timeline>
+			<tli id="T0" time="0.0"/>
+			<tli id="T1" time="23.796"/>
+			<tli id="T2" time="31.576"/>
+			<tli id="T3" time="40.103"/>
+			<tli id="T4" time="52.133"/>
+			<tli id="T5" time="56.189"/>
+			<tli id="T6" time="61.889"/>
+			<tli id="T7" time="69.29"/>
+			<tli id="T8" time="71.41"/>
+			<tli id="T9" time="82.831"/>
+			<tli id="T10" time="84.451"/>
+			<tli id="T11" time="92.871"/>
+			<tli id="T12" time="96.824"/>
+			<tli id="T13" time="104.425"/>
+			<tli id="T14" time="114.061"/>
+			<tli id="T15" time="118.216"/>
+			<tli id="T16" time="122.352"/>
+			<tli id="T17" time="124.758"/>
+			<tli id="T18" time="132.799"/>
+			<tli id="T19" time="134.949"/>
+			<tli id="T20" time="141.75"/>
+			<tli id="T21" time="143.385"/>
+			<tli id="T22" time="152.751"/>
+			<tli id="T23" time="154.922"/>
+			<tli id="T24" time="156.376"/>
+			<tli id="T25" time="162.818"/>
+			<tli id="T26" time="167.767"/>
+			<tli id="T27" time="175.728"/>
+			<tli id="T28" time="179.578"/>
+			<tli id="T29" time="185.91"/>
+			<tli id="T30" time="189.629"/>
+			<tli id="T31" time="191.584"/>
+			<tli id="T32" time="202.54"/>
+			<tli id="T33" time="209.761"/>
+		</common-timeline>
+		<tier id="TIE2" speaker="PAR" category="main" type="t" display-name="PAR [main]">
+			<event start="T0" end="T1">&lt;RES&gt; [e].</event>
+			<event start="T1" end="T2">&lt;ok&gt; [e] &amp;-uhm so there is a girl.</event>
+			<event start="T2" end="T3">&lt;who got a&gt; [//] who received a red cap (.) or red cape.</event>
+			<event start="T3" end="T4">&lt;RES&gt; [e].</event>
+			<event start="T4" end="T5">so there was a little girl.</event>
+			<event start="T5" end="T6">who received a little red coat from her grandmother on her  birthday.</event>
+			<event start="T6" end="T7">&amp;-uh one day she left with a lunch basket.</event>
+			<event start="T7" end="T8">and said goodbye to her mother.</event>
+			<event start="T8" end="T9">on the way to her walk (.) she was almost eaten by a big wolf.</event>
+			<event start="T9" end="T10">but saved by a hunter.</event>
+			<event start="T10" end="T11">while she stayed picking flowers.</event>
+			<event start="T11" end="T12">the hungry wolf went to her grandmother&apos;s house.</event>
+			<event start="T12" end="T13">the big wolf ate her grandmother.</event>
+			<event start="T13" end="T14">the [/] the big hungry wolf dressed up as her grandmother.</event>
+			<event start="T14" end="T15">&lt;and&gt; [//] to appear like he was her grandmother.</event>
+			<event start="T15" end="T16">and stared hungrily at Little Red Riding Hood.</event>
+			<event start="T16" end="T17">as she placed the flowers on the table.</event>
+			<event start="T17" end="T18">&amp;-uh the little girl noticed there was something off about her  grandmother.</event>
+			<event start="T18" end="T19">but the wolf tried to hide its face.</event>
+			<event start="T19" end="T20">then the wolf attacked the little girl.</event>
+			<event start="T20" end="T21">in an attempt to eat her.</event>
+			<event start="T21" end="T22">as he napped after his meal.</event>
+			<event start="T22" end="T23">a hunter came in the room.</event>
+			<event start="T23" end="T24">and saw the wolf.</event>
+			<event start="T24" end="T25">he cut open the wolf.</event>
+			<event start="T25" end="T26">and the grandma and the girl left the wolf&apos;s stomache safely.</event>
+			<event start="T26" end="T27">then they filled the wolf&apos;s stomache with rocks.</event>
+			<event start="T27" end="T28">and the grandmother xxx to sew it back up.</event>
+			<event start="T28" end="T29">as the wolf walked over to the well.</event>
+			<event start="T29" end="T30">thinking his stomache was full with the grandma  and little girl.</event>
+			<event start="T30" end="T31">he fell into the well.</event>
+			<event start="T31" end="T32">then the grandma said goodbye to the hunter and little girl.</event>
+			<event start="T32" end="T33">the end.</event>
+		</tier>
+	</basic-body>
+</basic-transcription>

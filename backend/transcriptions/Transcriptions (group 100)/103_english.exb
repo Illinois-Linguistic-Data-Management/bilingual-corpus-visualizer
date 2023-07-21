@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- (c) http://www.rrz.uni-hamburg.de/exmaralda -->
+<basic-transcription>
+	<head>
+		<meta-information>
+			<project-name/>
+			<transcription-name/>
+			<referenced-file url="103_english.m4a"/>
+			<ud-meta-information>
+				<ud-information attribute-name="CHAT:@Window">0_0_0_0_1348_1_2499_0_2499_0</ud-information>
+				<ud-information attribute-name="CHAT:@Languages">eng</ud-information>
+				<ud-information attribute-name="CHAT:@Media">103_english, audio</ud-information>
+			</ud-meta-information>
+			<comment/>
+			<transcription-convention/>
+		</meta-information>
+		<speakertable>
+			<speaker id="PAR">
+				<abbreviation>PAR</abbreviation>
+				<sex value="f"/>
+				<languages-used/>
+				<l1/>
+				<l2/>
+				<ud-speaker-information>
+					<ud-information attribute-name="CHAT:Name">PAR</ud-information>
+					<ud-information attribute-name="CHAT:Full Name">103</ud-information>
+					<ud-information attribute-name="CHAT:Role">Speaker</ud-information>
+					<ud-information attribute-name="CHAT:ID">eng|narratives|PAR||female|||Speaker|||</ud-information>
+				</ud-speaker-information>
+				<comment/>
+			</speaker>
+		</speakertable>
+	</head>
+	<basic-body>
+		<common-timeline>
+			<tli id="T0" time="0.0"/>
+			<tli id="T1" time="5.579"/>
+			<tli id="T2" time="12.71"/>
+			<tli id="T3" time="15.68"/>
+			<tli id="T4" time="24.49"/>
+			<tli id="T5" time="32.089"/>
+			<tli id="T6" time="36.149"/>
+			<tli id="T7" time="47.979"/>
+			<tli id="T8" time="55.789"/>
+			<tli id="T9" time="60.694"/>
+			<tli id="T10" time="71.314"/>
+			<tli id="T11" time="76.595"/>
+			<tli id="T12" time="85.189"/>
+			<tli id="T13" time="89.392"/>
+			<tli id="T14" time="93.018"/>
+			<tli id="T15" time="104.461"/>
+			<tli id="T16" time="107.882"/>
+			<tli id="T17" time="109.288"/>
+			<tli id="T18" time="113.248"/>
+			<tli id="T19" time="115.136"/>
+			<tli id="T20" time="127.845"/>
+			<tli id="T21" time="133.724"/>
+			<tli id="T22" time="149.816"/>
+			<tli id="T23" time="152.656"/>
+			<tli id="T24" time="164.796"/>
+			<tli id="T25" time="168.447"/>
+			<tli id="T26" time="173.126"/>
+			<tli id="T27" time="191.385"/>
+			<tli id="T28" time="196.054"/>
+			<tli id="T29" time="209.427"/>
+			<tli id="T30" time="212.086"/>
+			<tli id="T31" time="217.916"/>
+			<tli id="T32" time="227.715"/>
+			<tli id="T33" time="231.116"/>
+			<tli id="T34" time="238.306"/>
+			<tli id="T35" time="243.303"/>
+			<tli id="T36" time="247.384"/>
+			<tli id="T37" time="253.733"/>
+			<tli id="T38" time="255.614"/>
+			<tli id="T39" time="258.109"/>
+			<tli id="T40" time="260.109"/>
+			<tli id="T41" time="261.629"/>
+			<tli id="T42" time="270.838"/>
+			<tli id="T43" time="276.588"/>
+		</common-timeline>
+		<tier id="TIE2" speaker="PAR" category="main" type="t" display-name="PAR [main]">
+			<event start="T0" end="T1">once upon a time there was a little girl named &amp;-uhm Red Riding Hood.</event>
+			<event start="T1" end="T2">&amp;-uhm and on her birthday her grandmother gave her &amp;-uhm a red cape.</event>
+			<event start="T2" end="T3">which is how she got her nickname.</event>
+			<event start="T3" end="T4">&lt;you can go to the next slide now&gt; [e].</event>
+			<event start="T4" end="T5">&amp;-uh one day, her mother sent her out with a basket of fruits and  goodies.</event>
+			<event start="T5" end="T6">&amp;-uhm yea okay.</event>
+			<event start="T6" end="T7">&amp;-uhm on her way there &amp;-uhm a wolf began to follow her.</event>
+			<event start="T7" end="T8">&amp;-uhm as well as &amp;-uhm a man tried to follow.</event>
+			<event start="T8" end="T9">&lt;you can go to the next one now&gt; [e].</event>
+			<event start="T9" end="T10">&amp;-uhm the wolf was able to get there first.</event>
+			<event start="T10" end="T11">while &amp;-uhm Little Red Riding Hood was &amp;-uhm picking flowers  elsewhere.</event>
+			<event start="T11" end="T12">&amp;-uhm the wolf entered the house.</event>
+			<event start="T12" end="T13">and began to attack grandma.</event>
+			<event start="T13" end="T14">&lt;you can go to the next one now&gt; [e].</event>
+			<event start="T14" end="T15">&amp;-uhm once Little Red Riding Hood (.) arrived at the house.</event>
+			<event start="T15" end="T16">she began to set up the food as well as the flowers.</event>
+			<event start="T16" end="T17">that she had just picked.</event>
+			<event start="T17" end="T18">while &amp;-uhm the wolf, disguied as the grandma.</event>
+			<event start="T18" end="T19">uhm laid in the bed.</event>
+			<event start="T19" end="T20">&amp;-uhm as Little Red Riding Hood approached the wolf in the bed.</event>
+			<event start="T20" end="T21">she was confused by &amp;-uhm odd appearance.</event>
+			<event start="T21" end="T22">&amp;-uhm shortly after (.) the wolf jumped out of the bed.</event>
+			<event start="T22" end="T23">and began to run after the little girl.</event>
+			<event start="T23" end="T24">after eating the little girl.</event>
+			<event start="T24" end="T25">the man from the woods &amp;-uh from before.</event>
+			<event start="T25" end="T26">entered the house (.) cautiously with his dog with him.</event>
+			<event start="T26" end="T27">&amp;-uhm the man was able to free both Red Riding Hood and her  grandmother from the wolf&apos;s stomache.</event>
+			<event start="T27" end="T28">by cutting the wolf&apos;s stomache open with a pair of scissors.</event>
+			<event start="T28" end="T29">&amp;-uhm after they escaped.</event>
+			<event start="T29" end="T30">they began to gather &amp;-uhm some rocks.</event>
+			<event start="T30" end="T31">and they began to fill the wolf&apos;s open stomach with the rocks.</event>
+			<event start="T31" end="T32">once the wolf woke up.</event>
+			<event start="T32" end="T33">&amp;-uhm it noticed.</event>
+			<event start="T33" end="T34">that &amp;-uhm there was much more weight in its stomache.</event>
+			<event start="T34" end="T35">&amp;-uhm so as left the house.</event>
+			<event start="T35" end="T36">he fell into a nearby well.</event>
+			<event start="T36" end="T37">and Little Red Riding Hood, her grandmother, and the man from the  forest &amp;-uhm watched from a distance.</event>
+			<event start="T37" end="T38">and laughed.</event>
+			<event start="T38" end="T39">&lt;is that the last slide&gt; [e]?</event>
+			<event start="T39" end="T40">&lt;RES&gt; [e].</event>
+			<event start="T40" end="T41">&lt;ah okay&gt; [e].</event>
+			<event start="T41" end="T42">afterwards &amp;-uhm Little Red Riding Hood said goodbye to her  grandmother.</event>
+			<event start="T42" end="T43">and &amp;-uhm also to the man from the forest.</event>
+		</tier>
+	</basic-body>
+</basic-transcription>

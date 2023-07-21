@@ -1,0 +1,57 @@
+@UTF8
+@Window:	116_211_668_1071_-1_-1_1592_0_1592_0
+@Begin
+@Languages:	spa,eng
+@Participants:	PAR 113 Speaker
+@ID:	spa|narratives|PAR||female|||Speaker|||
+@Media:	113_spanish,audio
+*PAR:	[- eng] &-um wait a second. 0_9727
+%pos: wait.VERB a.DET second.ADJ
+*PAR:	&-um yeah. 9727_11646
+%pos: yeah.ADV
+*PAR:	Capi [//] Caperuci [//] Ca [//] Caperucita Roja (...) [///] what@s do@s I@s do@s know@s. 11646_33313
+%pos: Capi.PROPN Caperuci.PROPN Ca.PROPN Caperucita.PROPN Roja.PROPN what.PRON do.AUX I.PRON do.VERB know.VERB
+*PAR:	había [///] &-um ella (..) bailó. 33313_49140
+%pos: había.AUX ella.PRON bailó.VERB
+*PAR:	&-um ella [///] I@s don't@s know@s. 49140_94685
+%pos: ella.PRON I.PRON do.AUX n't.PART know.VERB
+*PAR:	&-um I@s think@s ella [/] ella se fue. 94685_111656
+%pos: I.PRON think.VERB ella.PRON ella.PRON se.PRON fue.VERB
+*PAR:	[- eng] (...) &-um xxx I think you can skip. 111656_130332
+%pos: xxx.INTJ I.PRON think.VERB you.PRON can.AUX skip.VERB
+*PAR:	&-um ella está caminando. 130332_151035
+%pos: ella.PRON está.AUX caminando.VERB
+*PAR:	&-um <el lobo> [/] (..) &-hm <el lobo está> [/] el lobo está llaman a la puerta. 151035_198023
+%pos: el.DET lobo.NOUN el.DET lobo.NOUN está.VERB el.DET lobo.NOUN está.AUX llaman.VERB a.ADP la.DET puerta.NOUN
+*PAR:	&-hm <el lobo es> [///] &-um el lobo se come a la mujer. 198023_222406
+%pos: el.DET lobo.NOUN es.AUX el.DET lobo.NOUN se.PRON come.VERB a.ADP la.DET mujer.NOUN
+*PAR:	&-hm <el lobo> [/] &-um el lobo se esconde. 222406_243568
+%pos: el.DET lobo.NOUN el.DET lobo.NOUN se.PRON esconde.VERB
+*PAR:	&-um no. 243568_252974
+%pos: no.INTJ
+*PAR:	&-um la [///] (.) &-um actually@s nevermind@s. 252974_275279
+%pos: la.DET actually.ADV nevermind.VERB
+*PAR:	[- eng] the next one. 275279_278354
+%pos: the.DET next.ADJ one.NOUN
+*PAR:	[- eng] &-um I don't know. 278354_301612
+%pos: I.PRON do.AUX n't.PART know.VERB
+*PAR:	&-um the@s [//] <el lobo> [/] &-hm el lobo estaba tratando de comérsela. 301612_336237
+%pos: the.DET el.DET lobo.NOUN el.DET lobo.NOUN estaba.AUX tratando.VERB de.ADP comérsela.VERB
+*PAR:	&-hm la [/] &-um la [//] el cazador es here@s. 336237_370623
+%pos: la.DET la.DET el.DET cazador.NOUN es.VERB here.ADV
+*PAR:	y oh, the@s &-um el lobo se la comó [: comió]. 370623_392980
+%pos: y.CCONJ oh.INTJ ,.PUNCT the.DET el.DET lobo.NOUN se.PRON la.PRON comó.VERB
+*PAR:	&-hm el cazador les ayudó. 392980_409638
+%pos: el.DET cazador.NOUN les.PRON ayudó.VERB
+*PAR:	&-hm estaban alimentado [: alimentando] la lobo. 409638_434599
+%pos: estaban.AUX alimentado.VERB la.DET lobo.NOUN
+*PAR:	&-um <el lobo> [/] el lobo estaba lleno. 434599_460268
+%pos: el.DET lobo.NOUN el.DET lobo.NOUN estaba.AUX lleno.ADJ
+*PAR:	el lobo estaba lleno. 460268_463734
+%pos: el.DET lobo.NOUN estaba.AUX lleno.ADJ
+*PAR:	[- eng] the next one. 463734_471775
+%pos: the.DET next.ADJ one.NOUN
+*PAR:	&-um es ellos se despideron [: despidieron]. 471775_492139
+%pos: es.AUX ellos.PRON se.PRON despideron.VERB
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:35:55.167724

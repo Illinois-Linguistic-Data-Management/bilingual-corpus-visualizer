@@ -1,0 +1,62 @@
+@UTF8
+@Window:	120_710_668_709_-1_-1_87_0_87_0
+@Begin
+@Languages:	spa,eng
+@Participants:	PAR 613_spa Speaker
+@ID:	spa|narratives|PAR||male|||Speaker|||
+@Media:	613_spa,audio
+*PAR:	<RES> [e]. 0_3654
+*PAR:	un día, Caperuci(ta) [//] la mamá de Caperucita Roja la mandó a visitar a su abuela con una canasta de frutas y vino. 3654_24960
+%pos: un.DET día.NOUN ,.PUNCT Caperucita.PROPN la.DET mamá.NOUN de.ADP Caperucita.PROPN Roja.PROPN la.PRON mandó.VERB a.ADP visitar.VERB a.ADP su.DET abuela.NOUN con.ADP una.DET canasta.NOUN de.ADP frutas.NOUN y.CCONJ vino.NOUN
+*PAR:	y estaba caminando. 24960_28367
+%pos: y.CCONJ estaba.AUX caminando.VERB
+*PAR:	pero luego el [/] el lobo la vio. 28367_31755
+%pos: pero.CCONJ luego.ADV el.DET el.DET lobo.NOUN la.PRON vio.VERB
+*PAR:	y la siguió. 31755_32897
+%pos: y.CCONJ la.PRON siguió.VERB
+*PAR:	pero un cazador vio que el lobo la estaba siguiendo. 32897_37441
+%pos: pero.CCONJ un.DET cazador.NOUN vio.VERB que.SCONJ el.DET lobo.NOUN la.PRON estaba.AUX siguiendo.VERB
+*PAR:	y entonces decidió seguirlos. 37441_39798
+%pos: y.CCONJ entonces.ADV decidió.VERB seguirlos.VERB
+*PAR:	Caperucita se detuvo para cortar flores a [//] para su abuela, para darle ese regalo, mientras el lobo se adelantó a la casa de la abuela. 39798_52496
+%pos: Caperucita.PROPN se.PRON detuvo.VERB para.ADP cortar.VERB flores.NOUN a.ADP para.ADP su.DET abuela.NOUN ,.PUNCT para.ADP darle.VERB ese.DET regalo.NOUN ,.PUNCT mientras.SCONJ el.DET lobo.NOUN se.PRON adelantó.VERB a.ADP la.DET casa.NOUN de.ADP la.DET abuela.NOUN
+*PAR:	el lobo entró a la casa de la abuela. 52496_55620
+%pos: el.DET lobo.NOUN entró.VERB a.ADP la.DET casa.NOUN de.ADP la.DET abuela.NOUN
+*PAR:	y se la comió. 55620_58712
+%pos: y.CCONJ se.PRON la.PRON comió.VERB
+*PAR:	y entonces el lobo se puso en la cama como si fuera su abuela. 58712_65228
+%pos: y.CCONJ entonces.ADV el.DET lobo.NOUN se.PRON puso.VERB en.ADP la.DET cama.NOUN como.CCONJ si.CCONJ fuera.VERB su.DET abuela.NOUN
+*PAR:	y Caperucita le dejó las flores, galletas y vino en la mesa. 65228_71085
+%pos: y.CCONJ Caperucita.PROPN le.PRON dejó.VERB las.DET flores.NOUN ,.PUNCT galletas.NOUN y.CCONJ vino.NOUN en.ADP la.DET mesa.NOUN
+*PAR:	fue donde estaba el lobo, pensando que era su abuela. 71085_77085
+%pos: fue.VERB donde.ADV estaba.VERB el.DET lobo.NOUN ,.PUNCT pensando.VERB que.SCONJ era.AUX su.DET abuela.NOUN
+*PAR:	y Caperucita, al ver que no era su abuela, se asustó. 77085_80772
+%pos: y.CCONJ Caperucita.PROPN ,.PUNCT al.ADP ver.VERB que.SCONJ no.ADV era.AUX su.DET abuela.NOUN ,.PUNCT se.PRON asustó.VERB
+*PAR:	y el lobo la empezó a corretear. 80772_86024
+%pos: y.CCONJ el.DET lobo.NOUN la.PRON empezó.VERB a.ADP corretear.VERB
+*PAR:	y el cazador vino. 86024_89210
+%pos: y.CCONJ el.DET cazador.NOUN vino.NOUN
+*PAR:	y lo vio dormido. 89210_92630
+%pos: y.CCONJ lo.PRON vio.VERB dormido.ADJ
+*PAR:	porque se había comido a Caperucita y a su abuela. 92630_95995
+%pos: porque.SCONJ se.PRON había.AUX comido.VERB a.ADP Caperucita.PROPN y.CCONJ a.ADP su.DET abuela.NOUN
+*PAR:	y entonces cortaron al lobo. 95995_100581
+%pos: y.CCONJ entonces.ADV cortaron.VERB al.ADP lobo.NOUN
+*PAR:	y Caperucita y su abuela salieron de la panza del lobo. 100581_105334
+%pos: y.CCONJ Caperucita.PROPN y.CCONJ su.DET abuela.NOUN salieron.VERB de.ADP la.DET panza.NOUN del.ADP lobo.NOUN
+*PAR:	<y todos> [///] entonces, el cazador le metió fl(ores) [//] piedras adentro de la panza del lobo. 105334_115286
+%pos: y.CCONJ todos.DET entonces.ADV ,.PUNCT el.DET cazador.NOUN le.PRON metió.VERB flores.NOUN piedras.ADJ adentro.ADV de.ADP la.DET panza.NOUN del.ADP lobo.NOUN
+*PAR:	porque el lobo estaba durmiendo. 115286_117419
+%pos: porque.SCONJ el.DET lobo.NOUN estaba.AUX durmiendo.VERB
+*PAR:	y entonces, el lobo le dio sed. 117419_119759
+%pos: y.CCONJ entonces.ADV ,.PUNCT el.DET lobo.NOUN le.PRON dio.VERB sed.NOUN
+*PAR:	se fue al pozo. 119759_122086
+%pos: se.PRON fue.VERB al.ADP pozo.NOUN
+*PAR:	y, como traía las piedras, se fue al pozo. 122086_128511
+%pos: y.CCONJ ,.PUNCT como.ADV traía.VERB las.DET piedras.NOUN ,.PUNCT se.PRON fue.VERB al.ADP pozo.NOUN
+*PAR:	porque estaba muy pesado. 128511_129841
+%pos: porque.SCONJ estaba.AUX muy.ADV pesado.ADJ
+*PAR:	y todos vivieron felices para siempre. 129841_135844
+%pos: y.CCONJ todos.PRON vivieron.VERB felices.ADJ para.ADP siempre.ADV
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:18:15.440521

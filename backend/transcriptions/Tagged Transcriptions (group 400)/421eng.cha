@@ -1,0 +1,57 @@
+@UTF8
+@Window:	0_0_0_0_0_0_1469_1_1469_1
+@Begin
+@Languages:	eng
+@Participants:	PAR 421 Speaker
+@ID:	eng|narratives|PAR| |female| | |Speaker| | |
+@Media:	421eng, audio
+*PAR:	Red Riding Hood is visiting her grandmother. 28500_32412
+%pos: Red.ADJ Riding.PROPN Hood.PROPN is.AUX visiting.VERB her.PRON grandmother.NOUN
+*PAR:	<is that what i'm supposed to do Oh, Ok> [e] Red Riding Hood left
+	her home and waved to her mother. 32412_53306
+%pos: Red.ADJ Riding.PROPN Hood.PROPN left.VERB her.PRON home.NOUN and.CCONJ waved.VERB to.ADP her.PRON mother.NOUN
+*PAR:	&=laughs the wolf <jumped>[///] &-uh was stalking Red Riding Hood
+	as the lumberjack <wa(tched)> [//] and rabbit and squirrel watched.
+	58306_75206
+%pos: the.DET wolf.NOUN jumped.VERB was.AUX stalking.VERB Red.ADJ Riding.PROPN Hood.PROPN as.SCONJ the.DET lumberjack.NOUN watched.VERB and.CCONJ rabbit.NOUN and.CCONJ squirrel.NOUN watched.VERB
+*PAR:	the wolf approached the house made of straw <oops> [e] made of
+	stone. 79206_90387
+%pos: the.DET wolf.NOUN approached.VERB the.DET house.NOUN made.VERB of.ADP straw.NOUN made.VERB of.ADP stone.NOUN
+*PAR:	the wolf attacked grandma in her house. 90387_99036
+%pos: the.DET wolf.NOUN attacked.VERB grandma.PROPN in.ADP her.PRON house.NOUN
+*PAR:	Red Riding Hood placed flowers in a vase. 103036_112286
+%pos: Red.ADJ Riding.PROPN Hood.PROPN placed.VERB flowers.NOUN in.ADP a.DET vase.NOUN
+*PAR:	and &-uh the mice watched her while the wolf hid in grandma's bed. 112286_120741
+%pos: and.CCONJ the.DET mice.NOUN watched.VERB her.PRON while.SCONJ the.DET wolf.NOUN hid.VERB in.ADP grandma.NOUN 's.PART bed.NOUN
+*PAR:	Red Riding Hood approached the wolf in grandma's bed. 124741_132128
+%pos: Red.ADJ Riding.PROPN Hood.PROPN approached.VERB the.DET wolf.NOUN in.ADP grandma.NOUN 's.PART bed.NOUN
+*PAR:	the wolf attacked Red Riding Hood. 139128_145161
+%pos: the.DET wolf.NOUN attacked.VERB Red.ADJ Riding.PROPN Hood.PROPN
+*PAR:	<knocking over and>[//] and knocked over a table with a vase and
+	candle. 145161_152381
+%pos: knocking.VERB over.ADV andand.VERB knocked.VERB over.ADP a.DET table.NOUN with.ADP a.DET vase.NOUN and.CCONJ candle.NOUN
+*PAR:	&=laughs the hunter entered grandma's house while his dog waited
+	with him. 158381_169051
+%pos: the.DET hunter.NOUN entered.VERB grandma.NOUN 's.PART house.NOUN while.SCONJ his.PRON dog.NOUN waited.VERB with.ADP him.PRON
+*PAR:	and the wolf laid on the bed with a bird perched on him. 169051_173678
+%pos: and.CCONJ the.DET wolf.NOUN laid.VERB on.ADP the.DET bed.NOUN with.ADP a.DET bird.NOUN perched.VERB on.ADP him.PRON
+*PAR:	<oh> [e] the hunter cut grandma out of the wolf and saved her. 176678_188458
+%pos: the.DET hunter.NOUN cut.VERB grandma.NOUN out.ADP of.ADP the.DET wolf.NOUN and.CCONJ saved.VERB her.PRON
+*PAR:	Red Riding Hood and the dog had <bought>[//] walked to the hunter. 198458_209456
+%pos: Red.ADJ Riding.PROPN Hood.PROPN and.CCONJ the.DET dog.NOUN had.AUX boughtwalked.VERB to.ADP the.DET hunter.NOUN
+*PAR:	the hunter placed the rocks in the wolf's stomach. 209456_217369
+%pos: the.DET hunter.NOUN placed.VERB the.DET rocks.NOUN in.ADP the.DET wolf.NOUN 's.PART stomach.NOUN
+*PAR:	and then grandma sewed up the wolf. 217369_220177
+%pos: and.CCONJ then.ADV grandma.NOUN sewed.VERB up.ADP the.DET wolf.NOUN
+*PAR:	&=laughs the wolf left grandma's house. 227177_233788
+%pos: the.DET wolf.NOUN left.VERB grandma.NOUN 's.PART house.NOUN
+*PAR:	and Red Riding Hood, grandma and the hunter watched as he went. 233789_239280
+%pos: and.CCONJ Red.ADJ Riding.PROPN Hood.PROPN ,.PUNCT grandma.NOUN and.CCONJ the.DET hunter.NOUN watched.VERB as.SCONJ he.PRON went.VERB
+*PAR:	and they laughed at him. 239280_241286
+%pos: and.CCONJ they.PRON laughed.VERB at.ADP him.PRON
+*PAR:	grandma waved goodbye to Red Riding Hood, the hunter and the dog
+	while the chipmunks, squirrel and rabbit watched (.) and birds
+	watched. 241286_257035
+%pos: grandma.NOUN waved.VERB goodbye.NOUN to.ADP Red.ADJ Riding.PROPN Hood.PROPN ,.PUNCT the.DET hunter.NOUN and.CCONJ the.DET dog.NOUN while.SCONJ the.DET chipmunks.NOUN ,.PUNCT squirrel.NOUN and.CCONJ rabbit.NOUN watched.VERB and.CCONJ birds.NOUN watched.VERB
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:39:33.324657

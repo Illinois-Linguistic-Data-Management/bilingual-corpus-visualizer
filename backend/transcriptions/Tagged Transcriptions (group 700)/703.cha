@@ -1,0 +1,72 @@
+@UTF8
+@Window:	121_679_668_741_-1_-1_85_0_85_0
+@Begin
+@Languages:	spa,eng
+@Participants:	PAR 703 Speaker
+@ID:	spa|narratives|PAR||female|||Speaker|||
+@Media:	703,audio
+*PAR:	<RES> [e]. 0_4546
+*PAR:	Caperucita Roja de Charles Perrault. 4546_18949
+%pos: Caperucita.NOUN Roja.ADJ de.ADP Charles.PROPN Perrault.PROPN
+*PAR:	un día, Caperucita Roja quería llevar a casa de su abuela un pastel. 18949_27229
+%pos: un.DET día.NOUN ,.PUNCT Caperucita.PROPN Roja.PROPN quería.VERB llevar.VERB a.ADP casa.NOUN de.ADP su.DET abuela.NOUN un.DET pastel.NOUN
+*PAR:	salió de su casa. 27229_31331
+%pos: salió.VERB de.ADP su.DET casa.NOUN
+*PAR:	y su madre le dijo +"/. 31331_32854
+%pos: y.CCONJ su.DET madre.NOUN le.PRON dijo.VERB +"/.SYM
+*PAR:	+" llévate esta cesta. 32854_34179
+%pos: +".PUNCT llévate.VERB esta.DET cesta.NOUN
+*PAR:	+" llévala a casa de tu abuela. 34179_35714
+%pos: +".PUNCT llévala.VERB a.ADP casa.NOUN de.ADP tu.DET abuela.NOUN
+*PAR:	Caperucita estaba caminando por el bosque, cuando de repente un lobo la vio. 35714_47459
+%pos: Caperucita.PROPN estaba.AUX caminando.VERB por.ADP el.DET bosque.NOUN ,.PUNCT cuando.SCONJ de.ADP repente.ADV un.DET lobo.NOUN la.PRON vio.VERB
+*PAR:	y se acercó a ella. 47459_48920
+%pos: y.CCONJ se.PRON acercó.VERB a.ADP ella.PRON
+*PAR:	y seguido de este, había un leñador. 48920_52988
+%pos: y.CCONJ seguido.VERB de.ADP este.PRON ,.PUNCT había.VERB un.DET leñador.NOUN
+*PAR:	pero Caperucita no se dio cuenta. 52988_58620
+%pos: pero.CCONJ Caperucita.PROPN no.ADV se.PRON dio.VERB cuenta.NOUN
+*PAR:	entonces, el lobo vio a dónde se dirigía. 58620_62739
+%pos: entonces.ADV ,.PUNCT el.DET lobo.NOUN vio.VERB a.ADP dónde.ADV se.PRON dirigía.VERB
+*PAR:	y fue primero a casa de la abuela en lo que Caperucita recogía unas flores. 62739_67710
+%pos: y.CCONJ fue.AUX primero.ADV a.ADP casa.NOUN de.ADP la.DET abuela.NOUN en.ADP lo.PRON que.PRON Caperucita.PROPN recogía.VERB unas.DET flores.NOUN
+*PAR:	y el lobo, atacó a la abuela para hacerse pasar por ella, ideando un plan brillante. 67710_77256
+%pos: y.CCONJ el.DET lobo.NOUN ,.PUNCT atacó.VERB a.ADP la.DET abuela.NOUN para.ADP hacerse.VERB pasar.VERB por.ADP ella.PRON ,.PUNCT ideando.VERB un.DET plan.NOUN brillante.ADJ
+*PAR:	cuando Caperucita llegó a la casa de la abuela, no se percató de que la abuela en realidad era el lobo. 77256_85227
+%pos: cuando.SCONJ Caperucita.PROPN llegó.VERB a.ADP la.DET casa.NOUN de.ADP la.DET abuela.NOUN ,.PUNCT no.ADV se.PRON percató.VERB de.ADP que.SCONJ la.DET abuela.NOUN en.ADP realidad.NOUN era.AUX el.DET lobo.NOUN
+*PAR:	colocó las flores, el pan y todo lo que llevó. 85227_90084
+%pos: colocó.VERB las.DET flores.NOUN ,.PUNCT el.DET pan.NOUN y.CCONJ todo.DET lo.PRON que.SCONJ llevó.VERB
+*PAR:	y cuando se acercó a su abuela, se dio cuenta, sorprendida, de que se veía diferente. 90084_97213
+%pos: y.CCONJ cuando.SCONJ se.PRON acercó.VERB a.ADP su.DET abuela.NOUN ,.PUNCT se.PRON dio.VERB cuenta.NOUN ,.PUNCT sorprendida.ADJ ,.PUNCT de.ADP que.SCONJ se.PRON veía.VERB diferente.ADJ
+*PAR:	cuando de repente, el lobo salta de la cama. 97213_102652
+%pos: cuando.SCONJ de.ADP repente.ADV ,.PUNCT el.DET lobo.NOUN salta.VERB de.ADP la.DET cama.NOUN
+*PAR:	y la ataca. 102652_103935
+%pos: y.CCONJ la.PRON ataca.VERB
+*PAR:	entonces, llega el leñador. 103935_108362
+%pos: entonces.ADV ,.PUNCT llega.VERB el.DET leñador.NOUN
+*PAR:	y ve al lobo descansando en la cama con la panza enorme. 108362_115893
+%pos: y.CCONJ ve.VERB al.DET lobo.NOUN descansando.VERB en.ADP la.DET cama.NOUN con.ADP la.DET panza.NOUN enorme.ADJ
+*PAR:	y este decide ayudar a rescatar a Caperucita y a su abuela cortándole la panza. 115893_125618
+%pos: y.CCONJ este.PRON decide.VERB ayudar.VERB a.ADP rescatar.VERB a.ADP Caperucita.PROPN y.CCONJ a.ADP su.DET abuela.NOUN cortándole.VERB la.DET panza.NOUN
+*PAR:	y así estas pudieron escapar. 125618_127960
+%pos: y.CCONJ así.ADV estas.PRON pudieron.AUX escapar.VERB
+*PAR:	después, tuvieron la idea de llenarle al lobo la panza con piedras para que sintiera que tenía algo dentro de ella. 127960_139510
+%pos: después.ADV ,.PUNCT tuvieron.VERB la.DET idea.NOUN de.ADP llenarle.VERB al.ADP lobo.NOUN la.DET panza.NOUN con.ADP piedras.NOUN para.ADP que.SCONJ sintiera.VERB que.SCONJ tenía.VERB algo.PRON dentro.ADV de.ADP ella.PRON
+*PAR:	cuando el lobo despertó, sentía la panza pesada. 139510_146226
+%pos: cuando.SCONJ el.DET lobo.NOUN despertó.VERB ,.PUNCT sentía.VERB la.DET panza.NOUN pesada.ADJ
+*PAR:	y salió corriendo. 146226_147951
+%pos: y.CCONJ salió.VERB corriendo.VERB
+*PAR:	vio un pozo. 147951_149144
+%pos: vio.VERB un.DET pozo.NOUN
+*PAR:	se tropezó. 149144_150078
+%pos: se.PRON tropezó.VERB
+*PAR:	y se cayó. 150078_150629
+%pos: y.CCONJ se.PRON cayó.VERB
+*PAR:	y todos estuvieron felices. 150629_154180
+%pos: y.CCONJ todos.PRON estuvieron.AUX felices.ADJ
+*PAR:	Caperucita visitó a su abuela. 154180_156394
+%pos: Caperucita.PROPN visitó.VERB a.ADP su.DET abuela.NOUN
+*PAR:	y se fue de regreso con el cazador. 156394_158418
+%pos: y.CCONJ se.PRON fue.VERB de.ADP regreso.NOUN con.ADP el.DET cazador.NOUN
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:16:53.733944

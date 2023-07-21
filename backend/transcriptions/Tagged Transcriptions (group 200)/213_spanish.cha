@@ -1,0 +1,69 @@
+@UTF8
+@Window:	128_197_668_1071_-1_-1_77_0_77_0
+@Begin
+@Languages:	spa,eng
+@Participants:	PAR 213 Speaker
+@ID:	spa|narratives|PAR||male|||Speaker|||
+@Media:	213_spanish,audio
+*PAR:	(...) Caperucita estaba muy contenta. 0_20935
+%pos: Caperucita.NOUN estaba.AUX muy.ADV contenta.ADJ
+*PAR:	porque iba a ir a ver a su abuelita. 20935_23898
+%pos: porque.SCONJ iba.VERB a.ADP ir.VERB a.ADP ver.VERB a.ADP su.DET abuelita.NOUN
+*PAR:	sigo? 23898_30910
+%pos: sigo.NOUN
+*PAR:	llegó a casa de su abuelita con su capa roja. 30910_39912
+%pos: llegó.VERB a.ADP casa.NOUN de.ADP su.DET abuelita.NOUN con.ADP su.DET capa.NOUN roja.ADJ
+*PAR:	se fue caminando por el bosque. 39912_52061
+%pos: se.PRON fue.AUX caminando.VERB por.ADP el.DET bosque.NOUN
+*PAR:	ella llevaba una canasta llena de comida para llevársela a su abuelita. 52061_59652
+%pos: ella.PRON llevaba.VERB una.DET canasta.NOUN llena.ADJ de.ADP comida.NOUN para.ADP llevársela.VERB a.ADP su.DET abuelita.NOUN
+*PAR:	caminó [/] caminó por mucho tiempo. 59652_66055
+%pos: caminó.VERB caminó.VERB por.ADP mucho.DET tiempo.NOUN
+*PAR:	pero no se dio cuenta que atrás estaba el lobo. 66055_70761
+%pos: pero.CCONJ no.ADV se.PRON dio.VERB cuenta.NOUN que.SCONJ atrás.ADV estaba.VERB el.DET lobo.NOUN
+*PAR:	el lobo estaba listo afuera de la casa de la abuelita de Caperucita esperando el momento apropiado. 70761_85797
+%pos: el.DET lobo.NOUN estaba.AUX listo.ADJ afuera.ADV de.ADP la.DET casa.NOUN de.ADP la.DET abuelita.NOUN de.ADP Caperucita.PROPN esperando.VERB el.DET momento.NOUN apropiado.VERB
+*PAR:	se metió el lobo adentro de la casa de la abuelita. 85797_90945
+%pos: se.PRON metió.VERB el.DET lobo.NOUN adentro.ADV de.ADP la.DET casa.NOUN de.ADP la.DET abuelita.NOUN
+*PAR:	la abuelita estaba muy asustada. 90945_97162
+%pos: la.DET abuelita.NOUN estaba.AUX muy.ADV asustada.ADJ
+*PAR:	Caperucita entró a la casa de su abuelita. 97162_101670
+%pos: Caperucita.PROPN entró.VERB a.ADP la.DET casa.NOUN de.ADP su.DET abuelita.NOUN
+*PAR:	puso flores y galletas en su mesa. 101670_108603
+%pos: puso.VERB flores.NOUN y.CCONJ galletas.NOUN en.ADP su.DET mesa.NOUN
+*PAR:	ella pensó que su abuelita estaba durmiendo. 108603_114496
+%pos: ella.PRON pensó.VERB que.SCONJ su.DET abuelita.NOUN estaba.AUX durmiendo.VERB
+*PAR:	y después le preguntó a su abuelita +"/. 114496_120380
+%pos: y.CCONJ después.ADV le.PRON preguntó.VERB a.ADP su.DET abuelita.NOUN +"/.SYM
+*PAR:	+" abuelita, por qué tienes esas orejas tan grandotas? 120380_125034
+%pos: +".PUNCT abuelita.NOUN ,.PUNCT por.ADP qué.PRON tienes.VERB esas.DET orejas.NOUN tan.ADV grandotas.ADJ
+*PAR:	y la abuelita le respondió. 125034_128080
+%pos: y.CCONJ la.DET abuelita.NOUN le.PRON respondió.VERB
+*PAR:	la abuelita le respondió +"/. 128080_131443
+%pos: la.DET abuelita.NOUN le.PRON respondió.VERB +"/.SYM
+*PAR:	+" para oírte mejor. 131443_133680
+%pos: +".SYM para.ADP oírte.VERB mejor.ADV
+*PAR:	después, se dio cuenta que no era su abuelita. 133680_142165
+%pos: después.ADV ,.PUNCT se.PRON dio.VERB cuenta.NOUN que.SCONJ no.ADV era.AUX su.DET abuelita.NOUN
+*PAR:	y ella se asustó mucho. 142165_145099
+%pos: y.CCONJ ella.PRON se.PRON asustó.VERB mucho.ADV
+*PAR:	vio que era el lobo. 145099_147791
+%pos: vio.VERB que.SCONJ era.AUX el.DET lobo.NOUN
+*PAR:	después, entró un señor para matar al lobo. 147791_158185
+%pos: después.ADV ,.PUNCT entró.VERB un.DET señor.NOUN para.ADP matar.VERB al.DET lobo.NOUN
+*PAR:	tenía unas tijeras para abrirle el estómago. 158185_170854
+%pos: tenía.VERB unas.DET tijeras.NOUN para.ADP abrirle.VERB el.DET estómago.NOUN
+*PAR:	entonces, le puso unas piedras en su estómago y en su boca. 170854_186702
+%pos: entonces.ADV ,.PUNCT le.PRON puso.VERB unas.DET piedras.NOUN en.ADP su.DET estómago.NOUN y.CCONJ en.ADP su.DET boca.NOUN
+*PAR:	el lobo estaba muy panzón. 186702_196752
+%pos: el.DET lobo.NOUN estaba.AUX muy.ADV panzón.NOUN
+*PAR:	y todos estaban contentos. 196752_202796
+%pos: y.CCONJ todos.PRON estaban.AUX contentos.ADJ
+*PAR:	se despidió Caperucita de su abuelita muy contenta. 202796_209702
+%pos: se.PRON despidió.VERB Caperucita.PROPN de.ADP su.DET abuelita.NOUN muy.ADV contenta.ADJ
+*PAR:	y se fue a su casa. 209702_213573
+%pos: y.CCONJ se.PRON fue.VERB a.ADP su.DET casa.NOUN
+*PAR:	fin. 213573_216805
+%pos: fin.NOUN
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:21:07.746349

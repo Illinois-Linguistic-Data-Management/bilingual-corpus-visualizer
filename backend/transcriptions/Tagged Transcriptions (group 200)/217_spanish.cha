@@ -1,0 +1,98 @@
+@UTF8
+@Window:	110_295_642_1075_-1_-1_2906_0_2906_0
+@Begin
+@Languages:	spa,eng
+@Participants:	PAR 217 Speaker
+@ID:	spa|narratives|PAR||female|||Speaker|||
+@Media:	217_spanish,audio
+*PAR:	<RES> [e]. 0_34597
+*PAR:	okay@s una vez había una niña que tenía una caperucita roja. 34597_44584
+%pos: okay.INTJ una.DET vez.NOUN había.VERB una.DET niña.NOUN que.SCONJ tenía.VERB una.DET caperucita.NOUN roja.ADJ
+*PAR:	&-eh vivía con su abuela y [/] y los pajaritos. 44584_50848
+%pos: vivía.VERB con.ADP su.DET abuela.NOUN y.CCONJ y.CCONJ los.DET pajaritos.NOUN
+*PAR:	y era el bi(rthday)@s [//] el cumpleaños de la abuela. 50848_53083
+%pos: y.CCONJ era.AUX el.DET birthday.NOUN el.DET cumpleaños.NOUN de.ADP la.DET abuela.NOUN
+*PAR:	entonces, la mamá la mandó a visitar a la abuela con una cesta llena con frutas y panes. 53083_66159
+%pos: entonces.ADV ,.PUNCT la.DET mamá.NOUN la.PRON mandó.VERB a.ADP visitar.VERB a.ADP la.DET abuela.NOUN con.ADP una.DET cesta.NOUN llena.ADJ con.ADP frutas.NOUN y.CCONJ panes.NOUN
+*PAR:	a camino a casa de la abuela, se topó con un lobo que la quería comer. 66159_74374
+%pos: a.ADP camino.NOUN a.ADP casa.NOUN de.ADP la.DET abuela.NOUN ,.PUNCT se.PRON topó.VERB con.ADP un.DET lobo.NOUN que.SCONJ la.PRON quería.VERB comer.VERB
+*PAR:	pero había un leñador listo para defenderla. 74374_78295
+%pos: pero.CCONJ había.VERB un.DET leñador.ADJ listo.NOUN para.ADP defenderla.VERB
+*PAR:	&-eh el lobo se escapó del leñador. 78295_85728
+%pos: el.DET lobo.NOUN se.PRON escapó.VERB del.ADP leñador.NOUN
+*PAR:	y se fue a casa de la abuela, mientras la Caperucita se quedaba &-eh recogiendo flores para llevarlas a la abuela. 85728_93097
+%pos: y.CCONJ se.PRON fue.VERB a.ADP casa.NOUN de.ADP la.DET abuela.NOUN ,.PUNCT mientras.SCONJ la.DET Caperucita.PROPN se.PRON quedaba.VERB recogiendo.VERB flores.NOUN para.ADP llevarlas.VERB a.ADP la.DET abuela.NOUN
+*PAR:	el lobo se encontró con la abuelita rellenita. 93097_99035
+%pos: el.DET lobo.NOUN se.PRON encontró.VERB con.ADP la.DET abuelita.NOUN rellenita.VERB
+*PAR:	y se la comió. 99035_100476
+%pos: y.CCONJ se.PRON la.PRON comió.VERB
+*PAR:	entonces, llegó Caperucita. 100476_105476
+%pos: entonces.ADV ,.PUNCT llegó.VERB Caperucita.PROPN
+*PAR:	y no notó <que su> [/] &-eh que su abuela no estaba ahí. 105476_108876
+%pos: y.CCONJ no.ADV notó.VERB que.SCONJ su.DET que.SCONJ su.DET abuela.NOUN no.ADV estaba.VERB ahí.ADV
+*PAR:	sino que era el lobo vestido de la abuela. 108876_111529
+%pos: sino.CCONJ que.CCONJ era.AUX el.DET lobo.NOUN vestido.VERB de.ADP la.DET abuela.NOUN
+*PAR:	y mientras tanto, se puso a poner [//] <decorar las flores> [//] poner las flores y luego la velada. 111529_118748
+%pos: y.CCONJ mientras.ADV tanto.ADV ,.PUNCT se.PRON puso.VERB a.ADP poner.VERB decorar.VERB las.DET flores.NOUN poner.VERB las.DET flores.NOUN y.CCONJ luego.ADV la.DET velada.NOUN
+*PAR:	la Caperucita &-eh se [/] se estaba un poco confundida. 118748_127046
+%pos: la.DET Caperucita.NOUN se.PRON se.PRON estaba.AUX un.DET poco.PRON confundida.VERB
+*PAR:	porque cuando se acercó al lobo, <notó que no era su abuela> [//] notó que algo estaba mal. 127046_133872
+%pos: porque.SCONJ cuando.SCONJ se.PRON acercó.VERB al.ADP lobo.NOUN ,.PUNCT notó.VERB que.SCONJ no.ADV era.AUX su.DET abuela.NOUN notó.VERB que.SCONJ algo.PRON estaba.VERB mal.ADJ
+*PAR:	y ahí, el lobo salta de la cama. 133872_138949
+%pos: y.CCONJ ahí.ADV ,.PUNCT el.DET lobo.NOUN salta.VERB de.ADP la.DET cama.NOUN
+*PAR:	y trata de comerse a la Caperucita. 138949_141258
+%pos: y.CCONJ trata.VERB de.ADP comerse.VERB a.ADP la.DET Caperucita.PROPN
+*PAR:	en eso, logró comérsela. 141258_146858
+%pos: en.ADP eso.PRON ,.PUNCT logró.VERB comérsela.VERB
+*PAR:	y estaba bien hinchado. 146858_148420
+%pos: y.CCONJ estaba.AUX bien.ADV hinchado.VERB
+*PAR:	y en ese momento, llegó el cazador ya sin hacha. 148420_151220
+%pos: y.CCONJ en.ADP ese.DET momento.NOUN ,.PUNCT llegó.VERB el.DET cazador.NOUN ya.ADV sin.ADP hacha.NOUN
+*PAR:	pero ahora con escopeta. 151220_152720
+%pos: pero.CCONJ ahora.ADV con.ADP escopeta.NOUN
+*PAR:	le pegó un buen tiro. 152720_157320
+%pos: le.PRON pegó.VERB un.DET buen.ADJ tiro.NOUN
+*PAR:	lo mató. 157320_158220
+%pos: lo.PRON mató.VERB
+*PAR:	y lo cortó con tijeras. 158220_160108
+%pos: y.CCONJ lo.PRON cortó.VERB con.ADP tijeras.NOUN
+*PAR:	y le [//] y salvó a la Caperucita y a la abuela. 160108_162984
+%pos: y.CCONJ le.PRON y.CCONJ salvó.VERB a.ADP la.DET Caperucita.PROPN y.CCONJ a.ADP la.DET abuela.NOUN
+*PAR:	&-eh ah no, no le pegó un tiro. 162984_168984
+%pos: ah.INTJ no.INTJ ,.PUNCT no.ADV le.PRON pegó.VERB un.DET tiro.NOUN
+*PAR:	simplemente mientras estaba dormido, lo cortó. 168984_172084
+%pos: simplemente.ADV mientras.SCONJ estaba.AUX dormido.ADJ ,.PUNCT lo.PRON cortó.VERB
+*PAR:	la Caperucita fue [//] cogió unas piedras. 172084_176388
+%pos: la.DET Caperucita.PROPN fue.AUX cogió.VERB unas.DET piedras.NOUN
+*PAR:	el perro la ayudó. 176388_178204
+%pos: el.DET perro.NOUN la.PRON ayudó.VERB
+*PAR:	y le llenaron la panza con piedras. 178204_180548
+%pos: y.CCONJ le.PRON llenaron.VERB la.DET panza.NOUN con.ADP piedras.NOUN
+*PAR:	y ahí estaba la abuelita lista para coserla. 180548_182592
+%pos: y.CCONJ ahí.ADV estaba.VERB la.DET abuelita.NOUN lista.NOUN para.ADP coserla.VERB
+*PAR:	el lobo se despertó. 182592_186592
+%pos: el.DET lobo.NOUN se.PRON despertó.VERB
+*PAR:	pero se sintió súper súper mal. 186592_189270
+%pos: pero.CCONJ se.PRON sintió.VERB súper.ADJ súper.NOUN mal.ADV
+*PAR:	y se fue hacia &-um. 189270_193270
+%pos: y.CCONJ se.PRON fue.VERB hacia.ADP
+*PAR:	no sé cómo se dice el well@s. 193270_195429
+%pos: no.ADV sé.VERB cómo.ADV se.PRON dice.VERB el.DET well.ADV
+*PAR:	cómo se dice &=laughs. 195429_198949
+%pos: cómo.INTJ se.PRON dice.VERB
+*PAR:	ahí donde estaba el agua. 198949_200795
+%pos: ahí.ADV donde.ADV estaba.VERB el.DET agua.NOUN
+*PAR:	y se cayó dentro. 200795_201599
+%pos: y.CCONJ se.PRON cayó.VERB dentro.ADV
+*PAR:	y como estaba lleno de piedras, lo más seguro se ahogó. 201599_204703
+%pos: y.CCONJ como.ADV estaba.AUX lleno.ADJ de.ADP piedras.NOUN ,.PUNCT lo.PRON más.ADV seguro.NOUN se.PRON ahogó.VERB
+*PAR:	y ahí todo acabó bien. 204703_209062
+%pos: y.CCONJ ahí.ADV todo.PRON acabó.VERB bien.ADV
+*PAR:	y la abuelita feliz. 209062_212062
+%pos: y.CCONJ la.DET abuelita.NOUN feliz.ADJ
+*PAR:	y mandó a la Caperucita con el leñador para volver a su casa. 212062_216988
+%pos: y.CCONJ mandó.VERB a.ADP la.DET Caperucita.PROPN con.ADP el.DET leñador.NOUN para.ADP volver.VERB a.ADP su.DET casa.NOUN
+*PAR:	y fin. 216988_220787
+%pos: y.CCONJ fin.NOUN
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:20:09.508288

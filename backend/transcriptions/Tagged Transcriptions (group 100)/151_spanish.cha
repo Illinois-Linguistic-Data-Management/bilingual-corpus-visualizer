@@ -1,0 +1,137 @@
+@UTF8
+@Window:	0_0_0_0_384_0_1796_0_1796_0
+@Begin
+@Languages:	spa,eng
+@Participants:	PAR 151 Speaker
+@ID:	spa|narratives|PAR||male|||Speaker|||
+@Media:	151_spanish,audio
+*PAR:	&-um caperucita roja is@s xxx . 0_9389
+%pos: caperucita.NOUN roja.ADJ is.AUX xxx.NOUN
+*PAR:	caperucita roja xxx su abuela . 9389_14045
+%pos: caperucita.NOUN roja.ADJ xxx.X su.DET abuela.NOUN
+*PAR:	<RES> [e] . 14045_16815
+*PAR:	<siguiente> [e] . 16815_18067
+*PAR:	<RES> [e] . 18067_18419
+*PAR:	su mamá le dice +"/. 18419_25670
+%pos: su.ADJ mamá.NOUN le.PRON dice.VERB +"/.SYM
+*PAR:	+" lleva esta comida <a la> [///] a tu abuela xxx enferma . 25670_32857
+%pos: +".PUNCT lleva.VERB esta.DET comida.NOUN a.ADP la.DET a.ADP tu.DET abuela.NOUN xxx.X enferma.VERB
+*PAR:	<siguiente> [e] . 32857_35513
+*PAR:	<RES> [e] . 35513_50857
+*PAR:	su mamá le dice +"/. 50857_55036
+%pos: su.ADJ mamá.NOUN le.PRON dice.VERB +"/.SYM
+*PAR:	+" lleva esta comida a tu abuela . 55036_57536
+%pos: +".PUNCT lleva.VERB esta.DET comida.NOUN a.ADP tu.DET abuela.NOUN
+*PAR:	+" tu abuela está enferma . 57536_61207
+%pos: +".SYM tu.DET abuela.NOUN está.AUX enferma.ADJ
+*PAR:	después, caperucita roja responde +"/. 61207_64743
+%pos: después.ADV ,.PUNCT caperucita.NOUN roja.ADJ responde.VERB +"/.SYM
+*PAR:	+" okay@s . 64743_66148
+%pos: +".SYM okay.INTJ
+*PAR:	<and@s> [///] y después, (.) llega al bosque . 66148_73367
+%pos: and.CCONJ y.CCONJ después.ADV ,.PUNCT llega.VERB al.DET bosque.NOUN
+*PAR:	<RES> [e] . 73367_74605
+*PAR:	<siguiente> [e] . 74605_75480
+*PAR:	<RES> [e] . 75480_96913
+*PAR:	<okay@s> [e] . 96913_97449
+*PAR:	<RES> [e] . 97449_98175
+*PAR:	<caperucita roja> [/] (..) caperucita roja xxx por el bosque . 98175_108926
+%pos: caperucita.NOUN roja.ADJ caperucita.NOUN roja.ADJ xxx.X por.ADP el.DET bosque.NOUN
+*PAR:	no está xxx un lobo xxx de ella . 108926_114566
+%pos: no.ADV está.VERB xxx.X un.DET lobo.NOUN xxx.X de.ADP ella.PRON
+*PAR:	<siguiente> [e] . 114566_120879
+*PAR:	después, el lobo le dijo +"/. 120879_126803
+%pos: después.ADV ,.PUNCT el.DET lobo.NOUN le.PRON dijo.VERB +"/.SYM
+*PAR:	+" por qué no vas a coger flores para tu abuela ? 126803_130802
+%pos: +".SYM por.ADP qué.PRON no.ADV vas.VERB a.ADP coger.VERB flores.NOUN para.ADP tu.DET abuela.NOUN
+*PAR:	así, el lobo xxx agarrar un atajo . 130802_135135
+%pos: así.ADV ,.PUNCT el.DET lobo.NOUN xxx.X agarrar.VERB un.DET atajo.NOUN
+*PAR:	y [/] &-eh y [/] y xxx más rápido a la casa de la abuela . 135135_140051
+%pos: y.CCONJ y.CCONJ y.CCONJ xxx.X más.ADV rápido.ADJ a.ADP la.DET casa.NOUN de.ADP la.DET abuela.NOUN
+*PAR:	<siguiente> [e] . 140051_142348
+*PAR:	+" así . 142348_148208
+%pos: +".SYM así.ADV
+*PAR:	el lobo pensó +". 148208_150458
+%pos: el.DET lobo.NOUN pensó.VERB +".PUNCT
+*PAR:	entró a la casa . 150458_152768
+%pos: entró.VERB a.ADP la.DET casa.NOUN
+*PAR:	y se comió . 152768_155723
+%pos: y.CCONJ se.PRON comió.VERB
+*PAR:	<<next@s> [///] próximo> [e] . 155723_158442
+*PAR:	<RES> [e] . 158442_161521
+*PAR:	después, la caperucita roja llegó a la casa de la abuela . 161521_170801
+%pos: después.ADV ,.PUNCT la.DET caperucita.NOUN roja.ADJ llegó.VERB a.ADP la.DET casa.NOUN de.ADP la.DET abuela.NOUN
+*PAR:	<siguente> [e] . 170801_174363
+*PAR:	<RES> [e] . 174363_180302
+*PAR:	el lobo estaba mirando a caperucita hambriento . 180302_190102
+%pos: el.DET lobo.NOUN estaba.AUX mirando.VERB a.ADP caperucita.NOUN hambriento.ADJ
+*PAR:	<RES> [e] . 190102_191212
+*PAR:	después, caperucita roja puso las flores que recogió del bosque en
+	una xxx con agua . 191212_198758
+%pos: después.ADV ,.PUNCT caperucita.NOUN roja.ADJ puso.VERB las.DET flores.NOUN que.SCONJ recogió.VERB del.ADP bosque.NOUN en.ADP una.DET xxx.NOUN con.ADP agua.NOUN
+*PAR:	<RES> [e] . 198758_199805
+*PAR:	<siguiente> [e] . 199805_201009
+*PAR:	<RES> [e] . 201009_202384
+*PAR:	después, caperucita roja xxx le dijo +"/. 202384_210634
+%pos: después.ADV ,.PUNCT caperucita.NOUN roja.ADJ xxx.X le.PRON dijo.VERB +"/.SYM
+*PAR:	+" que ojos grandes tienes abuela . 210634_214157
+%pos: +".SYM que.SCONJ ojos.NOUN grandes.ADJ tienes.VERB abuela.NOUN
+*PAR:	<son para> [///] y después, el lobo respondió +"/. 214157_218580
+%pos: son.VERB para.ADP y.CCONJ después.ADV ,.PUNCT el.DET lobo.NOUN respondió.VERB +"/.SYM
+*PAR:	+" son para verte mejor, mi vida . 218580_221954
+%pos: +".SYM son.AUX para.ADP verte.VERB mejor.ADJ ,.PUNCT mi.DET vida.NOUN
+*PAR:	res(pondió) [/] respondió caperuci(ta) +"/. 221954_225454
+%pos: respondió.VERB respondió.VERB caperucita.NOUN +"/.SYM
+*PAR:	+" que orejas tan grandes tienes . 225454_228876
+%pos: +".SYM que.SCONJ orejas.NOUN tan.ADV grandes.ADJ tienes.VERB
+*PAR:	el lobo xxx +"/. 228876_232002
+%pos: el.DET lobo.NOUN xxx.X +"/.SYM
+*PAR:	+" para escucharlo [: escucharte][*] mejor . 232002_234673
+%pos: +".SYM para.ADP escucharlo.VERB mejor.ADV
+*PAR:	+" que boca tan grande tienes . 234673_239001
+%pos: +".SYM que.SCONJ boca.NOUN tan.ADV grande.ADJ tienes.VERB
+*PAR:	es para xxx mejor . 239001_242951
+%pos: es.VERB para.ADP xxx.PROPN mejor.ADJ
+*PAR:	<RES> [e] . 242951_244561
+*PAR:	<siguiente> [e] . 244561_245482
+*PAR:	<RES> [e] . 245482_249029
+*PAR:	el lobo, de sorpresa, saltó de la cama, persiguiendo caperucita roja
+	. 249029_260684
+%pos: el.DET lobo.NOUN ,.PUNCT de.ADP sorpresa.NOUN ,.PUNCT saltó.VERB de.ADP la.DET cama.NOUN ,.PUNCT persiguiendo.VERB caperucita.NOUN roja.ADJ
+*PAR:	y caperucita roja estaba lista a correr . 260684_265185
+%pos: y.CCONJ caperucita.NOUN roja.ADJ estaba.AUX lista.NOUN a.ADP correr.VERB
+*PAR:	<promo [: proximo][*]> [e] . 265185_268310
+*PAR:	después, al final, el lobo se comió a caperucita roja . 268310_283522
+%pos: después.ADV ,.PUNCT al.ADP final.NOUN ,.PUNCT el.DET lobo.NOUN se.PRON comió.VERB a.ADP caperucita.NOUN roja.ADJ
+*PAR:	y un cazador del bosque escuchó los gritos de caperucita roja . 283522_289743
+%pos: y.CCONJ un.DET cazador.NOUN del.ADP bosque.NOUN escuchó.VERB los.DET gritos.NOUN de.ADP caperucita.NOUN roja.ADJ
+*PAR:	vino a la casa . 289743_291544
+%pos: vino.NOUN a.ADP la.DET casa.NOUN
+*PAR:	y mató al lobo . 291544_294450
+%pos: y.CCONJ mató.VERB al.ADP lobo.NOUN
+*PAR:	<siguiente> [e] . 294450_300207
+*PAR:	después, le cortó la panza del lobo . 300207_304985
+%pos: después.ADV ,.PUNCT le.PRON cortó.VERB la.DET panza.NOUN del.ADP lobo.NOUN
+*PAR:	el cazador xxx . 304985_310173
+%pos: el.DET cazador.NOUN xxx.X
+*PAR:	y caperucita roja la salvó . 310173_315610
+%pos: y.CCONJ caperucita.NOUN roja.ADJ la.PRON salvó.VERB
+*PAR:	<si(guiente)> [e] . 315610_320704
+*PAR:	después, caperucita roja cogió unas rocas . 320704_332672
+%pos: después.ADV ,.PUNCT caperucita.NOUN roja.ADJ cogió.VERB unas.DET rocas.NOUN
+*PAR:	y les metió xxx de la panza del lobo . 332672_336078
+%pos: y.CCONJ les.PRON metió.VERB xxx.X de.ADP la.DET panza.NOUN del.ADP lobo.NOUN
+*PAR:	<siguiente> [e] . 336078_338954
+*PAR:	después, le cieran la panza . 338954_347985
+%pos: después.ADV ,.PUNCT le.PRON cieran.VERB la.DET panza.NOUN
+*PAR:	xxx no podía caminar . 347985_352454
+%pos: xxx.INTJ no.ADV podía.AUX caminar.VERB
+*PAR:	<siguiente> [e] . 352454_354032
+*PAR:	caperucita roja se despidió de la abuela . 354032_364122
+%pos: caperucita.NOUN roja.ADJ se.PRON despidió.VERB de.ADP la.DET abuela.NOUN
+*PAR:	y la abuela se despidió de caperucita roja . 364122_367625
+%pos: y.CCONJ la.DET abuela.NOUN se.PRON despidió.VERB de.ADP caperucita.NOUN roja.ADJ
+*PAR:	<próximo> [e] . 367625_368672
+*PAR:	<RES> [e] . 368672_374506
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:36:15.689689

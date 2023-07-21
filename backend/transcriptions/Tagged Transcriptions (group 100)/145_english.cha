@@ -1,0 +1,86 @@
+@UTF8
+@Window:	99_623_768_685_-1_-1_83_0_83_0
+@Begin
+@Languages:	eng
+@Participants:	PAR 145 Speaker
+@ID:	eng|narratives|PAR||male|||Speaker|||
+@Media:	145_english, audio
+*PAR:	&-um the girl is playing in her grandma's house. 0_3845
+%pos: the.DET girl.NOUN is.AUX playing.VERB in.ADP her.PRON grandma.NOUN 's.PART house.NOUN
+*PAR:	and the grandma's (..) clapping (...). 3845_8090
+%pos: and.CCONJ the.DET grandma.NOUN 's.PART clapping.VERB
+*PAR:	or the girl is dancing in her grandma's house (...). 8090_11164
+%pos: or.CCONJ the.DET girl.NOUN is.AUX dancing.VERB in.ADP her.PRON grandma.NOUN 's.PART house.NOUN
+*PAR:	and (.) her grandma's impressed (...). 11164_13846
+%pos: and.CCONJ her.PRON grandma.NOUN 's.PART impressed.VERB
+*PAR:	<next (...)> [e]. 13846_17421
+*PAR:	the grandma is (.) leaving her house (.) to go visit someone (...). 17421_21867
+%pos: the.DET grandma.NOUN is.AUX leaving.VERB her.PRON house.NOUN to.PART go.VERB visit.VERB someone.PRON
+*PAR:	or (.) the girl was (.) leaving, (..) perhaps to go visit someone (...). 21867_28177
+%pos: or.CCONJ the.DET girl.NOUN was.AUX leaving.VERB ,.PUNCT perhaps.ADV to.PART go.VERB visit.VERB someone.PRON
+*PAR:	<RES> [e]. 28177_33825
+*PAR:	and (..) she was waving back to her mother (..). 33825_37534
+%pos: and.CCONJ she.PRON was.AUX waving.VERB back.ADV to.ADP her.PRON mother.NOUN
+*PAR:	<RES> [e]. 37534_37945
+*PAR:	<next (...)> [e]. 37945_41254
+*PAR:	the wolf appears to be (..) hungry for the little girl (..). 41254_45536
+%pos: the.DET wolf.NOUN appears.VERB to.PART be.AUX hungry.ADJ for.ADP the.DET little.ADJ girl.NOUN
+*PAR:	and (...) the executioner is like (...) angry at the wolf (..). 45536_52336
+%pos: and.CCONJ the.DET executioner.NOUN is.AUX like.ADP angry.ADJ at.ADP the.DET wolf.NOUN
+*PAR:	and the wolf (...) is very intimidating &=laughs (...). 52336_58357
+%pos: and.CCONJ the.DET wolf.NOUN is.AUX very.ADV intimidating.ADJ
+*PAR:	<next (..)> [e]. 58357_59179
+*PAR:	<RES> [e]. 59179_65298
+*PAR:	<oh (..)> [e]. 65298_66270
+*PAR:	the wolf was sneaking into the house (...) &-um (..). 66270_70900
+%pos: the.DET wolf.NOUN was.AUX sneaking.VERB into.ADP the.DET house.NOUN
+*PAR:	and looking backwards (...). 70900_73820
+%pos: and.CCONJ looking.VERB backwards.ADV
+*PAR:	and (.) looked (.) backwards (...) while the birds flew around the house (...). 73820_80345
+%pos: and.CCONJ looked.VERB backwards.ADV while.SCONJ the.DET birds.NOUN flew.VERB around.ADP the.DET house.NOUN
+*PAR:	<next (...)> [e]. 80345_82679
+*PAR:	xxx (...). 82679_83877
+%pos: xxx.PROPN
+*PAR:	the wolf (.) attacked (.) the grandma (..). 83877_86969
+%pos: the.DET wolf.NOUN attacked.VERB the.DET grandma.NOUN
+*PAR:	and the grandma cowered (...) in fear &=laughs (...). 86969_92671
+%pos: and.CCONJ the.DET grandma.NOUN cowered.VERB in.ADP fear.NOUN
+*PAR:	<next (...)> [e]. 92671_97234
+*PAR:	the little girl set up (...) 0a tribute to her grandma (...), while the wolf was pretending to be the grandma (...) to eat (.) the little girl (...). 97234_108602
+%pos: the.DET little.ADJ girl.NOUN set.VERB up.ADP 0a.NOUN tribute.NOUN to.ADP her.PRON grandma.NOUN ,.PUNCT while.SCONJ the.DET wolf.NOUN was.AUX pretending.VERB to.PART be.AUX the.DET grandma.NOUN to.PART eat.VERB the.DET little.ADJ girl.NOUN
+*PAR:	<next (...)> [e]. 108602_113733
+*PAR:	the little girl inspected closely her grandma, questioning why she (.) looked so (.) peculiar (..). 113733_121131
+%pos: the.DET little.ADJ girl.NOUN inspected.VERB closely.ADV her.PRON grandma.NOUN ,.PUNCT questioning.VERB why.ADV she.PRON looked.VERB so.ADV peculiar.ADJ
+*PAR:	<next (...)> [e]. 121131_126133
+*PAR:	&=sighs the wolf (..) procedes to (.) reveal (.) his disguise. 126133_132168
+%pos: the.DET wolf.NOUN procedes.VERB to.PART reveal.VERB his.PRON disguise.NOUN
+*PAR:	and attack the little girl (...) eating her (..) in the process (..). 132168_137801
+%pos: and.CCONJ attack.VERB the.DET little.ADJ girl.NOUN eating.VERB her.PRON in.ADP the.DET process.NOUN
+*PAR:	<next (...)> [e]. 137801_141296
+*PAR:	the hunter (..) encounters the wolf, now full from both of his (.) meals (...). 141296_149830
+%pos: the.DET hunter.NOUN encounters.VERB the.DET wolf.NOUN ,.PUNCT now.ADV full.ADJ from.ADP both.DET of.ADP his.PRON meals.NOUN
+*PAR:	and (...) loads his shotgun (.). 149830_152866
+%pos: and.CCONJ loads.VERB his.PRON shotgun.NOUN
+*PAR:	<next (...)> [e]. 152866_158335
+*PAR:	the hunter sets them free (...). 158335_161357
+%pos: the.DET hunter.NOUN sets.VERB them.PRON free.ADJ
+*PAR:	and everyone is celebrating and happy (.). 161357_164264
+%pos: and.CCONJ everyone.PRON is.AUX celebrating.ADJ and.CCONJ happy.ADJ
+*PAR:	<next (...)> [e]. 164264_170610
+*PAR:	they fill the (.) wolf's stomach up with stones as the grandma sews it back together (...). 170610_178798
+%pos: they.PRON fill.VERB the.DET wolf.NOUN 's.PART stomach.NOUN up.ADV with.ADP stones.NOUN as.SCONJ the.DET grandma.NOUN sews.VERB it.PRON back.ADV together.ADV
+*PAR:	<next (...)> [e]. 178798_183414
+*PAR:	the wolf is now very heavy (...). 183414_189305
+%pos: the.DET wolf.NOUN is.AUX now.ADV very.ADV heavy.ADJ
+*PAR:	and (...) looks very silly (...). 189305_198227
+%pos: and.CCONJ looks.VERB very.ADV silly.ADJ
+*PAR:	<next (...)> [e]. 198227_199735
+*PAR:	<RES> [e]. 199735_202871
+*PAR:	the (..) little girl, the grandma (..), and the hunter are making fun of the wolf (...). 202871_210960
+%pos: the.DET little.ADJ girl.NOUN ,.PUNCT the.DET grandma.NOUN ,.PUNCT and.CCONJ the.DET hunter.NOUN are.AUX making.VERB fun.NOUN of.ADP the.DET wolf.NOUN
+*PAR:	<RES> [e]. 210960_214538
+*PAR:	the grandma says goodbye to the little girl and the hunter (...) as they walk away back into the forest. 214538_221544
+%pos: the.DET grandma.NOUN says.VERB goodbye.NOUN to.ADP the.DET little.ADJ girl.NOUN and.CCONJ the.DET hunter.NOUN as.SCONJ they.PRON walk.VERB away.ADV back.ADV into.ADP the.DET forest.NOUN
+*PAR:	<next (...)> [e]. 221544_223000
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:34:08.592395

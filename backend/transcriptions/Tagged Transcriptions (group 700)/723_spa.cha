@@ -1,0 +1,60 @@
+@UTF8
+@Window:	85_769_668_714_-1_-1_140_0_140_0
+@Begin
+@Languages:	spa,eng
+@Participants:	PAR 723 Speaker
+@ID:	spa|narratives|PAR||male|||Speaker|||
+@Media:	723_spa,audio
+*PAR:	<RES> [e]. 0_3583
+*PAR:	el cuento de Caperucita Roja .3583_9183
+%pos: el.DET cuento.NOUN de.ADP Caperucita.PROPN Roja.PROPN
+*PAR:	Caperucita Roja era una niña, la cual como su nombre indica, tenía una larga caperuza roja. 9183_16380
+%pos: Caperucita.PROPN Roja.PROPN era.AUX una.DET niña.NOUN ,.PUNCT la.DET cual.PRON como.ADP su.DET nombre.NOUN indica.VERB ,.PUNCT tenía.VERB una.DET larga.ADJ caperuza.NOUN roja.ADJ
+*PAR:	y vivía en una cabaña. 16380_17659
+%pos: y.CCONJ vivía.VERB en.ADP una.DET cabaña.NOUN
+*PAR:	a ella le gustaba cocinar con su abuelita ricos pasteles, así que un día su madre la mandó con una cesta con algunas galletas y también un poco de vino. 17659_30404
+%pos: a.ADP ella.PRON le.PRON gustaba.VERB cocinar.VERB con.ADP su.DET abuelita.NOUN ricos.ADJ pasteles.NOUN ,.PUNCT así.ADV que.SCONJ un.DET día.NOUN su.DET madre.NOUN la.PRON mandó.VERB con.ADP una.DET cesta.NOUN con.ADP algunas.DET galletas.NOUN y.CCONJ también.ADV un.DET poco.PRON de.ADP vino.NOUN
+*PAR:	en su camino, un lobo feroz la vio. 30404_34484
+%pos: en.ADP su.DET camino.NOUN ,.PUNCT un.DET lobo.NOUN feroz.ADJ la.PRON vio.VERB
+*PAR:	pero también había un leñador. 34484_36760
+%pos: pero.CCONJ también.ADV había.VERB un.DET leñador.NOUN
+*PAR:	en su camino, Caperucita Roja recogía flores también para adornar los regalos de la abuela. 36760_43363
+%pos: en.ADP su.DET camino.NOUN ,.PUNCT Caperucita.PROPN Roja.PROPN recogía.VERB flores.NOUN también.ADV para.SCONJ adornar.VERB los.DET regalos.NOUN de.ADP la.DET abuela.NOUN
+*PAR:	pero en eso, el lobo se adelantó a su casa. 43363_47685
+%pos: pero.CCONJ en.ADP eso.PRON ,.PUNCT el.DET lobo.NOUN se.PRON adelantó.VERB a.ADP su.DET casa.NOUN
+*PAR:	de sorpresa, el lobo tomó a la abuela. 47685_52462
+%pos: de.ADP sorpresa.NOUN ,.PUNCT el.DET lobo.NOUN tomó.VERB a.ADP la.DET abuela.NOUN
+*PAR:	y se disfrazó con sus propias ropa. 52462_56325
+%pos: y.CCONJ se.PRON disfrazó.VERB con.ADP sus.DET propias.ADJ ropa.NOUN
+*PAR:	Caperucita Roja dejó los platos. 56325_58648
+%pos: Caperucita.PROPN Roja.PROPN dejó.VERB los.DET platos.NOUN
+*PAR:	dejó las flores. 58648_59711
+%pos: dejó.VERB las.DET flores.NOUN
+*PAR:	pero, en cuanto volteó a ver a su abuela, vio que algo estaba mal o que algo estaba extraño. 59711_67977
+%pos: pero.CCONJ ,.PUNCT en.ADP cuanto.ADV volteó.VERB a.ADP ver.VERB a.ADP su.DET abuela.NOUN ,.PUNCT vio.VERB que.SCONJ algo.PRON estaba.AUX mal.ADJ o.CCONJ que.SCONJ algo.PRON estaba.AUX extraño.ADJ
+*PAR:	una vez que le cuestionó +"/. 67977_72061
+%pos: una.DET vez.NOUN que.SCONJ le.PRON cuestionó.VERB +"/.SYM
+*PAR:	+" qué gran boca tienes. 72061_73745
+%pos: +".SYM qué.DET gran.ADJ boca.NOUN tienes.VERB
+*PAR:	+" qué gran orejas tienes. 73745_75366
+%pos: +".SYM qué.DET gran.ADJ orejas.NOUN tienes.VERB
+*PAR:	+" y qué gran ojos tienes. 75366_77003
+%pos: +".SYM y.CCONJ qué.ADV gran.ADJ ojos.NOUN tienes.VERB
+*PAR:	el lobo no tuvo de otra que saltar sobre ella para comérsela. 77003_80887
+%pos: el.DET lobo.NOUN no.ADV tuvo.VERB de.ADP otra.PRON que.SCONJ saltar.VERB sobre.ADP ella.PRON para.ADP comérsela.VERB
+*PAR:	una vez que ya se la comió, un cazador entró. 80887_88087
+%pos: una.DET vez.NOUN que.SCONJ ya.ADV se.PRON la.PRON comió.VERB ,.PUNCT un.DET cazador.NOUN entró.VERB
+*PAR:	y mientras el lobo estaba dormido, el cazador pudo abrir la panza del lobo con unas tijeras, rescatando tanto a Caperucita como a la abuela. 88087_97875
+%pos: y.CCONJ mientras.SCONJ el.DET lobo.NOUN estaba.AUX dormido.ADJ ,.PUNCT el.DET cazador.NOUN pudo.AUX abrir.VERB la.DET panza.NOUN del.ADP lobo.NOUN con.ADP unas.DET tijeras.NOUN ,.PUNCT rescatando.VERB tanto.PRON a.ADP Caperucita.PROPN como.CCONJ a.ADP la.DET abuela.NOUN
+*PAR:	para que el lobo no se diera cuenta, tanto el cazador como Caperucita buscaron algunas rocas. 97875_104123
+%pos: para.ADP que.SCONJ el.DET lobo.NOUN no.ADV se.PRON diera.VERB cuenta.NOUN ,.PUNCT tanto.PRON el.DET cazador.NOUN como.ADP Caperucita.PROPN buscaron.VERB algunas.DET rocas.NOUN
+*PAR:	las metieron en el estómago del lobo. 104123_106202
+%pos: las.PRON metieron.VERB en.ADP el.DET estómago.NOUN del.ADP lobo.NOUN
+*PAR:	una vez que el lobo estaba lleno, (.) su plan era tirarlo sobre <un risco> [//] un río. 106202_118693
+%pos: una.DET vez.NOUN que.SCONJ el.DET lobo.NOUN estaba.AUX lleno.ADJ ,.PUNCT su.DET plan.NOUN era.AUX tirarlo.VERB sobre.ADP un.DET risco.NOUN un.DET río.NOUN
+*PAR:	el lobo cayó. 118693_121262
+%pos: el.DET lobo.NOUN cayó.VERB
+*PAR:	entonces, &-eh la abuela y Caperucita se despidieron. 121262_128407	
+%pos: entonces.ADV ,.PUNCT la.DET abuela.NOUN y.CCONJ Caperucita.PROPN se.PRON despidieron.VERB
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:18:10.252263

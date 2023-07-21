@@ -1,0 +1,73 @@
+@UTF8
+@Window:	0_0_0_0_0_0_1319_0_1319_0
+@Begin
+@Languages:	spa,eng
+@Participants:	PAR 150 Speaker
+@ID:	spa|narratives|PAR||male|||Speaker|||
+@Media:	150_spanish,audio
+*PAR:	<RES>[e]. 0_77700
+*PAR:	un [: una][*] niña corriendo. 77700_80378
+%pos: un.DET niña.NOUN corriendo.VERB
+*PAR:	<RES>[e]. 80378_90448
+*PAR:	(.) el [: la] [*] niña está llevando comida. 90448_106527
+%pos: el.DET niña.NOUN está.AUX llevando.VERB comida.NOUN
+*PAR:	<RES>[e]. 106527_109057
+*PAR:	(..) un wolf@s está molestando el [: la][*] niña. 109057_126776
+%pos: un.DET wolf.NOUN está.AUX molestando.VERB el.DET niña.NOUN
+*PAR:	<RES>[e]. 126776_135274
+*PAR:	el wolf@s está al [//] el [//] una casa. 135274_155721
+%pos: el.DET wolf.NOUN está.VERB al.ADP el.DET una.DET casa.NOUN
+*PAR:	<RES>[e]. 155721_159565
+*PAR:	el wolf@s está molestando un [: una][*] muchacha. 159565_173471
+%pos: el.DET wolf.NOUN está.AUX molestando.VERB un.DET muchacha.NOUN
+*PAR:	el [: la][*] niña trajo galletas. 173471_189300
+%pos: el.DET niña.NOUN trajo.ADJ galletas.NOUN
+*PAR:	y flores. 189300_190003
+%pos: y.CCONJ flores.NOUN
+*PAR:	<RES>[e]. 190003_195393
+*PAR:	y el wolf@s está en el [: la][*] cama . 195393_199143
+%pos: y.CCONJ el.DET wolf.NOUN está.VERB en.ADP el.DET cama.NOUN
+*PAR:	<RES>[e]. 199143_210329
+*PAR:	el [: la][*] niña ver [: vio] el wolf@s. 210329_215580
+%pos: el.DET niña.NOUN ver.VERB el.DET wolf.NOUN
+*PAR:	el wolf@s. 215580_226422
+%pos: el.DET wolf.NOUN
+*PAR:	(..) <RES>[e]. 226422_247922
+%pos: RES.PROPN
+*PAR:	el [: la][*] niña esta scared@s. 247922_255703
+%pos: el.DET niña.NOUN esta.AUX scared.VERB
+*PAR:	<RES>[e]. 255703_262047
+*PAR:	<si>[e]. 262047_264016
+*PAR:	<RES>[e]. 264016_265015
+*PAR:	(..) un muchacho va al [//] el [: la][*] casa. 265015_276842
+%pos: un.DET muchacho.NOUN va.VERB al.ADP el.DET casa.NOUN
+*PAR:	<RES>[e]. 276842_280092
+*PAR:	(..) un muchacho es gone@s. 280092_296717
+%pos: un.DET muchacho.NOUN es.AUX gone.ADJ
+*PAR:	un [: una][*] muchacha. 296717_302014
+%pos: un.DET muchacha.NOUN
+*PAR:	y el [: la][*] niña. 302014_303467
+%pos: y.CCONJ el.DET niña.NOUN
+*PAR:	<RES>[e]. 303467_313092
+*PAR:	el muchacho esta con un [: una][*] muchacha. 313092_316936
+%pos: el.DET muchacho.NOUN esta.VERB con.ADP un.DET muchacha.NOUN
+*PAR:	y el [: la][*] niña. 316936_319967
+%pos: y.CCONJ el.DET niña.NOUN
+*PAR:	<RES>[e]. 319967_322889
+*PAR:	el [: la][*] niña. 322889_337483
+%pos: el.DET niña.NOUN
+*PAR:	y el perro está trahendo [: trayendo][*] piedras. 337483_344937
+%pos: y.CCONJ el.DET perro.NOUN está.AUX trahendo.VERB piedras.NOUN
+*PAR:	<RES>[e]. 344937_354890
+*PAR:	(..) <el muchacho> [/] el muchacho, el [: la][*] muchacha. 354890_366717
+%pos: el.DET muchacho.NOUN el.DET muchacho.NOUN ,.PUNCT el.DET muchacha.NOUN
+*PAR:	y el niño está molestando el wolf@s. 366717_371061
+%pos: y.CCONJ el.DET niño.NOUN está.AUX molestando.VERB el.DET wolf.NOUN
+*PAR:	<RES>[e]. 371061_375264
+*PAR:	el [: la][*] muchacha dice (..) chao a
+	[//] el muchacha [: muchacho][*]. 375264_395717
+%pos: el.DET muchacha.NOUN dice.VERB chao.INTJ a.ADP el.DET muchacha.NOUN
+*PAR:	y el [: la] niña. 395717_396920
+%pos: y.CCONJ el.DET niña.NOUN
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:31:15.222393

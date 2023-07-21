@@ -1,0 +1,185 @@
+@UTF8
+@Window:	0_0_0_0_0_0_4799_1_4799_1
+@Begin
+@Languages:	spa
+@Participants:	PAR 147 Speaker
+@ID:	spa|narratives|PAR||male|||Speaker|||
+@Media:	147_spanish,audio
+*PAR:	<la niña (.) iba> [/] (.) la niña (.) iba a traerle un pastel a su
+	abuela . 0_15915
+%pos: la.DET niña.NOUN iba.VERB la.DET niña.NOUN iba.VERB a.ADP traerle.VERB un.DET pastel.NOUN a.ADP su.DET abuela.NOUN
+*PAR:	<RES> [e] . 15915_22102
+*PAR:	los [///] (.) <las flor(es)> [///] los pajaritos estaban cantando . 22102_32790
+%pos: los.DET las.DET flores.NOUN los.DET pajaritos.NOUN estaban.AUX cantando.VERB
+*PAR:	y las flores (.) fueron muy bonitas ese día . 32790_40231
+%pos: y.CCONJ las.DET flores.NOUN fueron.AUX muy.ADV bonitas.ADJ ese.DET día.NOUN
+*PAR:	<RES> [e] . 40231_40934
+*PAR:	por un perfecto día . 40934_42240
+%pos: por.ADP un.DET perfecto.ADJ día.NOUN
+*PAR:	<RES> [e] . 42240_47413
+*PAR:	<la niña dejó> [/] (.) la niña (.) dejó a su mamá en casa . 47413_56163
+%pos: la.DET niña.NOUN dejó.VERB la.DET niña.NOUN dejó.VERB a.ADP su.DET mamá.NOUN en.ADP casa.NOUN
+*PAR:	y fue en camino (.) a [/] (.) a la casa de su abuelita con [/] (.)
+	con las flores de muchos colores como rojo y blancos [: blanco][*] y
+	[/] (.) y todos colores por todos lados . 56163_80119
+%pos: y.CCONJ fue.VERB en.ADP camino.NOUN a.ADP a.ADP la.DET casa.NOUN de.ADP su.DET abuelita.NOUN con.ADP con.ADP las.DET flores.NOUN de.ADP muchos.DET colores.NOUN como.ADP rojo.NOUN y.CCONJ blancos.NOUN y.CCONJ y.CCONJ todos.DET colores.NOUN por.ADP todos.DET lados.NOUN
+*PAR:	<próximo> [e] . 80119_84115
+*PAR:	pero luego, (.) cuan(do) [/] cuando estaba caminando, <un hombre>
+	[///]  un [/] (..) un lobo feroz vio a la caperucita roja . 84115_111475
+%pos: pero.CCONJ luego.ADV ,.PUNCT cuando.SCONJ cuando.SCONJ estaba.AUX caminando.VERB ,.PUNCT un.DET hombre.NOUN un.DET un.DET lobo.NOUN feroz.ADJ vio.VERB a.ADP la.DET caperucita.NOUN roja.ADJ
+*PAR:	y todos los animales escondieron . 111475_115147
+%pos: y.CCONJ todos.DET los.DET animales.NOUN escondieron.VERB
+*PAR:	y la caperucita no sabía que estaba pasando . 115147_121932
+%pos: y.CCONJ la.DET caperucita.NOUN no.ADV sabía.VERB que.SCONJ estaba.AUX pasando.VERB
+*PAR:	pero, <se fue> [///] todavía estaba caminando . 121932_126068
+%pos: pero.CCONJ ,.PUNCT se.PRON fue.AUX todavía.ADV estaba.AUX caminando.VERB
+*PAR:	los árboles fueron muy oscuros . 126068_132115
+%pos: los.DET árboles.NOUN fueron.AUX muy.ADV oscuros.ADJ
+*PAR:	<y había un> [//] y también habia un hombre en [///] (.) detrás de
+	ella que también no sabía xxx . 132115_147398
+%pos: y.CCONJ había.VERB un.DET y.CCONJ también.ADV habia.VERB un.DET hombre.NOUN en.ADP detrás.ADV de.ADP ella.PRON que.SCONJ también.ADV no.ADV sabía.VERB xxx.X
+*PAR:	<próximo> [e] . 147398_149055
+*PAR:	la caperucita roja paraba para recoger flores . 149055_161179
+%pos: la.DET caperucita.NOUN roja.ADJ paraba.VERB para.ADP recoger.VERB flores.NOUN
+*PAR:	y el lobo feroz fue a la casa . 161179_165149
+%pos: y.CCONJ el.DET lobo.NOUN feroz.ADJ fue.VERB a.ADP la.DET casa.NOUN
+*PAR:	y los pajaritos trataron de detenerlo . 165149_170098
+%pos: y.CCONJ los.DET pajaritos.NOUN trataron.VERB de.ADP detenerlo.VERB
+*PAR:	pero no [/] no fueron nada contra el lobo . 170098_174445
+%pos: pero.CCONJ no.ADV no.ADV fueron.VERB nada.PRON contra.ADP el.DET lobo.NOUN
+*PAR:	<próximo> [e] . 174445_180822
+*PAR:	el lobo feroz (.) pensó en una idea . 180822_187666
+%pos: el.DET lobo.NOUN feroz.ADJ pensó.VERB en.ADP una.DET idea.NOUN
+*PAR:	entró a la casa . 187666_190916
+%pos: entró.VERB a.ADP la.DET casa.NOUN
+*PAR:	comió a la abuelita que estaba enferma en su cama (.) con su vestido
+	morado <y con su(s)> [/] (.) y con sus (.) lentes (.) y su capa de
+	dormir . 190916_217369
+%pos: comió.VERB a.ADP la.DET abuelita.NOUN que.SCONJ estaba.AUX enferma.ADJ en.ADP su.DET cama.NOUN con.ADP su.DET vestido.NOUN morado.ADJ y.CCONJ con.ADP sus.DET y.CCONJ con.ADP sus.DET lentes.NOUN y.CCONJ su.DET capa.NOUN de.ADP dormir.VERB
+*PAR:	el lobo entró, asustó, y se comió a la abuela . 217369_223369
+%pos: el.DET lobo.NOUN entró.VERB ,.PUNCT asustó.VERB ,.PUNCT y.CCONJ se.PRON comió.VERB a.ADP la.DET abuela.NOUN
+*PAR:	el lobo feroz luego <puso los> [//] (.) <puso las cosas> [//] <puso
+	las [/] &-um las> [/] <puso <los> [//] las > [/] puso las cosas en
+	[//] de la abuela en el para que el se vistiera como la abuela . 223369_262072
+%pos: el.DET lobo.NOUN feroz.ADJ luego.ADV puso.VERB los.PRON puso.VERB las.DET cosas.NOUN <.PUNCT puso.VERB las.DET las.DET >.PUNCT puso.VERB los.DET las.PRON puso.VERB las.DET cosas.NOUN en.ADP de.ADP la.DET abuela.NOUN en.ADP el.DET para.ADP que.CCONJ el.DET se.PRON vistiera.VERB como.ADP la.DET abuela.NOUN
+*PAR:	y cuando caperucita roja entró, el estaba disfrasado como la abuela
+	. 262072_270829
+%pos: y.CCONJ cuando.SCONJ caperucita.NOUN roja.ADJ entró.VERB ,.PUNCT el.DET estaba.AUX disfrasado.VERB como.ADP la.DET abuela.NOUN
+*PAR:	y los ratones trataron <de advisar [: avisar][*]> [///] (.) <de
+	verle> [///] de avisarle a los [///] (..) &-uh caperucita roja . 270829_287626
+%pos: y.CCONJ los.DET ratones.NOUN trataron.VERB de.ADP advisar.VERB <.PUNCT de.ADP verle.NOUN >.PUNCT de.ADP avisarle.VERB a.ADP los.DET caperucita.NOUN roja.ADJ
+*PAR:	pero ella no podía oirlos . 287626_289610
+%pos: pero.CCONJ ella.PRON no.ADV podía.AUX oirlos.VERB
+*PAR:	entonces, caperucita puso las xxx, las galletas, y las flores . 289610_295104
+%pos: entonces.ADV ,.PUNCT caperucita.PROPN puso.VERB las.DET xxx.NOUN ,.PUNCT las.DET galletas.NOUN ,.PUNCT y.CCONJ las.DET flores.NOUN
+*PAR:	y fue a su abuela . 295104_296729
+%pos: y.CCONJ fue.VERB a.ADP su.DET abuela.NOUN
+*PAR:	<próximo> [e] . 296729_298010
+*PAR:	<RES> [e] . 298010_300604
+*PAR:	la caperucita vio (.) al lobo . 300604_309446
+%pos: la.DET caperucita.NOUN vio.VERB al.DET lobo.NOUN
+*PAR:	y dijo +"/. 309446_310805
+%pos: y.CCONJ dijo.VERB +"/.SYM
+*PAR:	+" ay abuelita, cuan(to) [///] por qué tienes
+	oídos tan grandes ? 310805_319712
+%pos: +".SYM ay.X abuelita.NOUN ,.PUNCT cuanto.ADV por.ADP qué.PRON tienes.VERB oídos.NOUN tan.ADV grandes.ADJ
+*PAR:	+" para oírte mejor, mi hijita . 319712_323337
+%pos: +".SYM para.ADP oírte.VERB mejor.ADV ,.PUNCT mi.DET hijita.NOUN
+*PAR:	+" <y por qué tienes> [/] (.) y por qué tienes manas
+	[: manos][*] [/] manos y [///] manos tan grandes ? 323337_339010
+%pos: +".SYM y.CCONJ por.ADP qué.PRON tienes.VERB y.CCONJ por.ADP qué.PRON tienes.VERB manas.NOUN manos.NOUN y.CCONJ manos.NOUN tan.ADV grandes.ADJ
+*PAR:	+" para abrazarte todo mejor, mi hijita . 339010_344212
+%pos: +".SYM para.ADP abrazarte.VERB todo.DET mejor.ADJ ,.PUNCT mi.DET hijita.NOUN
+*PAR:	+" y por qué tienes (..) &-uh ojos (.) amarillos ? 344212_356587
+%pos: +".SYM y.CCONJ por.ADP qué.PRON tienes.VERB ojos.NOUN amarillos.ADJ
+*PAR:	+" solo para verte mejor, (.) mi niñita . 356587_363453
+%pos: +".SYM solo.ADV para.ADP verte.VERB mejor.ADJ ,.PUNCT mi.DET niñita.NOUN
+*PAR:	y luego, entonces, la caperucita roja no pensaba nada . 363453_370812
+%pos: y.CCONJ luego.ADV ,.PUNCT entonces.ADV ,.PUNCT la.DET caperucita.NOUN roja.ADJ no.ADV pensaba.VERB nada.PRON
+*PAR:	y [/] y estaba bien con todo . 370812_375035
+%pos: y.CCONJ y.CCONJ estaba.VERB bien.ADV con.ADP todo.PRON
+*PAR:	<y no> [/] y no pensanió [: pensó][*] nada . 375035_378535
+%pos: y.CCONJ no.ADV y.CCONJ no.ADV pensanió.VERB nada.PRON
+*PAR:	<próximo> [e] . 378535_380489
+*PAR:	<RES> [e] . 380489_383457
+*PAR:	<luego, el lobo feroz> [/] (.) luego, el lobo feroz saltó de la cama
+	. 383457_397035
+%pos: luego.ADV ,.PUNCT el.DET lobo.NOUN feroz.ADJ luego.ADV ,.PUNCT el.DET lobo.NOUN feroz.ADJ saltó.VERB de.ADP la.DET cama.NOUN
+*PAR:	y persiguió <a la caperucita> [/] a la caperucita roja . 397035_403082
+%pos: y.CCONJ persiguió.VERB a.ADP la.DET caperucita.NOUN a.ADP la.DET caperucita.NOUN roja.ADJ
+*PAR:	cuando saltó de la cama, todo se fue volando, las flores, la
+	lámpara, el mueble . 403082_412624
+%pos: cuando.SCONJ saltó.VERB de.ADP la.DET cama.NOUN ,.PUNCT todo.PRON se.PRON fue.AUX volando.VERB ,.PUNCT las.DET flores.NOUN ,.PUNCT la.DET lámpara.NOUN ,.PUNCT el.DET mueble.NOUN
+*PAR:	todo se fue volando . 412624_414306
+%pos: todo.PRON se.PRON fue.AUX volando.VERB
+*PAR:	y persiguió a la caperucita roja por todos lados . 414306_421558
+%pos: y.CCONJ persiguió.VERB a.ADP la.DET caperucita.NOUN roja.ADJ por.ADP todos.DET lados.NOUN
+*PAR:	el lobo feroz (.) com(ió) [/] (.) comió a caperucita roja . 421558_433763
+%pos: el.DET lobo.NOUN feroz.ADJ comió.VERB comió.VERB a.ADP caperucita.NOUN roja.ADJ
+*PAR:	y [/] y estaba muy [/] (.) muy cansado . 433763_438732
+%pos: y.CCONJ y.CCONJ estaba.AUX muy.ADV muy.ADV cansado.ADJ
+*PAR:	entonces, se [/] (.) <se fue> [/] <se fue> [/] (..) se fue para
+	la cama . 438732_453153
+%pos: entonces.ADV ,.PUNCT se.PRON se.PRON fue.AUX se.PRON fue.VERB se.PRON fue.VERB para.ADP la.DET cama.NOUN
+*PAR:	cuando estaba durmiendo, (.) alguien con una pistola entró . 453153_460887
+%pos: cuando.SCONJ estaba.AUX durmiendo.VERB ,.PUNCT alguien.PRON con.ADP una.DET pistola.NOUN entró.VERB
+*PAR:	<y ma(tó)> [///] y vio la [/] (.) la panza del lobo . 460887_473435
+%pos: y.CCONJ mató.VERB y.CCONJ vio.VERB la.DET la.DET panza.NOUN del.ADP lobo.NOUN
+*PAR:	<y pensó> [///] y sabía que el lobo había comido la(s) &-eh dos
+	personas . 473435_481927
+%pos: y.CCONJ pensó.VERB y.CCONJ sabía.VERB que.SCONJ el.DET lobo.NOUN había.AUX comido.VERB las.DET dos.NUM personas.NOUN
+*PAR:	&-eh enton(ces) eso es porque estaba riendo . 481927_486559
+%pos: entonces.ADV eso.PRON es.VERB porque.SCONJ estaba.VERB riendo.VERB
+*PAR:	porque estaba muy cansado . 486559_487867
+%pos: porque.SCONJ estaba.AUX muy.ADV cansado.ADJ
+*PAR:	entonces que sabía que tenía que matar al lobo . 487867_492289
+%pos: entonces.ADV que.SCONJ sabía.VERB que.SCONJ tenía.VERB que.CCONJ matar.VERB al.ADP lobo.NOUN
+*PAR:	<próximo> [e] . 492289_494540
+*PAR:	<RES> [e] . 494540_500165
+*PAR:	<cuando el lobo> [///] para que el lobo vivía para [/] para un poco
+	más largo, <cortó la panza al> [//] cortó la panza abierta de(l)
+	lobo . 500165_521739
+%pos: cuando.SCONJ el.DET lobo.NOUN para.ADP que.SCONJ el.DET lobo.NOUN vivía.VERB para.ADP para.ADP un.DET poco.PRON más.ADV largo.ADJ ,.PUNCT cortó.VERB la.DET panza.NOUN al.ADP cortó.VERB la.DET panza.NOUN abierta.ADJ del.ADP lobo.NOUN
+*PAR:	y dejó que (.) la abuela y la caperucita roja se fueron a su
+	propia casa . 521739_530835
+%pos: y.CCONJ dejó.VERB que.SCONJ la.DET abuela.NOUN y.CCONJ la.DET caperucita.NOUN roja.ADJ se.PRON fueron.VERB a.ADP su.DET propia.ADJ casa.NOUN
+*PAR:	y todo estaba muy felíz . 530835_535162
+%pos: y.CCONJ todo.PRON estaba.AUX muy.ADV felíz.ADJ
+*PAR:	<próximo> [e] . 535162_536662
+*PAR:	<RES> [e] . 536662_540448
+*PAR:	luego, pusieron rocas para que el pensaría que todavía había comido
+	todo <la [//] las per(sonas)> [//] las dos personas . 540448_555831
+%pos: luego.ADV ,.PUNCT pusieron.VERB rocas.NOUN para.ADP que.SCONJ el.DET pensaría.VERB que.SCONJ todavía.ADV había.AUX comido.VERB todo.DET la.DET las.DET personas.NOUN las.DET dos.NUM personas.NOUN
+*PAR:	entonces, nos ponieron [: pusieron][*] y tijieron [: tijerearon][*]
+	(.) la panza otra vez <después que> [/] después que todas las rocas
+	estaban (.) adentro . 555831_571660
+%pos: entonces.ADV ,.PUNCT nos.PRON ponieron.VERB y.CCONJ tijieron.VERB la.DET panza.NOUN otra.DET vez.NOUN después.ADV que.CCONJ después.ADV que.SCONJ todas.DET las.DET rocas.NOUN estaban.VERB adentro.ADV
+*PAR:	<próximo> [e] . 571660_573300
+*PAR:	<RES> [e] . 573300_579184
+*PAR:	el lobo (.) todavía no podía caminar porque todas las rocas . 579184_588066
+%pos: el.DET lobo.NOUN todavía.ADV no.ADV podía.AUX caminar.VERB porque.SCONJ todas.DET las.DET rocas.NOUN
+*PAR:	entonces, pensó que tenía sed . 588066_591653
+%pos: entonces.ADV ,.PUNCT pensó.VERB que.SCONJ tenía.VERB sed.NOUN
+*PAR:	entonces, <fue a la> [//] (.) fue para agua . 591653_596834
+%pos: entonces.ADV ,.PUNCT fue.VERB a.ADP la.DET fue.NOUN para.ADP agua.NOUN
+*PAR:	<y (.) se> [///] entonces cuando estaba [/] &-ah &-ah estaba arriba
+	del agua <y cuando> [/] (.) y <cuando se> [//] cuando ya no tenía
+	xxx, se cayó adentro del agua . 596834_618094
+%pos: y.CCONJ se.PRON entonces.ADV cuando.SCONJ estaba.VERB estaba.VERB arriba.ADV del.ADP agua.NOUN y.CCONJ cuando.SCONJ y.CCONJ cuando.SCONJ se.PRON cuando.SCONJ ya.ADV no.ADV tenía.VERB xxx.X ,.PUNCT se.PRON cayó.VERB adentro.ADV del.ADP agua.NOUN
+*PAR:	y probablemente (.) murio . 618094_625720
+%pos: y.CCONJ probablemente.ADV murio.VERB
+*PAR:	porque es [///] tenia tenia tanto peso que <no podia> [//] sus [/]
+	sus patas no podian sostener todo el peso . 625720_640996
+%pos: porque.SCONJ es.AUX tenia.VERB tenia.VERB tanto.ADJ peso.NOUN que.SCONJ no.ADV podia.VERB sus.DET sus.DET patas.NOUN no.ADV podian.AUX sostener.VERB todo.DET el.DET peso.NOUN
+*PAR:	<RES> [e] . 640996_643947
+*PAR:	y xxx . 643947_645773
+%pos: y.CCONJ xxx.PROPN
+*PAR:	entonces, la abuela y los animales despidieron adros [: adios][*]
+	[/] adios (.) al señor y a caperucita roja . 645773_658539
+%pos: entonces.ADV ,.PUNCT la.DET abuela.NOUN y.CCONJ los.DET animales.NOUN despidieron.VERB adros.DET adios.NOUN al.ADP señor.NOUN y.CCONJ a.ADP caperucita.NOUN roja.ADJ
+*PAR:	y el señor fue con caperucita roja a su casa <para que> [/] <para
+	que> [/] para <que él> [///] ay(udar) [/] (.) ayudar caperucita roja
+	(.) esta vez . 658539_681110
+%pos: y.CCONJ el.DET señor.NOUN fue.VERB con.ADP caperucita.NOUN roja.ADJ a.ADP su.DET casa.NOUN para.ADP que.SCONJ <.PUNCT para.ADP que.CCONJ >.PUNCT para.ADP que.SCONJ él.PRON ayudar.VERB ayudar.VERB caperucita.NOUN roja.ADJ esta.DET vez.NOUN
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:37:10.450231

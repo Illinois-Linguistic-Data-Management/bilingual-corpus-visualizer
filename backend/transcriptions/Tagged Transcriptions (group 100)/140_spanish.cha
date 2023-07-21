@@ -1,0 +1,53 @@
+@UTF8
+@Window:	0_0_0_0_0_0_20_0_20_0
+@Begin
+@Languages:	spa
+@Participants:	PAR 140 Speaker
+@ID:	spa|narratives|PAR||female|||Speaker|||
+@Media:	140_spanish,audio
+*PAR:	<RES> [e] . 0_11765
+*PAR:	la niña estaba feliz . 11765_15034
+%pos: la.DET niña.NOUN estaba.AUX feliz.ADJ
+*PAR:	porque vio su abuela . 15034_16593
+%pos: porque.SCONJ vio.VERB su.DET abuela.NOUN
+*PAR:	<RES> [e] . 16593_34463
+*PAR:	la niña se fue a la casa de su abuela . 34463_39238
+%pos: la.DET niña.NOUN se.PRON fue.VERB a.ADP la.DET casa.NOUN de.ADP su.DET abuela.NOUN
+*PAR:	<RES> [e] . 39238_46542
+*PAR:	el lobo <esta> [e] vio a la niña . 46542_50369
+%pos: el.DET lobo.NOUN vio.VERB a.ADP la.DET niña.NOUN
+*PAR:	y la estaba persiguiendo . 50369_52775
+%pos: y.CCONJ la.PRON estaba.AUX persiguiendo.VERB
+*PAR:	<RES> [e] . 52775_58854
+*PAR:	el lobo fue a la casa de su abuela . 58854_62127
+%pos: el.DET lobo.NOUN fue.VERB a.ADP la.DET casa.NOUN de.ADP su.DET abuela.NOUN
+*PAR:	el lobo (a)sustó la abuela . 62127_69905
+%pos: el.DET lobo.NOUN asustó.VERB la.DET abuela.NOUN
+*PAR:	xxx niña llevó [: llegó][*] a la casa de su abuela . 69905_87050
+%pos: xxx.INTJ niña.NOUN llevó.VERB a.ADP la.DET casa.NOUN de.ADP su.DET abuela.NOUN
+*PAR:	la niña (.) no quería ver la cara de su abuela . 87050_96426
+%pos: la.DET niña.NOUN no.ADV quería.VERB ver.VERB la.DET cara.NOUN de.ADP su.DET abuela.NOUN
+*PAR:	el lobo asustó la niña . 96426_101504
+%pos: el.DET lobo.NOUN asustó.VERB la.DET niña.NOUN
+*PAR:	y se la iba a comer . 101504_104157
+%pos: y.CCONJ se.PRON la.PRON iba.VERB a.ADP comer.VERB
+*PAR:	<RES> [e] . 104157_109485
+*PAR:	el [: la][*] policía llevó [: llegó][*] . 109485_111476
+%pos: el.DET policía.NOUN llevó.VERB
+*PAR:	y ella estaba la niña en la panza . 111476_120424
+%pos: y.CCONJ ella.PRON estaba.VERB la.DET niña.NOUN en.ADP la.DET panza.NOUN
+*PAR:	el [: la][*] policía <corté> [//] cortó la panza del [/] del lobo . 120424_126802
+%pos: el.DET policía.NOUN corté.ADJ cortó.VERB la.DET panza.NOUN del.ADP del.ADP lobo.NOUN
+*PAR:	y sacó a la abuela . 126802_128708
+%pos: y.CCONJ sacó.VERB a.ADP la.DET abuela.NOUN
+*PAR:	la niña fue por rocas . 128708_140677
+%pos: la.DET niña.NOUN fue.VERB por.ADP rocas.NOUN
+*PAR:	y se la xxx lobo . 140677_145177
+%pos: y.CCONJ se.PRON la.DET xxx.X lobo.NOUN
+*PAR:	todos estaban riendo del lobo . 145177_160208
+%pos: todos.PRON estaban.VERB riendo.ADV del.ADP lobo.NOUN
+*PAR:	y la niña y el [: la][*] policía se fueron feliz [: felices][*] . 160208_168474
+%pos: y.CCONJ la.DET niña.NOUN y.CCONJ el.DET policía.NOUN se.PRON fueron.AUX feliz.ADJ
+*PAR:	<RES> [e] . 168474_186005
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:32:13.863447

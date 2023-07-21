@@ -1,0 +1,51 @@
+@UTF8
+@Window:	0_0_0_0_0_0_322_0_322_0
+@Begin
+@Languages:	spa
+@Participants:	PAR 607 Speaker
+@ID:	spa|narratives|PAR||male|||Speaker|||
+@Media:	607,audio
+*PAR:	<RES> [e]. 0_3792
+*PAR:	una, una vez caperucita roja ten√≠a una abuela que, que le gustaba
+	preparar pasteles.  3792_18620
+%pos: una.NUM ,.PUNCT una.DET vez.NOUN caperucita.NOUN roja.ADJ ten√≠a.VERB una.DET abuela.NOUN que.SCONJ ,.PUNCT que.SCONJ le.PRON gustaba.VERB preparar.VERB pasteles.NOUN
+*PAR:	un d√≠a caperucita roja se fue a visitar su abuela, llevando en el
+	canasto galleta, uvas, y agua.  18620_30256
+%pos: un.DET d√≠a.X caperucita.NOUN roja.ADJ se.PRON fue.VERB a.ADP visitar.VERB su.DET abuela.NOUN ,.PUNCT llevando.VERB en.ADP el.DET canasto.NOUN galleta.NOUN ,.PUNCT uvas.NOUN ,.PUNCT y.CCONJ agua.NOUN
+*PAR:	un, xxx el lobo se dio cuento que xxx caperucita roja estaba yendo a
+	la casa de su abuela. 30256_42279
+%pos: un.DET ,.PUNCT xxx.X el.DET lobo.NOUN se.PRON dio.VERB cuento.ADJ que.SCONJ xxx.X caperucita.NOUN roja.ADJ estaba.VERB yendo.VERB a.ADP la.DET casa.NOUN de.ADP su.DET abuela.NOUN
+*PAR:	y pero no se di√≥ cuenta que hab√≠a un le√±ador atras de √©l. 42279_47299
+%pos: y.CCONJ pero.CCONJ no.ADV se.PRON di√≥.VERB cuenta.VERB que.SCONJ hab√≠a.VERB un.DET le√.NOUN ±.SYM ador.ADJ atras.NOUN de.ADP √.X ©.SYM l.DET
+*PAR:	caperucita se xxx recogiendo flores y el lobo se adelant√≥ de la xxx,
+	se adelant√≥ de la casa de su abuela para entrar. 47299_58870
+%pos: caperucita.VERB se.PRON xxx.X recogiendo.VERB flores.NOUN y.CCONJ el.DET lobo.NOUN se.PRON adelant√.VERB ≥.X de.ADP la.DET xxx.X ,.PUNCT se.PRON adelant√.VERB ≥.X de.ADP la.DET casa.NOUN de.ADP su.DET abuela.NOUN para.ADP entrar.VERB
+*PAR:	el lobo se entr√≥ y se com√≠a la abuela. 58870_66163
+%pos: el.DET lobo.NOUN se.PRON entr√.VERB ≥.SYM y.CCONJ se.PRON com√≠a.VERB la.DET abuela.NOUN
+*PAR:	caperucita roja lleg√≥ con flores, galletas, y agua sin darse cuenta
+	que el lobo estaba en la cama.  66165_78065
+%pos: caperucita.NOUN roja.ADJ lleg√.NOUN ≥.SYM con.ADP flores.NOUN ,.PUNCT galletas.NOUN ,.PUNCT y.CCONJ agua.NOUN sin.ADP darse.VERB cuenta.NOUN que.SCONJ el.DET lobo.NOUN estaba.VERB en.ADP la.DET cama.NOUN
+*PAR:	caperucita roja vio que su abuela ten√≠a orejas grandes y boca
+	grande. 78065_90361
+%pos: caperucita.NOUN roja.ADJ vio.VERB que.SCONJ su.DET abuela.NOUN ten√≠a.VERB orejas.NOUN grandes.ADJ y.CCONJ boca.NOUN grande.ADJ
+*PAR:	cuando caperucita roja se di√≥ cuenta que era el lobo y el lobo se
+	par√≥ y corri√≥ con caperucita. 90361_100860
+%pos: cuando.SCONJ caperucita.NOUN roja.ADJ se.PRON di√≥.VERB cuenta.VERB que.SCONJ era.VERB el.DET lobo.NOUN y.CCONJ el.DET lobo.NOUN se.PRON par√≥.VERB y.CCONJ corri√.VERB ≥.NUM con.ADP caperucita.NOUN
+*PAR:	despues lleg√≥, lleg√≥ el padre de caperucita con con un xxx entrando
+	en la casa de la abuela.  100860_111204
+%pos: despues.ADV lleg√.VERB ≥.SYM ,.PUNCT lleg√.VERB ≥.X el.DET padre.NOUN de.ADP caperucita.PROPN con.VERB con.ADP un.DET xxx.X entrando.VERB en.ADP la.DET casa.NOUN de.ADP la.DET abuela.NOUN
+*PAR:	viendo que hab√≠a un lobo que se comi√≥ caperucita y la abuela. 111206_116553
+%pos: viendo.VERB que.SCONJ hab√≠a.VERB un.DET lobo.NOUN que.SCONJ se.PRON comi√.VERB ≥.X caperucita.VERB y.CCONJ la.DET abuela.NOUN
+*PAR:	luego el pap√° cort√≥ la panza del lobo y sac√≥ a caperucita y la
+	abuela diciendo, metiendo en la boca del lobo piedras. 116553_136612
+%pos: luego.ADV el.DET pap√.NOUN °.PUNCT cort√.VERB ≥.X la.DET panza.NOUN del.ADP lobo.NOUN y.CCONJ sac√.X ≥.SYM a.ADP caperucita.NOUN y.CCONJ la.DET abuela.NOUN diciendo.VERB ,.PUNCT metiendo.VERB en.ADP la.DET boca.NOUN del.ADP lobo.NOUN piedras.NOUN
+*PAR:	y, y a la abuela le iba a xxx la panza. 136612_142674
+%pos: y.CCONJ ,.PUNCT y.CCONJ a.ADP la.DET abuela.NOUN le.PRON iba.VERB a.ADP xxx.X la.DET panza.NOUN
+*PAR:	luego estaba viendo el lobo para ver que pasaba y el lobo se, se
+	cay√≥ el pozo. 142674_151294
+%pos: luego.ADV estaba.VERB viendo.VERB el.DET lobo.NOUN para.ADP ver.VERB que.SCONJ pasaba.VERB y.CCONJ el.DET lobo.NOUN se.PRON ,.PUNCT se.PRON cay√≥.VERB el.DET pozo.NOUN
+*PAR:	y la abuela saludando a caperucita y su padre y su perro, yendose a
+	casa. 151294_162688
+%pos: y.CCONJ la.DET abuela.NOUN saludando.VERB a.ADP caperucita.NOUN y.CCONJ su.DET padre.NOUN y.CCONJ su.DET perro.NOUN ,.PUNCT yendose.VERB a.ADP casa.NOUN
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-07-19 14:35:05.431929

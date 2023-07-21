@@ -1,0 +1,92 @@
+@UTF8
+@Window:	138_647_768_685_-1_-1_2168_0_2168_0
+@Begin
+@Languages:	eng
+@Participants:	PAR 339 Speaker
+@ID:	eng|narratives|PAR||female|||Speaker|||
+@Media:	339_english, audio
+*PAR:	okay, so (.), the grandmother or the (.) girl opened the window (.). 0_6619
+%pos: okay.INTJ ,.PUNCT so.ADV ,.PUNCT the.DET grandmother.NOUN or.CCONJ the.DET girl.NOUN opened.VERB the.DET window.NOUN
+*PAR:	three birds flew. 6619_8598
+%pos: three.NUM birds.NOUN flew.VERB
+*PAR:	and (.) the grandma was applauding the girl for dancing (.). 8598_13893
+%pos: and.CCONJ the.DET grandma.NOUN was.AUX applauding.VERB the.DET girl.NOUN for.ADP dancing.VERB
+*PAR:	<RES> [e]. 13893_14908
+*PAR:	<next (..)> [e]. 14908_16294
+*PAR:	<RES> [e]. 16294_19956
+*PAR:	&=sighs the grandmother said goodbye to the girl (.). 19956_24516
+%pos: the.DET grandmother.NOUN said.VERB goodbye.NOUN to.ADP the.DET girl.NOUN
+*PAR:	the girl left with her basket (.) with a bottle and some napkins in her ha(nd) [//] basket (..). 24516_32695
+%pos: the.DET girl.NOUN left.ADJ with.ADP her.PRON basket.NOUN with.ADP a.DET bottle.NOUN and.CCONJ some.DET napkins.NOUN in.ADP her.PRON hand.NOUN basket.NOUN
+*PAR:	<RES> [e]. 32695_33867
+*PAR:	<next (...)> [e]. 33867_38013
+*PAR:	<there was a little> [//] there was a hungry (.) wolf. 38013_41219
+%pos: there.ADV was.VERB a.DET little.ADJ there.PRON was.VERB a.DET hungry.ADJ wolf.NOUN
+*PAR:	<i think i know this one> [e]. 41219_42104
+*PAR:	there was a hungry wolf that wanted to (..) eat the girl up. 42104_46606
+%pos: there.ADV was.VERB a.DET hungry.ADJ wolf.NOUN that.PRON wanted.VERB to.PART eat.VERB the.DET girl.NOUN up.ADP
+*PAR:	and there was a lumberjack <that (.) wanted> [/] that (.) wanted to save the girl. 46606_52160
+%pos: and.CCONJ there.ADV was.VERB a.DET lumberjack.NOUN that.PRON wanted.VERB that.PRON wanted.VERB to.PART save.VERB the.DET girl.NOUN
+*PAR:	<the girl> [//] and the girl had no idea that (.) the wolf was [/] (.) was hungry. 52160_58138
+%pos: the.DET girl.NOUN and.CCONJ the.DET girl.NOUN had.VERB no.DET idea.NOUN that.SCONJ the.DET wolf.NOUN was.AUX was.AUX hungry.ADJ
+*PAR:	and the bunnies and squirrels were watching (...). 58138_64284
+%pos: and.CCONJ the.DET bunnies.NOUN and.CCONJ squirrels.NOUN were.AUX watching.VERB
+*PAR:	<next (..)> [e]. 64284_65722
+*PAR:	<RES> [e]. 65722_68737
+*PAR:	the wolf got away (.). 68737_70971
+%pos: the.DET wolf.NOUN got.VERB away.ADV
+*PAR:	and arrived there before the girl (.). 70971_73631
+%pos: and.CCONJ arrived.VERB there.ADV before.ADP the.DET girl.NOUN
+*PAR:	a bird got scared (.). 73631_75621
+%pos: a.DET bird.NOUN got.VERB scared.VERB
+*PAR:	and the wolf was very happy. 75621_77434
+%pos: and.CCONJ the.DET wolf.NOUN was.AUX very.ADV happy.ADJ
+*PAR:	bird started to fly away (...). 77434_83996
+%pos: bird.NOUN started.VERB to.PART fly.VERB away.ADV
+*PAR:	&=sighs the wolf ate the grandmother (..). 83996_88741
+%pos: the.DET wolf.NOUN ate.VERB the.DET grandmother.NOUN
+*PAR:	the grandma was really scared (..). 88741_92308
+%pos: the.DET grandma.NOUN was.AUX really.ADV scared.VERB
+*PAR:	<next (...)> [e]. 92308_98217
+*PAR:	the girl thought (.) that that was her grandma (.). 98217_102159
+%pos: the.DET girl.NOUN thought.VERB that.SCONJ that.PRON was.AUX her.PRON grandma.NOUN
+*PAR:	and (.) she was fixing the (.) flower pot. 102159_105480
+%pos: and.CCONJ she.PRON was.AUX fixing.VERB the.DET flower.NOUN pot.NOUN
+*PAR:	and poured her some glasses of wine and some cookies. 105480_109244
+%pos: and.CCONJ poured.VERB her.PRON some.DET glasses.NOUN of.ADP wine.NOUN and.CCONJ some.DET cookies.NOUN
+*PAR:	the mouse was afraid that the wolf was going to (.) eat her (..). 109244_113482
+%pos: the.DET mouse.NOUN was.AUX afraid.ADJ that.SCONJ the.DET wolf.NOUN was.AUX going.VERB to.PART eat.VERB her.PRON
+*PAR:	<RES> [e]. 113482_114487
+*PAR:	<next (...)> [e]. 114487_117857
+*PAR:	the [/] &-um the girl noticed the wolf (...). 117857_127508
+%pos: the.DET the.DET girl.NOUN noticed.VERB the.DET wolf.NOUN
+*PAR:	and the wolf jumped at the girl. 127508_130296
+%pos: and.CCONJ the.DET wolf.NOUN jumped.VERB at.ADP the.DET girl.NOUN
+*PAR:	and everything fell (.). 130296_132295
+%pos: and.CCONJ everything.PRON fell.ADJ
+*PAR:	and the girl started to run away, with the basket on the ground (...). 132295_140201
+%pos: and.CCONJ the.DET girl.NOUN started.VERB to.PART run.VERB away.ADV ,.PUNCT with.SCONJ the.DET basket.NOUN on.ADP the.DET ground.NOUN
+*PAR:	and then the lumberjack came (.). 140201_142281
+%pos: and.CCONJ then.ADV the.DET lumberjack.NOUN came.VERB
+*PAR:	and saw that the wolf (.) ate (.) everything. 142281_145319
+%pos: and.CCONJ saw.VERB that.SCONJ the.DET wolf.NOUN ate.VERB everything.PRON
+*PAR:	and he was asleep (...). 145319_152720
+%pos: and.CCONJ he.PRON was.AUX asleep.ADV
+*PAR:	<and then it was all &-um> [//] and then they saw &-um tha(t) [//] he cut the belly. 152720_159574
+%pos: and.CCONJ then.ADV it.PRON was.AUX all.DET and.CCONJ then.ADV they.PRON saw.VERB that.SCONJ he.PRON cut.VERB the.DET belly.NOUN
+*PAR:	and the grandma and daughter came out (..). 159574_163189
+%pos: and.CCONJ the.DET grandma.NOUN and.CCONJ daughter.NOUN came.VERB out.ADV
+*PAR:	<RES> [e]. 163189_165640
+*PAR:	<next (...)> [e]. 165640_169063
+*PAR:	and then <they filled the belly with rocks> [//] the lumberjack filled the belly with rocks (.). 169063_175048
+%pos: and.CCONJ then.ADV they.PRON filled.VERB the.DET belly.NOUN with.ADP rocks.NOUN the.DET lumberjack.NOUN filled.VERB the.DET belly.NOUN with.ADP rocks.NOUN
+*PAR:	and they were happy (..). 175048_176968
+%pos: and.CCONJ they.PRON were.AUX happy.ADJ
+*PAR:	<RES> [e]. 176968_185279
+*PAR:	and then they laughed at the wolf, as the wolf had rocks in his belly &=laughs (..). 185279_190710
+%pos: and.CCONJ then.ADV they.PRON laughed.VERB at.ADP the.DET wolf.NOUN ,.PUNCT as.SCONJ the.DET wolf.NOUN had.VERB rocks.NOUN in.ADP his.PRON belly.NOUN
+*PAR:	<RES> [e]. 190710_195835
+*PAR:	and they lived happily ever after (..). 195835_199000
+%pos: and.CCONJ they.PRON lived.VERB happily.ADV ever.ADV after.ADV
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:15:15.656763

@@ -1,0 +1,80 @@
+@UTF8
+@Window:	139_718_642_776_-1_-1_2437_0_2437_0
+@Begin
+@Languages:	spa,eng
+@Participants:	PAR 617 Speaker
+@ID:	spa|narratives|PAR||male|||Speaker|||
+@Media:	617_spa,audio
+*PAR:	<RES> [e]. 0_3820
+*PAR:	una vez, Caperucita Roja vivía en el bosque. 3820_10987
+%pos: una.DET vez.NOUN ,.PUNCT Caperucita.PROPN Roja.PROPN vivía.VERB en.ADP el.DET bosque.NOUN
+*PAR:	<y, como siempre> [///] y, un día, <su abuelita y ella fu(eron)> [///] era su cumpleaños de Caperucita. 10987_20771
+%pos: y.CCONJ ,.PUNCT como.ADV siempre.ADV y.CCONJ ,.PUNCT un.DET día.NOUN ,.PUNCT su.DET abuelita.NOUN y.CCONJ ella.PRON fueron.AUX era.AUX su.DET cumpleaños.NOUN de.ADP Caperucita.PROPN
+*PAR:	y las dos hicieron un pastel. 20771_22956
+%pos: y.CCONJ las.DET dos.NUM hicieron.VERB un.DET pastel.NOUN
+*PAR:	y, un día, la mamá de Caperucita envió a Caperucita a que le llevara galletas, uvas y agua a su abuelita. 22956_37161
+%pos: y.CCONJ ,.PUNCT un.DET día.NOUN ,.PUNCT la.DET mamá.NOUN de.ADP Caperucita.PROPN envió.VERB a.ADP Caperucita.PROPN a.ADP que.SCONJ le.PRON llevara.VERB galletas.NOUN ,.PUNCT uvas.NOUN y.CCONJ agua.NOUN a.ADP su.DET abuelita.NOUN
+*PAR:	<pero, el lobo feroz> [///] Caperucita no se había dado cuenta de que el lobo feroz la seguía. 37161_45194
+%pos: pero.CCONJ ,.PUNCT el.DET lobo.NOUN feroz.ADJ Caperucita.PROPN no.ADV se.PRON había.AUX dado.VERB cuenta.NOUN de.ADP que.SCONJ el.DET lobo.NOUN feroz.ADJ la.PRON seguía.VERB
+*PAR:	pero, un cazador sí se dio cuenta. 45194_49657
+%pos: pero.CCONJ ,.PUNCT un.DET cazador.NOUN sí.INTJ se.PRON dio.VERB cuenta.NOUN
+*PAR:	en eso, Caperucita se agachó para recoger flores. 49657_56731
+%pos: en.ADP eso.PRON ,.PUNCT Caperucita.PROPN se.PRON agachó.VERB para.ADP recoger.VERB flores.NOUN
+*PAR:	y el lobo se adelantó. 56731_61857
+%pos: y.CCONJ el.DET lobo.NOUN se.PRON adelantó.VERB
+*PAR:	el lobo se comió a la abuelita. 61857_67999
+%pos: el.DET lobo.NOUN se.PRON comió.VERB a.ADP la.DET abuelita.NOUN
+*PAR:	porque tenía mucha hambre. 67999_70365
+%pos: porque.SCONJ tenía.VERB mucha.DET hambre.NOUN
+*PAR:	después, Caperucita no se dio cuenta de que el lobo estaba ahí. 70365_75847
+%pos: después.ADV ,.PUNCT Caperucita.PROPN no.ADV se.PRON dio.VERB cuenta.NOUN de.ADP que.SCONJ el.DET lobo.NOUN estaba.VERB ahí.ADV
+*PAR:	entonces, entró. 75847_77530
+%pos: entonces.ADV ,.PUNCT entró.VERB
+*PAR:	puso las galletas. 77530_78824
+%pos: puso.VERB las.DET galletas.NOUN
+*PAR:	le sirvió agua a la abuelita. 78824_80997
+%pos: le.PRON sirvió.VERB agua.NOUN a.ADP la.DET abuelita.NOUN
+*PAR:	y puso las flores que había agarrado. 80997_84117
+%pos: y.CCONJ puso.VERB las.DET flores.NOUN que.SCONJ había.AUX agarrado.VERB
+*PAR:	después, <le preguntó> [//] Caperucita le preguntó al lobo que por qué tenía esos ojos tan grandes y por qué tenía esas orejas tan grandes. 84117_101113
+%pos: después.ADV ,.PUNCT le.PRON preguntó.VERB Caperucita.PROPN le.PRON preguntó.VERB al.ADP lobo.NOUN que.SCONJ por.ADP qué.PRON tenía.VERB esos.DET ojos.NOUN tan.ADV grandes.ADJ y.CCONJ por.ADP qué.PRON tenía.VERB esas.DET orejas.NOUN tan.ADV grandes.ADJ
+*PAR:	y el lobo, en una de esas preguntas, saltó. 101113_106238
+%pos: y.CCONJ el.DET lobo.NOUN ,.PUNCT en.ADP una.PRON de.ADP esas.DET preguntas.NOUN ,.PUNCT saltó.VERB
+*PAR:	y la quería devorar. 106238_107420
+%pos: y.CCONJ la.PRON quería.VERB devorar.VERB
+*PAR:	bueno, se la devoró. 107420_113177
+%pos: bueno.INTJ ,.PUNCT se.PRON la.PRON devoró.VERB
+*PAR:	y llegó el cazador. 113177_116439
+%pos: y.CCONJ llegó.VERB el.DET cazador.NOUN
+*PAR:	y le disparó al lobo. 116439_120185
+%pos: y.CCONJ le.PRON disparó.VERB al.ADP lobo.NOUN
+*PAR:	porque vio que estaba [//] ya había pasado algo. 120185_124109
+%pos: porque.SCONJ vio.VERB que.SCONJ estaba.VERB ya.ADV había.AUX pasado.VERB algo.PRON
+*PAR:	le abrió la panza al lobo. 124109_130187
+%pos: le.PRON abrió.VERB la.DET panza.NOUN al.ADP lobo.NOUN
+*PAR:	y sacó a la Caperucita y a la abuelita. 130187_132939
+%pos: y.CCONJ sacó.VERB a.ADP la.DET Caperucita.NOUN y.CCONJ a.ADP la.DET abuelita.NOUN
+*PAR:	después, la abuelita y Caperucita le ayudaron a agarrar piedras para metérselas en la panza al lobo. 132939_144650
+%pos: después.ADV ,.PUNCT la.DET abuelita.NOUN y.CCONJ Caperucita.PROPN le.PRON ayudaron.VERB a.ADP agarrar.VERB piedras.NOUN para.ADP metérselas.VERB en.ADP la.DET panza.NOUN al.ADP lobo.NOUN
+*PAR:	después, el lobo salió a tomar agua. 144650_151015
+%pos: después.ADV ,.PUNCT el.DET lobo.NOUN salió.VERB a.ADP tomar.VERB agua.NOUN
+*PAR:	porque tenía demasiada sed. 151015_153085
+%pos: porque.SCONJ tenía.VERB demasiada.DET sed.NOUN
+*PAR:	pensó que había comido mucho. 153085_155466
+%pos: pensó.VERB que.SCONJ había.AUX comido.VERB mucho.ADV
+*PAR:	no se dio cuenta de que los demás estaban adentro. 155466_159925
+%pos: no.ADV se.PRON dio.VERB cuenta.NOUN de.ADP que.SCONJ los.DET demás.PRON estaban.VERB adentro.ADV
+*PAR:	entonces, fue a un pozo a tomar agua. 159925_162273
+%pos: entonces.ADV ,.PUNCT fue.VERB a.ADP un.DET pozo.NOUN a.ADP tomar.VERB agua.NOUN
+*PAR:	y en eso que tomaba agua, como las piedras pesaban mucho, se cayó. 162273_168180
+%pos: y.CCONJ en.ADP eso.PRON que.SCONJ tomaba.VERB agua.NOUN ,.PUNCT como.ADP las.DET piedras.NOUN pesaban.VERB mucho.PRON ,.PUNCT se.PRON cayó.VERB
+*PAR:	y se empezó a ahogar. 168180_169400
+%pos: y.CCONJ se.PRON empezó.VERB a.ADP ahogar.VERB
+*PAR:	después, Caperucita se fue con el cazador. 169400_175346
+%pos: después.ADV ,.PUNCT Caperucita.PROPN se.PRON fue.VERB con.ADP el.DET cazador.NOUN
+*PAR:	llegaron a casa. 175346_177363
+%pos: llegaron.VERB a.ADP casa.NOUN
+*PAR:	y fueron felices. 177363_178601
+%pos: y.CCONJ fueron.AUX felices.ADJ
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:19:48.658173

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- (c) http://www.rrz.uni-hamburg.de/exmaralda -->
+<basic-transcription>
+	<head>
+		<meta-information>
+			<project-name/>
+			<transcription-name/>
+			<referenced-file url="105_spanish.m4a"/>
+			<ud-meta-information>
+				<ud-information attribute-name="CHAT:@Window">175_272_618_1034_-1_-1_2118_0_2118_0</ud-information>
+				<ud-information attribute-name="CHAT:@Languages">spa</ud-information>
+				<ud-information attribute-name="CHAT:@Media">105_spanish, audio</ud-information>
+			</ud-meta-information>
+			<comment/>
+			<transcription-convention/>
+		</meta-information>
+		<speakertable>
+			<speaker id="PAR">
+				<abbreviation>PAR</abbreviation>
+				<sex value="f"/>
+				<languages-used/>
+				<l1/>
+				<l2/>
+				<ud-speaker-information>
+					<ud-information attribute-name="CHAT:Name">PAR</ud-information>
+					<ud-information attribute-name="CHAT:Full Name">105</ud-information>
+					<ud-information attribute-name="CHAT:Role">Speaker</ud-information>
+					<ud-information attribute-name="CHAT:ID">spa|narratives|PAR||female|||Speaker|||</ud-information>
+				</ud-speaker-information>
+				<comment/>
+			</speaker>
+		</speakertable>
+	</head>
+	<basic-body>
+		<common-timeline>
+			<tli id="T0" time="0.0"/>
+			<tli id="T1" time="70.508"/>
+			<tli id="T2" time="79.106"/>
+			<tli id="T3" time="84.139"/>
+			<tli id="T4" time="105.062"/>
+			<tli id="T5" time="133.279"/>
+			<tli id="T6" time="140.149"/>
+			<tli id="T7" time="152.613"/>
+			<tli id="T8" time="156.547"/>
+			<tli id="T9" time="177.398"/>
+			<tli id="T10" time="189.162"/>
+			<tli id="T11" time="194.578"/>
+			<tli id="T12" time="196.613"/>
+			<tli id="T13" time="208.511"/>
+			<tli id="T14" time="216.605"/>
+			<tli id="T15" time="233.517"/>
+			<tli id="T16" time="244.37"/>
+			<tli id="T17" time="251.87"/>
+			<tli id="T18" time="271.328"/>
+			<tli id="T19" time="284.353"/>
+			<tli id="T20" time="288.662"/>
+			<tli id="T21" time="301.091"/>
+			<tli id="T22" time="309.091"/>
+			<tli id="T23" time="313.272"/>
+			<tli id="T24" time="332.964"/>
+			<tli id="T25" time="333.848"/>
+			<tli id="T26" time="335.848"/>
+			<tli id="T27" time="346.384"/>
+			<tli id="T28" time="352.078"/>
+			<tli id="T29" time="356.051"/>
+		</common-timeline>
+		<tier id="TIE2" speaker="PAR" category="main" type="t" display-name="PAR [main]">
+			<event start="T0" end="T1">&lt;RES&gt; [e].</event>
+			<event start="T1" end="T2">&amp;-um Caperucita Roja está en su casa.</event>
+			<event start="T2" end="T3">y se ve que está lista para irse a [/] a algún sitio.</event>
+			<event start="T3" end="T4">&amp;-hm Caperucita Roja &amp;-um (.) fue a darle (.) pastel a su abuela.</event>
+			<event start="T4" end="T5">&amp;-um Caperucita se ve que se está yendo de casa para darse la comida a su abuela?</event>
+			<event start="T5" end="T6">&lt;RES&gt; [e].</event>
+			<event start="T6" end="T7">y un lobo se ve que quiere la comida.</event>
+			<event start="T7" end="T8">pero otro hombre le intenta pagar &amp;=laughs.</event>
+			<event start="T8" end="T9">cuando Caperucita se paró para coger flores para su abuela, &lt;el lobo entró&gt; [//] el lobo fue a la casa de su abuela.</event>
+			<event start="T9" end="T10">el lobo se comió la abuela.</event>
+			<event start="T10" end="T11">&lt;RES&gt; [e].</event>
+			<event start="T11" end="T12">gracias.</event>
+			<event start="T12" end="T13">y Caperucita Roja no le dio cuenta, así que ha dejado la comida y flores en una mesa.</event>
+			<event start="T13" end="T14">mientras que el lobo estaba como la abuela.</event>
+			<event start="T14" end="T15">cuando [/] cuando Caperucita se vio al lobo a más cerca, ella sospechó que algo estaba mal.</event>
+			<event start="T15" end="T16">cuando se acercó, el lobo se sentó de la cama.</event>
+			<event start="T16" end="T17">y intentó a comerse &lt;a Caperu(cita)&gt; [//] a Caperucita Roja.</event>
+			<event start="T17" end="T18">luego, entró un hombre con un [/] una arma, mientras que el lobo se estaba durmiendo.</event>
+			<event start="T18" end="T19">luego, se cortó la barriga del [/] del lobo.</event>
+			<event start="T19" end="T20">y sacó a Caperucita Roja &lt;y su&gt; [/] y su abuela.</event>
+			<event start="T20" end="T21">y luego, han traído rocas de afuera.</event>
+			<event start="T21" end="T22">y las han puesto adentro del estómago del lobo.</event>
+			<event start="T22" end="T23">y luego la abuela iba a coserlo.</event>
+			<event start="T23" end="T24">&amp;=laughs y luego las rocas estaban calientes, así que le hacen daño a la barriga.</event>
+			<event start="T24" end="T25">y se echa al agua.</event>
+			<event start="T25" end="T26">pero no se podía salir.</event>
+			<event start="T26" end="T27">y luego la abuela se queda en la casa.</event>
+			<event start="T27" end="T28">y le ha dicho adiós al hombre y a la Caperucita Roja.</event>
+			<event start="T28" end="T29">&lt;RES&gt; [e].</event>
+		</tier>
+	</basic-body>
+</basic-transcription>

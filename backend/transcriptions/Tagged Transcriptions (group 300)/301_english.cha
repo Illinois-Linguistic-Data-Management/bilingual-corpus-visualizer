@@ -1,0 +1,59 @@
+@UTF8
+@Window:	0_0_0_0_0_0_1328_0_1328_0
+@Begin
+@Languages:	eng
+@Participants:	PAR 301 Speaker
+@ID:	eng|narratives|PAR||male|||Speaker|||
+@Media:	301_english, audio
+*PAR:	Little Red Riding Hood brought her grandma some bread. 0_5255
+%pos: Little.ADJ Red.ADJ Riding.PROPN Hood.PROPN brought.VERB her.PRON grandma.NOUN some.DET bread.NOUN
+*PAR:	<RES> [e]. 5255_20001
+*PAR:	&-uhm Little Red Riding Hood left the house. 20001_26381
+%pos: Little.ADJ Red.ADJ Riding.PROPN Hood.PROPN left.VERB the.DET house.NOUN
+*PAR:	with (.) some bread and some water and some grape juice. 26381_39921
+%pos: with.ADP some.DET bread.NOUN and.CCONJ some.DET water.NOUN and.CCONJ some.DET grape.NOUN juice.NOUN
+*PAR:	Little Red Riding Hood was scared by the big bad wolf. 39921_46469
+%pos: Little.ADJ Red.ADJ Riding.PROPN Hood.PROPN was.AUX scared.VERB by.ADP the.DET big.ADJ bad.ADJ wolf.NOUN
+*PAR:	wait that's not right. 46469_49380
+%pos: wait.VERB that.DET 's.AUX not.ADV right.ADJ
+*PAR:	was scared by a wolf. 49380_52260
+%pos: was.AUX scared.VERB by.ADP a.DET wolf.NOUN
+*PAR:	Little Red Riding Hood was picking flowers. 52260_68531
+%pos: Little.ADJ Red.ADJ Riding.PROPN Hood.PROPN was.AUX picking.VERB flowers.NOUN
+*PAR:	and the wolf snuck into her grandma's house. 68531_71186
+%pos: and.CCONJ the.DET wolf.NOUN snuck.VERB into.ADP her.PRON grandma.NOUN 's.PART house.NOUN
+*PAR:	the wolf ate grandma. 71186_85637
+%pos: the.DET wolf.NOUN ate.VERB grandma.NOUN
+*PAR:	Little Red Riding Hood gave (.) grandma some flowers. 85637_102447
+%pos: Little.ADJ Red.ADJ Riding.PROPN Hood.PROPN gave.VERB grandma.NOUN some.DET flowers.NOUN
+*PAR:	Little Red Riding Hood noticed. 102447_121773
+%pos: Little.ADJ Red.ADJ Riding.PROPN Hood.PROPN noticed.NOUN
+*PAR:	that the wolf <was his grandma> [//] was her grandma. 121773_127274
+%pos: that.SCONJ the.DET wolf.NOUN was.AUX his.PRON grandma.NOUN was.AUX her.PRON grandma.NOUN
+*PAR:	the wolf ambushed Little Red Riding Hood. 127274_141653
+%pos: the.DET wolf.NOUN ambushed.VERB Little.ADJ Red.ADJ Riding.PROPN Hood.PROPN
+*PAR:	the man came into the house. 141653_158953
+%pos: the.DET man.NOUN came.VERB into.ADP the.DET house.NOUN
+*PAR:	and saw wolf. 158953_160293
+%pos: and.CCONJ saw.VERB wolf.NOUN
+*PAR:	passed out on the bed. 160293_161996
+%pos: passed.VERB out.ADV on.ADP the.DET bed.NOUN
+*PAR:	from eating Little Red Riding Hood. 161996_164245
+%pos: from.SCONJ eating.VERB Little.ADJ Red.ADJ Riding.PROPN Hood.PROPN
+*PAR:	the man cut the wolf open. 164245_184806
+%pos: the.DET man.NOUN cut.VERB the.DET wolf.NOUN open.VERB
+*PAR:	and got Little Red Riding Hood and grandma out. 184806_188386
+%pos: and.CCONJ got.VERB Little.ADJ Red.ADJ Riding.PROPN Hood.PROPN and.CCONJ grandma.NOUN out.ADV
+*PAR:	the man and Little Red Riding hood put a bunch of rocks in the
+	wolf's stomache. 188386_209442
+%pos: the.DET man.NOUN and.CCONJ Little.ADJ Red.ADJ Riding.NOUN hood.NOUN put.VERB a.DET bunch.NOUN of.ADP rocks.NOUN in.ADP the.DET wolf.NOUN 's.PART stomache.NOUN
+*PAR:	<the wolf ran away> [//] try [//] the wolf tried to run away with a
+	bunch of rocks in his belly. 209442_226520
+%pos: the.DET wolf.NOUN ran.VERB away.ADV try.VERB the.DET wolf.NOUN tried.VERB to.PART run.VERB away.ADV with.SCONJ a.DET bunch.NOUN of.ADP rocks.NOUN in.ADP his.PRON belly.NOUN
+*PAR:	<and they all> [///] and he fell into a well. 226520_233288
+%pos: and.CCONJ they.PRON all.DET and.CCONJ he.PRON fell.VERB into.ADP a.DET well.ADV
+*PAR:	grandma waved goodbye to the Little Red Riding Hood (.) and (.) the
+	man. 233288_243460
+%pos: grandma.PROPN waved.VERB goodbye.NOUN to.ADP the.DET Little.ADJ Red.PROPN Riding.PROPN Hood.PROPN and.CCONJ the.DET man.NOUN
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:16:15.298865

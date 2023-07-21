@@ -1,0 +1,72 @@
+@UTF8
+@Window:	126_784_668_630_-1_-1_1900_0_1900_0
+@Begin
+@Languages:	spa
+@Participants:	PAR 605 Speaker
+@ID:	eng|narratives|PAR||female|||Speaker|||
+@Media:	605,audio
+*PAR:	<RES> [e]. 0_7732
+*PAR:	había una vez una niña llamada Caperucita Roja. 7732_13309
+%pos: había.VERB una.DET vez.NOUN una.DET niña.NOUN llamada.VERB Caperucita.PROPN Roja.PROPN
+*PAR:	y que [/] que su abuelita le gustaban mucho los pasteles. 13309_22721
+%pos: y.CCONJ que.SCONJ que.SCONJ su.DET abuelita.NOUN le.PRON gustaban.VERB mucho.ADV los.DET pasteles.NOUN
+*PAR:	le gustaba mucho comer pasteles. 22721_24517
+%pos: le.PRON gustaba.VERB mucho.PRON comer.VERB pasteles.NOUN
+*PAR:	un día, su mamá le dijo que fuera a llevarle comida <a su mam(á)> [//] a su abuelita. 24517_33414
+%pos: un.DET día.NOUN ,.PUNCT su.DET mamá.NOUN le.PRON dijo.VERB que.SCONJ fuera.VERB a.ADP llevarle.VERB comida.NOUN a.ADP su.DET mamá.NOUN a.ADP su.DET abuelita.NOUN
+*PAR:	pero un lobo feroz la siguió sin que se diera cuenta, a Caperucita Roja. 33414_42067
+%pos: pero.CCONJ un.DET lobo.NOUN feroz.ADJ la.PRON siguió.VERB sin.ADP que.SCONJ se.PRON diera.VERB cuenta.NOUN ,.PUNCT a.ADP Caperucita.PROPN Roja.PROPN
+*PAR:	y había un leñador ahí. 42067_44208
+%pos: y.CCONJ había.VERB un.DET leñador.NOUN ahí.ADV
+*PAR:	y él sí se dio cuenta. 44208_46208
+%pos: y.CCONJ él.PRON sí.ADV se.PRON dio.VERB cuenta.NOUN
+*PAR:	Caperucita Roja se detuvo a cortar unas flores, mientras que el lobo se adelantó. 46208_57323
+%pos: Caperucita.PROPN Roja.PROPN se.PRON detuvo.VERB a.ADP cortar.VERB unas.DET flores.NOUN ,.PUNCT mientras.ADV que.SCONJ el.DET lobo.NOUN se.PRON adelantó.VERB
+*PAR:	el lobo se comió a su abuelita. 57323_64091
+%pos: el.DET lobo.NOUN se.PRON comió.VERB a.ADP su.DET abuelita.NOUN
+*PAR:	y el lobo se disfrazó de su abuelita para (..). 64091_75253
+%pos: y.CCONJ el.DET lobo.NOUN se.PRON disfrazó.VERB de.ADP su.DET abuelita.NOUN para.ADP
+*PAR:	Caperucita de que [/] que el lobo tenía gran(des) [/] grandes orejas. 75253_87941
+%pos: Caperucita.NOUN de.ADP que.SCONJ que.SCONJ el.DET lobo.NOUN tenía.VERB grandes.ADJ grandes.ADJ orejas.NOUN
+*PAR:	le preguntó por qué. 87941_89693
+%pos: le.PRON preguntó.VERB por.ADP qué.PRON
+*PAR:	le dijo que era para escuchar bien. 89693_94129
+%pos: le.PRON dijo.VERB que.SCONJ era.VERB para.ADP escuchar.VERB bien.ADV
+*PAR:	le preguntó que por qué tenía, esto, &-eh una [//] unos ojos tan grandes. 94129_104311
+%pos: le.PRON preguntó.VERB que.SCONJ por.ADP qué.PRON tenía.VERB ,.PUNCT esto.PRON ,.PUNCT una.DET unos.DET ojos.NOUN tan.ADV grandes.ADJ
+*PAR:	le preguntó. 104311_105877
+%pos: le.PRON preguntó.VERB
+*PAR:	le dijo que por [//] para que la viera mejor. 105877_109664
+%pos: le.PRON dijo.VERB que.SCONJ por.ADP para.ADP que.SCONJ la.PRON viera.VERB mejor.ADV
+*PAR:	y le preguntó por qué tenía una [/] una grande boca. 109664_116563
+%pos: y.CCONJ le.PRON preguntó.VERB por.ADP qué.PRON tenía.VERB una.DET una.DET grande.ADJ boca.NOUN
+*PAR:	y le respondió +"/. 116563_119120
+%pos: y.CCONJ le.PRON respondió.VERB +"/.SYM
+*PAR:	+" para comerte mejor. 119120_120630
+%pos: +".SYM para.ADP comerte.VERB mejor.ADV
+*PAR:	Caperucita salió corriendo. 120630_123713
+%pos: Caperucita.PROPN salió.VERB corriendo.VERB
+*PAR:	y un cazador llegó. 123713_131846
+%pos: y.CCONJ un.DET cazador.NOUN llegó.VERB
+*PAR:	y vio al lobo. 131846_134534
+%pos: y.CCONJ vio.VERB al.DET lobo.NOUN
+*PAR:	y [/] y le abrió la panza al lobo. 134534_141257
+%pos: y.CCONJ y.CCONJ le.PRON abrió.VERB la.DET panza.NOUN al.ADP lobo.NOUN
+*PAR:	y salieron la abuelita y Caperucita Roja. 141257_146535
+%pos: y.CCONJ salieron.VERB la.DET abuelita.NOUN y.CCONJ Caperucita.NOUN Roja.ADJ
+*PAR:	y [/] y le trajeron unas rocas <para que> [/] para que se sienta igual. 146535_159485
+%pos: y.CCONJ y.CCONJ le.PRON trajeron.VERB unas.DET rocas.NOUN para.ADP que.SCONJ para.ADP que.SCONJ se.PRON sienta.VERB igual.ADJ
+*PAR:	luego, el lobo no podría xxx. 159485_168070
+%pos: luego.ADV ,.PUNCT el.DET lobo.NOUN no.ADV podría.AUX xxx.X
+*PAR:	porque le pesaba mucho la panza. 168070_170653
+%pos: porque.SCONJ le.PRON pesaba.VERB mucho.ADV la.DET panza.NOUN
+*PAR:	y de ahí ca(yó) [///] tenía sed. 170653_173219
+%pos: y.CCONJ de.ADP ahí.ADV cayó.VERB tenía.VERB sed.NOUN
+*PAR:	y cayó en un pozo. 173219_174930
+%pos: y.CCONJ cayó.VERB en.ADP un.DET pozo.NOUN
+*PAR:	y vivieron felices para siempre. 174930_180676
+%pos: y.CCONJ vivieron.VERB felices.NOUN para.ADP siempre.ADV
+*PAR:	fin. 180676_181822
+%pos: fin.NOUN
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:18:52.733712

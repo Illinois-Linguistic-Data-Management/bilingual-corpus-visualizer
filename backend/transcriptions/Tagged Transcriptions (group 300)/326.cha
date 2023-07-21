@@ -1,0 +1,36 @@
+@UTF8
+@Window:	14_418_815_720_-1_-1_64_0_64_0
+@Begin
+@Languages:	eng
+@Participants: PAR 326 Speaker
+@ID: eng|narratives|PAR||male|||Speaker|||
+@Media: 326,audio
+*PAR: she goes to see her grandma. 0_3722	
+*PAR: <RES> [e]. 3722_19314		
+*PAR: &-mhm. 19314_20342	
+*PAR: <RES> [e]. 20342_22430	
+*PAR: she brought a basket of food for her.	22430_31400	
+*PAR: <RES> [e]. 31400_34103	
+*PAR: &uh, she went to go see her grandma. 34103_44344	
+*PAR: <RES> [e]. 44344_47217	
+*PAR: and she waved goodbye to her mom. 47217_51413	
+*PAR: &-um, the big bad wolf was chasing her. 51413_61212	
+*PAR: and the wolf beat her to the grandma's house. 61212_75855
+*PAR: the wolf ate her grandma. 75855_84746	
+*PAR: the wolf dressed up as her grandma and wanted to eat her. 84746_97935	
+*PAR: little red riding hood &-um looks at the wolf. 97935_113047	
+*PAR: the wolf jumps and tries to eat her. 113047_122755	
+*PAR: <RES> [e]. 122755_127841	
+*PAR: no	 127843_128906	
+*PAR: <RES> [e].128993_129660	
+*PAR: she was scared. 129660_134223	
+*PAR: the hunter came to get the wolf...&-um. 134223_153455	
+*PAR: he got, he saved the grandma and little red riding hood. 153484_169192	
+*PAR: &-um...they...&-uh 169192_182718	
+*PAR: I don't know how to describe it. 182718_186143	
+*PAR: <RES> [e]. 186143_188941	
+*PAR: frogs, I think	 188941_191750	
+*PAR: <RES> [e] 191750_207749	
+*PAR: &-eh...the grandma waved goodbye and the hunter and little red riding hood plus the dog left 207749_235450
+@End*
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:16:05.426599

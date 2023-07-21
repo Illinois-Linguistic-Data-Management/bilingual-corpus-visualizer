@@ -1,0 +1,72 @@
+@UTF8
+@Window:	0_0_0_0_0_0_1647_0_1647_0
+@Begin
+@Languages:	spa,eng
+@Participants:	PAR 141 Speaker
+@ID:	spa|narratives|PAR||female|||Speaker|||
+@Media:	141_spanish,audio
+*PAR:	<RES>[e]. 0_83224
+*PAR:	la caperucita roja estaba jugando con la abuela. 83224_89259
+%pos: la.DET caperucita.NOUN roja.ADJ estaba.AUX jugando.VERB con.ADP la.DET abuela.NOUN
+*PAR:	<RES>[e]. 89259_98395
+*PAR:	la caperucita roja llevaba una cesta. 98395_104759
+%pos: la.DET caperucita.NOUN roja.ADJ llevaba.VERB una.DET cesta.NOUN
+*PAR:	y entonces le dijo adiós a su madre. 104759_108884
+%pos: y.CCONJ entonces.ADV le.PRON dijo.VERB adiós.ADV a.ADP su.DET madre.NOUN
+*PAR:	y la cesta tenía comida. 108884_112401
+%pos: y.CCONJ la.DET cesta.NOUN tenía.VERB comida.NOUN
+*PAR:	luego un lobo se la quería comer. 112401_121568
+%pos: luego.ADV un.DET lobo.NOUN se.PRON la.PRON quería.VERB comer.VERB
+*PAR:	y un cazador estaba por de atrás. 121568_125759
+%pos: y.CCONJ un.DET cazador.NOUN estaba.VERB por.ADP de.ADP atrás.ADV
+*PAR:	caperucita roja recogió unas flores. 125759_132054
+%pos: caperucita.NOUN roja.ADJ recogió.VERB unas.DET flores.NOUN
+*PAR:	luego el lobo fue a una casa. 132054_135444
+%pos: luego.ADV el.DET lobo.NOUN fue.VERB a.ADP una.DET casa.NOUN
+*PAR:	y entonces pensó algo. 135444_141639
+%pos: y.CCONJ entonces.ADV pensó.VERB algo.PRON
+*PAR:	y entonces se fue. 141639_143264
+%pos: y.CCONJ entonces.ADV se.PRON fue.VERB
+*PAR:	y se comía la abuela. 143264_144685
+%pos: y.CCONJ se.PRON comía.VERB la.DET abuela.NOUN
+*PAR:	luego le dejo las flores a la caperucita roja a su abuela cuando ya
+	había llegado a la casa. 144685_157356
+%pos: luego.ADV le.PRON dejo.VERB las.DET flores.NOUN a.ADP la.DET caperucita.NOUN roja.ADJ a.ADP su.DET abuela.NOUN cuando.SCONJ ya.ADV había.AUX llegado.VERB a.ADP la.DET casa.NOUN
+*PAR:	y también le dejo la comida. 157356_161808
+%pos: y.CCONJ también.ADV le.PRON dejo.VERB la.DET comida.NOUN
+*PAR:	y entonces ahí estaba el lobo acostado. 161808_165389
+%pos: y.CCONJ entonces.ADV ahí.ADV estaba.VERB el.DET lobo.NOUN acostado.VERB
+*PAR:	y entonces caperucita roja se dio cuenta de que esa no era su
+	abuela. 165389_173229
+%pos: y.CCONJ entonces.ADV caperucita.NOUN roja.ADJ se.PRON dio.VERB cuenta.NOUN de.ADP que.SCONJ esa.PRON no.ADV era.AUX su.DET abuela.NOUN
+*PAR:	y entonces el lobo empeza [: empezó][*] correr. 173229_179359
+%pos: y.CCONJ entonces.ADV el.DET lobo.NOUN empeza.VERB correr.VERB
+*PAR:	y se le iba con el. 179359_180651
+%pos: y.CCONJ se.PRON le.PRON iba.VERB con.ADP el.DET
+*PAR:	y entonces un cazador escucho los ruidos. 180651_186698
+%pos: y.CCONJ entonces.ADV un.DET cazador.NOUN escucho.VERB los.DET ruidos.NOUN
+*PAR:	y fue ver que pasaba. 186698_189638
+%pos: y.CCONJ fue.AUX ver.VERB que.SCONJ pasaba.VERB
+*PAR:	y ahí estaba el lobo durmiendo. 189638_194109
+%pos: y.CCONJ ahí.ADV estaba.VERB el.DET lobo.NOUN durmiendo.VERB
+*PAR:	luego el cazador con una tijera le abrió el estómago al lobo. 194109_204028
+%pos: luego.ADV el.DET cazador.NOUN con.ADP una.DET tijera.NOUN le.PRON abrió.VERB el.DET estómago.NOUN al.ADP lobo.NOUN
+*PAR:	y entonces salieron caperucita roja. 204028_208354
+%pos: y.CCONJ entonces.ADV salieron.VERB caperucita.NOUN roja.ADJ
+*PAR:	y la abuela. 208354_208939
+%pos: y.CCONJ la.DET abuela.NOUN
+*PAR:	(..) luego trajeron unas rocas. 208939_218823
+%pos: luego.ADV trajeron.VERB unas.DET rocas.NOUN
+*PAR:	y entonces la abuela le iba costurar el estómago cuando terminaran
+	de ponérselas. 218823_226109
+%pos: y.CCONJ entonces.ADV la.DET abuela.NOUN le.PRON iba.VERB costurar.VERB el.DET estómago.NOUN cuando.SCONJ terminaran.VERB de.ADP ponérselas.VERB
+*PAR:	luego el lobo fue beber agua. 226109_233109
+%pos: luego.ADV el.DET lobo.NOUN fue.AUX beber.VERB agua.NOUN
+*PAR:	y se cayó dentro del [///] de ese lugar donde hay agua. 233109_242029
+%pos: y.CCONJ se.PRON cayó.VERB dentro.ADV del.ADP de.ADP ese.DET lugar.NOUN donde.ADV hay.VERB agua.NOUN
+*PAR:	luego le dijeron adiós al cazador. 242029_245389
+%pos: luego.ADV le.PRON dijeron.VERB adiós.ADV al.DET cazador.NOUN
+*PAR:	y también caperucita roja a su abuela. 245389_248104
+%pos: y.CCONJ también.ADV caperucita.NOUN roja.ADJ a.ADP su.DET abuela.NOUN
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:34:53.279035
