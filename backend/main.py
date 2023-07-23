@@ -36,6 +36,12 @@ class CorpusVizRequest(BaseModel):
     part_of_speech_filter: Optional[List[str]]
     N_most_frequent: Optional[int]
 
+def preprocess_viz_req(viz_request):
+    print(viz_request.groups, viz_request.target_language, viz_request.N_most_frequent)
+    viz_request.target_language = None if viz_request.target_language == "both" else viz_request.target_language
+    viz_request.N_most_frequent = None if viz_request.N_most_frequent == 0 else viz_request.N_most_frequent
+    return viz_request
+
 @app.get("/")
 def read_root():
     return {"message": "Hello, World!"}
@@ -56,21 +62,20 @@ async def tag_words(request: Request, words_request: WordsRequest):
 
 @app.post("/viz_barchart")
 async def corpus_viz(request: Request, viz_request: CorpusVizRequest):
-    print(viz_request.groups, viz_request.target_language, viz_request.N_most_frequent)
-    viz_request.target_language = None if viz_request.target_language == "both" else viz_request.target_language
-    viz_request.N_most_frequent = None if viz_request.N_most_frequent == 0 else viz_request.N_most_frequent
+    viz_request = preprocess_viz_req(viz_request)
     return visualizer.word_freq_barchart_group(groups=viz_request.groups, target_lang=viz_request.target_language, top_N_most_frequent=viz_request.N_most_frequent, POS_filter=viz_request.part_of_speech_filter)
 
 @app.post("/viz_mtld_boxplot")
-async def corpus_viz_boxplot(request: Request, viz_request: CorpusVizRequest):
-    print(viz_request.groups, viz_request.target_language, viz_request.N_most_frequent)
-    viz_request.target_language = None if viz_request.target_language == "both" else viz_request.target_language
-    viz_request.N_most_frequent = None if viz_request.N_most_frequent == 0 else viz_request.N_most_frequent
+async def corpus_viz_mtld_boxplot(request: Request, viz_request: CorpusVizRequest):
+    viz_request = preprocess_viz_req(viz_request)
     return visualizer.mtld_boxplot(target_lang=viz_request.target_language)
 
 @app.post("/viz_mattr_boxplot")
-async def corpus_viz_boxplot(request: Request, viz_request: CorpusVizRequest):
-    print(viz_request.groups, viz_request.target_language, viz_request.N_most_frequent)
-    viz_request.target_language = None if viz_request.target_language == "both" else viz_request.target_language
-    viz_request.N_most_frequent = None if viz_request.N_most_frequent == 0 else viz_request.N_most_frequent
+async def corpus_viz_mattr_boxplot(request: Request, viz_request: CorpusVizRequest):
+    viz_request = preprocess_viz_req(viz_request)
     return visualizer.mattr_boxplot(target_lang=viz_request.target_language)
+
+@app.post("/viz_word_cloud")
+async def corpus_viz_word_cloud(request: Request, viz_request: CorpusVizRequest):
+    viz_request = preprocess_viz_req(viz_request)
+    return visualizer.gen_word_cloud(group_filter=viz_request.groups, target_lang_filter=viz_request.target_language, POS_filter=viz_request.part_of_speech_filter)

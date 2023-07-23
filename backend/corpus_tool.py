@@ -1,6 +1,7 @@
 import re, io, gc
 import json, base64
 from util import get_cha_files_in_dir
+from wordcloud import WordCloud
 from lexical_diversity import lex_div as ld
 import matplotlib
 import matplotlib.pyplot as plt
@@ -469,3 +470,27 @@ class Visualizer:
         plt.close('all')
         gc.collect()
         return chart
+
+    def gen_word_cloud(self, group_filter:list=None, target_lang_filter:str=None, POS_filter:list=None, max_words:int=None):
+        freqs = {}
+        for transcript in self.corpus.transcripts:
+            if target_lang_filter and transcript.main_lang != target_lang_filter:
+                continue
+            for utterance in transcript.utterances:
+                for token in utterance['tokens']:
+                    word = token.split(".")[0]
+                    part_of_speech = token.split(".")[1]
+                    if part_of_speech not in POS_filter:
+                        continue
+                    if word not in freqs:
+                        freqs[word] = 1
+                    else:
+                        freqs[word] += 1
+        return self.render_word_cloud(freqs)
+
+    def render_word_cloud(self, data):
+        wc = WordCloud(background_color="white", max_words=1000)
+        wc.generate_from_frequencies(data)
+        plt.imshow(wc, interpolation="bilinear")
+        plt.axis("off")
+        return self.get_fig_encoding()

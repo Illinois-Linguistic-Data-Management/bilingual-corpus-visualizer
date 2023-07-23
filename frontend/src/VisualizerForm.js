@@ -56,6 +56,9 @@ function VisualizerForm() {
         return false;
     };
 
+    const requestWordcloud = async () => {
+      requestPlot("word_cloud");
+    };
     const requestBarchart = async () => {
       requestPlot("barchart");
     };
@@ -143,6 +146,7 @@ function VisualizerForm() {
         <input id="N-most-frequent" ref={top_n_ref}></input>
       </div>
       <div>
+        <button onClick={requestWordcloud}>Generate Word Cloud</button>
         <button onClick={requestBarchart}>Generate Barchart</button>
         <button onClick={requestMattrBoxplot}>Generate MATTR Boxplot</button>
         <button onClick={requestMtldBoxplot}>Generate MTLD Boxplot</button>
