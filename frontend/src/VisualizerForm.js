@@ -4,7 +4,7 @@ import './VisualizerForm.css';
 function VisualizerForm() {
     const possiblePOS = ["DET", "NOUN", "PRON", "PROPN", "VERB", "AUX", "ADV", "ADJ", "ADP", "CCONJ", "SCONJ", "PART", "INTJ", "NUM", "SYM", "PUNT", "X"];
     const possibleGroups = ["100", "200", "300", "400", "500", "600", "700"];
-    
+    const backend_host = process.env.REACT_APP_BACKEND_HOST;
     // states
     const [groups, setGroups] = useState(possibleGroups);
     const [parts_of_speech, setPartsOfSpeech] = useState(possiblePOS);
@@ -62,7 +62,7 @@ function VisualizerForm() {
         console.log(top_n_ref.current.value);
         try {
             let top_n_param = top_n_ref.current.value === "" ? 0 : top_n_ref.current.value
-            const response = await fetch("http://127.0.0.1:8000/viz", {
+            const response = await fetch("http://"+backend_host+":8000/viz", {
               method: 'POST',
               headers: {
                 'Content-Type': 'application/json',

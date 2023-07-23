@@ -11,7 +11,8 @@ app = FastAPI()
 # CORS configuration
 origins = [
     "http://127.0.0.1:3000",
-    "http://localhost:3000"
+    "http://localhost:3000",
+    "http://146.190.141.184:3000"
 ]
 
 app.add_middleware(
@@ -22,7 +23,7 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-tagger = SequenceTagger.load('benevanoff/spanglish-upos')
+tagger = None #SequenceTagger.load('benevanoff/spanglish-upos')
 corpus = Corpus('transcriptions')
 visualizer = Visualizer(corpus)
 

@@ -1,8 +1,11 @@
-import re, io
+import re, io, gc
 import json, base64
 from util import get_cha_files_in_dir
 from lexical_diversity import lex_div as ld
+import matplotlib
 import matplotlib.pyplot as plt
+
+matplotlib.use('Agg')
 
 def calc_ratio(numerator: float, denominator: float):
     if denominator == 0:
@@ -354,6 +357,8 @@ class Visualizer:
     
     def word_freq_barchart_group(self, groups:list=None, outfile:str=None, target_lang:str=None, top_N_most_frequent:int=None, POS_filter:list=None):
         data = {}
+        if not top_N_most_frequent:
+            top_N_most_frequent = 400
         for transcript in self.corpus.transcripts:
             if target_lang and transcript.main_lang != target_lang:
                     continue
@@ -439,17 +444,24 @@ class Visualizer:
         return self.render_barchart(words, counts, colors)
 
     def render_barchart(self, X, Y, colors:list=None,outfile:str=None, width=50):
-        plt.figure(figsize=(width, 20))  # Adjust the width and height as per your preference
+        plt.figure(figsize=(width, len(X)/2))
+        X = X[::-1]
+        Y = Y[::-1]
+        colors = colors if colors == None else colors[::-1]
         plt.barh(X, Y, color=colors)
         plt.xticks(fontsize=44)
         plt.yticks(fontsize=44)
+        plt.margins(x=0, y=0, tight=True)
+        chart = None
         if outfile:
             plt.savefig(outfile)
         else:
             img_bytes = io.BytesIO()
-            plt.savefig(img_bytes, format='png')
+            plt.savefig(img_bytes, format='png', bbox_inches="tight")
             img_bytes.seek(0)
             chart = base64.b64encode(img_bytes.read()).decode()
-        plt.close()
-        if chart:
-            return chart
+        plt.cla()
+        plt.clf()
+        plt.close('all')
+        gc.collect()
+        return chart
