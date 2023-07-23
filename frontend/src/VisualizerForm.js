@@ -13,6 +13,7 @@ function VisualizerForm() {
 
     // references
     const top_n_ref = useRef(null);
+    let plot_type_ref = useRef(null);
 
     // UI event handlers
     const onTargetLangButtonPressed = e => setTargetLanguage(e.target.value);
@@ -55,14 +56,25 @@ function VisualizerForm() {
         return false;
     };
 
-    const requestPlot = async () => {
+    const requestBarchart = async () => {
+      requestPlot("barchart");
+    };
+    const requestMattrBoxplot = async () => {
+      requestPlot("mattr_boxplot");
+    };
+    const requestMtldBoxplot = async () => {
+      requestPlot("mtld_boxplot");
+    };
+    
+    const requestPlot = async (plot_type) => {
         console.log(groups);
         console.log(parts_of_speech);
         console.log(target_language);
         console.log(top_n_ref.current.value);
         try {
             let top_n_param = top_n_ref.current.value === "" ? 0 : top_n_ref.current.value
-            const response = await fetch("http://"+backend_host+":8000/viz", {
+            let url = "http://"+backend_host+":8000/viz_"+plot_type;
+            const response = await fetch(url, {
               method: 'POST',
               headers: {
                 'Content-Type': 'application/json',
@@ -70,6 +82,9 @@ function VisualizerForm() {
               body: JSON.stringify({"groups": groups, "target_language": target_language, "part_of_speech_filter": parts_of_speech,  "N_most_frequent": top_n_param}),
             });
             const responseData = await response.json();
+            console.log("a");
+            console.log(plot_type);
+            plot_type_ref.current = plot_type;
             setPlotImg(responseData);
           } catch (error) {
             console.error('Error:', error);
@@ -79,7 +94,8 @@ function VisualizerForm() {
     // HTML components to render
     const renderPlot = () => {
         if (plot_img !== null) {
-            return <img src={"data:img/png;base64,"+plot_img} alt="barchart should go here" className="barchart"></img>;
+          console.log(plot_type_ref); 
+          return <img src={"data:img/png;base64,"+plot_img} alt="barchart should go here" className={plot_type_ref.current}></img>;
         }
     };
     const renderGroupCheckboxes = () => {
@@ -127,7 +143,9 @@ function VisualizerForm() {
         <input id="N-most-frequent" ref={top_n_ref}></input>
       </div>
       <div>
-        <button onClick={requestPlot}>Generate Plot</button>
+        <button onClick={requestBarchart}>Generate Barchart</button>
+        <button onClick={requestMattrBoxplot}>Generate MATTR Boxplot</button>
+        <button onClick={requestMtldBoxplot}>Generate MTLD Boxplot</button>
       </div>
       <div>
         {renderPlot()}

@@ -332,7 +332,7 @@ class Visualizer:
                 data[group_index].append(diversity['spanish_mtld'])
             if data[group_index][-1] == 0:
                 print(transcript.participant_id)
-        self.render_boxplot(data, outfile)
+        return self.render_boxplot(data, outfile)
 
     def mattr_boxplot(self, outfile:str=None, target_lang:str=None):
         data = [[],[],[],[],[],[],[]]
@@ -345,7 +345,7 @@ class Visualizer:
                 data[group_index].append(diversity['english_mattr'])
             if "spa" in transcript.main_lang:
                 data[group_index].append(diversity['spanish_mattr'])
-        self.render_boxplot(data, outfile)
+        return self.render_boxplot(data, outfile)
 
     def render_boxplot(self, data, outfile:str=None):
         fig, ax = plt.subplots()
@@ -353,7 +353,8 @@ class Visualizer:
         if outfile:
             plt.savefig(outfile)
         else:
-            plt.show()
+            return self.get_fig_encoding()
+
     
     def word_freq_barchart_group(self, groups:list=None, outfile:str=None, target_lang:str=None, top_N_most_frequent:int=None, POS_filter:list=None):
         data = {}
@@ -443,6 +444,12 @@ class Visualizer:
                     colors.append((0.3,0.1,0.5))
         return self.render_barchart(words, counts, colors)
 
+    def get_fig_encoding(self):
+        img_bytes = io.BytesIO()
+        plt.savefig(img_bytes, format='png', bbox_inches="tight")
+        img_bytes.seek(0)
+        return base64.b64encode(img_bytes.read()).decode()
+
     def render_barchart(self, X, Y, colors:list=None,outfile:str=None, width=50):
         plt.figure(figsize=(width, len(X)/2))
         X = X[::-1]
@@ -456,10 +463,7 @@ class Visualizer:
         if outfile:
             plt.savefig(outfile)
         else:
-            img_bytes = io.BytesIO()
-            plt.savefig(img_bytes, format='png', bbox_inches="tight")
-            img_bytes.seek(0)
-            chart = base64.b64encode(img_bytes.read()).decode()
+            chart = self.get_fig_encoding()
         plt.cla()
         plt.clf()
         plt.close('all')
