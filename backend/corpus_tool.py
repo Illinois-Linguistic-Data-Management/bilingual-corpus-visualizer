@@ -67,31 +67,29 @@ class Transcript:
             'duration': self.duration
         })
 
-    def measure_lexical_diversity(self):
-        def calc_mattr(utterances: list, language:str=None):
+    def calc_mtld(self, utterances: list, language:str=None, POS_filter:list=None):
             text = []
             for utterance in utterances:
                 for token in utterance['tokens']:
                     word = token.split(".")[0]
-                    if language:
-                        lang_id = token.split(".")[2]
-                        if lang_id == language:
-                            text.append(word)
-                    else:
-                        text.append(word)
-            return round(ld.mattr(text),3)
-        def calc_mtld(utterances: list, language:str=None):
-            text = []
-            for utterance in utterances:
-                for token in utterance['tokens']:
-                    word = token.split(".")[0]
-                    if language:
-                        lang_id = token.split(".")[2]
-                        if lang_id == language:
-                            text.append(word)
-                    else:
+                    lang_id = token.split(".")[2]
+                    pos_tag  = token.split(".")[1]
+                    if (language == None or language == lang_id) and (POS_filter == None or pos_tag in POS_filter):
                         text.append(word)
             return round(ld.mtld(text),3)
+
+    def calc_mattr(self, utterances: list, language:str=None, POS_filter:list=None):
+        text = []
+        for utterance in utterances:
+            for token in utterance['tokens']:
+                word = token.split(".")[0]
+                lang_id = token.split(".")[2]
+                pos_tag  = token.split(".")[1]
+                if (language == None or language == lang_id) and (POS_filter == None or pos_tag in POS_filter):
+                    text.append(word)
+        return round(ld.mattr(text),3)
+
+    def measure_lexical_diversity(self):
         # get stats for whole narrative, including both languages
         # initialize overall/bilingual type counts
         total_types = 0
@@ -160,8 +158,8 @@ class Transcript:
             'total_types': total_types,
             'total_tokens': total_tokens,
             'total_type_token_ratio': calc_ratio(total_types, total_tokens),
-            'total_mattr': calc_mattr(self.utterances),
-            'total_mtld': calc_mtld(self.utterances),
+            'total_mattr': self.calc_mattr(self.utterances),
+            'total_mtld': self.calc_mtld(self.utterances),
             'total_content_tokens': total_content_tokens,
             'total_content_types': total_content_types,
             'total_content_ttr': calc_ratio(total_content_types, total_content_tokens),
@@ -172,8 +170,8 @@ class Transcript:
             'english_types': english_types,
             'english_tokens': english_tokens,
             'english_type_token_ratio': calc_ratio(english_types, english_tokens),
-            'english_mattr': calc_mattr(self.utterances, "eng"),
-            'english_mtld': calc_mtld(self.utterances, "eng"),
+            'english_mattr': self.calc_mattr(self.utterances, "eng"),
+            'english_mtld': self.calc_mtld(self.utterances, "eng"),
             'english_content_tokens': english_content_tokens,
             'english_content_types': english_content_types,
             'english_content_ttr': calc_ratio(english_content_types, english_content_tokens),
@@ -184,8 +182,8 @@ class Transcript:
             'spanish_types': spanish_types,
             'spanish_tokens': spanish_tokens,
             'spanish_type_token_ratio': calc_ratio(spanish_types, spanish_tokens),
-            'spanish_mattr': calc_mattr(self.utterances, "spa"),
-            'spanish_mtld': calc_mtld(self.utterances, "spa"),
+            'spanish_mattr': self.calc_mattr(self.utterances, "spa"),
+            'spanish_mtld': self.calc_mtld(self.utterances, "spa"),
             'spanish_content_tokens': spanish_content_tokens,
             'spanish_content_types': spanish_content_types,
             'spanish_content_ttr': calc_ratio(spanish_content_types, spanish_content_tokens),
@@ -320,32 +318,36 @@ class Visualizer:
                 'spanish': calc_ratio(spanish_tokens, total_tokens)
             }
 
-    def mtld_boxplot(self, outfile:str=None, target_lang:str=None):
+    def is_in_group(self, groups, id):
+        for group in groups:
+            id_diff = int(id)-int(group)
+            if group and id_diff >=0 and id_diff < 100:
+                return True
+        return False
+        
+
+    def mtld_boxplot(self, outfile:str=None, target_lang:str=None, POS_filter:list=None, group_filter:list=None):
         data = [[],[],[],[],[],[],[]]
         for transcript in self.corpus.transcripts:
-            if target_lang and transcript.main_lang != target_lang:
+            if (target_lang and transcript.main_lang != target_lang) or (group_filter and not self.is_in_group(group_filter, transcript.participant_id)):
                 continue
             group_index = int(str(transcript.participant_id)[0])-1
-            diversity = transcript.measure_lexical_diversity()
-            if "eng" in transcript.main_lang:
-                data[group_index].append(diversity['english_mtld'])
-            if "spa" in transcript.main_lang:
-                data[group_index].append(diversity['spanish_mtld'])
+            diversity = transcript.calc_mtld(transcript.utterances, target_lang, POS_filter)
+            data[group_index].append(diversity)
             if data[group_index][-1] == 0:
                 print(transcript.participant_id)
         return self.render_boxplot(data, outfile)
 
-    def mattr_boxplot(self, outfile:str=None, target_lang:str=None):
+    def mattr_boxplot(self, outfile:str=None, target_lang:str=None, POS_filter:list=None, group_filter:list=None):
         data = [[],[],[],[],[],[],[]]
         for transcript in self.corpus.transcripts:
-            if target_lang and transcript.main_lang != target_lang:
+            if (target_lang and transcript.main_lang != target_lang) or (group_filter and not self.is_in_group(group_filter, transcript.participant_id)):
                 continue
             group_index = int(str(transcript.participant_id)[0])-1
-            diversity = transcript.measure_lexical_diversity()
-            if "eng" in transcript.main_lang:
-                data[group_index].append(diversity['english_mattr'])
-            if "spa" in transcript.main_lang:
-                data[group_index].append(diversity['spanish_mattr'])
+            diversity = transcript.calc_mattr(transcript.utterances, target_lang, POS_filter)
+            data[group_index].append(diversity)
+            if data[group_index][-1] == 0:
+                print(transcript.participant_id)
         return self.render_boxplot(data, outfile)
 
     def render_boxplot(self, data, outfile:str=None):

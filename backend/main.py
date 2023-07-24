@@ -68,12 +68,12 @@ async def corpus_viz(request: Request, viz_request: CorpusVizRequest):
 @app.post("/viz_mtld_boxplot")
 async def corpus_viz_mtld_boxplot(request: Request, viz_request: CorpusVizRequest):
     viz_request = preprocess_viz_req(viz_request)
-    return visualizer.mtld_boxplot(target_lang=viz_request.target_language)
+    return visualizer.mtld_boxplot(target_lang=viz_request.target_language, POS_filter=viz_request.part_of_speech_filter, group_filter=viz_request.groups)
 
 @app.post("/viz_mattr_boxplot")
 async def corpus_viz_mattr_boxplot(request: Request, viz_request: CorpusVizRequest):
     viz_request = preprocess_viz_req(viz_request)
-    return visualizer.mattr_boxplot(target_lang=viz_request.target_language)
+    return visualizer.mattr_boxplot(target_lang=viz_request.target_language, POS_filter=viz_request.part_of_speech_filter, group_filter=viz_request.groups)
 
 @app.post("/viz_word_cloud")
 async def corpus_viz_word_cloud(request: Request, viz_request: CorpusVizRequest):
