@@ -1,3 +1,4 @@
+import os
 from fastapi import FastAPI, Request
 from pydantic import BaseModel
 from typing import List, Optional
@@ -12,7 +13,7 @@ app = FastAPI()
 origins = [
     "http://127.0.0.1:3000",
     "http://localhost:3000",
-    "http://146.190.141.184:3000"
+    f'http://{os.environ.get("HOST_IP", "127.0.0.1")}:3000'
 ]
 
 app.add_middleware(
