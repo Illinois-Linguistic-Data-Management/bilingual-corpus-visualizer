@@ -1,42 +1,70 @@
 @UTF8
-@Window:	60_720_815_720_-1_-1_65_0_65_0
+@Window:	0_0_0_0_0_0_1361_0_1361_0
 @Begin
-@Languages:	 eng
-@Participants: PAR 328 Speaker
-@ID: eng|narratives|PAR||male|||Speaker|||
-@Media: 328,audio	
-*PAR: the granny gave the granddaughter or the child a red riding hood. 0_11015	
-*PAR: <RES> [e]. 11015_23854	
-*PAR: yes. 23777_24224	
-*PAR: <RES> [e]. 24224_26950	
-*PAR: she left..little red riding hood left to gather muffins. 26953_35724	
-*PAR: no, little red riding hood left to go to her grandma's house to give her muffins. 35724_41399	
-*PAR: <RES> [e]. 41399_53626			
-*PAR: yes. 53626_54613	
-*PAR: <RES> [e]. 55051_55827	
-*PAR: then the wolf tries to scare and the lumberjack tries to kill the wolf. 55827_72173	
-*PAR: <RES> [e]. 72173_86198		
-*PAR: yeah. 86198_86877	
-*PAR: I just sent it. 86877_88108	
-*PAR: <RES> [e]. 88108_94052	
-*PAR: then the wolf went to the granny's house to eat the granny. 94052_98429	
-*PAR: <RES> [e]. 98429_107706	
-*PAR: now the wolf is trying to eat the granny. 107706_110562	
-*PAR: <RES> [e] 110562_121771	
-*PAR: now little ride redding hood thinks that the wolf is the granny and she is putting flowers and cookies on the table. 121771_134095	
-*PAR: <RES> [e]. 134095_141131	
-*PAR: then she notices something odd about the granny and that it's furry, has ears, and it has claws. 141131_149734	
-*PAR: <RES> [e]. 149734_186886	
-*PAR: the wolf ate little red riding hood's granny. 186886_191152	
-*PAR: <RES> [e]. 191152_192890	
-*PAR: and then the hunter snipped the belly out and then little red riding hood and the granny came back. 192890_207374	
-*PAR: <RES> [e]. 207372_214651	
-*PAR: now they're putting rocks in the rock..in the belly to like pretend that it's still like full. 214651_225657	
-*PAR: <RES> [e]. 225657_233906	
-*PAR: and the granny is supposed to. 233906_237320	
-*PAR: <RES> [e]. 237320_239318	
-*PAR: and now the wolf is like Oh now I have such a big belly and now it's leaving. 239318_250820	
-*PAR: <RES> [e]. 250822_256795	
-*PAR: and now the granny is saying goodbye to the hunter, the hunter's dog, and little red riding hood. 256795_265828
-*PAR: <RES> [e]. 265828_265829
-@End@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:14:24.050190
+@Languages:	eng
+@Participants:	PAR 328 Speaker
+@ID:	eng|narratives|PAR||male|||Speaker|||
+@Media:	328,audio
+*PAR:	the granny gave the granddaughter or the child a red riding hood.
+	0_11015
+%pos: the.DET granny.NOUN gave.VERB the.DET granddaughter.NOUN or.CCONJ the.DET child.NOUN a.DET red.ADJ riding.NOUN hood.NOUN
+*PAR:	<RES> [e]. 11015_23854
+*PAR:	yes. 23777_24224
+%pos: yes.INTJ
+*PAR:	<RES> [e]. 24224_26950
+*PAR:	she left (..) little red riding hood left to gather muffins. 26953_35724
+%pos: she.PRON left.VERB little.ADJ red.ADJ riding.NOUN hood.NOUN left.VERB to.PART gather.VERB muffins.NOUN
+*PAR:	no, little red riding hood left to go to her grandma's house to give
+	her muffins. 35724_41399
+%pos: no.INTJ ,.PUNCT little.ADJ red.ADJ riding.NOUN hood.NOUN left.VERB to.PART go.VERB to.ADP her.PRON grandma.NOUN 's.PART house.NOUN to.PART give.VERB her.PRON muffins.NOUN
+*PAR:	<RES> [e]. 41399_53626
+*PAR:	yes. 53626_54613
+%pos: yes.INTJ
+*PAR:	<RES> [e]. 55051_55827
+*PAR:	then the wolf tries to scare and the lumberjack tries to kill the
+	wolf. 55827_72173
+%pos: then.ADV the.DET wolf.NOUN tries.VERB to.PART scare.VERB and.CCONJ the.DET lumberjack.NOUN tries.VERB to.PART kill.VERB the.DET wolf.NOUN
+*PAR:	<RES> [e]. 72173_86198
+*PAR:	yeah. 86198_86877
+%pos: yeah.ADV
+*PAR:	I just sent it. 86877_88108
+%pos: I.PRON just.ADV sent.VERB it.PRON
+*PAR:	<RES> [e]. 88108_94052
+*PAR:	then the wolf went to the granny's house to eat the granny. 94052_98429
+%pos: then.ADV the.DET wolf.NOUN went.VERB to.ADP the.DET granny.PROPN 's.PART house.NOUN to.PART eat.VERB the.DET granny.NOUN
+*PAR:	<RES> [e]. 98429_107706
+*PAR:	now the wolf is trying to eat the granny. 107706_110562
+%pos: now.ADV the.DET wolf.NOUN is.AUX trying.VERB to.PART eat.VERB the.DET granny.NOUN
+*PAR:	<RES> [e]. 110562_121771
+*PAR:	now little ride redding hood thinks that the wolf is the granny and
+	she is putting flowers and cookies on the table. 121771_134095
+%pos: now.ADV little.ADJ ride.NOUN redding.ADJ hood.NOUN thinks.VERB that.SCONJ the.DET wolf.NOUN is.AUX the.DET granny.NOUN and.CCONJ she.PRON is.AUX putting.VERB flowers.NOUN and.CCONJ cookies.NOUN on.ADP the.DET table.NOUN
+*PAR:	<RES> [e]. 134095_141131
+*PAR:	then she notices something odd about the granny and that it's furry,
+	has ears, and it has claws. 141131_149734
+%pos: then.ADV she.PRON notices.VERB something.PRON odd.ADJ about.ADP the.DET granny.NOUN and.CCONJ that.SCONJ it.PRON 's.AUX furry.ADJ ,.PUNCT has.VERB ears.NOUN ,.PUNCT and.CCONJ it.PRON has.AUX claws.NOUN
+*PAR:	<RES> [e]. 149734_186886
+*PAR:	the wolf ate little red riding hood's granny. 186886_191152
+%pos: the.DET wolf.NOUN ate.VERB little.ADJ red.ADJ riding.NOUN hood.NOUN 's.PART granny.NOUN
+*PAR:	<RES> [e]. 191152_192890
+*PAR:	and then the hunter snipped the belly out and then little red riding
+	hood and the granny came back. 192890_207374
+%pos: and.CCONJ then.ADV the.DET hunter.NOUN snipped.VERB the.DET belly.NOUN out.ADV and.CCONJ then.ADV little.ADJ red.ADJ riding.NOUN hood.NOUN and.CCONJ the.DET granny.NOUN came.VERB back.ADV
+*PAR:	<RES> [e]. 207372_214651
+*PAR:	now they're putting rocks in the rock (..) in the belly to like
+	pretend that it's still like full. 214651_225657
+%pos: now.ADV they.PRON 're.AUX putting.VERB rocks.NOUN in.ADP the.DET rock.NOUN in.ADP the.DET belly.NOUN to.ADP like.SCONJ pretend.VERB that.SCONJ it.PRON 's.AUX still.ADV like.ADP full.ADJ
+*PAR:	<RES> [e]. 225657_233906
+*PAR:	and the granny is supposed to. 233906_237320
+%pos: and.CCONJ the.DET granny.NOUN is.AUX supposed.VERB to.PART
+*PAR:	<RES> [e]. 237320_239318
+*PAR:	and now the wolf is like Oh now I have such a big belly and now
+	it's leaving. 239318_250820
+%pos: and.CCONJ now.ADV the.DET wolf.NOUN is.VERB like.ADP Oh.INTJ now.ADV I.PRON have.VERB such.DET a.DET big.ADJ belly.NOUN and.CCONJ now.ADV it.PRON 's.AUX leaving.VERB
+*PAR:	<RES> [e]. 250822_256795
+*PAR:	and now the granny is saying goodbye to the hunter, the hunter's
+	dog, and little red riding hood. 256795_265828
+%pos: and.CCONJ now.ADV the.DET granny.NOUN is.AUX saying.VERB goodbye.NOUN to.ADP the.DET hunter.NOUN ,.PUNCT the.DET hunter.NOUN 's.PART dog.NOUN ,.PUNCT and.CCONJ little.ADJ red.ADJ riding.NOUN hood.NOUN
+*PAR:	<RES> [e]. 265828_265829
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-07-25 11:15:49.679137

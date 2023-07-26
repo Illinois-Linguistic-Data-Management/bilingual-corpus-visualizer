@@ -333,9 +333,10 @@ class Visualizer:
                 continue
             group_index = int(str(transcript.participant_id)[0])-1
             diversity = transcript.calc_mtld(transcript.utterances, target_lang, POS_filter)
-            data[group_index].append(diversity)
-            if data[group_index][-1] == 0:
+            if diversity == 0:
                 print(transcript.participant_id)
+                continue
+            data[group_index].append(diversity)
         return self.render_boxplot(data, outfile)
 
     def mattr_boxplot(self, outfile:str=None, target_lang:str=None, POS_filter:list=None, group_filter:list=None):
@@ -345,9 +346,10 @@ class Visualizer:
                 continue
             group_index = int(str(transcript.participant_id)[0])-1
             diversity = transcript.calc_mattr(transcript.utterances, target_lang, POS_filter)
-            data[group_index].append(diversity)
-            if data[group_index][-1] == 0:
+            if diversity == 0:
                 print(transcript.participant_id)
+                continue
+            data[group_index].append(diversity)
         return self.render_boxplot(data, outfile)
 
     def render_boxplot(self, data, outfile:str=None):
@@ -454,7 +456,7 @@ class Visualizer:
         return base64.b64encode(img_bytes.read()).decode()
 
     def render_barchart(self, X, Y, colors:list=None,outfile:str=None, width=50):
-        plt.figure(figsize=(width, len(X)/2))
+        plt.figure(figsize=(50, len(X)/2))
         X = X[::-1]
         Y = Y[::-1]
         colors = colors if colors == None else colors[::-1]

@@ -9,7 +9,7 @@
 	su abuela. 0_10531
 %pos: una.DET vez.NOUN ,.PUNCT un.DET la.DET ni√.X ±.SYM a.ADP que.PRON se.PRON llamaba.VERB caperucita.NOUN roja.ADJ se.PRON fue.VERB a.ADP visitar.VERB su.DET abuela.NOUN
 *PAR:	<RES> [e]. 10531_15018
-*PAR:	se fue a su casa y le llev√≥ mucha comida.  15018_31347
+*PAR:	se fue a su casa y le llev√≥ mucha comida. 15018_31347
 %pos: se.PRON fue.VERB a.ADP su.DET casa.NOUN y.CCONJ le.PRON llev√.VERB ≥.CCONJ mucha.ADJ comida.NOUN
 *PAR:	un lobo quer√≠a, un lobo quer√≠a comer xxx as√≠ que la xxx. 31347_53154
 %pos: un.DET lobo.NOUN quer√≠a.NOUN ,.PUNCT un.DET lobo.NOUN quer√≠a.NOUN comer.VERB xxx.X as√.ADV ≠.VERB que.SCONJ la.PRON xxx.X
@@ -55,4 +55,4 @@
 *PAR:	y todos vivieron feliz y caperucita roja regresa a su casa. 321132_328876
 %pos: y.CCONJ todos.PRON vivieron.VERB feliz.ADJ y.CCONJ caperucita.NOUN roja.ADJ regresa.VERB a.ADP su.DET casa.NOUN
 @End
-@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-07-19 14:19:08.972565
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-07-25 17:20:50.531303

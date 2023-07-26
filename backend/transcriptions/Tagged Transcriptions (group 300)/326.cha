@@ -1,36 +1,55 @@
 @UTF8
-@Window:	14_418_815_720_-1_-1_64_0_64_0
+@Window:	0_0_0_0_0_0_104_0_104_0
 @Begin
 @Languages:	eng
-@Participants: PAR 326 Speaker
-@ID: eng|narratives|PAR||male|||Speaker|||
-@Media: 326,audio
-*PAR: she goes to see her grandma. 0_3722	
-*PAR: <RES> [e]. 3722_19314		
-*PAR: &-mhm. 19314_20342	
-*PAR: <RES> [e]. 20342_22430	
-*PAR: she brought a basket of food for her.	22430_31400	
-*PAR: <RES> [e]. 31400_34103	
-*PAR: &uh, she went to go see her grandma. 34103_44344	
-*PAR: <RES> [e]. 44344_47217	
-*PAR: and she waved goodbye to her mom. 47217_51413	
-*PAR: &-um, the big bad wolf was chasing her. 51413_61212	
-*PAR: and the wolf beat her to the grandma's house. 61212_75855
-*PAR: the wolf ate her grandma. 75855_84746	
-*PAR: the wolf dressed up as her grandma and wanted to eat her. 84746_97935	
-*PAR: little red riding hood &-um looks at the wolf. 97935_113047	
-*PAR: the wolf jumps and tries to eat her. 113047_122755	
-*PAR: <RES> [e]. 122755_127841	
-*PAR: no	 127843_128906	
-*PAR: <RES> [e].128993_129660	
-*PAR: she was scared. 129660_134223	
-*PAR: the hunter came to get the wolf...&-um. 134223_153455	
-*PAR: he got, he saved the grandma and little red riding hood. 153484_169192	
-*PAR: &-um...they...&-uh 169192_182718	
-*PAR: I don't know how to describe it. 182718_186143	
-*PAR: <RES> [e]. 186143_188941	
-*PAR: frogs, I think	 188941_191750	
-*PAR: <RES> [e] 191750_207749	
-*PAR: &-eh...the grandma waved goodbye and the hunter and little red riding hood plus the dog left 207749_235450
-@End*
-@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-29 12:16:05.426599
+@Participants:	PAR 326 Speaker
+@ID:	eng|narratives|PAR||male|||Speaker|||
+@Media:	326,audio
+*PAR:	she goes to see her grandma. 0_3722
+%pos: she.PRON goes.VERB to.PART see.VERB her.PRON grandma.NOUN
+*PAR:	<RES> [e]. 3722_19314
+*PAR:	&-mhm. 19314_20342
+*PAR:	<RES> [e]. 20342_22430
+*PAR:	she brought a basket of food for her. 22430_31400
+%pos: she.PRON brought.VERB a.DET basket.NOUN of.ADP food.NOUN for.ADP her.PRON
+*PAR:	<RES> [e]. 31400_34103
+*PAR:	&uh, she went to go see her grandma. 34103_44344
+%pos: &.CCONJ uh.INTJ ,.PUNCT she.PRON went.VERB to.PART go.VERB see.VERB her.PRON grandma.NOUN
+*PAR:	<RES> [e]. 44344_47217
+*PAR:	and she waved goodbye to her mom. 47217_51413
+%pos: and.CCONJ she.PRON waved.VERB goodbye.NOUN to.ADP her.PRON mom.NOUN
+*PAR:	&-um, the big bad wolf was chasing her. 51413_61212
+%pos: ,.PUNCT the.DET big.ADJ bad.ADJ wolf.NOUN was.AUX chasing.VERB her.PRON
+*PAR:	and the wolf beat her to the grandma's house. 61212_75855
+%pos: and.CCONJ the.DET wolf.NOUN beat.VERB her.PRON to.ADP the.DET grandma.NOUN 's.PART house.NOUN
+*PAR:	the wolf ate her grandma. 75855_84746
+%pos: the.DET wolf.NOUN ate.VERB her.PRON grandma.NOUN
+*PAR:	the wolf dressed up as her grandma and wanted to eat her. 84746_97935
+%pos: the.DET wolf.NOUN dressed.VERB up.ADP as.ADP her.PRON grandma.NOUN and.CCONJ wanted.VERB to.PART eat.VERB her.PRON
+*PAR:	little red riding hood &-um looks at the wolf. 97935_113047
+%pos: little.ADJ red.ADJ riding.NOUN hood.NOUN looks.VERB at.ADP the.DET wolf.NOUN
+*PAR:	the wolf jumps and tries to eat her. 113047_122755
+%pos: the.DET wolf.NOUN jumps.VERB and.CCONJ tries.VERB to.PART eat.VERB her.PRON
+*PAR:	<RES> [e]. 122755_127841
+*PAR:	no. 127843_128906
+%pos: no.INTJ
+*PAR:	<RES> [e]. 128993_129660
+*PAR:	she was scared. 129660_134223
+%pos: she.PRON was.AUX scared.ADJ
+*PAR:	the hunter came to get the wolf (...) &-um. 134223_153455
+%pos: the.DET hunter.NOUN came.VERB to.ADP get.VERB the.DET wolf.NOUN
+*PAR:	he got, he saved the grandma and little red riding hood. 153484_169192
+%pos: he.PRON got.VERB ,.PUNCT he.PRON saved.VERB the.DET grandma.NOUN and.CCONJ little.ADJ red.ADJ riding.NOUN hood.NOUN
+*PAR:	&-um (...) they (...) &-uh. 169192_182718
+%pos: they.PRON
+*PAR:	I don't know how to describe it. 182718_186143
+%pos: I.PRON do.AUX n't.PART know.VERB how.ADV to.PART describe.VERB it.PRON
+*PAR:	<RES> [e]. 186143_188941
+*PAR:	frogs, I think.  188941_191750
+%pos: frogs.NOUN ,.PUNCT I.PRON think.VERB
+*PAR:	<RES> [e]. 191750_207749
+*PAR:	&-eh (...) the grandma waved goodbye and the hunter and little red
+	riding hood plus the dog left. 207749_235450
+%pos: the.DET grandma.NOUN waved.VERB goodbye.NOUN and.CCONJ the.DET hunter.NOUN and.CCONJ little.ADJ red.ADJ riding.NOUN hood.NOUN plus.CCONJ the.DET dog.NOUN left.VERB
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-07-25 11:14:16.775273
