@@ -1,0 +1,5 @@
+The `reproduce_paper.py` script can be used to reproduce each of the figures and statistical analyses from Benjamin Evanoff's Bachelor's thesis. To run the script, you will first have to download the Montrul corpus separately. Assuming it was placed in `/Users/me/Documents/montrul_corpus`, you can run the script by with `python reproduce_paper.py /Users/me/Documents/montrul_corpus`. The plots will then be written to the `imgs` folder in this directory. Be sure that your current working directory is this very folder when running this script.
+
+`clitics.csv` contains a list of lo/los/la/las instances from the corpus with the particioant ID of the speaker. They were extracted using Trankit's MWT tokenizer.
+
+The dependencies for the script can be installed by running `python -m pip install -r requirements.txt`

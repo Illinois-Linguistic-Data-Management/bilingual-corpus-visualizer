@@ -5,6 +5,8 @@ from wordcloud import WordCloud
 from lexical_diversity import lex_div as ld
 import matplotlib
 import matplotlib.pyplot as plt
+import numpy as np
+from scipy.stats import f_oneway, ttest_ind
 
 matplotlib.use('Agg')
 
@@ -282,9 +284,9 @@ class Visualizer:
         fig, ax = plt.subplots()
         ax.pie([percentages['english'], percentages['spanish']], labels=["English", "Spanish"],autopct='%1.1f%%')
         if language:
-            plt.savefig(f'{output_dir}\\{group}_group_{language}.png')
+            plt.savefig(f'{output_dir}/{group}_group_{language}.png')
         else:
-            plt.savefig(f'{output_dir}\\{group}_group.png')
+            plt.savefig(f'{output_dir}/{group}_group.png')
 
     def language_pie_transcript(self, output_dir:str, transcript: Transcript):
         """
@@ -299,7 +301,7 @@ class Visualizer:
         percentages = self._calc_language_percentage(tokens)
         fig, ax = plt.subplots()
         ax.pie([percentages['english'], percentages['spanish']], labels=["English", "Spanish"],autopct='%1.1f%%')
-        plt.savefig(f'{output_dir}\\{transcript.participant_id}_{transcript.main_lang}')
+        plt.savefig(f'{output_dir}/{transcript.participant_id}_{transcript.main_lang}')
 
     def _calc_language_percentage(self, tokens):
             english_tokens = 0
@@ -475,6 +477,12 @@ class Visualizer:
         gc.collect()
         return chart
 
+    def render_barchart_vertical(self, X, Y, color, outfile):
+        plt.figure(figsize=(10, 10))
+        plt.bar(X, Y, color=color)
+        plt.savefig(outfile)
+        plt.close()
+
     def gen_word_cloud(self, group_filter:list=None, target_lang_filter:str=None, POS_filter:list=None, max_words:int=None):
         freqs = {}
         for transcript in self.corpus.transcripts:
@@ -498,3 +506,118 @@ class Visualizer:
         plt.imshow(wc, interpolation="bilinear")
         plt.axis("off")
         return self.get_fig_encoding()
+
+    def gen_word_boxplots(self, words: list, pos_filter: str, target_lang:str, outfile=None):
+        '''
+        Generate boxplots for the distribution of word frequencies per transcript, grouped by codes 100,200,etc
+        '''
+        data = [[] for x in range(5)] if target_lang else [[] for x in range(7)] # 2 (monolingual) groups fewer if filtering lang
+        if not target_lang:
+            map_group_to_data_idx = {100: 1, 200: 2, 300: 3, 400: 4, 500: 5, 600: 6, 700: 7}
+            map_data_idx_to_group = {0: 100, 1: 200, 2: 300, 3: 400, 4: 500, 5: 600, 6: 700}
+        elif target_lang == "eng":
+             map_group_to_data_idx = {100: 1, 200: 2, 300: 3, 400: 4, 500: 5}
+             map_data_idx_to_group = {0: 100, 1: 200, 2: 300, 3: 400, 4: 500}
+        elif target_lang == "spa":
+            map_group_to_data_idx = {100: 1, 200: 2, 500: 3, 600: 4, 700: 5}
+            map_data_idx_to_group = {0: 100, 1: 200, 2: 500, 3: 600, 4: 700}
+        for transcript in self.corpus.transcripts:
+            if len(transcript.utterances) < 2:
+                continue
+            if target_lang and target_lang != transcript.main_lang:
+                continue
+            group_idx = map_group_to_data_idx[int(str(transcript.participant_id)[0] + '00')]-1
+            counter = 0
+            for utterance in transcript.utterances:
+                for token in utterance['tokens']:
+                    word = token.split(".")[0]
+                    pos = token.split(".")[1]
+                    if (word in words) and (pos_filter == None or pos == pos_filter):
+                        counter += 1
+            data[group_idx].append(counter)
+        result_dict = {
+            "data": data,
+            "means": [np.mean(x) for x in data],
+            "standard_deviations": [np.std(x) for x in data],
+            "ANOVA": f_oneway(*data),
+            "significant_t-tests": []
+        }
+        if result_dict["ANOVA"].pvalue < 0.05:
+            pairs_found = []
+            for i, data_i, in enumerate(data):
+                for j, data_j in enumerate(data):
+                    if ttest_ind(data_i, data_j).pvalue < 0.05:
+                        group_i = map_data_idx_to_group[i]
+                        group_j = map_data_idx_to_group[j]
+                        if (group_i, group_j) not in pairs_found:
+                            pairs_found.append((group_i, group_j))
+                            pairs_found.append((group_j, group_i))
+                            result_dict['significant_t-tests'].append((group_i, group_j, ttest_ind(data_i, data_j)))
+        self.render_boxplot(data, outfile)
+        return result_dict
+
+    def gen_clitic_boxplots(self, with_non_clitic_pronoun=False, outfile=None):
+        data_map = {}
+        for transcript in self.corpus.transcripts:
+            if transcript.main_lang == "spa":
+                data_map[transcript.participant_id] = 0
+        with open ('clitics.csv', 'r') as csv:
+            for line in csv:
+                participant_id = line.split(",")[0]
+                if participant_id in data_map:
+                    data_map[participant_id] += 1
+                else:
+                    data_map[participant_id] = 1
+            
+        if with_non_clitic_pronoun:
+            for transcript in self.corpus.transcripts:
+                if transcript.main_lang != "spa":
+                    continue
+                participant_id = transcript.participant_id
+                counter = 0
+                for utterance in transcript.utterances:
+                    for token in utterance['tokens']:
+                        word = token.split(".")[0]
+                        pos = token.split(".")[1]
+                        if (word in ['lo', 'la', 'las', 'los']) and (pos == "PRON"):
+                            counter += 1
+                if participant_id in data_map:
+                    data_map[participant_id] += counter
+                else:
+                    data_map[participant_id] = counter
+        data = [[] for x in range(5)]
+        for participant_id in data_map:
+            group_idx = int(str(participant_id)[0])-1
+            if group_idx > 1:
+                group_idx -= 2
+            data[group_idx].append(data_map[participant_id])
+        result_dict = {
+            "data": data,
+            "means": [np.mean(x) for x in data],
+            "standard_deviations": [np.std(x) for x in data],
+            "ANOVA": f_oneway(*data),
+            "significant_t-tests": []
+        }
+        self.render_boxplot(data[0:2] + [[], []] + data[2:], outfile=outfile)
+        return result_dict
+
+    def gen_dispersion(self, target_word:str, group: str, target_lang:str, pos_filter:str, color, outfile=None):
+        data = {}
+        for x in range(101):
+            data[x] = 0
+        for transcript in self.corpus.transcripts:
+            if str(transcript.participant_id)[0] != group[0]:
+                continue
+            if target_lang != transcript.main_lang:
+                continue
+            for utterance in transcript.utterances:
+                mid_time = (int(utterance['time_start']) + int(utterance['time_end'])) / 2
+                time_percent = int(round(float(mid_time) / float(transcript.duration),2) * 100)
+                for token in utterance['tokens']:
+                    word = token.split(".")[0]
+                    pos = token.split(".")[1]
+                    if pos_filter and pos != pos_filter:
+                        continue
+                    if word in target_word:
+                        data[time_percent] += 1
+        self.render_barchart_vertical(data.keys(), data.values(), [color for x in range(len(data.keys()))], outfile)
