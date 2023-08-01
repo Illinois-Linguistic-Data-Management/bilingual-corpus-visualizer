@@ -513,20 +513,20 @@ class Visualizer:
         '''
         data = [[] for x in range(5)] if target_lang else [[] for x in range(7)] # 2 (monolingual) groups fewer if filtering lang
         if not target_lang:
-            map_group_to_data_idx = {100: 1, 200: 2, 300: 3, 400: 4, 500: 5, 600: 6, 700: 7}
+            map_group_to_data_idx = {100: 0, 200: 1, 300: 2, 400: 3, 500: 4, 600: 5, 700: 6}
             map_data_idx_to_group = {0: 100, 1: 200, 2: 300, 3: 400, 4: 500, 5: 600, 6: 700}
         elif target_lang == "eng":
-             map_group_to_data_idx = {100: 1, 200: 2, 300: 3, 400: 4, 500: 5}
+             map_group_to_data_idx = {100: 0, 200: 1, 300: 2, 400: 3, 500: 4}
              map_data_idx_to_group = {0: 100, 1: 200, 2: 300, 3: 400, 4: 500}
         elif target_lang == "spa":
-            map_group_to_data_idx = {100: 1, 200: 2, 500: 3, 600: 4, 700: 5}
+            map_group_to_data_idx = {100: 0, 200: 1, 500: 2, 600: 3, 700: 4}
             map_data_idx_to_group = {0: 100, 1: 200, 2: 500, 3: 600, 4: 700}
         for transcript in self.corpus.transcripts:
             if len(transcript.utterances) < 2:
                 continue
             if target_lang and target_lang != transcript.main_lang:
                 continue
-            group_idx = map_group_to_data_idx[int(str(transcript.participant_id)[0] + '00')]-1
+            group_idx = map_group_to_data_idx[int(str(transcript.participant_id)[0] + '00')]
             counter = 0
             for utterance in transcript.utterances:
                 for token in utterance['tokens']:
@@ -542,6 +542,7 @@ class Visualizer:
             "ANOVA": f_oneway(*data),
             "significant_t-tests": []
         }
+        #print("ANOVA degrees freedom within groups", sum([len(x) for x in data]) - len(data))
         if result_dict["ANOVA"].pvalue < 0.05:
             pairs_found = []
             for i, data_i, in enumerate(data):
@@ -553,6 +554,14 @@ class Visualizer:
                             pairs_found.append((group_i, group_j))
                             pairs_found.append((group_j, group_i))
                             result_dict['significant_t-tests'].append((group_i, group_j, ttest_ind(data_i, data_j)))
+        if len(data) < 7:
+            formatted_data = [[] for x in range(7)]
+            for i, g in enumerate([100, 200, 300, 400, 500, 600, 700]):
+                if g in map_group_to_data_idx:
+                    formatted_data[i] = data[map_group_to_data_idx[g]]
+                else:
+                    formatted_data[i] = []
+            data = formatted_data
         self.render_boxplot(data, outfile)
         return result_dict
 
@@ -579,7 +588,7 @@ class Visualizer:
                     for token in utterance['tokens']:
                         word = token.split(".")[0]
                         pos = token.split(".")[1]
-                        if (word in ['lo', 'la', 'las', 'los']) and (pos == "PRON"):
+                        if (word in ['lo', 'los', 'la', 'las', 'le', 'les']) and (pos == "PRON"):
                             counter += 1
                 if participant_id in data_map:
                     data_map[participant_id] += counter
@@ -594,11 +603,27 @@ class Visualizer:
         result_dict = {
             "data": data,
             "means": [np.mean(x) for x in data],
+            "medians": [np.median(x) for x in data],
+            "ranges": [(min(x), max(x)) for x in data],
             "standard_deviations": [np.std(x) for x in data],
             "ANOVA": f_oneway(*data),
-            "significant_t-tests": []
+            "significant_t-tests": [],
+            "IQRs": [np.quantile(x, [0.25, 0.75]) for x in data]
         }
         self.render_boxplot(data[0:2] + [[], []] + data[2:], outfile=outfile)
+        if result_dict["ANOVA"].pvalue < 0.05:
+            map_data_idx_to_group = {0: 100, 1: 200, 2: 500, 3: 600, 4: 700}
+            pairs_found = []
+            for i, data_i, in enumerate(data):
+                for j, data_j in enumerate(data):
+                    if ttest_ind(data_i, data_j).pvalue < 0.05:
+                        group_i = map_data_idx_to_group[i]
+                        group_j = map_data_idx_to_group[j]
+                        if (group_i, group_j) not in pairs_found:
+                            pairs_found.append((group_i, group_j))
+                            pairs_found.append((group_j, group_i))
+                            result_dict['significant_t-tests'].append((group_i, group_j, ttest_ind(data_i, data_j)))
+        #print("ANOVA degrees freedom within groups", sum([len(x) for x in data]) - len(data))
         return result_dict
 
     def gen_dispersion(self, target_word:str, group: str, target_lang:str, pos_filter:str, color, outfile=None):
