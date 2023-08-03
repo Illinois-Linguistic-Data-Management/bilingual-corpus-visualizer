@@ -24,7 +24,7 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-tagger = None #SequenceTagger.load('benevanoff/spanglish-upos')
+tagger = SequenceTagger.load('benevanoff/spanglish-upos')
 corpus = Corpus('transcriptions')
 visualizer = Visualizer(corpus)
 
@@ -57,7 +57,7 @@ def tag_sentence(sentence: list):
     return [{"token_text":tok.text, "token_tag": tok.tag} for tok in flair_sentence]
 
 @app.post("/words")
-async def tag_words(request: Request, words_request: WordsRequest):
+def tag_words(request: Request, words_request: WordsRequest):
     words = words_request.words
     return tag_sentence(words_request.words.split(" "))
 

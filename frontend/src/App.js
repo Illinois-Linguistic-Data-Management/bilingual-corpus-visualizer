@@ -1,12 +1,16 @@
 import React from 'react';
-//import Tagger from './Tagger.js';
+import { BrowserRouter, Route, Routes } from 'react-router-dom';
+import Tagger from './Tagger.js';
 import Visualizer from './Visualizer.js'
 
 function App() {
   return (
-    <div>
-      <Visualizer></Visualizer>
-    </div>
+      <BrowserRouter>
+        <Routes>
+          <Route path="/" element={<Visualizer />} />
+          <Route path="/spanglish-tagger" element={<Tagger />} />
+        </Routes>
+      </BrowserRouter>
   );
 }
 
